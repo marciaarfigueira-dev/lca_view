@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ML Sets Report - Bioregional</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Outfit:wght@300;400;500;600;700&display=swap"
+    rel="stylesheet" />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+
+<body class="bioregional">
+  <div class="page">
+    <header class="site-header" data-reveal>
+      <div>
+        <a class="back-link" href="./index.html">Back to overview</a>
+        <p class="eyebrow">Bioregional analysis</p>
+        <h1>Bioregional results.</h1>
+        <p class="lede">
+          This view consolidates the big picture. It will anchor the pivot tables, LCA summaries, and a clean set of
+          impact factors used across the calculations.
+        </p>
+      </div>
+      <div class="status-pill">Bioregional track</div>
+    </header>
+
+    <section class="section" data-reveal>
+      <div class="section-header">
+        <div>
+          <h2>Pivot tables</h2>
+          <p>Filter inputs by season, operation, and cluster to spot patterns before modeling impacts.</p>
+        </div>
+      </div>
+      <div class="card-grid">
+        <div class="card">
+          <span class="mini">Inputs</span>
+          <h3>Crop protection</h3>
+          <p>Summaries of herbicide, fungicide, and insecticide doses per cluster.</p>
+          <a class="card-link" href="./crop-protection.html">Open pivot</a>
+        </div>
+        <div class="card">
+          <span class="mini">Inputs</span>
+          <h3>Sowing</h3>
+          <p>Seed rates, varieties, and season groupings for bioregional comparisons.</p>
+          <a class="card-link" href="./sowing.html">Open pivot</a>
+        </div>
+        <div class="card">
+          <span class="mini">Inputs</span>
+          <h3>Fertilisation</h3>
+          <p>Nutrient totals, blends, and unit rates across the region.</p>
+          <a class="card-link" href="./fertilisation.html">Open pivot</a>
+        </div>
+        <div class="card">
+          <span class="mini">Operations</span>
+          <h3>Machinery</h3>
+          <p>Equipment intensity, repetitions, and worked area totals.</p>
+          <a class="card-link" href="./machines.html">Open pivot</a>
+        </div>
+        <div class="card">
+          <span class="mini">Resources</span>
+          <h3>Water</h3>
+          <p>Water use snapshots with seasonal and cluster rollups.</p>
+          <a class="card-link" href="./water.html">Open pivot</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" data-reveal>
+      <div class="section-header">
+        <div>
+          <h2>Cluster results</h2>
+          <p>See how farmers group into management clusters and where they sit in PCA space.</p>
+        </div>
+      </div>
+      <div class="card-grid">
+        <div class="card emphasis">
+          <span class="mini">Clusters</span>
+          <h3>PCA + HCPC overview</h3>
+          <p>Explore cluster assignments, PCA scatter, and driver averages.</p>
+          <a class="card-link" href="./cluster.html">Open clusters</a>
+        </div>
+        <div class="card">
+          <span class="mini">Impacts</span>
+          <h3>Cluster impacts</h3>
+          <p>Characterisation impacts by category and source, per cluster.</p>
+          <a class="card-link" href="./cluster-impacts.html">Open impacts</a>
+        </div>
+        <div class="card">
+          <span class="mini">Burden</span>
+          <h3>Relative burdens</h3>
+          <p>Percent difference versus cluster 2 by impact category.</p>
+          <a class="card-link" href="./cluster-relative-burden.html">Open relative</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" data-reveal>
+      <div class="section-header">
+        <div>
+          <h2>LCA and impacts</h2>
+          <p>Aggregated life cycle metrics for the region, with clear breakouts by input type.</p>
+        </div>
+      </div>
+      <div class="card-grid">
+        <div class="card emphasis">
+          <span class="mini">Inputs</span>
+          <h3>Crop protection</h3>
+          <p>Single score or characterisation impacts from herbicide, fungicide, and insecticide doses.</p>
+          <a class="card-link" href="./lca.html">Open LCA</a>
+        </div>
+        <div class="card">
+          <span class="mini">Inputs</span>
+          <h3>Sowing</h3>
+          <p>Seed rate impacts per hectare or per tonne, with category totals.</p>
+          <a class="card-link" href="./lca-sowing.html">Open LCA</a>
+        </div>
+        <div class="card">
+          <span class="mini">Inputs</span>
+          <h3>Fertilisation</h3>
+          <p>N, P, and K factors applied to fertiliser rates with impact breakdowns.</p>
+          <a class="card-link" href="./lca-fertilisation.html">Open LCA</a>
+        </div>
+        <div class="card">
+          <span class="mini">Operations</span>
+          <h3>Machinery</h3>
+          <p>Equipment intensity impacts across operations, per hectare or per tonne.</p>
+          <a class="card-link" href="./lca-machines.html">Open LCA</a>
+        </div>
+        <div class="card">
+          <span class="mini">Resources</span>
+          <h3>Water</h3>
+          <p>Water use impacts with single score and characterisation options.</p>
+          <a class="card-link" href="./lca-water.html">Open LCA</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" data-reveal>
+      <div class="section-header">
+        <div>
+          <h2>Raw impact factors per unit</h2>
+          <p>Reference library for the factors behind each input and unit used in the calculations.</p>
+        </div>
+      </div>
+      <div class="card-grid">
+        <div class="card">
+          <span class="mini">Factors</span>
+          <h3>Impact factors</h3>
+          <p>Switch between single score and characterisation factors inside the same view.</p>
+          <a class="card-link" href="./impact-factors.html">View factors</a>
+        </div>
+        <div class="card">
+          <span class="mini">Library</span>
+          <h3>Unit dictionary</h3>
+          <p>Canonical names, units, and input mappings for consistent reporting.</p>
+          <a class="card-link" href="./impact-factors.html#units">View units</a>
+        </div>
+      </div>
+      <p class="footer-note">Sections are placeholders while we wire the correct datasets.</p>
+    </section>
+  </div>
+  <script src="./app.js"></script>
+</body>
+
+</html>

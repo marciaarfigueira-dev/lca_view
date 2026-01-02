@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ML Sets Report | Farmer view mode</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Outfit:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body class="landing">
+    <div class="page">
+      <header class="site-header" data-reveal>
+        <div>
+          <a class="back-link" href="./farmer.html">Back</a>
+          <p class="eyebrow">Farmer view</p>
+          <h1>Choose your view mode.</h1>
+          <p class="lede">
+            Select how you want to evaluate performance before opening the farmer dashboard.
+          </p>
+        </div>
+        <div class="status-pill">View mode</div>
+      </header>
+
+      <section class="section" data-reveal>
+        <div class="section-header">
+          <div>
+          <h2>Optimization lens</h2>
+          <p>Pick whether to focus on internal optimization, best-cluster benchmarking, or relative burdens.</p>
+          </div>
+        </div>
+        <div class="card-grid">
+          <div class="card">
+            <span class="mini">Internal</span>
+            <h3>Optimization view</h3>
+            <p>Track your own inputs against your historical averages and spot improvement areas.</p>
+            <a class="card-link" id="enter-internal" href="./farmer-dashboard.html">Enter internal view</a>
+          </div>
+          <div class="card emphasis">
+            <span class="mini">Compare</span>
+            <h3>Best cluster benchmark</h3>
+            <p>Benchmark your inputs against the best-performing cluster for each season.</p>
+            <a class="card-link" id="enter-bioregional" href="./farmer-dashboard.html">Enter benchmark view</a>
+          </div>
+          <div class="card">
+            <span class="mini">Relative</span>
+            <h3>Relative burdens</h3>
+            <p>Compare your cluster burdens against another cluster and drill into categories.</p>
+            <a class="card-link" id="enter-relative" href="./farmer-relative-burden.html">Open relative burdens</a>
+          </div>
+        </div>
+      </section>
+    </div>
+    <script type="module" src="./farmer-view.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,169 @@
+impact_category,unit,basis,cluster,total_mean,n_total
+Acidification,mol H+ eq,ha,1,17.2411696274183,242.0
+Acidification,mol H+ eq,ha,2,20.165498179594845,142.0
+Acidification,mol H+ eq,ha,3,25.28872709794275,575.0
+Acidification,mol H+ eq,tonne,1,5.613090851345746,242.0
+Acidification,mol H+ eq,tonne,2,4.623293641478818,142.0
+Acidification,mol H+ eq,tonne,3,4.608218861724061,575.0
+Climate change,kg CO2 eq,ha,1,38125.83788572904,326.0
+Climate change,kg CO2 eq,ha,2,56439.102075349576,225.0
+Climate change,kg CO2 eq,ha,3,57058.55375082039,790.0
+Climate change,kg CO2 eq,tonne,1,13468.317223708344,326.0
+Climate change,kg CO2 eq,tonne,2,11725.163994057575,225.0
+Climate change,kg CO2 eq,tonne,3,10001.732383107717,790.0
+Climate change - Biogenic,kg CO2 eq,ha,1,1020.2947870260331,242.0
+Climate change - Biogenic,kg CO2 eq,ha,2,1393.0910174440883,142.0
+Climate change - Biogenic,kg CO2 eq,ha,3,1522.3017991279823,575.0
+Climate change - Biogenic,kg CO2 eq,tonne,1,391.6975346848361,242.0
+Climate change - Biogenic,kg CO2 eq,tonne,2,287.2925180277154,142.0
+Climate change - Biogenic,kg CO2 eq,tonne,3,292.2111706237568,575.0
+Climate change - Fossil,kg CO2 eq,ha,1,1684.4100408889185,242.0
+Climate change - Fossil,kg CO2 eq,ha,2,2017.515743500984,142.0
+Climate change - Fossil,kg CO2 eq,ha,3,2412.616007979614,575.0
+Climate change - Fossil,kg CO2 eq,tonne,1,546.0956584532012,242.0
+Climate change - Fossil,kg CO2 eq,tonne,2,447.47972887702514,142.0
+Climate change - Fossil,kg CO2 eq,tonne,3,435.0807338782802,575.0
+Climate change - Land use and LU change,kg CO2 eq,ha,1,1.8375477470025599,242.0
+Climate change - Land use and LU change,kg CO2 eq,ha,2,2.7513467248183785,142.0
+Climate change - Land use and LU change,kg CO2 eq,ha,3,2.580763910356568,575.0
+Climate change - Land use and LU change,kg CO2 eq,tonne,1,0.6727888093224708,242.0
+Climate change - Land use and LU change,kg CO2 eq,tonne,2,0.5906294421161506,142.0
+Climate change - Land use and LU change,kg CO2 eq,tonne,3,0.46701035351732006,575.0
+"Ecotoxicity, freshwater",CTUe,ha,1,1064708.6081426954,242.0
+"Ecotoxicity, freshwater",CTUe,ha,2,512323.27346789977,142.0
+"Ecotoxicity, freshwater",CTUe,ha,3,1716691.121714041,575.0
+"Ecotoxicity, freshwater",CTUe,tonne,1,410659.48931609484,242.0
+"Ecotoxicity, freshwater",CTUe,tonne,2,97622.35122135747,142.0
+"Ecotoxicity, freshwater",CTUe,tonne,3,280001.57006350224,575.0
+"Ecotoxicity, freshwater - inorganics",CTUe,ha,1,17675.55773555819,242.0
+"Ecotoxicity, freshwater - inorganics",CTUe,ha,2,34663.58992058394,142.0
+"Ecotoxicity, freshwater - inorganics",CTUe,ha,3,14226.63825035936,575.0
+"Ecotoxicity, freshwater - inorganics",CTUe,tonne,1,7337.987054378068,242.0
+"Ecotoxicity, freshwater - inorganics",CTUe,tonne,2,7783.266621693685,142.0
+"Ecotoxicity, freshwater - inorganics",CTUe,tonne,3,2508.6251677470714,575.0
+"Ecotoxicity, freshwater - metals",CTUe,ha,1,75512.17491817215,242.0
+"Ecotoxicity, freshwater - metals",CTUe,ha,2,144882.34821060306,142.0
+"Ecotoxicity, freshwater - metals",CTUe,ha,3,63149.580980271785,575.0
+"Ecotoxicity, freshwater - metals",CTUe,tonne,1,31590.877458440238,242.0
+"Ecotoxicity, freshwater - metals",CTUe,tonne,2,32318.923610418737,142.0
+"Ecotoxicity, freshwater - metals",CTUe,tonne,3,11346.505154175089,575.0
+"Ecotoxicity, freshwater - organics",CTUe,ha,1,971520.9288798526,242.0
+"Ecotoxicity, freshwater - organics",CTUe,ha,2,332777.37399883964,142.0
+"Ecotoxicity, freshwater - organics",CTUe,ha,3,1639314.9736005967,575.0
+"Ecotoxicity, freshwater - organics",CTUe,tonne,1,371730.6372022302,242.0
+"Ecotoxicity, freshwater - organics",CTUe,tonne,2,57520.16839107488,142.0
+"Ecotoxicity, freshwater - organics",CTUe,tonne,3,266146.45102392486,575.0
+"Eutrophication, freshwater",kg P eq,ha,1,0.35774019151182646,242.0
+"Eutrophication, freshwater",kg P eq,ha,2,0.47615951857720834,142.0
+"Eutrophication, freshwater",kg P eq,ha,3,0.5105658212742377,575.0
+"Eutrophication, freshwater",kg P eq,tonne,1,0.12717244345055206,242.0
+"Eutrophication, freshwater",kg P eq,tonne,2,0.10102563765543571,142.0
+"Eutrophication, freshwater",kg P eq,tonne,3,0.09391726857291796,575.0
+"Eutrophication, marine",kg N eq,ha,1,5.147051960118327,242.0
+"Eutrophication, marine",kg N eq,ha,2,5.895239313503264,142.0
+"Eutrophication, marine",kg N eq,ha,3,7.554763061782488,575.0
+"Eutrophication, marine",kg N eq,tonne,1,1.5147793374478669,242.0
+"Eutrophication, marine",kg N eq,tonne,2,1.223574935783889,142.0
+"Eutrophication, marine",kg N eq,tonne,3,1.3566303120065557,575.0
+"Eutrophication, terrestrial",mol N eq,ha,1,70.85033187368276,242.0
+"Eutrophication, terrestrial",mol N eq,ha,2,80.04999187641359,142.0
+"Eutrophication, terrestrial",mol N eq,ha,3,104.42438379614464,575.0
+"Eutrophication, terrestrial",mol N eq,tonne,1,22.501534044952518,242.0
+"Eutrophication, terrestrial",mol N eq,tonne,2,18.345268715915044,142.0
+"Eutrophication, terrestrial",mol N eq,tonne,3,19.040369308057,575.0
+"Human toxicity, cancer",CTUh,ha,1,1.282078717647065e-06,242.0
+"Human toxicity, cancer",CTUh,ha,2,1.5948810148298768e-06,142.0
+"Human toxicity, cancer",CTUh,ha,3,1.8116880570895173e-06,575.0
+"Human toxicity, cancer",CTUh,tonne,1,4.027870762143731e-07,242.0
+"Human toxicity, cancer",CTUh,tonne,2,3.3379105252029907e-07,142.0
+"Human toxicity, cancer",CTUh,tonne,3,3.186497049069237e-07,575.0
+"Human toxicity, cancer - inorganics",CTUh,ha,1,1.6999046584051292e-15,242.0
+"Human toxicity, cancer - inorganics",CTUh,ha,2,2.2088609934370484e-15,142.0
+"Human toxicity, cancer - inorganics",CTUh,ha,3,2.3260506071127587e-15,575.0
+"Human toxicity, cancer - inorganics",CTUh,tonne,1,5.215517280246664e-16,242.0
+"Human toxicity, cancer - inorganics",CTUh,tonne,2,4.613576006326119e-16,142.0
+"Human toxicity, cancer - inorganics",CTUh,tonne,3,4.0225765522937036e-16,575.0
+"Human toxicity, cancer - metals",CTUh,ha,1,9.068649418897074e-07,242.0
+"Human toxicity, cancer - metals",CTUh,ha,2,1.1534281211487747e-06,142.0
+"Human toxicity, cancer - metals",CTUh,ha,3,1.2842434223649502e-06,575.0
+"Human toxicity, cancer - metals",CTUh,tonne,1,2.888716154265096e-07,242.0
+"Human toxicity, cancer - metals",CTUh,tonne,2,2.420632428358843e-07,142.0
+"Human toxicity, cancer - metals",CTUh,tonne,3,2.263634221745971e-07,575.0
+"Human toxicity, cancer - organics",CTUh,ha,1,3.757733497747859e-07,242.0
+"Human toxicity, cancer - organics",CTUh,ha,2,4.4186211887759625e-07,142.0
+"Human toxicity, cancer - organics",CTUh,ha,3,5.28095625382747e-07,575.0
+"Human toxicity, cancer - organics",CTUh,tonne,1,1.1408958926170372e-07,242.0
+"Human toxicity, cancer - organics",CTUh,tonne,2,9.178434714069234e-08,142.0
+"Human toxicity, cancer - organics",CTUh,tonne,3,9.242524490036292e-08,575.0
+"Human toxicity, non-cancer",CTUh,ha,1,0.0001185384157239968,242.0
+"Human toxicity, non-cancer",CTUh,ha,2,8.065588667530327e-05,142.0
+"Human toxicity, non-cancer",CTUh,ha,3,0.00018712553672630824,575.0
+"Human toxicity, non-cancer",CTUh,tonne,1,4.306345314528259e-05,242.0
+"Human toxicity, non-cancer",CTUh,tonne,2,1.5960783734969697e-05,142.0
+"Human toxicity, non-cancer",CTUh,tonne,3,3.144483371534432e-05,575.0
+"Human toxicity, non-cancer - inorganics",CTUh,ha,1,9.47799763009016e-06,242.0
+"Human toxicity, non-cancer - inorganics",CTUh,ha,2,1.2941581189380515e-05,142.0
+"Human toxicity, non-cancer - inorganics",CTUh,ha,3,1.1831670468280391e-05,575.0
+"Human toxicity, non-cancer - inorganics",CTUh,tonne,1,3.011974349881044e-06,242.0
+"Human toxicity, non-cancer - inorganics",CTUh,tonne,2,2.745347764773065e-06,142.0
+"Human toxicity, non-cancer - inorganics",CTUh,tonne,3,2.0546629846941935e-06,575.0
+"Human toxicity, non-cancer - metals",CTUh,ha,1,3.272269175760829e-05,242.0
+"Human toxicity, non-cancer - metals",CTUh,ha,2,3.971020999446543e-05,142.0
+"Human toxicity, non-cancer - metals",CTUh,ha,3,4.704497048507779e-05,575.0
+"Human toxicity, non-cancer - metals",CTUh,tonne,1,1.1023778930951138e-05,242.0
+"Human toxicity, non-cancer - metals",CTUh,tonne,2,8.280433429385028e-06,142.0
+"Human toxicity, non-cancer - metals",CTUh,tonne,3,8.56992678369926e-06,575.0
+"Human toxicity, non-cancer - organics",CTUh,ha,1,7.648023656613766e-05,242.0
+"Human toxicity, non-cancer - organics",CTUh,ha,2,2.818286154303596e-05,142.0
+"Human toxicity, non-cancer - organics",CTUh,ha,3,0.0001284527353952182,575.0
+"Human toxicity, non-cancer - organics",CTUh,tonne,1,2.9076881693912864e-05,242.0
+"Human toxicity, non-cancer - organics",CTUh,tonne,2,4.975147213164339e-06,142.0
+"Human toxicity, non-cancer - organics",CTUh,tonne,3,2.085704552305668e-05,575.0
+Ionising radiation,kBq U-235 eq,ha,1,102.4032784918867,242.0
+Ionising radiation,kBq U-235 eq,ha,2,127.08688251817784,142.0
+Ionising radiation,kBq U-235 eq,ha,3,143.76189809356467,575.0
+Ionising radiation,kBq U-235 eq,tonne,1,33.66074767715162,242.0
+Ionising radiation,kBq U-235 eq,tonne,2,27.359300880721417,142.0
+Ionising radiation,kBq U-235 eq,tonne,3,25.73868935814195,575.0
+Land use,Pt,ha,1,61091.45029307904,242.0
+Land use,Pt,ha,2,82848.60156067298,142.0
+Land use,Pt,ha,3,90281.79488013852,575.0
+Land use,Pt,tonne,1,22933.59471321876,242.0
+Land use,Pt,tonne,2,17138.9995766909,142.0
+Land use,Pt,tonne,3,17151.14580479987,575.0
+Ozone depletion,kg CFC11 eq,ha,1,0.00024147388947843806,242.0
+Ozone depletion,kg CFC11 eq,ha,2,0.000280633116626861,142.0
+Ozone depletion,kg CFC11 eq,ha,3,0.00034525320545017435,575.0
+Ozone depletion,kg CFC11 eq,tonne,1,7.362961544152252e-05,242.0
+Ozone depletion,kg CFC11 eq,tonne,2,6.0641686843310706e-05,142.0
+Ozone depletion,kg CFC11 eq,tonne,3,6.156179785781638e-05,575.0
+Particulate matter,disease inc.,ha,1,0.00010830310762015822,242.0
+Particulate matter,disease inc.,ha,2,0.00013834278857020914,142.0
+Particulate matter,disease inc.,ha,3,0.0001553599742772248,575.0
+Particulate matter,disease inc.,tonne,1,3.921415781860005e-05,242.0
+Particulate matter,disease inc.,tonne,2,3.20783054927657e-05,142.0
+Particulate matter,disease inc.,tonne,3,2.878319601221409e-05,575.0
+Photochemical ozone formation,kg NMVOC eq,ha,1,12.671916346345819,242.0
+Photochemical ozone formation,kg NMVOC eq,ha,2,13.991028385537907,142.0
+Photochemical ozone formation,kg NMVOC eq,ha,3,18.49684465318181,575.0
+Photochemical ozone formation,kg NMVOC eq,tonne,1,3.470977404033609,242.0
+Photochemical ozone formation,kg NMVOC eq,tonne,2,2.873737326002066,142.0
+Photochemical ozone formation,kg NMVOC eq,tonne,3,3.263786197746456,575.0
+"Resource use, fossils",MJ,ha,1,21581.73689168772,242.0
+"Resource use, fossils",MJ,ha,2,25995.816719283484,142.0
+"Resource use, fossils",MJ,ha,3,30735.539077522782,575.0
+"Resource use, fossils",MJ,tonne,1,6991.269559684468,242.0
+"Resource use, fossils",MJ,tonne,2,5765.28908628591,142.0
+"Resource use, fossils",MJ,tonne,3,5531.778117257707,575.0
+"Resource use, minerals and metals",kg Sb eq,ha,1,0.0177929549915307,242.0
+"Resource use, minerals and metals",kg Sb eq,ha,2,0.022742608225041205,142.0
+"Resource use, minerals and metals",kg Sb eq,ha,3,0.0248425502385347,575.0
+"Resource use, minerals and metals",kg Sb eq,tonne,1,0.005756197936437724,242.0
+"Resource use, minerals and metals",kg Sb eq,tonne,2,0.0049514173074600865,142.0
+"Resource use, minerals and metals",kg Sb eq,tonne,3,0.004470844535725566,575.0
+Water use,m3 depriv.,ha,1,1134388.9969344472,242.0
+Water use,m3 depriv.,ha,2,1700064.8360925377,142.0
+Water use,m3 depriv.,ha,3,1701459.4820215034,575.0
+Water use,m3 depriv.,tonne,1,401580.85272909206,242.0
+Water use,m3 depriv.,tonne,2,352322.3112930532,142.0
+Water use,m3 depriv.,tonne,3,297325.3991838834,575.0

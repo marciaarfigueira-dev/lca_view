@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ML Sets Report | Cluster relative burdens</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Outfit:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./pivot.css" />
+  </head>
+  <body>
+    <div class="page">
+      <header class="top-bar">
+        <div>
+          <p class="eyebrow">ML Sets Report</p>
+          <h1>Cluster relative burdens</h1>
+          <p class="lede">
+            Compare cluster-level characterisation impacts relative to cluster 2. Values show total means, ratios, and
+            percent differences by category and basis.
+          </p>
+        </div>
+        <div class="pill">
+          <span class="dot"></span>
+          <span>Relative burdens</span>
+        </div>
+      </header>
+
+      <main class="layout">
+        <section class="panel filters">
+          <div class="panel-header">
+            <div>
+              <p class="eyebrow">Filters</p>
+              <h2>Scope</h2>
+            </div>
+            <div class="panel-actions">
+              <a class="ghost" href="./cluster-impacts.html">Cluster impacts</a>
+              <a class="ghost" href="./cluster.html">Clusters</a>
+              <a class="ghost" href="./bioregional.html">Back</a>
+              <button class="ghost" id="reset-filters">Reset</button>
+            </div>
+          </div>
+          <div class="filter-grid">
+            <label class="field">
+              <span>Impact category</span>
+              <select id="category-filter"></select>
+            </label>
+            <label class="field">
+              <span>Impact basis</span>
+              <select id="basis-filter">
+                <option value="ha">Per hectare</option>
+                <option value="tonne">Per tonne</option>
+              </select>
+            </label>
+          </div>
+          <div class="chip" id="active-filters"></div>
+        </section>
+
+        <section class="panel stats">
+          <div class="panel-header">
+            <div>
+              <p class="eyebrow">Overview</p>
+              <h2>Cluster comparison</h2>
+            </div>
+          </div>
+          <div class="stat-grid" id="stat-grid"></div>
+        </section>
+
+        <section class="panel pivot">
+          <div class="panel-header">
+            <div>
+              <p class="eyebrow">Relative</p>
+              <h2>Percent difference vs cluster 2</h2>
+            </div>
+            <div class="chip muted" id="chart-context"></div>
+          </div>
+          <div id="relative-bars" class="bar-chart"></div>
+        </section>
+
+        <section class="panel detail">
+          <div class="panel-header">
+            <div>
+              <p class="eyebrow">Detail</p>
+              <h2>Rows</h2>
+            </div>
+            <div class="panel-actions">
+              <button class="ghost" id="download-csv">Download CSV</button>
+              <div class="chip muted" id="detail-count"></div>
+            </div>
+          </div>
+          <div id="detail-table" class="table-shell"></div>
+        </section>
+      </main>
+    </div>
+
+    <script type="module" src="./cluster-relative-burden.js"></script>
+  </body>
+</html>

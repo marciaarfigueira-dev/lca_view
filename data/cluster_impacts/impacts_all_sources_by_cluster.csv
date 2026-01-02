@@ -1,0 +1,709 @@
+impact_category,unit,basis,cluster,source,mean
+Acidification,mol H+ eq,ha,1,crop_protection,0.065132392
+Acidification,mol H+ eq,ha,1,fertilisers,10.851330478
+Acidification,mol H+ eq,ha,1,machines,4.1832938883447595
+Acidification,mol H+ eq,ha,1,sowing,0.602732
+Acidification,mol H+ eq,ha,1,water,0.0
+Acidification,mol H+ eq,ha,2,crop_protection,0.090610259
+Acidification,mol H+ eq,ha,2,fertilisers,7.353507051999999
+Acidification,mol H+ eq,ha,2,machines,10.21047925486065
+Acidification,mol H+ eq,ha,2,sowing,0.6390840921970306
+Acidification,mol H+ eq,ha,2,water,0.0
+Acidification,mol H+ eq,ha,3,crop_protection,0.2350618447368421
+Acidification,mol H+ eq,ha,3,fertilisers,8.30893737263158
+Acidification,mol H+ eq,ha,3,machines,12.79678334187356
+Acidification,mol H+ eq,ha,3,sowing,0.6210854628196555
+Acidification,mol H+ eq,ha,3,water,0.0
+Acidification,mol H+ eq,tonne,1,crop_protection,0.010682542
+Acidification,mol H+ eq,tonne,1,fertilisers,1.6803739439999998
+Acidification,mol H+ eq,tonne,1,machines,0.84472494
+Acidification,mol H+ eq,tonne,1,sowing,0.103363312
+Acidification,mol H+ eq,tonne,1,water,0.0
+Acidification,mol H+ eq,tonne,2,crop_protection,0.014194874
+Acidification,mol H+ eq,tonne,2,fertilisers,1.4815333980000005
+Acidification,mol H+ eq,tonne,2,machines,0.91558566
+Acidification,mol H+ eq,tonne,2,sowing,0.1065127202950389
+Acidification,mol H+ eq,tonne,2,water,0.0
+Acidification,mol H+ eq,tonne,3,crop_protection,0.0618874736842105
+Acidification,mol H+ eq,tonne,3,fertilisers,2.6951617689473686
+Acidification,mol H+ eq,tonne,3,machines,1.5900741210526312
+Acidification,mol H+ eq,tonne,3,sowing,0.1869402033481139
+Acidification,mol H+ eq,tonne,3,water,0.0
+Climate change,kg CO2 eq,ha,1,ch4,17589.3
+Climate change,kg CO2 eq,ha,1,crop_protection,17.1735392
+Climate change,kg CO2 eq,ha,1,fertilisers,845.727395336
+Climate change,kg CO2 eq,ha,1,machines,453.7338139079333
+Climate change,kg CO2 eq,ha,1,n2o,149.33575721600002
+Climate change,kg CO2 eq,ha,1,sowing,588.042224
+Climate change,kg CO2 eq,ha,1,water,0.0
+Climate change,kg CO2 eq,ha,2,ch4,17589.299999999996
+Climate change,kg CO2 eq,ha,2,crop_protection,23.73059887600001
+Climate change,kg CO2 eq,ha,2,fertilisers,552.981091034
+Climate change,kg CO2 eq,ha,2,machines,1078.3900876244484
+Climate change,kg CO2 eq,ha,2,n2o,90.71867845695188
+Climate change,kg CO2 eq,ha,2,sowing,623.5083435068369
+Climate change,kg CO2 eq,ha,2,water,0.0
+Climate change,kg CO2 eq,ha,3,ch4,17589.299999999996
+Climate change,kg CO2 eq,ha,3,crop_protection,61.50423746105264
+Climate change,kg CO2 eq,ha,3,fertilisers,610.1340119736841
+Climate change,kg CO2 eq,ha,3,machines,1403.3928826230112
+Climate change,kg CO2 eq,ha,3,n2o,112.17390326936732
+Climate change,kg CO2 eq,ha,3,sowing,605.9483764766754
+Climate change,kg CO2 eq,ha,3,water,0.0
+Climate change,kg CO2 eq,tonne,1,ch4,3114.4525374
+Climate change,kg CO2 eq,tonne,1,crop_protection,2.8166792000000003
+Climate change,kg CO2 eq,tonne,1,fertilisers,131.14243321
+Climate change,kg CO2 eq,tonne,1,machines,91.76279049999998
+Climate change,kg CO2 eq,tonne,1,n2o,24.0768055145542
+Climate change,kg CO2 eq,tonne,1,sowing,100.844142784
+Climate change,kg CO2 eq,tonne,1,water,0.0
+Climate change,kg CO2 eq,tonne,2,ch4,2768.5965194000005
+Climate change,kg CO2 eq,tonne,2,crop_protection,3.714368984
+Climate change,kg CO2 eq,tonne,2,fertilisers,111.038860457
+Climate change,kg CO2 eq,tonne,2,machines,95.204643
+Climate change,kg CO2 eq,tonne,2,n2o,13.96387137750705
+Climate change,kg CO2 eq,tonne,2,sowing,103.91679374346243
+Climate change,kg CO2 eq,tonne,2,water,0.0
+Climate change,kg CO2 eq,tonne,3,ch4,4893.073504
+Climate change,kg CO2 eq,tonne,3,crop_protection,16.157560381052633
+Climate change,kg CO2 eq,tonne,3,fertilisers,202.95124419105267
+Climate change,kg CO2 eq,tonne,3,machines,177.24309615789474
+Climate change,kg CO2 eq,tonne,3,n2o,31.279171882177845
+Climate change,kg CO2 eq,tonne,3,sowing,182.3840992876389
+Climate change,kg CO2 eq,tonne,3,water,0.0
+Climate change - Biogenic,kg CO2 eq,ha,1,crop_protection,0.281273664
+Climate change - Biogenic,kg CO2 eq,ha,1,fertilisers,0.481581754
+Climate change - Biogenic,kg CO2 eq,ha,1,machines,0.6634759843290892
+Climate change - Biogenic,kg CO2 eq,ha,2,crop_protection,0.397539453
+Climate change - Biogenic,kg CO2 eq,ha,2,fertilisers,0.29348143
+Climate change - Biogenic,kg CO2 eq,ha,2,machines,2.1590811603531517
+Climate change - Biogenic,kg CO2 eq,ha,3,crop_protection,1.0365604010526317
+Climate change - Biogenic,kg CO2 eq,ha,3,fertilisers,0.3075777252631579
+Climate change - Biogenic,kg CO2 eq,ha,3,machines,2.3092708879853703
+Climate change - Biogenic,kg CO2 eq,tonne,1,crop_protection,0.046132464
+Climate change - Biogenic,kg CO2 eq,tonne,1,fertilisers,0.073336568
+Climate change - Biogenic,kg CO2 eq,tonne,1,machines,0.1313648399999999
+Climate change - Biogenic,kg CO2 eq,tonne,2,crop_protection,0.062493946
+Climate change - Biogenic,kg CO2 eq,tonne,2,fertilisers,0.05873264
+Climate change - Biogenic,kg CO2 eq,tonne,2,machines,0.15483846
+Climate change - Biogenic,kg CO2 eq,tonne,3,crop_protection,0.2750910721052632
+Climate change - Biogenic,kg CO2 eq,tonne,3,fertilisers,0.1065991110526315
+Climate change - Biogenic,kg CO2 eq,tonne,3,machines,0.3027459484210526
+Climate change - Fossil,kg CO2 eq,ha,1,crop_protection,16.8728528
+Climate change - Fossil,kg CO2 eq,ha,1,fertilisers,843.798539942
+Climate change - Fossil,kg CO2 eq,ha,1,machines,452.76634476003915
+Climate change - Fossil,kg CO2 eq,ha,2,crop_protection,23.306007472000005
+Climate change - Fossil,kg CO2 eq,ha,2,fertilisers,551.8913357179999
+Climate change - Fossil,kg CO2 eq,ha,2,machines,1075.719946420052
+Climate change - Fossil,kg CO2 eq,ha,3,crop_protection,60.39750113263158
+Climate change - Fossil,kg CO2 eq,ha,3,fertilisers,609.0620077757894
+Climate change - Fossil,kg CO2 eq,ha,3,machines,1400.2921736557832
+Climate change - Fossil,kg CO2 eq,tonne,1,crop_protection,2.7673628000000003
+Climate change - Fossil,kg CO2 eq,tonne,1,fertilisers,130.864766472
+Climate change - Fossil,kg CO2 eq,tonne,1,machines,91.572049
+Climate change - Fossil,kg CO2 eq,tonne,2,crop_protection,3.647636768
+Climate change - Fossil,kg CO2 eq,tonne,2,fertilisers,110.82014994
+Climate change - Fossil,kg CO2 eq,tonne,2,machines,94.994997
+Climate change - Fossil,kg CO2 eq,tonne,3,crop_protection,15.863988320000002
+Climate change - Fossil,kg CO2 eq,tonne,3,fertilisers,202.57011230368423
+Climate change - Fossil,kg CO2 eq,tonne,3,machines,176.82317384210523
+Climate change - Land use and LU change,kg CO2 eq,ha,1,crop_protection,0.019416504
+Climate change - Land use and LU change,kg CO2 eq,ha,1,fertilisers,1.44727364
+Climate change - Land use and LU change,kg CO2 eq,ha,1,machines,0.3254790166503428
+Climate change - Land use and LU change,kg CO2 eq,ha,2,crop_protection,0.027056537
+Climate change - Land use and LU change,kg CO2 eq,ha,2,fertilisers,0.796273886
+Climate change - Land use and LU change,kg CO2 eq,ha,2,machines,0.699254165781028
+Climate change - Land use and LU change,kg CO2 eq,ha,3,crop_protection,0.0701875468421052
+Climate change - Land use and LU change,kg CO2 eq,ha,3,fertilisers,0.764426472631579
+Climate change - Land use and LU change,kg CO2 eq,ha,3,machines,0.9846565863763606
+Climate change - Land use and LU change,kg CO2 eq,tonne,1,crop_protection,0.003184554
+Climate change - Land use and LU change,kg CO2 eq,tonne,1,fertilisers,0.20433017
+Climate change - Land use and LU change,kg CO2 eq,tonne,1,machines,0.063258374
+Climate change - Land use and LU change,kg CO2 eq,tonne,2,crop_protection,0.004238974
+Climate change - Land use and LU change,kg CO2 eq,tonne,2,fertilisers,0.159977877
+Climate change - Land use and LU change,kg CO2 eq,tonne,2,machines,0.060793601
+Climate change - Land use and LU change,kg CO2 eq,tonne,3,crop_protection,0.0184838926315789
+Climate change - Land use and LU change,kg CO2 eq,tonne,3,fertilisers,0.2745327763157894
+Climate change - Land use and LU change,kg CO2 eq,tonne,3,machines,0.127606887368421
+"Ecotoxicity, freshwater",CTUe,ha,1,crop_protection,8081.047228799999
+"Ecotoxicity, freshwater",CTUe,ha,1,fertilisers,111812.06466678
+"Ecotoxicity, freshwater",CTUe,ha,1,machines,7057.797392752203
+"Ecotoxicity, freshwater",CTUe,ha,1,sowing,17095.50708
+"Ecotoxicity, freshwater",CTUe,ha,1,water,0.0
+"Ecotoxicity, freshwater",CTUe,ha,2,crop_protection,249140.31006110003
+"Ecotoxicity, freshwater",CTUe,ha,2,fertilisers,59355.60164136
+"Ecotoxicity, freshwater",CTUe,ha,2,machines,16321.931797650086
+"Ecotoxicity, freshwater",CTUe,ha,2,sowing,18126.57470130955
+"Ecotoxicity, freshwater",CTUe,ha,2,water,0.0
+"Ecotoxicity, freshwater",CTUe,ha,3,crop_protection,575976.5040464213
+"Ecotoxicity, freshwater",CTUe,ha,3,fertilisers,55136.23126418948
+"Ecotoxicity, freshwater",CTUe,ha,3,machines,21647.929914968427
+"Ecotoxicity, freshwater",CTUe,ha,3,sowing,17616.0730256872
+"Ecotoxicity, freshwater",CTUe,ha,3,water,0.0
+"Ecotoxicity, freshwater",CTUe,tonne,1,crop_protection,1325.3946888
+"Ecotoxicity, freshwater",CTUe,tonne,1,fertilisers,19062.92970432
+"Ecotoxicity, freshwater",CTUe,tonne,1,machines,1402.5236834999998
+"Ecotoxicity, freshwater",CTUe,tonne,1,sowing,2931.7312372799997
+"Ecotoxicity, freshwater",CTUe,tonne,1,water,0.0
+"Ecotoxicity, freshwater",CTUe,tonne,2,crop_protection,39132.0385514
+"Ecotoxicity, freshwater",CTUe,tonne,2,fertilisers,11433.9085883
+"Ecotoxicity, freshwater",CTUe,tonne,2,machines,1424.596592
+"Ecotoxicity, freshwater",CTUe,tonne,2,sowing,3021.0590509777103
+"Ecotoxicity, freshwater",CTUe,tonne,2,water,0.0
+"Ecotoxicity, freshwater",CTUe,tonne,3,crop_protection,162069.907126421
+"Ecotoxicity, freshwater",CTUe,tonne,3,fertilisers,23465.017640763155
+"Ecotoxicity, freshwater",CTUe,tonne,3,machines,2740.2254874210525
+"Ecotoxicity, freshwater",CTUe,tonne,3,sowing,5302.253024352981
+"Ecotoxicity, freshwater",CTUe,tonne,3,water,0.0
+"Ecotoxicity, freshwater - inorganics",CTUe,ha,1,crop_protection,16.98242624
+"Ecotoxicity, freshwater - inorganics",CTUe,ha,1,fertilisers,22322.780917991997
+"Ecotoxicity, freshwater - inorganics",CTUe,ha,1,machines,1047.3192086190008
+"Ecotoxicity, freshwater - inorganics",CTUe,ha,2,crop_protection,23.417414209
+"Ecotoxicity, freshwater - inorganics",CTUe,ha,2,fertilisers,11929.763397684
+"Ecotoxicity, freshwater - inorganics",CTUe,ha,2,machines,2585.997264433729
+"Ecotoxicity, freshwater - inorganics",CTUe,ha,3,crop_protection,60.65265774842105
+"Ecotoxicity, freshwater - inorganics",CTUe,ha,3,fertilisers,11155.91544562316
+"Ecotoxicity, freshwater - inorganics",CTUe,ha,3,machines,3352.201404357714
+"Ecotoxicity, freshwater - inorganics",CTUe,tonne,1,crop_protection,2.78533424
+"Ecotoxicity, freshwater - inorganics",CTUe,tonne,1,fertilisers,3805.808131648
+"Ecotoxicity, freshwater - inorganics",CTUe,tonne,1,machines,210.64003849999995
+"Ecotoxicity, freshwater - inorganics",CTUe,tonne,2,crop_protection,3.663691458
+"Ecotoxicity, freshwater - inorganics",CTUe,tonne,2,fertilisers,2300.16015978
+"Ecotoxicity, freshwater - inorganics",CTUe,tonne,2,machines,224.271275
+"Ecotoxicity, freshwater - inorganics",CTUe,tonne,3,crop_protection,15.91700491
+"Ecotoxicity, freshwater - inorganics",CTUe,tonne,3,fertilisers,4713.43158556842
+"Ecotoxicity, freshwater - inorganics",CTUe,tonne,3,machines,410.2025198421052
+"Ecotoxicity, freshwater - metals",CTUe,ha,1,crop_protection,291.879956
+"Ecotoxicity, freshwater - metals",CTUe,ha,1,fertilisers,89374.18525106
+"Ecotoxicity, freshwater - metals",CTUe,ha,1,machines,5699.80370029383
+"Ecotoxicity, freshwater - metals",CTUe,ha,2,crop_protection,570.8189817000001
+"Ecotoxicity, freshwater - metals",CTUe,ha,2,fertilisers,47359.63085912
+"Ecotoxicity, freshwater - metals",CTUe,ha,2,machines,12956.330127859364
+"Ecotoxicity, freshwater - metals",CTUe,ha,3,crop_protection,1824.1989044736845
+"Ecotoxicity, freshwater - metals",CTUe,ha,3,fertilisers,43914.12040006316
+"Ecotoxicity, freshwater - metals",CTUe,ha,3,machines,17292.57076485402
+"Ecotoxicity, freshwater - metals",CTUe,tonne,1,crop_protection,47.872031
+"Ecotoxicity, freshwater - metals",CTUe,tonne,1,fertilisers,15239.48632864
+"Ecotoxicity, freshwater - metals",CTUe,tonne,1,machines,1128.9854065000002
+"Ecotoxicity, freshwater - metals",CTUe,tonne,2,crop_protection,101.264929
+"Ecotoxicity, freshwater - metals",CTUe,tonne,2,fertilisers,9120.5868209
+"Ecotoxicity, freshwater - metals",CTUe,tonne,2,machines,1132.38784
+"Ecotoxicity, freshwater - metals",CTUe,tonne,3,crop_protection,592.9107779473684
+"Ecotoxicity, freshwater - metals",CTUe,tonne,3,fertilisers,18727.42945218421
+"Ecotoxicity, freshwater - metals",CTUe,tonne,3,machines,2207.4997005789473
+"Ecotoxicity, freshwater - organics",CTUe,ha,1,crop_protection,7772.1848968
+"Ecotoxicity, freshwater - organics",CTUe,ha,1,fertilisers,115.10527113
+"Ecotoxicity, freshwater - organics",CTUe,ha,1,machines,310.6744838393732
+"Ecotoxicity, freshwater - organics",CTUe,ha,2,crop_protection,248546.0733008
+"Ecotoxicity, freshwater - organics",CTUe,ha,2,fertilisers,66.210785436
+"Ecotoxicity, freshwater - organics",CTUe,ha,2,machines,779.6334053569942
+"Ecotoxicity, freshwater - organics",CTUe,ha,3,crop_protection,574091.6506256317
+"Ecotoxicity, freshwater - organics",CTUe,ha,3,fertilisers,66.19839730947369
+"Ecotoxicity, freshwater - organics",CTUe,ha,3,machines,1003.1893247040604
+"Ecotoxicity, freshwater - organics",CTUe,tonne,1,crop_protection,1274.7373318
+"Ecotoxicity, freshwater - organics",CTUe,tonne,1,fertilisers,17.63643338
+"Ecotoxicity, freshwater - organics",CTUe,tonne,1,machines,62.898238500000005
+"Ecotoxicity, freshwater - organics",CTUe,tonne,2,crop_protection,39027.10984240001
+"Ecotoxicity, freshwater - organics",CTUe,tonne,2,fertilisers,13.162252892
+"Ecotoxicity, freshwater - organics",CTUe,tonne,2,machines,67.942062
+"Ecotoxicity, freshwater - organics",CTUe,tonne,3,crop_protection,161461.07855515784
+"Ecotoxicity, freshwater - organics",CTUe,tonne,3,fertilisers,24.15798617105263
+"Ecotoxicity, freshwater - organics",CTUe,tonne,3,machines,122.53175647368424
+"Eutrophication, freshwater",kg P eq,ha,1,crop_protection,0.008331048
+"Eutrophication, freshwater",kg P eq,ha,1,fertilisers,0.130517284
+"Eutrophication, freshwater",kg P eq,ha,1,machines,0.0635492650342801
+"Eutrophication, freshwater",kg P eq,ha,1,sowing,0.073698
+"Eutrophication, freshwater",kg P eq,ha,1,water,0.0
+"Eutrophication, freshwater",kg P eq,ha,2,crop_protection,0.011620421
+"Eutrophication, freshwater",kg P eq,ha,2,fertilisers,0.076117024
+"Eutrophication, freshwater",kg P eq,ha,2,machines,0.1387228357885042
+"Eutrophication, freshwater",kg P eq,ha,2,sowing,0.0781428884259285
+"Eutrophication, freshwater",kg P eq,ha,2,water,0.0
+"Eutrophication, freshwater",kg P eq,ha,3,crop_protection,0.0301520321052631
+"Eutrophication, freshwater",kg P eq,ha,3,fertilisers,0.0769766694736842
+"Eutrophication, freshwater",kg P eq,ha,3,machines,0.1893907287175674
+"Eutrophication, freshwater",kg P eq,ha,3,sowing,0.0759421375319096
+"Eutrophication, freshwater",kg P eq,ha,3,water,0.0
+"Eutrophication, freshwater",kg P eq,tonne,1,crop_protection,0.001366398
+"Eutrophication, freshwater",kg P eq,tonne,1,fertilisers,0.019295004
+"Eutrophication, freshwater",kg P eq,tonne,1,machines,0.0125193074
+"Eutrophication, freshwater",kg P eq,tonne,1,sowing,0.012638568
+"Eutrophication, freshwater",kg P eq,tonne,1,water,0.0
+"Eutrophication, freshwater",kg P eq,tonne,2,crop_protection,0.00182091
+"Eutrophication, freshwater",kg P eq,tonne,2,fertilisers,0.015249366
+"Eutrophication, freshwater",kg P eq,tonne,2,machines,0.0121571735999999
+"Eutrophication, freshwater",kg P eq,tonne,2,sowing,0.0130236563850994
+"Eutrophication, freshwater",kg P eq,tonne,2,water,0.0
+"Eutrophication, freshwater",kg P eq,tonne,3,crop_protection,0.0079439189473684
+"Eutrophication, freshwater",kg P eq,tonne,3,fertilisers,0.0271172336842105
+"Eutrophication, freshwater",kg P eq,tonne,3,machines,0.0245263774736842
+"Eutrophication, freshwater",kg P eq,tonne,3,sowing,0.0228577860580644
+"Eutrophication, freshwater",kg P eq,tonne,3,water,0.0
+"Eutrophication, marine",kg N eq,ha,1,crop_protection,0.015867048
+"Eutrophication, marine",kg N eq,ha,1,fertilisers,0.6963527540000001
+"Eutrophication, marine",kg N eq,ha,1,machines,1.6470062957884428
+"Eutrophication, marine",kg N eq,ha,1,sowing,0.600656
+"Eutrophication, marine",kg N eq,ha,1,water,0.0
+"Eutrophication, marine",kg N eq,ha,2,crop_protection,0.022222884
+"Eutrophication, marine",kg N eq,ha,2,fertilisers,0.444212834
+"Eutrophication, marine",kg N eq,ha,2,machines,4.065146940867221
+"Eutrophication, marine",kg N eq,ha,2,sowing,0.6368828840723564
+"Eutrophication, marine",kg N eq,ha,2,water,0.0
+"Eutrophication, marine",kg N eq,ha,3,crop_protection,0.0577562794736842
+"Eutrophication, marine",kg N eq,ha,3,fertilisers,0.4817154115789474
+"Eutrophication, marine",kg N eq,ha,3,machines,5.010186079624798
+"Eutrophication, marine",kg N eq,ha,3,sowing,0.6189462476779115
+"Eutrophication, marine",kg N eq,ha,3,water,0.0
+"Eutrophication, marine",kg N eq,tonne,1,crop_protection,0.002602398
+"Eutrophication, marine",kg N eq,tonne,1,fertilisers,0.107660464
+"Eutrophication, marine",kg N eq,tonne,1,machines,0.3335877619999999
+"Eutrophication, marine",kg N eq,tonne,1,sowing,0.103007296
+"Eutrophication, marine",kg N eq,tonne,1,water,0.0
+"Eutrophication, marine",kg N eq,tonne,2,crop_protection,0.00348596
+"Eutrophication, marine",kg N eq,tonne,2,fertilisers,0.089043296
+"Eutrophication, marine",kg N eq,tonne,2,machines,0.367486568
+"Eutrophication, marine",kg N eq,tonne,2,sowing,0.1061458567348952
+"Eutrophication, marine",kg N eq,tonne,2,water,0.0
+"Eutrophication, marine",kg N eq,tonne,3,crop_protection,0.0152529210526315
+"Eutrophication, marine",kg N eq,tonne,3,fertilisers,0.1628029257894737
+"Eutrophication, marine",kg N eq,tonne,3,machines,0.6208706115789474
+"Eutrophication, marine",kg N eq,tonne,3,sowing,0.1862963220507036
+"Eutrophication, marine",kg N eq,tonne,3,water,0.0
+"Eutrophication, terrestrial",mol N eq,ha,1,crop_protection,0.115550744
+"Eutrophication, terrestrial",mol N eq,ha,1,fertilisers,39.14491849000001
+"Eutrophication, terrestrial",mol N eq,ha,1,machines,18.018641253672868
+"Eutrophication, terrestrial",mol N eq,ha,1,sowing,2.7396279999999997
+"Eutrophication, terrestrial",mol N eq,ha,1,water,0.0
+"Eutrophication, terrestrial",mol N eq,ha,2,crop_protection,0.160744648
+"Eutrophication, terrestrial",mol N eq,ha,2,fertilisers,27.381891477999996
+"Eutrophication, terrestrial",mol N eq,ha,2,machines,44.585649017092734
+"Eutrophication, terrestrial",mol N eq,ha,2,sowing,2.904860988528178
+"Eutrophication, terrestrial",mol N eq,ha,2,water,0.0
+"Eutrophication, terrestrial",mol N eq,ha,3,crop_protection,0.4171178089473684
+"Eutrophication, terrestrial",mol N eq,ha,3,fertilisers,31.56712799473684
+"Eutrophication, terrestrial",mol N eq,ha,3,machines,54.97008796973764
+"Eutrophication, terrestrial",mol N eq,ha,3,sowing,2.823050915388078
+"Eutrophication, terrestrial",mol N eq,ha,3,water,0.0
+"Eutrophication, terrestrial",mol N eq,tonne,1,crop_protection,0.018951794
+"Eutrophication, terrestrial",mol N eq,tonne,1,fertilisers,6.1694946779999995
+"Eutrophication, terrestrial",mol N eq,tonne,1,machines,3.65023138
+"Eutrophication, terrestrial",mol N eq,tonne,1,sowing,0.4698224479999999
+"Eutrophication, terrestrial",mol N eq,tonne,1,water,0.0
+"Eutrophication, terrestrial",mol N eq,tonne,2,crop_protection,0.025185356
+"Eutrophication, terrestrial",mol N eq,tonne,2,fertilisers,5.516581665
+"Eutrophication, terrestrial",mol N eq,tonne,2,machines,4.02398382
+"Eutrophication, terrestrial",mol N eq,tonne,2,sowing,0.484137611536233
+"Eutrophication, terrestrial",mol N eq,tonne,2,water,0.0
+"Eutrophication, terrestrial",mol N eq,tonne,3,crop_protection,0.1098490352631579
+"Eutrophication, terrestrial",mol N eq,tonne,3,fertilisers,10.130937423157896
+"Eutrophication, terrestrial",mol N eq,tonne,3,machines,6.793779168421053
+"Eutrophication, terrestrial",mol N eq,tonne,3,sowing,0.8497086854824143
+"Eutrophication, terrestrial",mol N eq,tonne,3,water,0.0
+"Human toxicity, cancer",CTUh,ha,1,crop_protection,8.239359999999999e-09
+"Human toxicity, cancer",CTUh,ha,1,fertilisers,3.449051240000001e-07
+"Human toxicity, cancer",CTUh,ha,1,machines,4.572539059745347e-07
+"Human toxicity, cancer",CTUh,ha,1,sowing,8.113700000000002e-08
+"Human toxicity, cancer",CTUh,ha,1,water,0.0
+"Human toxicity, cancer",CTUh,ha,2,crop_protection,1.162586e-08
+"Human toxicity, cancer",CTUh,ha,2,fertilisers,1.99664648e-07
+"Human toxicity, cancer",CTUh,ha,2,machines,8.930030300240287e-07
+"Human toxicity, cancer",CTUh,ha,2,sowing,8.603055087267718e-08
+"Human toxicity, cancer",CTUh,ha,2,water,0.0
+"Human toxicity, cancer",CTUh,ha,3,crop_protection,3.046595789473684e-08
+"Human toxicity, cancer",CTUh,ha,3,fertilisers,2.006643621052632e-07
+"Human toxicity, cancer",CTUh,ha,3,machines,1.227938859681407e-06
+"Human toxicity, cancer",CTUh,ha,3,sowing,8.36076584564921e-08
+"Human toxicity, cancer",CTUh,ha,3,water,0.0
+"Human toxicity, cancer",CTUh,tonne,1,crop_protection,1.35136e-09
+"Human toxicity, cancer",CTUh,tonne,1,fertilisers,5.1082476e-08
+"Human toxicity, cancer",CTUh,tonne,1,machines,9.083199200000001e-08
+"Human toxicity, cancer",CTUh,tonne,1,sowing,1.3914292e-08
+"Human toxicity, cancer",CTUh,tonne,1,water,0.0
+"Human toxicity, cancer",CTUh,tonne,2,crop_protection,1.8319999999999999e-09
+"Human toxicity, cancer",CTUh,tonne,2,fertilisers,3.996087e-08
+"Human toxicity, cancer",CTUh,tonne,2,machines,8.3951888e-08
+"Human toxicity, cancer",CTUh,tonne,2,sowing,1.4338250808947544e-08
+"Human toxicity, cancer",CTUh,tonne,2,water,0.0
+"Human toxicity, cancer",CTUh,tonne,3,crop_protection,8.123573684210527e-09
+"Human toxicity, cancer",CTUh,tonne,3,fertilisers,7.121153684210528e-08
+"Human toxicity, cancer",CTUh,tonne,3,machines,1.7705671052631578e-07
+"Human toxicity, cancer",CTUh,tonne,3,sowing,2.5165027373784565e-08
+"Human toxicity, cancer",CTUh,tonne,3,water,0.0
+"Human toxicity, cancer - inorganics",CTUh,ha,1,crop_protection,4.8230399999999995e-20
+"Human toxicity, cancer - inorganics",CTUh,ha,1,fertilisers,6.9211476000000005e-16
+"Human toxicity, cancer - inorganics",CTUh,ha,1,machines,6.764932438785504e-16
+"Human toxicity, cancer - inorganics",CTUh,ha,2,crop_protection,6.886980000000001e-20
+"Human toxicity, cancer - inorganics",CTUh,ha,2,fertilisers,3.719907e-16
+"Human toxicity, cancer - inorganics",CTUh,ha,2,machines,1.510275229587287e-15
+"Human toxicity, cancer - inorganics",CTUh,ha,3,crop_protection,1.7985031578947368e-19
+"Human toxicity, cancer - inorganics",CTUh,ha,3,fertilisers,3.4930872631578955e-16
+"Human toxicity, cancer - inorganics",CTUh,ha,3,machines,2.0777281484355507e-15
+"Human toxicity, cancer - inorganics",CTUh,tonne,1,crop_protection,7.910400000000001e-21
+"Human toxicity, cancer - inorganics",CTUh,tonne,1,fertilisers,1.016001e-16
+"Human toxicity, cancer - inorganics",CTUh,tonne,1,machines,1.34483808e-16
+"Human toxicity, cancer - inorganics",CTUh,tonne,2,crop_protection,1.0841199999999999e-20
+"Human toxicity, cancer - inorganics",CTUh,tonne,2,fertilisers,7.404249000000001e-17
+"Human toxicity, cancer - inorganics",CTUh,tonne,2,machines,1.30048462e-16
+"Human toxicity, cancer - inorganics",CTUh,tonne,3,crop_protection,4.7889263157894737e-20
+"Human toxicity, cancer - inorganics",CTUh,tonne,3,fertilisers,1.3170869999999999e-16
+"Human toxicity, cancer - inorganics",CTUh,tonne,3,machines,2.652079947368421e-16
+"Human toxicity, cancer - metals",CTUh,ha,1,crop_protection,4.24528e-09
+"Human toxicity, cancer - metals",CTUh,ha,1,fertilisers,2.7052237999999997e-07
+"Human toxicity, cancer - metals",CTUh,ha,1,machines,3.0249541038197844e-07
+"Human toxicity, cancer - metals",CTUh,ha,2,crop_protection,5.938590000000001e-09
+"Human toxicity, cancer - metals",CTUh,ha,2,fertilisers,1.5492230000000005e-07
+"Human toxicity, cancer - metals",CTUh,ha,2,machines,5.796586140463921e-07
+"Human toxicity, cancer - metals",CTUh,ha,3,crop_protection,1.543741052631579e-08
+"Human toxicity, cancer - metals",CTUh,ha,3,fertilisers,1.5424845263157896e-07
+"Human toxicity, cancer - metals",CTUh,ha,3,machines,7.920716995926477e-07
+"Human toxicity, cancer - metals",CTUh,tonne,1,crop_protection,6.9628e-10
+"Human toxicity, cancer - metals",CTUh,tonne,1,fertilisers,3.9707359999999995e-08
+"Human toxicity, cancer - metals",CTUh,tonne,1,machines,6.0260551e-08
+"Human toxicity, cancer - metals",CTUh,tonne,2,crop_protection,9.3158e-10
+"Human toxicity, cancer - metals",CTUh,tonne,2,fertilisers,3.10244e-08
+"Human toxicity, cancer - metals",CTUh,tonne,2,machines,5.555459900000002e-08
+"Human toxicity, cancer - metals",CTUh,tonne,3,crop_protection,4.076878947368421e-09
+"Human toxicity, cancer - metals",CTUh,tonne,3,fertilisers,5.4914405263157895e-08
+"Human toxicity, cancer - metals",CTUh,tonne,3,machines,1.1674235947368426e-07
+"Human toxicity, cancer - organics",CTUh,ha,1,crop_protection,4.00664e-09
+"Human toxicity, cancer - organics",CTUh,ha,1,fertilisers,7.4053564e-08
+"Human toxicity, cancer - organics",CTUh,ha,1,machines,1.5493530793339868e-07
+"Human toxicity, cancer - organics",CTUh,ha,2,crop_protection,5.70344e-09
+"Human toxicity, cancer - organics",CTUh,ha,2,fertilisers,4.4560498e-08
+"Human toxicity, cancer - organics",CTUh,ha,2,machines,3.132398870764937e-07
+"Human toxicity, cancer - organics",CTUh,ha,3,crop_protection,1.5069794736842106e-08
+"Human toxicity, cancer - organics",CTUh,ha,3,fertilisers,4.62408957894737e-08
+"Human toxicity, cancer - organics",CTUh,ha,3,machines,4.357319820526477e-07
+"Human toxicity, cancer - organics",CTUh,tonne,1,crop_protection,6.571400000000001e-10
+"Human toxicity, cancer - organics",CTUh,tonne,1,fertilisers,1.1336068e-08
+"Human toxicity, cancer - organics",CTUh,tonne,1,machines,3.05784396e-08
+"Human toxicity, cancer - organics",CTUh,tonne,2,crop_protection,9.0292e-10
+"Human toxicity, cancer - organics",CTUh,tonne,2,fertilisers,8.898896e-09
+"Human toxicity, cancer - organics",CTUh,tonne,2,machines,2.84258294e-08
+"Human toxicity, cancer - organics",CTUh,tonne,3,crop_protection,4.0572052631578954e-09
+"Human toxicity, cancer - organics",CTUh,tonne,3,fertilisers,1.6241303157894737e-08
+"Human toxicity, cancer - organics",CTUh,tonne,3,machines,6.039937673684211e-08
+"Human toxicity, non-cancer",CTUh,ha,1,crop_protection,1.039968e-06
+"Human toxicity, non-cancer",CTUh,ha,1,fertilisers,1.17067644e-05
+"Human toxicity, non-cancer",CTUh,ha,1,machines,9.85220039177277e-06
+"Human toxicity, non-cancer",CTUh,ha,1,sowing,8.5981e-06
+"Human toxicity, non-cancer",CTUh,ha,1,water,0.0
+"Human toxicity, non-cancer",CTUh,ha,2,crop_protection,1.96343809e-05
+"Human toxicity, non-cancer",CTUh,ha,2,fertilisers,6.780573e-06
+"Human toxicity, non-cancer",CTUh,ha,2,machines,2.747190374931537e-05
+"Human toxicity, non-cancer",CTUh,ha,2,sowing,9.116670316358329e-06
+"Human toxicity, non-cancer",CTUh,ha,2,water,0.0
+"Human toxicity, non-cancer",CTUh,ha,3,crop_protection,4.539428810526316e-05
+"Human toxicity, non-cancer",CTUh,ha,3,fertilisers,6.820310210526316e-06
+"Human toxicity, non-cancer",CTUh,ha,3,machines,3.4700818965672855e-05
+"Human toxicity, non-cancer",CTUh,ha,3,sowing,8.85991604538946e-06
+"Human toxicity, non-cancer",CTUh,ha,3,water,0.0
+"Human toxicity, non-cancer",CTUh,tonne,1,crop_protection,1.70568e-07
+"Human toxicity, non-cancer",CTUh,tonne,1,fertilisers,1.8231896e-06
+"Human toxicity, non-cancer",CTUh,tonne,1,machines,1.9363639999999996e-06
+"Human toxicity, non-cancer",CTUh,tonne,1,sowing,1.4744996e-06
+"Human toxicity, non-cancer",CTUh,tonne,1,water,0.0
+"Human toxicity, non-cancer",CTUh,tonne,2,crop_protection,3.0787926000000003e-06
+"Human toxicity, non-cancer",CTUh,tonne,2,fertilisers,1.3447894e-06
+"Human toxicity, non-cancer",CTUh,tonne,2,machines,2.2929625e-06
+"Human toxicity, non-cancer",CTUh,tonne,2,sowing,1.5194265782616054e-06
+"Human toxicity, non-cancer",CTUh,tonne,2,water,0.0
+"Human toxicity, non-cancer",CTUh,tonne,3,crop_protection,1.2704625052631577e-05
+"Human toxicity, non-cancer",CTUh,tonne,3,fertilisers,2.501122631578947e-06
+"Human toxicity, non-cancer",CTUh,tonne,3,machines,4.6051819999999995e-06
+"Human toxicity, non-cancer",CTUh,tonne,3,sowing,2.6667417067741853e-06
+"Human toxicity, non-cancer",CTUh,tonne,3,water,0.0
+"Human toxicity, non-cancer - inorganics",CTUh,ha,1,crop_protection,1.36904e-08
+"Human toxicity, non-cancer - inorganics",CTUh,ha,1,fertilisers,3.86774672e-06
+"Human toxicity, non-cancer - inorganics",CTUh,ha,1,machines,3.2981257198824686e-06
+"Human toxicity, non-cancer - inorganics",CTUh,ha,2,crop_protection,1.9058580000000004e-08
+"Human toxicity, non-cancer - inorganics",CTUh,ha,2,fertilisers,2.08049084e-06
+"Human toxicity, non-cancer - inorganics",CTUh,ha,2,machines,6.942846878912688e-06
+"Human toxicity, non-cancer - inorganics",CTUh,ha,3,crop_protection,4.9465568421052636e-08
+"Human toxicity, non-cancer - inorganics",CTUh,ha,3,fertilisers,1.957802547368422e-06
+"Human toxicity, non-cancer - inorganics",CTUh,ha,3,machines,9.421411162205742e-06
+"Human toxicity, non-cancer - inorganics",CTUh,tonne,1,crop_protection,2.2454e-09
+"Human toxicity, non-cancer - inorganics",CTUh,tonne,1,fertilisers,6.526922800000001e-07
+"Human toxicity, non-cancer - inorganics",CTUh,tonne,1,machines,6.599690400000001e-07
+"Human toxicity, non-cancer - inorganics",CTUh,tonne,2,crop_protection,2.98652e-09
+"Human toxicity, non-cancer - inorganics",CTUh,tonne,2,fertilisers,4.024139e-07
+"Human toxicity, non-cancer - inorganics",CTUh,tonne,2,machines,6.328955100000001e-07
+"Human toxicity, non-cancer - inorganics",CTUh,tonne,3,crop_protection,1.3031326315789474e-08
+"Human toxicity, non-cancer - inorganics",CTUh,tonne,3,fertilisers,8.153137368421051e-07
+"Human toxicity, non-cancer - inorganics",CTUh,tonne,3,machines,1.255561442105263e-06
+"Human toxicity, non-cancer - metals",CTUh,ha,1,crop_protection,1.256e-07
+"Human toxicity, non-cancer - metals",CTUh,ha,1,fertilisers,7.5167282e-06
+"Human toxicity, non-cancer - metals",CTUh,ha,1,machines,6.3911408423114585e-06
+"Human toxicity, non-cancer - metals",CTUh,ha,2,crop_protection,1.7701150000000006e-07
+"Human toxicity, non-cancer - metals",CTUh,ha,2,fertilisers,4.5015386e-06
+"Human toxicity, non-cancer - metals",CTUh,ha,2,machines,2.0139451292658752e-05
+"Human toxicity, non-cancer - metals",CTUh,ha,3,crop_protection,4.6315568421052627e-07
+"Human toxicity, non-cancer - metals",CTUh,ha,3,fertilisers,4.652669578947368e-06
+"Human toxicity, non-cancer - metals",CTUh,ha,3,machines,2.4773041704679588e-05
+"Human toxicity, non-cancer - metals",CTUh,tonne,1,crop_protection,2.06e-08
+"Human toxicity, non-cancer - metals",CTUh,tonne,1,fertilisers,1.1206634e-06
+"Human toxicity, non-cancer - metals",CTUh,tonne,1,machines,1.2445347e-06
+"Human toxicity, non-cancer - metals",CTUh,tonne,2,crop_protection,2.78702e-08
+"Human toxicity, non-cancer - metals",CTUh,tonne,2,fertilisers,9.027067e-07
+"Human toxicity, non-cancer - metals",CTUh,tonne,2,machines,1.6265483e-06
+"Human toxicity, non-cancer - metals",CTUh,tonne,3,crop_protection,1.2328384210526318e-07
+"Human toxicity, non-cancer - metals",CTUh,tonne,3,fertilisers,1.6129988421052632e-06
+"Human toxicity, non-cancer - metals",CTUh,tonne,3,machines,3.288119931578947e-06
+"Human toxicity, non-cancer - organics",CTUh,ha,1,crop_protection,9.01808e-07
+"Human toxicity, non-cancer - organics",CTUh,ha,1,fertilisers,4.030397800000001e-07
+"Human toxicity, non-cancer - organics",CTUh,ha,1,machines,1.9660484231145938e-07
+"Human toxicity, non-cancer - organics",CTUh,ha,2,crop_protection,1.94398749e-05
+"Human toxicity, non-cancer - organics",CTUh,ha,2,fertilisers,2.516998e-07
+"Human toxicity, non-cancer - organics",CTUh,ha,2,machines,4.636071174583568e-07
+"Human toxicity, non-cancer - organics",CTUh,ha,3,crop_protection,4.488574347368422e-05
+"Human toxicity, non-cancer - organics",CTUh,ha,3,fertilisers,2.687562105263158e-07
+"Human toxicity, non-cancer - organics",CTUh,ha,3,machines,6.054570945293116e-07
+"Human toxicity, non-cancer - organics",CTUh,tonne,1,crop_protection,1.47908e-07
+"Human toxicity, non-cancer - organics",CTUh,tonne,1,fertilisers,6.227358e-08
+"Human toxicity, non-cancer - organics",CTUh,tonne,1,machines,3.8618116e-08
+"Human toxicity, non-cancer - organics",CTUh,tonne,2,crop_protection,3.0481814000000006e-06
+"Human toxicity, non-cancer - organics",CTUh,tonne,2,fertilisers,5.036031e-08
+"Human toxicity, non-cancer - organics",CTUh,tonne,2,machines,3.9939394e-08
+"Human toxicity, non-cancer - organics",CTUh,tonne,3,crop_protection,1.256938726315789e-05
+"Human toxicity, non-cancer - organics",CTUh,tonne,3,fertilisers,9.224109473684212e-08
+"Human toxicity, non-cancer - organics",CTUh,tonne,3,machines,7.538569e-08
+Ionising radiation,kBq U-235 eq,ha,1,crop_protection,4.98284716
+Ionising radiation,kBq U-235 eq,ha,1,fertilisers,50.140003786
+Ionising radiation,kBq U-235 eq,ha,1,machines,28.607538687561217
+Ionising radiation,kBq U-235 eq,ha,1,sowing,4.306143
+Ionising radiation,kBq U-235 eq,ha,1,water,0.0
+Ionising radiation,kBq U-235 eq,ha,2,crop_protection,6.938313547000001
+Ionising radiation,kBq U-235 eq,ha,2,fertilisers,29.599467802
+Ionising radiation,kBq U-235 eq,ha,2,machines,68.19938560897975
+Ionising radiation,kBq U-235 eq,ha,2,sowing,4.565855952605133
+Ionising radiation,kBq U-235 eq,ha,2,water,0.0
+Ionising radiation,kBq U-235 eq,ha,3,crop_protection,17.996441165789474
+Ionising radiation,kBq U-235 eq,ha,3,fertilisers,30.23987003052632
+Ionising radiation,kBq U-235 eq,ha,3,machines,88.96443088317699
+Ionising radiation,kBq U-235 eq,ha,3,sowing,4.437267007762355
+Ionising radiation,kBq U-235 eq,ha,3,water,0.0
+Ionising radiation,kBq U-235 eq,tonne,1,crop_protection,0.8172504100000001
+Ionising radiation,kBq U-235 eq,tonne,1,fertilisers,7.483933762
+Ionising radiation,kBq U-235 eq,tonne,1,machines,5.7905785
+Ionising radiation,kBq U-235 eq,tonne,1,sowing,0.738466188
+Ionising radiation,kBq U-235 eq,tonne,1,water,0.0
+Ionising radiation,kBq U-235 eq,tonne,2,crop_protection,1.08691551
+Ionising radiation,kBq U-235 eq,tonne,2,fertilisers,5.9266973190000005
+Ionising radiation,kBq U-235 eq,tonne,2,machines,6.001229
+Ionising radiation,kBq U-235 eq,tonne,2,sowing,0.7609667396279601
+Ionising radiation,kBq U-235 eq,tonne,2,water,0.0
+Ionising radiation,kBq U-235 eq,tonne,3,crop_protection,4.738110000526316
+Ionising radiation,kBq U-235 eq,tonne,3,fertilisers,10.61295300736842
+Ionising radiation,kBq U-235 eq,tonne,3,machines,11.143717368421054
+Ionising radiation,kBq U-235 eq,tonne,3,sowing,1.3355707811532442
+Ionising radiation,kBq U-235 eq,tonne,3,water,0.0
+Land use,Pt,ha,1,crop_protection,117.12958624
+Land use,Pt,ha,1,fertilisers,3765.328685214
+Land use,Pt,ha,1,machines,2903.861286973555
+Land use,Pt,ha,1,sowing,26330.1156
+Land use,Pt,ha,1,water,0.0
+Land use,Pt,ha,2,crop_protection,165.68475965000005
+Land use,Pt,ha,2,fertilisers,2083.934744268
+Land use,Pt,ha,2,machines,9455.187815617
+Land use,Pt,ha,2,sowing,27918.142766053355
+Land use,Pt,ha,2,water,0.0
+Land use,Pt,ha,3,crop_protection,431.6310336736842
+Land use,Pt,ha,3,fertilisers,2012.424218551579
+Land use,Pt,ha,3,machines,9697.050121816406
+Land use,Pt,ha,3,sowing,27131.87956425249
+Land use,Pt,ha,3,water,0.0
+Land use,Pt,tonne,1,crop_protection,19.21074424
+Land use,Pt,tonne,1,fertilisers,556.781758616
+Land use,Pt,tonne,1,machines,574.3180880000001
+Land use,Pt,tonne,1,sowing,4515.3865296
+Land use,Pt,tonne,1,water,0.0
+Land use,Pt,tonne,2,crop_protection,26.0357583
+Land use,Pt,tonne,2,fertilisers,415.42043839
+Land use,Pt,tonne,2,machines,690.640827
+Land use,Pt,tonne,2,sowing,4652.967219657892
+Land use,Pt,tonne,2,water,0.0
+Land use,Pt,tonne,3,crop_protection,114.4648238631579
+Land use,Pt,tonne,3,fertilisers,742.0111723078946
+Land use,Pt,tonne,3,machines,1333.6296489473682
+Land use,Pt,tonne,3,sowing,8166.410883184145
+Land use,Pt,tonne,3,water,0.0
+Ozone depletion,kg CFC11 eq,ha,1,crop_protection,1.84632e-06
+Ozone depletion,kg CFC11 eq,ha,1,fertilisers,9.150324e-05
+Ozone depletion,kg CFC11 eq,ha,1,machines,7.702333947110675e-05
+Ozone depletion,kg CFC11 eq,ha,1,sowing,9.0998e-06
+Ozone depletion,kg CFC11 eq,ha,1,water,0.0
+Ozone depletion,kg CFC11 eq,ha,2,crop_protection,2.536696e-06
+Ozone depletion,kg CFC11 eq,ha,2,fertilisers,5.8513566e-05
+Ozone depletion,kg CFC11 eq,ha,2,machines,0.0001936165527199
+Ozone depletion,kg CFC11 eq,ha,2,sowing,9.64862894648789e-06
+Ozone depletion,kg CFC11 eq,ha,2,water,0.0
+Ozone depletion,kg CFC11 eq,ha,3,crop_protection,6.568897894736842e-06
+Ozone depletion,kg CFC11 eq,ha,3,fertilisers,6.356559263157895e-05
+Ozone depletion,kg CFC11 eq,ha,3,machines,0.0002489432845035
+Ozone depletion,kg CFC11 eq,ha,3,sowing,9.376893037977577e-06
+Ozone depletion,kg CFC11 eq,ha,3,water,0.0
+Ozone depletion,kg CFC11 eq,tonne,1,crop_protection,3.0282e-07
+Ozone depletion,kg CFC11 eq,tonne,1,fertilisers,1.4198104e-05
+Ozone depletion,kg CFC11 eq,tonne,1,machines,1.56079174e-05
+Ozone depletion,kg CFC11 eq,tonne,1,sowing,1.5605368e-06
+Ozone depletion,kg CFC11 eq,tonne,1,water,0.0
+Ozone depletion,kg CFC11 eq,tonne,2,crop_protection,3.9674399999999994e-07
+Ozone depletion,kg CFC11 eq,tonne,2,fertilisers,1.1724694000000002e-05
+Ozone depletion,kg CFC11 eq,tonne,2,machines,1.6878593600000002e-05
+Ozone depletion,kg CFC11 eq,tonne,2,sowing,1.6080852719629868e-06
+Ozone depletion,kg CFC11 eq,tonne,2,water,0.0
+Ozone depletion,kg CFC11 eq,tonne,3,crop_protection,1.7223652631578949e-06
+Ozone depletion,kg CFC11 eq,tonne,3,fertilisers,2.149166947368421e-05
+Ozone depletion,kg CFC11 eq,tonne,3,machines,3.038184468421053e-05
+Ozone depletion,kg CFC11 eq,tonne,3,sowing,2.8223463536483325e-06
+Ozone depletion,kg CFC11 eq,tonne,3,water,0.0
+Particulate matter,disease inc.,ha,1,crop_protection,3.391200000000001e-07
+Particulate matter,disease inc.,ha,1,fertilisers,8.159917800000001e-05
+Particulate matter,disease inc.,ha,1,machines,1.566836983349657e-05
+Particulate matter,disease inc.,ha,1,sowing,1.0898999999999998e-05
+Particulate matter,disease inc.,ha,1,water,0.0
+Particulate matter,disease inc.,ha,2,crop_protection,4.748360000000001e-07
+Particulate matter,disease inc.,ha,2,fertilisers,5.4331908e-05
+Particulate matter,disease inc.,ha,2,machines,3.6895984661728224e-05
+Particulate matter,disease inc.,ha,2,sowing,1.1556342654538725e-05
+Particulate matter,disease inc.,ha,2,water,0.0
+Particulate matter,disease inc.,ha,3,crop_protection,1.2343673684210529e-06
+Particulate matter,disease inc.,ha,3,fertilisers,6.0688745263157894e-05
+Particulate matter,disease inc.,ha,3,machines,4.762650244518977e-05
+Particulate matter,disease inc.,ha,3,sowing,1.1230879494155652e-05
+Particulate matter,disease inc.,ha,3,water,0.0
+Particulate matter,disease inc.,tonne,1,crop_protection,5.562e-08
+Particulate matter,disease inc.,tonne,1,fertilisers,1.2695274e-05
+Particulate matter,disease inc.,tonne,1,machines,3.1202180999999994e-06
+Particulate matter,disease inc.,tonne,1,sowing,1.869084e-06
+Particulate matter,disease inc.,tonne,1,water,0.0
+Particulate matter,disease inc.,tonne,2,crop_protection,7.4492e-08
+Particulate matter,disease inc.,tonne,2,fertilisers,1.0921585e-05
+Particulate matter,disease inc.,tonne,2,machines,3.2007213999999994e-06
+Particulate matter,disease inc.,tonne,2,sowing,1.9260336907541476e-06
+Particulate matter,disease inc.,tonne,2,water,0.0
+Particulate matter,disease inc.,tonne,3,crop_protection,3.260478947368422e-07
+Particulate matter,disease inc.,tonne,3,fertilisers,1.997365578947369e-05
+Particulate matter,disease inc.,tonne,3,machines,6.303257736842105e-06
+Particulate matter,disease inc.,tonne,3,sowing,3.3803768114038963e-06
+Particulate matter,disease inc.,tonne,3,water,0.0
+Photochemical ozone formation,kg NMVOC eq,ha,1,crop_protection,0.03122416
+Photochemical ozone formation,kg NMVOC eq,ha,1,fertilisers,1.498602018
+Photochemical ozone formation,kg NMVOC eq,ha,1,machines,5.038481802154751
+Photochemical ozone formation,kg NMVOC eq,ha,1,sowing,0.58474
+Photochemical ozone formation,kg NMVOC eq,ha,1,water,0.0
+Photochemical ozone formation,kg NMVOC eq,ha,2,crop_protection,0.043314569
+Photochemical ozone formation,kg NMVOC eq,ha,2,fertilisers,0.909142776
+Photochemical ozone formation,kg NMVOC eq,ha,2,machines,12.33186664913169
+Photochemical ozone formation,kg NMVOC eq,ha,2,sowing,0.6200069551165222
+Photochemical ozone formation,kg NMVOC eq,ha,2,water,0.0
+Photochemical ozone formation,kg NMVOC eq,ha,3,crop_protection,0.1123206642105263
+Photochemical ozone formation,kg NMVOC eq,ha,3,fertilisers,0.9494803936842106
+Photochemical ozone formation,kg NMVOC eq,ha,3,machines,15.356552256145342
+Photochemical ozone formation,kg NMVOC eq,ha,3,sowing,0.6025455982578748
+Photochemical ozone formation,kg NMVOC eq,ha,3,water,0.0
+Photochemical ozone formation,kg NMVOC eq,tonne,1,crop_protection,0.00512116
+Photochemical ozone formation,kg NMVOC eq,tonne,1,fertilisers,0.228792248
+Photochemical ozone formation,kg NMVOC eq,tonne,1,machines,1.01813318
+Photochemical ozone formation,kg NMVOC eq,tonne,1,sowing,0.10027784
+Photochemical ozone formation,kg NMVOC eq,tonne,1,water,0.0
+Photochemical ozone formation,kg NMVOC eq,tonne,2,crop_protection,0.006783058
+Photochemical ozone formation,kg NMVOC eq,tonne,2,fertilisers,0.181784238
+Photochemical ozone formation,kg NMVOC eq,tonne,2,machines,1.11122152
+Photochemical ozone formation,kg NMVOC eq,tonne,2,sowing,0.1033332361071272
+Photochemical ozone formation,kg NMVOC eq,tonne,2,water,0.0
+Photochemical ozone formation,kg NMVOC eq,tonne,3,crop_protection,0.0295442784210526
+Photochemical ozone formation,kg NMVOC eq,tonne,3,fertilisers,0.3307688121052631
+Photochemical ozone formation,kg NMVOC eq,tonne,3,machines,1.9060219789473685
+Photochemical ozone formation,kg NMVOC eq,tonne,3,sowing,0.1813598987705582
+Photochemical ozone formation,kg NMVOC eq,tonne,3,water,0.0
+"Resource use, fossils",MJ,ha,1,crop_protection,309.4810376
+"Resource use, fossils",MJ,ha,1,fertilisers,11378.29634864
+"Resource use, fossils",MJ,ha,1,machines,5867.642530852107
+"Resource use, fossils",MJ,ha,1,sowing,857.5580590000001
+"Resource use, fossils",MJ,ha,1,water,0.0
+"Resource use, fossils",MJ,ha,2,crop_protection,428.36727800000006
+"Resource use, fossils",MJ,ha,2,fertilisers,7334.207554580001
+"Resource use, fossils",MJ,ha,2,machines,14130.495562289188
+"Resource use, fossils",MJ,ha,2,sowing,909.2792711225928
+"Resource use, fossils",MJ,ha,2,water,0.0
+"Resource use, fossils",MJ,ha,3,crop_protection,1110.5073906842106
+"Resource use, fossils",MJ,ha,3,fertilisers,8012.211593842106
+"Resource use, fossils",MJ,ha,3,machines,18372.28511915661
+"Resource use, fossils",MJ,ha,3,sowing,883.6710909139392
+"Resource use, fossils",MJ,ha,3,water,0.0
+"Resource use, fossils",MJ,tonne,1,crop_protection,50.758832600000005
+"Resource use, fossils",MJ,tonne,1,fertilisers,1758.8935803200002
+"Resource use, fossils",MJ,tonne,1,machines,1188.7799785
+"Resource use, fossils",MJ,tonne,1,sowing,147.063771644
+"Resource use, fossils",MJ,tonne,1,water,0.0
+"Resource use, fossils",MJ,tonne,2,crop_protection,67.0641744
+"Resource use, fossils",MJ,tonne,2,fertilisers,1471.57755438
+"Resource use, fossils",MJ,tonne,2,machines,1242.526904
+"Resource use, fossils",MJ,tonne,2,sowing,151.54470257929472
+"Resource use, fossils",MJ,tonne,2,water,0.0
+"Resource use, fossils",MJ,tonne,3,crop_protection,291.90215536842106
+"Resource use, fossils",MJ,tonne,3,fertilisers,2687.309395726316
+"Resource use, fossils",MJ,tonne,3,machines,2291.152058631579
+"Resource use, fossils",MJ,tonne,3,sowing,265.9757204400527
+"Resource use, fossils",MJ,tonne,3,water,0.0
+"Resource use, minerals and metals",kg Sb eq,ha,1,crop_protection,7.71184e-05
+"Resource use, minerals and metals",kg Sb eq,ha,1,fertilisers,0.009982983
+"Resource use, minerals and metals",kg Sb eq,ha,1,machines,0.0052930062487757
+"Resource use, minerals and metals",kg Sb eq,ha,1,sowing,0.0006643199999999
+"Resource use, minerals and metals",kg Sb eq,ha,1,water,0.0
+"Resource use, minerals and metals",kg Sb eq,ha,2,crop_protection,0.0001074754
+"Resource use, minerals and metals",kg Sb eq,ha,2,fertilisers,0.0060725742
+"Resource use, minerals and metals",kg Sb eq,ha,2,machines,0.0125187215808086
+"Resource use, minerals and metals",kg Sb eq,ha,2,sowing,0.0007043865998956
+"Resource use, minerals and metals",kg Sb eq,ha,2,water,0.0
+"Resource use, minerals and metals",kg Sb eq,ha,3,crop_protection,0.0002788163157894
+"Resource use, minerals and metals",kg Sb eq,ha,3,fertilisers,0.0063552466315789
+"Resource use, minerals and metals",kg Sb eq,ha,3,machines,0.0161798774542762
+"Resource use, minerals and metals",kg Sb eq,ha,3,sowing,0.000684548845358
+"Resource use, minerals and metals",kg Sb eq,ha,3,water,0.0
+"Resource use, minerals and metals",kg Sb eq,tonne,1,crop_protection,1.26484e-05
+"Resource use, minerals and metals",kg Sb eq,tonne,1,fertilisers,0.001522483
+"Resource use, minerals and metals",kg Sb eq,tonne,1,machines,0.00103148512
+"Resource use, minerals and metals",kg Sb eq,tonne,1,sowing,0.0001139251199999
+"Resource use, minerals and metals",kg Sb eq,tonne,1,water,0.0
+"Resource use, minerals and metals",kg Sb eq,tonne,2,crop_protection,1.68388e-05
+"Resource use, minerals and metals",kg Sb eq,tonne,2,fertilisers,0.0012147489
+"Resource use, minerals and metals",kg Sb eq,tonne,2,machines,0.00108053148
+"Resource use, minerals and metals",kg Sb eq,tonne,2,sowing,0.0001173963392459
+"Resource use, minerals and metals",kg Sb eq,tonne,2,water,0.0
+"Resource use, minerals and metals",kg Sb eq,tonne,3,crop_protection,7.343147368421053e-05
+"Resource use, minerals and metals",kg Sb eq,tonne,3,fertilisers,0.0022078036842105
+"Resource use, minerals and metals",kg Sb eq,tonne,3,machines,0.0019941548210526
+"Resource use, minerals and metals",kg Sb eq,tonne,3,sowing,0.0002060420151712
+"Resource use, minerals and metals",kg Sb eq,tonne,3,water,0.0
+Water use,m3 depriv.,ha,1,crop_protection,2.417568896
+Water use,m3 depriv.,ha,1,fertilisers,202.484686316
+Water use,m3 depriv.,ha,1,machines,36.23499804113614
+Water use,m3 depriv.,ha,1,sowing,5604.53222
+Water use,m3 depriv.,ha,1,water,561392.64
+Water use,m3 depriv.,ha,2,crop_protection,3.3721479570000006
+Water use,m3 depriv.,ha,2,fertilisers,114.5645504
+Water use,m3 depriv.,ha,2,machines,84.84385865218387
+Water use,m3 depriv.,ha,2,sowing,5942.553881339813
+Water use,m3 depriv.,ha,2,water,561392.64
+Water use,m3 depriv.,ha,3,crop_protection,8.751650089473683
+Water use,m3 depriv.,ha,3,fertilisers,112.8677590568421
+Water use,m3 depriv.,ha,3,machines,112.4272906220986
+Water use,m3 depriv.,ha,3,sowing,5775.192768504695
+Water use,m3 depriv.,ha,3,water,561392.64
+Water use,m3 depriv.,tonne,1,crop_protection,0.396512096
+Water use,m3 depriv.,tonne,1,fertilisers,29.93362803
+Water use,m3 depriv.,tonne,1,machines,7.189786
+Water use,m3 depriv.,tonne,1,sowing,961.12868152
+Water use,m3 depriv.,tonne,1,water,99403.09216
+Water use,m3 depriv.,tonne,2,crop_protection,0.528466682
+Water use,m3 depriv.,tonne,2,fertilisers,22.887304029
+Water use,m3 depriv.,tonne,2,machines,7.1293925
+Water use,m3 depriv.,tonne,2,sowing,990.4136046093346
+Water use,m3 depriv.,tonne,2,water,88364.50304
+Water use,m3 depriv.,tonne,3,crop_protection,2.306213381578947
+Water use,m3 depriv.,tonne,3,fertilisers,40.797131306842104
+Water use,m3 depriv.,tonne,3,machines,14.108383105263158
+Water use,m3 depriv.,tonne,3,sowing,1738.2723878570514
+Water use,m3 depriv.,tonne,3,water,156170.8393263158

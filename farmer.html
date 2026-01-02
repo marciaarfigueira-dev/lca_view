@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ML Sets Report | Farmer view</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Outfit:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body class="landing">
+    <div class="page">
+      <header class="site-header" data-reveal>
+        <div>
+          <a class="back-link" href="./index.html">Back to overview</a>
+          <p class="eyebrow">Farmer view</p>
+          <h1>Select your farmer profile.</h1>
+          <p class="lede">
+            Choose the farmer you represent to personalize the farmer dashboards. This selection will unlock the
+            per-farmer metrics as the experience expands.
+          </p>
+        </div>
+        <div class="status-pill">Farmer mode</div>
+      </header>
+
+      <section class="section" data-reveal>
+        <div class="section-header">
+          <div>
+            <h2>Farmer selection</h2>
+            <p>Pick a farmer ID to set your farmer context. We will remember your choice.</p>
+          </div>
+        </div>
+        <div class="card-grid">
+          <div class="card">
+            <span class="mini">Select</span>
+            <h3>Which farmer are you?</h3>
+            <p>Choose from the available farmers (C1, C2, etc).</p>
+            <label class="form-field">
+              <span>Farmer ID</span>
+              <select id="farmer-select"></select>
+            </label>
+            <div class="action-row">
+              <button class="card-link" id="save-farmer" type="button">Save selection</button>
+              <a class="card-link" id="enter-view" href="./farmer-view.html">Continue</a>
+              <span class="helper-text" id="save-status"></span>
+            </div>
+          </div>
+          <div class="card emphasis">
+            <span class="mini">Status</span>
+            <h3>Selection</h3>
+            <p id="selection-summary">No farmer selected yet.</p>
+            <p class="helper-text">
+              Your choice will be stored locally for quick access when the farmer dashboards go live.
+            </p>
+          </div>
+        </div>
+      </section>
+    </div>
+    <script type="module" src="./farmer.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>

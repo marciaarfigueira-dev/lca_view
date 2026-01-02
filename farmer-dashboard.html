@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ML Sets Report | Farmer dashboard</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Outfit:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./pivot.css" />
+    <style>
+      .layout {
+        grid-template-areas:
+          "filters stats"
+          "narrative narrative"
+          "comparison comparison"
+          "pivot pivot"
+          "detail detail";
+      }
+
+      .narrative {
+        grid-area: narrative;
+      }
+
+      .comparison {
+        grid-area: comparison;
+      }
+
+      .narrative-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+        gap: 14px;
+        margin-top: 12px;
+      }
+
+      .narrative-card {
+        background: var(--panel-soft);
+        border: 1px solid rgba(21, 34, 41, 0.12);
+        border-radius: 14px;
+        padding: 14px;
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+      }
+
+      .narrative-card h3 {
+        margin: 0;
+        font-size: 1rem;
+      }
+
+      .narrative-card p {
+        margin: 0;
+        color: var(--muted);
+        line-height: 1.5;
+        font-size: 0.92rem;
+      }
+
+      @media (max-width: 900px) {
+        .layout {
+          grid-template-areas:
+            "filters"
+            "stats"
+            "narrative"
+            "comparison"
+            "pivot"
+            "detail";
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="page">
+      <header class="top-bar">
+        <div>
+          <p class="eyebrow">Farmer view</p>
+          <h1 id="farmer-title">Farmer dashboard</h1>
+          <p class="lede" id="farmer-subtitle">
+            Season-by-season metrics for the selected farmer, including DEA efficiency and cluster placement.
+          </p>
+        </div>
+        <div class="pill">
+          <span class="dot"></span>
+          <span id="farmer-pill">Farmer</span>
+        </div>
+      </header>
+
+      <section class="panel" id="missing-panel" style="display: none">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Missing selection</p>
+            <h2>Select a farmer first</h2>
+          </div>
+          <div class="panel-actions">
+            <a class="ghost" href="./farmer.html">Choose farmer</a>
+            <a class="ghost" href="./index.html">Back</a>
+          </div>
+        </div>
+        <p class="lede">We could not find a saved farmer selection. Pick a farmer to view their metrics.</p>
+      </section>
+
+      <main class="layout" id="dashboard">
+        <section class="panel filters">
+          <div class="panel-header">
+            <div>
+              <p class="eyebrow">Filters</p>
+              <h2>Scope</h2>
+            </div>
+            <div class="panel-actions">
+              <a class="ghost" href="./farmer.html">Change farmer</a>
+              <a class="ghost" href="./index.html">Back</a>
+              <button class="ghost" id="reset-filters">Reset</button>
+            </div>
+          </div>
+          <div class="filter-grid">
+            <label class="field">
+              <span>Season</span>
+              <select id="season-filter"></select>
+            </label>
+            <label class="field">
+              <span>Metric focus</span>
+              <select id="metric-filter">
+                <option value="crop_protection">Crop protection (kg/ha)</option>
+                <option value="yield">Yield (kg/ha)</option>
+                <option value="n_rate">N rate (kg/ha)</option>
+                <option value="machinery">Machinery ratio</option>
+                <option value="dea">DEA theta</option>
+              </select>
+            </label>
+          </div>
+          <div class="chip" id="active-filters"></div>
+        </section>
+
+        <section class="panel stats">
+          <div class="panel-header">
+            <div>
+              <p class="eyebrow">Overview</p>
+              <h2>Season averages</h2>
+            </div>
+          </div>
+          <div class="stat-grid" id="stat-grid"></div>
+        </section>
+
+        <section class="panel narrative" id="narrative-panel">
+          <div class="panel-header">
+            <div>
+              <p class="eyebrow">Best-cluster indication</p>
+              <h2>How you compare this season</h2>
+            </div>
+            <div class="chip muted" id="narrative-count"></div>
+          </div>
+          <div id="narrative-content" class="narrative-grid"></div>
+        </section>
+
+        <section class="panel comparison">
+          <div class="panel-header">
+            <div>
+              <p class="eyebrow">Comparison</p>
+              <h2 id="comparison-title">Inputs vs cluster averages</h2>
+            </div>
+            <div class="chip muted" id="comparison-count"></div>
+          </div>
+          <div id="comparison-table" class="table-shell"></div>
+        </section>
+
+        <section class="panel pivot">
+          <div class="panel-header">
+            <div>
+              <p class="eyebrow">Trend</p>
+              <h2 id="chart-title">Metric by season</h2>
+            </div>
+            <div class="chip muted" id="chart-context"></div>
+          </div>
+          <div id="metric-bars" class="bar-chart"></div>
+        </section>
+
+        <section class="panel detail">
+          <div class="panel-header">
+            <div>
+              <p class="eyebrow">Detail</p>
+              <h2>Season metrics</h2>
+            </div>
+            <div class="panel-actions">
+              <button class="ghost" id="download-csv">Download CSV</button>
+              <div class="chip muted" id="detail-count"></div>
+            </div>
+          </div>
+          <div id="detail-table" class="table-shell"></div>
+        </section>
+      </main>
+    </div>
+    <script type="module" src="./farmer-dashboard.js"></script>
+  </body>
+</html>
