@@ -1,0 +1,953 @@
+dmu_id,farmer_id,year,basis,impact_category,impact_unit,water_amount_m3_ha,water_amount_m3_tonne,water_factor_per_unit,water_factor_unit,characterisation_sheet,single_score_file,water_total_impact
+C1_2022,C1,2022,tonne,Acidification,mol H+ eq,,2554.944,0.0,1 m3 water,18_chara,,0.0
+C1_2022,C1,2022,tonne,Climate change,kg CO2 eq,,2554.944,0.0,1 m3 water,18_chara,,0.0
+C1_2022,C1,2022,tonne,Climate change - Biogenic,kg CO2 eq,,2554.944,0.0,1 m3 water,18_chara,,0.0
+C1_2022,C1,2022,tonne,Climate change - Fossil,kg CO2 eq,,2554.944,0.0,1 m3 water,18_chara,,0.0
+C1_2022,C1,2022,tonne,Climate change - Land use and LU change,kg CO2 eq,,2554.944,0.0,1 m3 water,18_chara,,0.0
+C1_2022,C1,2022,tonne,"Ecotoxicity, freshwater",CTUe,,2554.944,0.0,1 m3 water,18_chara,,0.0
+C1_2022,C1,2022,tonne,"Ecotoxicity, freshwater - inorganics",CTUe,,2554.944,0.0,1 m3 water,18_chara,,0.0
+C1_2022,C1,2022,tonne,"Ecotoxicity, freshwater - metals",CTUe,,2554.944,0.0,1 m3 water,18_chara,,0.0
+C1_2022,C1,2022,tonne,"Ecotoxicity, freshwater - organics",CTUe,,2554.944,0.0,1 m3 water,18_chara,,0.0
+C1_2022,C1,2022,tonne,"Eutrophication, freshwater",kg P eq,,2554.944,0.0,1 m3 water,18_chara,,0.0
+C1_2022,C1,2022,tonne,"Eutrophication, marine",kg N eq,,2554.944,0.0,1 m3 water,18_chara,,0.0
+C1_2022,C1,2022,tonne,"Eutrophication, terrestrial",mol N eq,,2554.944,0.0,1 m3 water,18_chara,,0.0
+C1_2022,C1,2022,tonne,"Human toxicity, cancer",CTUh,,2554.944,0.0,1 m3 water,18_chara,,0.0
+C1_2022,C1,2022,tonne,"Human toxicity, cancer - inorganics",CTUh,,2554.944,0.0,1 m3 water,18_chara,,0.0
+C1_2022,C1,2022,tonne,"Human toxicity, cancer - metals",CTUh,,2554.944,0.0,1 m3 water,18_chara,,0.0
+C1_2022,C1,2022,tonne,"Human toxicity, cancer - organics",CTUh,,2554.944,0.0,1 m3 water,18_chara,,0.0
+C1_2022,C1,2022,tonne,"Human toxicity, non-cancer",CTUh,,2554.944,0.0,1 m3 water,18_chara,,0.0
+C1_2022,C1,2022,tonne,"Human toxicity, non-cancer - inorganics",CTUh,,2554.944,0.0,1 m3 water,18_chara,,0.0
+C1_2022,C1,2022,tonne,"Human toxicity, non-cancer - metals",CTUh,,2554.944,0.0,1 m3 water,18_chara,,0.0
+C1_2022,C1,2022,tonne,"Human toxicity, non-cancer - organics",CTUh,,2554.944,0.0,1 m3 water,18_chara,,0.0
+C1_2022,C1,2022,tonne,Ionising radiation,kBq U-235 eq,,2554.944,0.0,1 m3 water,18_chara,,0.0
+C1_2022,C1,2022,tonne,Land use,Pt,,2554.944,0.0,1 m3 water,18_chara,,0.0
+C1_2022,C1,2022,tonne,Ozone depletion,kg CFC11 eq,,2554.944,0.0,1 m3 water,18_chara,,0.0
+C1_2022,C1,2022,tonne,Particulate matter,disease inc.,,2554.944,0.0,1 m3 water,18_chara,,0.0
+C1_2022,C1,2022,tonne,Photochemical ozone formation,kg NMVOC eq,,2554.944,0.0,1 m3 water,18_chara,,0.0
+C1_2022,C1,2022,tonne,"Resource use, fossils",MJ,,2554.944,0.0,1 m3 water,18_chara,,0.0
+C1_2022,C1,2022,tonne,"Resource use, minerals and metals",kg Sb eq,,2554.944,0.0,1 m3 water,18_chara,,0.0
+C1_2022,C1,2022,tonne,Water use,m3 depriv.,,2554.944,49.6,1 m3 water,18_chara,,126725.2224
+C1_2023,C1,2023,tonne,Acidification,mol H+ eq,,2493.04,0.0,1 m3 water,18_chara,,0.0
+C1_2023,C1,2023,tonne,Climate change,kg CO2 eq,,2493.04,0.0,1 m3 water,18_chara,,0.0
+C1_2023,C1,2023,tonne,Climate change - Biogenic,kg CO2 eq,,2493.04,0.0,1 m3 water,18_chara,,0.0
+C1_2023,C1,2023,tonne,Climate change - Fossil,kg CO2 eq,,2493.04,0.0,1 m3 water,18_chara,,0.0
+C1_2023,C1,2023,tonne,Climate change - Land use and LU change,kg CO2 eq,,2493.04,0.0,1 m3 water,18_chara,,0.0
+C1_2023,C1,2023,tonne,"Ecotoxicity, freshwater",CTUe,,2493.04,0.0,1 m3 water,18_chara,,0.0
+C1_2023,C1,2023,tonne,"Ecotoxicity, freshwater - inorganics",CTUe,,2493.04,0.0,1 m3 water,18_chara,,0.0
+C1_2023,C1,2023,tonne,"Ecotoxicity, freshwater - metals",CTUe,,2493.04,0.0,1 m3 water,18_chara,,0.0
+C1_2023,C1,2023,tonne,"Ecotoxicity, freshwater - organics",CTUe,,2493.04,0.0,1 m3 water,18_chara,,0.0
+C1_2023,C1,2023,tonne,"Eutrophication, freshwater",kg P eq,,2493.04,0.0,1 m3 water,18_chara,,0.0
+C1_2023,C1,2023,tonne,"Eutrophication, marine",kg N eq,,2493.04,0.0,1 m3 water,18_chara,,0.0
+C1_2023,C1,2023,tonne,"Eutrophication, terrestrial",mol N eq,,2493.04,0.0,1 m3 water,18_chara,,0.0
+C1_2023,C1,2023,tonne,"Human toxicity, cancer",CTUh,,2493.04,0.0,1 m3 water,18_chara,,0.0
+C1_2023,C1,2023,tonne,"Human toxicity, cancer - inorganics",CTUh,,2493.04,0.0,1 m3 water,18_chara,,0.0
+C1_2023,C1,2023,tonne,"Human toxicity, cancer - metals",CTUh,,2493.04,0.0,1 m3 water,18_chara,,0.0
+C1_2023,C1,2023,tonne,"Human toxicity, cancer - organics",CTUh,,2493.04,0.0,1 m3 water,18_chara,,0.0
+C1_2023,C1,2023,tonne,"Human toxicity, non-cancer",CTUh,,2493.04,0.0,1 m3 water,18_chara,,0.0
+C1_2023,C1,2023,tonne,"Human toxicity, non-cancer - inorganics",CTUh,,2493.04,0.0,1 m3 water,18_chara,,0.0
+C1_2023,C1,2023,tonne,"Human toxicity, non-cancer - metals",CTUh,,2493.04,0.0,1 m3 water,18_chara,,0.0
+C1_2023,C1,2023,tonne,"Human toxicity, non-cancer - organics",CTUh,,2493.04,0.0,1 m3 water,18_chara,,0.0
+C1_2023,C1,2023,tonne,Ionising radiation,kBq U-235 eq,,2493.04,0.0,1 m3 water,18_chara,,0.0
+C1_2023,C1,2023,tonne,Land use,Pt,,2493.04,0.0,1 m3 water,18_chara,,0.0
+C1_2023,C1,2023,tonne,Ozone depletion,kg CFC11 eq,,2493.04,0.0,1 m3 water,18_chara,,0.0
+C1_2023,C1,2023,tonne,Particulate matter,disease inc.,,2493.04,0.0,1 m3 water,18_chara,,0.0
+C1_2023,C1,2023,tonne,Photochemical ozone formation,kg NMVOC eq,,2493.04,0.0,1 m3 water,18_chara,,0.0
+C1_2023,C1,2023,tonne,"Resource use, fossils",MJ,,2493.04,0.0,1 m3 water,18_chara,,0.0
+C1_2023,C1,2023,tonne,"Resource use, minerals and metals",kg Sb eq,,2493.04,0.0,1 m3 water,18_chara,,0.0
+C1_2023,C1,2023,tonne,Water use,m3 depriv.,,2493.04,49.6,1 m3 water,18_chara,,123654.784
+C1_2024,C1,2024,tonne,Acidification,mol H+ eq,,2367.866,0.0,1 m3 water,18_chara,,0.0
+C1_2024,C1,2024,tonne,Climate change,kg CO2 eq,,2367.866,0.0,1 m3 water,18_chara,,0.0
+C1_2024,C1,2024,tonne,Climate change - Biogenic,kg CO2 eq,,2367.866,0.0,1 m3 water,18_chara,,0.0
+C1_2024,C1,2024,tonne,Climate change - Fossil,kg CO2 eq,,2367.866,0.0,1 m3 water,18_chara,,0.0
+C1_2024,C1,2024,tonne,Climate change - Land use and LU change,kg CO2 eq,,2367.866,0.0,1 m3 water,18_chara,,0.0
+C1_2024,C1,2024,tonne,"Ecotoxicity, freshwater",CTUe,,2367.866,0.0,1 m3 water,18_chara,,0.0
+C1_2024,C1,2024,tonne,"Ecotoxicity, freshwater - inorganics",CTUe,,2367.866,0.0,1 m3 water,18_chara,,0.0
+C1_2024,C1,2024,tonne,"Ecotoxicity, freshwater - metals",CTUe,,2367.866,0.0,1 m3 water,18_chara,,0.0
+C1_2024,C1,2024,tonne,"Ecotoxicity, freshwater - organics",CTUe,,2367.866,0.0,1 m3 water,18_chara,,0.0
+C1_2024,C1,2024,tonne,"Eutrophication, freshwater",kg P eq,,2367.866,0.0,1 m3 water,18_chara,,0.0
+C1_2024,C1,2024,tonne,"Eutrophication, marine",kg N eq,,2367.866,0.0,1 m3 water,18_chara,,0.0
+C1_2024,C1,2024,tonne,"Eutrophication, terrestrial",mol N eq,,2367.866,0.0,1 m3 water,18_chara,,0.0
+C1_2024,C1,2024,tonne,"Human toxicity, cancer",CTUh,,2367.866,0.0,1 m3 water,18_chara,,0.0
+C1_2024,C1,2024,tonne,"Human toxicity, cancer - inorganics",CTUh,,2367.866,0.0,1 m3 water,18_chara,,0.0
+C1_2024,C1,2024,tonne,"Human toxicity, cancer - metals",CTUh,,2367.866,0.0,1 m3 water,18_chara,,0.0
+C1_2024,C1,2024,tonne,"Human toxicity, cancer - organics",CTUh,,2367.866,0.0,1 m3 water,18_chara,,0.0
+C1_2024,C1,2024,tonne,"Human toxicity, non-cancer",CTUh,,2367.866,0.0,1 m3 water,18_chara,,0.0
+C1_2024,C1,2024,tonne,"Human toxicity, non-cancer - inorganics",CTUh,,2367.866,0.0,1 m3 water,18_chara,,0.0
+C1_2024,C1,2024,tonne,"Human toxicity, non-cancer - metals",CTUh,,2367.866,0.0,1 m3 water,18_chara,,0.0
+C1_2024,C1,2024,tonne,"Human toxicity, non-cancer - organics",CTUh,,2367.866,0.0,1 m3 water,18_chara,,0.0
+C1_2024,C1,2024,tonne,Ionising radiation,kBq U-235 eq,,2367.866,0.0,1 m3 water,18_chara,,0.0
+C1_2024,C1,2024,tonne,Land use,Pt,,2367.866,0.0,1 m3 water,18_chara,,0.0
+C1_2024,C1,2024,tonne,Ozone depletion,kg CFC11 eq,,2367.866,0.0,1 m3 water,18_chara,,0.0
+C1_2024,C1,2024,tonne,Particulate matter,disease inc.,,2367.866,0.0,1 m3 water,18_chara,,0.0
+C1_2024,C1,2024,tonne,Photochemical ozone formation,kg NMVOC eq,,2367.866,0.0,1 m3 water,18_chara,,0.0
+C1_2024,C1,2024,tonne,"Resource use, fossils",MJ,,2367.866,0.0,1 m3 water,18_chara,,0.0
+C1_2024,C1,2024,tonne,"Resource use, minerals and metals",kg Sb eq,,2367.866,0.0,1 m3 water,18_chara,,0.0
+C1_2024,C1,2024,tonne,Water use,m3 depriv.,,2367.866,49.6,1 m3 water,18_chara,,117446.1536
+C2_2022,C2,2022,tonne,Acidification,mol H+ eq,,1637.974,0.0,1 m3 water,18_chara,,0.0
+C2_2022,C2,2022,tonne,Climate change,kg CO2 eq,,1637.974,0.0,1 m3 water,18_chara,,0.0
+C2_2022,C2,2022,tonne,Climate change - Biogenic,kg CO2 eq,,1637.974,0.0,1 m3 water,18_chara,,0.0
+C2_2022,C2,2022,tonne,Climate change - Fossil,kg CO2 eq,,1637.974,0.0,1 m3 water,18_chara,,0.0
+C2_2022,C2,2022,tonne,Climate change - Land use and LU change,kg CO2 eq,,1637.974,0.0,1 m3 water,18_chara,,0.0
+C2_2022,C2,2022,tonne,"Ecotoxicity, freshwater",CTUe,,1637.974,0.0,1 m3 water,18_chara,,0.0
+C2_2022,C2,2022,tonne,"Ecotoxicity, freshwater - inorganics",CTUe,,1637.974,0.0,1 m3 water,18_chara,,0.0
+C2_2022,C2,2022,tonne,"Ecotoxicity, freshwater - metals",CTUe,,1637.974,0.0,1 m3 water,18_chara,,0.0
+C2_2022,C2,2022,tonne,"Ecotoxicity, freshwater - organics",CTUe,,1637.974,0.0,1 m3 water,18_chara,,0.0
+C2_2022,C2,2022,tonne,"Eutrophication, freshwater",kg P eq,,1637.974,0.0,1 m3 water,18_chara,,0.0
+C2_2022,C2,2022,tonne,"Eutrophication, marine",kg N eq,,1637.974,0.0,1 m3 water,18_chara,,0.0
+C2_2022,C2,2022,tonne,"Eutrophication, terrestrial",mol N eq,,1637.974,0.0,1 m3 water,18_chara,,0.0
+C2_2022,C2,2022,tonne,"Human toxicity, cancer",CTUh,,1637.974,0.0,1 m3 water,18_chara,,0.0
+C2_2022,C2,2022,tonne,"Human toxicity, cancer - inorganics",CTUh,,1637.974,0.0,1 m3 water,18_chara,,0.0
+C2_2022,C2,2022,tonne,"Human toxicity, cancer - metals",CTUh,,1637.974,0.0,1 m3 water,18_chara,,0.0
+C2_2022,C2,2022,tonne,"Human toxicity, cancer - organics",CTUh,,1637.974,0.0,1 m3 water,18_chara,,0.0
+C2_2022,C2,2022,tonne,"Human toxicity, non-cancer",CTUh,,1637.974,0.0,1 m3 water,18_chara,,0.0
+C2_2022,C2,2022,tonne,"Human toxicity, non-cancer - inorganics",CTUh,,1637.974,0.0,1 m3 water,18_chara,,0.0
+C2_2022,C2,2022,tonne,"Human toxicity, non-cancer - metals",CTUh,,1637.974,0.0,1 m3 water,18_chara,,0.0
+C2_2022,C2,2022,tonne,"Human toxicity, non-cancer - organics",CTUh,,1637.974,0.0,1 m3 water,18_chara,,0.0
+C2_2022,C2,2022,tonne,Ionising radiation,kBq U-235 eq,,1637.974,0.0,1 m3 water,18_chara,,0.0
+C2_2022,C2,2022,tonne,Land use,Pt,,1637.974,0.0,1 m3 water,18_chara,,0.0
+C2_2022,C2,2022,tonne,Ozone depletion,kg CFC11 eq,,1637.974,0.0,1 m3 water,18_chara,,0.0
+C2_2022,C2,2022,tonne,Particulate matter,disease inc.,,1637.974,0.0,1 m3 water,18_chara,,0.0
+C2_2022,C2,2022,tonne,Photochemical ozone formation,kg NMVOC eq,,1637.974,0.0,1 m3 water,18_chara,,0.0
+C2_2022,C2,2022,tonne,"Resource use, fossils",MJ,,1637.974,0.0,1 m3 water,18_chara,,0.0
+C2_2022,C2,2022,tonne,"Resource use, minerals and metals",kg Sb eq,,1637.974,0.0,1 m3 water,18_chara,,0.0
+C2_2022,C2,2022,tonne,Water use,m3 depriv.,,1637.974,49.6,1 m3 water,18_chara,,81243.5104
+C2_2023,C2,2023,tonne,Acidification,mol H+ eq,,1299.472,0.0,1 m3 water,18_chara,,0.0
+C2_2023,C2,2023,tonne,Climate change,kg CO2 eq,,1299.472,0.0,1 m3 water,18_chara,,0.0
+C2_2023,C2,2023,tonne,Climate change - Biogenic,kg CO2 eq,,1299.472,0.0,1 m3 water,18_chara,,0.0
+C2_2023,C2,2023,tonne,Climate change - Fossil,kg CO2 eq,,1299.472,0.0,1 m3 water,18_chara,,0.0
+C2_2023,C2,2023,tonne,Climate change - Land use and LU change,kg CO2 eq,,1299.472,0.0,1 m3 water,18_chara,,0.0
+C2_2023,C2,2023,tonne,"Ecotoxicity, freshwater",CTUe,,1299.472,0.0,1 m3 water,18_chara,,0.0
+C2_2023,C2,2023,tonne,"Ecotoxicity, freshwater - inorganics",CTUe,,1299.472,0.0,1 m3 water,18_chara,,0.0
+C2_2023,C2,2023,tonne,"Ecotoxicity, freshwater - metals",CTUe,,1299.472,0.0,1 m3 water,18_chara,,0.0
+C2_2023,C2,2023,tonne,"Ecotoxicity, freshwater - organics",CTUe,,1299.472,0.0,1 m3 water,18_chara,,0.0
+C2_2023,C2,2023,tonne,"Eutrophication, freshwater",kg P eq,,1299.472,0.0,1 m3 water,18_chara,,0.0
+C2_2023,C2,2023,tonne,"Eutrophication, marine",kg N eq,,1299.472,0.0,1 m3 water,18_chara,,0.0
+C2_2023,C2,2023,tonne,"Eutrophication, terrestrial",mol N eq,,1299.472,0.0,1 m3 water,18_chara,,0.0
+C2_2023,C2,2023,tonne,"Human toxicity, cancer",CTUh,,1299.472,0.0,1 m3 water,18_chara,,0.0
+C2_2023,C2,2023,tonne,"Human toxicity, cancer - inorganics",CTUh,,1299.472,0.0,1 m3 water,18_chara,,0.0
+C2_2023,C2,2023,tonne,"Human toxicity, cancer - metals",CTUh,,1299.472,0.0,1 m3 water,18_chara,,0.0
+C2_2023,C2,2023,tonne,"Human toxicity, cancer - organics",CTUh,,1299.472,0.0,1 m3 water,18_chara,,0.0
+C2_2023,C2,2023,tonne,"Human toxicity, non-cancer",CTUh,,1299.472,0.0,1 m3 water,18_chara,,0.0
+C2_2023,C2,2023,tonne,"Human toxicity, non-cancer - inorganics",CTUh,,1299.472,0.0,1 m3 water,18_chara,,0.0
+C2_2023,C2,2023,tonne,"Human toxicity, non-cancer - metals",CTUh,,1299.472,0.0,1 m3 water,18_chara,,0.0
+C2_2023,C2,2023,tonne,"Human toxicity, non-cancer - organics",CTUh,,1299.472,0.0,1 m3 water,18_chara,,0.0
+C2_2023,C2,2023,tonne,Ionising radiation,kBq U-235 eq,,1299.472,0.0,1 m3 water,18_chara,,0.0
+C2_2023,C2,2023,tonne,Land use,Pt,,1299.472,0.0,1 m3 water,18_chara,,0.0
+C2_2023,C2,2023,tonne,Ozone depletion,kg CFC11 eq,,1299.472,0.0,1 m3 water,18_chara,,0.0
+C2_2023,C2,2023,tonne,Particulate matter,disease inc.,,1299.472,0.0,1 m3 water,18_chara,,0.0
+C2_2023,C2,2023,tonne,Photochemical ozone formation,kg NMVOC eq,,1299.472,0.0,1 m3 water,18_chara,,0.0
+C2_2023,C2,2023,tonne,"Resource use, fossils",MJ,,1299.472,0.0,1 m3 water,18_chara,,0.0
+C2_2023,C2,2023,tonne,"Resource use, minerals and metals",kg Sb eq,,1299.472,0.0,1 m3 water,18_chara,,0.0
+C2_2023,C2,2023,tonne,Water use,m3 depriv.,,1299.472,49.6,1 m3 water,18_chara,,64453.811200000004
+C2_2024,C2,2024,tonne,Acidification,mol H+ eq,,1531.583,0.0,1 m3 water,18_chara,,0.0
+C2_2024,C2,2024,tonne,Climate change,kg CO2 eq,,1531.583,0.0,1 m3 water,18_chara,,0.0
+C2_2024,C2,2024,tonne,Climate change - Biogenic,kg CO2 eq,,1531.583,0.0,1 m3 water,18_chara,,0.0
+C2_2024,C2,2024,tonne,Climate change - Fossil,kg CO2 eq,,1531.583,0.0,1 m3 water,18_chara,,0.0
+C2_2024,C2,2024,tonne,Climate change - Land use and LU change,kg CO2 eq,,1531.583,0.0,1 m3 water,18_chara,,0.0
+C2_2024,C2,2024,tonne,"Ecotoxicity, freshwater",CTUe,,1531.583,0.0,1 m3 water,18_chara,,0.0
+C2_2024,C2,2024,tonne,"Ecotoxicity, freshwater - inorganics",CTUe,,1531.583,0.0,1 m3 water,18_chara,,0.0
+C2_2024,C2,2024,tonne,"Ecotoxicity, freshwater - metals",CTUe,,1531.583,0.0,1 m3 water,18_chara,,0.0
+C2_2024,C2,2024,tonne,"Ecotoxicity, freshwater - organics",CTUe,,1531.583,0.0,1 m3 water,18_chara,,0.0
+C2_2024,C2,2024,tonne,"Eutrophication, freshwater",kg P eq,,1531.583,0.0,1 m3 water,18_chara,,0.0
+C2_2024,C2,2024,tonne,"Eutrophication, marine",kg N eq,,1531.583,0.0,1 m3 water,18_chara,,0.0
+C2_2024,C2,2024,tonne,"Eutrophication, terrestrial",mol N eq,,1531.583,0.0,1 m3 water,18_chara,,0.0
+C2_2024,C2,2024,tonne,"Human toxicity, cancer",CTUh,,1531.583,0.0,1 m3 water,18_chara,,0.0
+C2_2024,C2,2024,tonne,"Human toxicity, cancer - inorganics",CTUh,,1531.583,0.0,1 m3 water,18_chara,,0.0
+C2_2024,C2,2024,tonne,"Human toxicity, cancer - metals",CTUh,,1531.583,0.0,1 m3 water,18_chara,,0.0
+C2_2024,C2,2024,tonne,"Human toxicity, cancer - organics",CTUh,,1531.583,0.0,1 m3 water,18_chara,,0.0
+C2_2024,C2,2024,tonne,"Human toxicity, non-cancer",CTUh,,1531.583,0.0,1 m3 water,18_chara,,0.0
+C2_2024,C2,2024,tonne,"Human toxicity, non-cancer - inorganics",CTUh,,1531.583,0.0,1 m3 water,18_chara,,0.0
+C2_2024,C2,2024,tonne,"Human toxicity, non-cancer - metals",CTUh,,1531.583,0.0,1 m3 water,18_chara,,0.0
+C2_2024,C2,2024,tonne,"Human toxicity, non-cancer - organics",CTUh,,1531.583,0.0,1 m3 water,18_chara,,0.0
+C2_2024,C2,2024,tonne,Ionising radiation,kBq U-235 eq,,1531.583,0.0,1 m3 water,18_chara,,0.0
+C2_2024,C2,2024,tonne,Land use,Pt,,1531.583,0.0,1 m3 water,18_chara,,0.0
+C2_2024,C2,2024,tonne,Ozone depletion,kg CFC11 eq,,1531.583,0.0,1 m3 water,18_chara,,0.0
+C2_2024,C2,2024,tonne,Particulate matter,disease inc.,,1531.583,0.0,1 m3 water,18_chara,,0.0
+C2_2024,C2,2024,tonne,Photochemical ozone formation,kg NMVOC eq,,1531.583,0.0,1 m3 water,18_chara,,0.0
+C2_2024,C2,2024,tonne,"Resource use, fossils",MJ,,1531.583,0.0,1 m3 water,18_chara,,0.0
+C2_2024,C2,2024,tonne,"Resource use, minerals and metals",kg Sb eq,,1531.583,0.0,1 m3 water,18_chara,,0.0
+C2_2024,C2,2024,tonne,Water use,m3 depriv.,,1531.583,49.6,1 m3 water,18_chara,,75966.51680000001
+C3_2022,C3,2022,tonne,Acidification,mol H+ eq,,2372.83,0.0,1 m3 water,18_chara,,0.0
+C3_2022,C3,2022,tonne,Climate change,kg CO2 eq,,2372.83,0.0,1 m3 water,18_chara,,0.0
+C3_2022,C3,2022,tonne,Climate change - Biogenic,kg CO2 eq,,2372.83,0.0,1 m3 water,18_chara,,0.0
+C3_2022,C3,2022,tonne,Climate change - Fossil,kg CO2 eq,,2372.83,0.0,1 m3 water,18_chara,,0.0
+C3_2022,C3,2022,tonne,Climate change - Land use and LU change,kg CO2 eq,,2372.83,0.0,1 m3 water,18_chara,,0.0
+C3_2022,C3,2022,tonne,"Ecotoxicity, freshwater",CTUe,,2372.83,0.0,1 m3 water,18_chara,,0.0
+C3_2022,C3,2022,tonne,"Ecotoxicity, freshwater - inorganics",CTUe,,2372.83,0.0,1 m3 water,18_chara,,0.0
+C3_2022,C3,2022,tonne,"Ecotoxicity, freshwater - metals",CTUe,,2372.83,0.0,1 m3 water,18_chara,,0.0
+C3_2022,C3,2022,tonne,"Ecotoxicity, freshwater - organics",CTUe,,2372.83,0.0,1 m3 water,18_chara,,0.0
+C3_2022,C3,2022,tonne,"Eutrophication, freshwater",kg P eq,,2372.83,0.0,1 m3 water,18_chara,,0.0
+C3_2022,C3,2022,tonne,"Eutrophication, marine",kg N eq,,2372.83,0.0,1 m3 water,18_chara,,0.0
+C3_2022,C3,2022,tonne,"Eutrophication, terrestrial",mol N eq,,2372.83,0.0,1 m3 water,18_chara,,0.0
+C3_2022,C3,2022,tonne,"Human toxicity, cancer",CTUh,,2372.83,0.0,1 m3 water,18_chara,,0.0
+C3_2022,C3,2022,tonne,"Human toxicity, cancer - inorganics",CTUh,,2372.83,0.0,1 m3 water,18_chara,,0.0
+C3_2022,C3,2022,tonne,"Human toxicity, cancer - metals",CTUh,,2372.83,0.0,1 m3 water,18_chara,,0.0
+C3_2022,C3,2022,tonne,"Human toxicity, cancer - organics",CTUh,,2372.83,0.0,1 m3 water,18_chara,,0.0
+C3_2022,C3,2022,tonne,"Human toxicity, non-cancer",CTUh,,2372.83,0.0,1 m3 water,18_chara,,0.0
+C3_2022,C3,2022,tonne,"Human toxicity, non-cancer - inorganics",CTUh,,2372.83,0.0,1 m3 water,18_chara,,0.0
+C3_2022,C3,2022,tonne,"Human toxicity, non-cancer - metals",CTUh,,2372.83,0.0,1 m3 water,18_chara,,0.0
+C3_2022,C3,2022,tonne,"Human toxicity, non-cancer - organics",CTUh,,2372.83,0.0,1 m3 water,18_chara,,0.0
+C3_2022,C3,2022,tonne,Ionising radiation,kBq U-235 eq,,2372.83,0.0,1 m3 water,18_chara,,0.0
+C3_2022,C3,2022,tonne,Land use,Pt,,2372.83,0.0,1 m3 water,18_chara,,0.0
+C3_2022,C3,2022,tonne,Ozone depletion,kg CFC11 eq,,2372.83,0.0,1 m3 water,18_chara,,0.0
+C3_2022,C3,2022,tonne,Particulate matter,disease inc.,,2372.83,0.0,1 m3 water,18_chara,,0.0
+C3_2022,C3,2022,tonne,Photochemical ozone formation,kg NMVOC eq,,2372.83,0.0,1 m3 water,18_chara,,0.0
+C3_2022,C3,2022,tonne,"Resource use, fossils",MJ,,2372.83,0.0,1 m3 water,18_chara,,0.0
+C3_2022,C3,2022,tonne,"Resource use, minerals and metals",kg Sb eq,,2372.83,0.0,1 m3 water,18_chara,,0.0
+C3_2022,C3,2022,tonne,Water use,m3 depriv.,,2372.83,49.6,1 m3 water,18_chara,,117692.368
+C3_2023,C3,2023,tonne,Acidification,mol H+ eq,,1905.455,0.0,1 m3 water,18_chara,,0.0
+C3_2023,C3,2023,tonne,Climate change,kg CO2 eq,,1905.455,0.0,1 m3 water,18_chara,,0.0
+C3_2023,C3,2023,tonne,Climate change - Biogenic,kg CO2 eq,,1905.455,0.0,1 m3 water,18_chara,,0.0
+C3_2023,C3,2023,tonne,Climate change - Fossil,kg CO2 eq,,1905.455,0.0,1 m3 water,18_chara,,0.0
+C3_2023,C3,2023,tonne,Climate change - Land use and LU change,kg CO2 eq,,1905.455,0.0,1 m3 water,18_chara,,0.0
+C3_2023,C3,2023,tonne,"Ecotoxicity, freshwater",CTUe,,1905.455,0.0,1 m3 water,18_chara,,0.0
+C3_2023,C3,2023,tonne,"Ecotoxicity, freshwater - inorganics",CTUe,,1905.455,0.0,1 m3 water,18_chara,,0.0
+C3_2023,C3,2023,tonne,"Ecotoxicity, freshwater - metals",CTUe,,1905.455,0.0,1 m3 water,18_chara,,0.0
+C3_2023,C3,2023,tonne,"Ecotoxicity, freshwater - organics",CTUe,,1905.455,0.0,1 m3 water,18_chara,,0.0
+C3_2023,C3,2023,tonne,"Eutrophication, freshwater",kg P eq,,1905.455,0.0,1 m3 water,18_chara,,0.0
+C3_2023,C3,2023,tonne,"Eutrophication, marine",kg N eq,,1905.455,0.0,1 m3 water,18_chara,,0.0
+C3_2023,C3,2023,tonne,"Eutrophication, terrestrial",mol N eq,,1905.455,0.0,1 m3 water,18_chara,,0.0
+C3_2023,C3,2023,tonne,"Human toxicity, cancer",CTUh,,1905.455,0.0,1 m3 water,18_chara,,0.0
+C3_2023,C3,2023,tonne,"Human toxicity, cancer - inorganics",CTUh,,1905.455,0.0,1 m3 water,18_chara,,0.0
+C3_2023,C3,2023,tonne,"Human toxicity, cancer - metals",CTUh,,1905.455,0.0,1 m3 water,18_chara,,0.0
+C3_2023,C3,2023,tonne,"Human toxicity, cancer - organics",CTUh,,1905.455,0.0,1 m3 water,18_chara,,0.0
+C3_2023,C3,2023,tonne,"Human toxicity, non-cancer",CTUh,,1905.455,0.0,1 m3 water,18_chara,,0.0
+C3_2023,C3,2023,tonne,"Human toxicity, non-cancer - inorganics",CTUh,,1905.455,0.0,1 m3 water,18_chara,,0.0
+C3_2023,C3,2023,tonne,"Human toxicity, non-cancer - metals",CTUh,,1905.455,0.0,1 m3 water,18_chara,,0.0
+C3_2023,C3,2023,tonne,"Human toxicity, non-cancer - organics",CTUh,,1905.455,0.0,1 m3 water,18_chara,,0.0
+C3_2023,C3,2023,tonne,Ionising radiation,kBq U-235 eq,,1905.455,0.0,1 m3 water,18_chara,,0.0
+C3_2023,C3,2023,tonne,Land use,Pt,,1905.455,0.0,1 m3 water,18_chara,,0.0
+C3_2023,C3,2023,tonne,Ozone depletion,kg CFC11 eq,,1905.455,0.0,1 m3 water,18_chara,,0.0
+C3_2023,C3,2023,tonne,Particulate matter,disease inc.,,1905.455,0.0,1 m3 water,18_chara,,0.0
+C3_2023,C3,2023,tonne,Photochemical ozone formation,kg NMVOC eq,,1905.455,0.0,1 m3 water,18_chara,,0.0
+C3_2023,C3,2023,tonne,"Resource use, fossils",MJ,,1905.455,0.0,1 m3 water,18_chara,,0.0
+C3_2023,C3,2023,tonne,"Resource use, minerals and metals",kg Sb eq,,1905.455,0.0,1 m3 water,18_chara,,0.0
+C3_2023,C3,2023,tonne,Water use,m3 depriv.,,1905.455,49.6,1 m3 water,18_chara,,94510.568
+C3_2024,C3,2024,tonne,Acidification,mol H+ eq,,1961.594,0.0,1 m3 water,18_chara,,0.0
+C3_2024,C3,2024,tonne,Climate change,kg CO2 eq,,1961.594,0.0,1 m3 water,18_chara,,0.0
+C3_2024,C3,2024,tonne,Climate change - Biogenic,kg CO2 eq,,1961.594,0.0,1 m3 water,18_chara,,0.0
+C3_2024,C3,2024,tonne,Climate change - Fossil,kg CO2 eq,,1961.594,0.0,1 m3 water,18_chara,,0.0
+C3_2024,C3,2024,tonne,Climate change - Land use and LU change,kg CO2 eq,,1961.594,0.0,1 m3 water,18_chara,,0.0
+C3_2024,C3,2024,tonne,"Ecotoxicity, freshwater",CTUe,,1961.594,0.0,1 m3 water,18_chara,,0.0
+C3_2024,C3,2024,tonne,"Ecotoxicity, freshwater - inorganics",CTUe,,1961.594,0.0,1 m3 water,18_chara,,0.0
+C3_2024,C3,2024,tonne,"Ecotoxicity, freshwater - metals",CTUe,,1961.594,0.0,1 m3 water,18_chara,,0.0
+C3_2024,C3,2024,tonne,"Ecotoxicity, freshwater - organics",CTUe,,1961.594,0.0,1 m3 water,18_chara,,0.0
+C3_2024,C3,2024,tonne,"Eutrophication, freshwater",kg P eq,,1961.594,0.0,1 m3 water,18_chara,,0.0
+C3_2024,C3,2024,tonne,"Eutrophication, marine",kg N eq,,1961.594,0.0,1 m3 water,18_chara,,0.0
+C3_2024,C3,2024,tonne,"Eutrophication, terrestrial",mol N eq,,1961.594,0.0,1 m3 water,18_chara,,0.0
+C3_2024,C3,2024,tonne,"Human toxicity, cancer",CTUh,,1961.594,0.0,1 m3 water,18_chara,,0.0
+C3_2024,C3,2024,tonne,"Human toxicity, cancer - inorganics",CTUh,,1961.594,0.0,1 m3 water,18_chara,,0.0
+C3_2024,C3,2024,tonne,"Human toxicity, cancer - metals",CTUh,,1961.594,0.0,1 m3 water,18_chara,,0.0
+C3_2024,C3,2024,tonne,"Human toxicity, cancer - organics",CTUh,,1961.594,0.0,1 m3 water,18_chara,,0.0
+C3_2024,C3,2024,tonne,"Human toxicity, non-cancer",CTUh,,1961.594,0.0,1 m3 water,18_chara,,0.0
+C3_2024,C3,2024,tonne,"Human toxicity, non-cancer - inorganics",CTUh,,1961.594,0.0,1 m3 water,18_chara,,0.0
+C3_2024,C3,2024,tonne,"Human toxicity, non-cancer - metals",CTUh,,1961.594,0.0,1 m3 water,18_chara,,0.0
+C3_2024,C3,2024,tonne,"Human toxicity, non-cancer - organics",CTUh,,1961.594,0.0,1 m3 water,18_chara,,0.0
+C3_2024,C3,2024,tonne,Ionising radiation,kBq U-235 eq,,1961.594,0.0,1 m3 water,18_chara,,0.0
+C3_2024,C3,2024,tonne,Land use,Pt,,1961.594,0.0,1 m3 water,18_chara,,0.0
+C3_2024,C3,2024,tonne,Ozone depletion,kg CFC11 eq,,1961.594,0.0,1 m3 water,18_chara,,0.0
+C3_2024,C3,2024,tonne,Particulate matter,disease inc.,,1961.594,0.0,1 m3 water,18_chara,,0.0
+C3_2024,C3,2024,tonne,Photochemical ozone formation,kg NMVOC eq,,1961.594,0.0,1 m3 water,18_chara,,0.0
+C3_2024,C3,2024,tonne,"Resource use, fossils",MJ,,1961.594,0.0,1 m3 water,18_chara,,0.0
+C3_2024,C3,2024,tonne,"Resource use, minerals and metals",kg Sb eq,,1961.594,0.0,1 m3 water,18_chara,,0.0
+C3_2024,C3,2024,tonne,Water use,m3 depriv.,,1961.594,49.6,1 m3 water,18_chara,,97295.06240000001
+C4_2022,C4,2022,tonne,Acidification,mol H+ eq,,3126.63,0.0,1 m3 water,18_chara,,0.0
+C4_2022,C4,2022,tonne,Climate change,kg CO2 eq,,3126.63,0.0,1 m3 water,18_chara,,0.0
+C4_2022,C4,2022,tonne,Climate change - Biogenic,kg CO2 eq,,3126.63,0.0,1 m3 water,18_chara,,0.0
+C4_2022,C4,2022,tonne,Climate change - Fossil,kg CO2 eq,,3126.63,0.0,1 m3 water,18_chara,,0.0
+C4_2022,C4,2022,tonne,Climate change - Land use and LU change,kg CO2 eq,,3126.63,0.0,1 m3 water,18_chara,,0.0
+C4_2022,C4,2022,tonne,"Ecotoxicity, freshwater",CTUe,,3126.63,0.0,1 m3 water,18_chara,,0.0
+C4_2022,C4,2022,tonne,"Ecotoxicity, freshwater - inorganics",CTUe,,3126.63,0.0,1 m3 water,18_chara,,0.0
+C4_2022,C4,2022,tonne,"Ecotoxicity, freshwater - metals",CTUe,,3126.63,0.0,1 m3 water,18_chara,,0.0
+C4_2022,C4,2022,tonne,"Ecotoxicity, freshwater - organics",CTUe,,3126.63,0.0,1 m3 water,18_chara,,0.0
+C4_2022,C4,2022,tonne,"Eutrophication, freshwater",kg P eq,,3126.63,0.0,1 m3 water,18_chara,,0.0
+C4_2022,C4,2022,tonne,"Eutrophication, marine",kg N eq,,3126.63,0.0,1 m3 water,18_chara,,0.0
+C4_2022,C4,2022,tonne,"Eutrophication, terrestrial",mol N eq,,3126.63,0.0,1 m3 water,18_chara,,0.0
+C4_2022,C4,2022,tonne,"Human toxicity, cancer",CTUh,,3126.63,0.0,1 m3 water,18_chara,,0.0
+C4_2022,C4,2022,tonne,"Human toxicity, cancer - inorganics",CTUh,,3126.63,0.0,1 m3 water,18_chara,,0.0
+C4_2022,C4,2022,tonne,"Human toxicity, cancer - metals",CTUh,,3126.63,0.0,1 m3 water,18_chara,,0.0
+C4_2022,C4,2022,tonne,"Human toxicity, cancer - organics",CTUh,,3126.63,0.0,1 m3 water,18_chara,,0.0
+C4_2022,C4,2022,tonne,"Human toxicity, non-cancer",CTUh,,3126.63,0.0,1 m3 water,18_chara,,0.0
+C4_2022,C4,2022,tonne,"Human toxicity, non-cancer - inorganics",CTUh,,3126.63,0.0,1 m3 water,18_chara,,0.0
+C4_2022,C4,2022,tonne,"Human toxicity, non-cancer - metals",CTUh,,3126.63,0.0,1 m3 water,18_chara,,0.0
+C4_2022,C4,2022,tonne,"Human toxicity, non-cancer - organics",CTUh,,3126.63,0.0,1 m3 water,18_chara,,0.0
+C4_2022,C4,2022,tonne,Ionising radiation,kBq U-235 eq,,3126.63,0.0,1 m3 water,18_chara,,0.0
+C4_2022,C4,2022,tonne,Land use,Pt,,3126.63,0.0,1 m3 water,18_chara,,0.0
+C4_2022,C4,2022,tonne,Ozone depletion,kg CFC11 eq,,3126.63,0.0,1 m3 water,18_chara,,0.0
+C4_2022,C4,2022,tonne,Particulate matter,disease inc.,,3126.63,0.0,1 m3 water,18_chara,,0.0
+C4_2022,C4,2022,tonne,Photochemical ozone formation,kg NMVOC eq,,3126.63,0.0,1 m3 water,18_chara,,0.0
+C4_2022,C4,2022,tonne,"Resource use, fossils",MJ,,3126.63,0.0,1 m3 water,18_chara,,0.0
+C4_2022,C4,2022,tonne,"Resource use, minerals and metals",kg Sb eq,,3126.63,0.0,1 m3 water,18_chara,,0.0
+C4_2022,C4,2022,tonne,Water use,m3 depriv.,,3126.63,49.6,1 m3 water,18_chara,,155080.848
+C4_2023,C4,2023,tonne,Acidification,mol H+ eq,,2515.2,0.0,1 m3 water,18_chara,,0.0
+C4_2023,C4,2023,tonne,Climate change,kg CO2 eq,,2515.2,0.0,1 m3 water,18_chara,,0.0
+C4_2023,C4,2023,tonne,Climate change - Biogenic,kg CO2 eq,,2515.2,0.0,1 m3 water,18_chara,,0.0
+C4_2023,C4,2023,tonne,Climate change - Fossil,kg CO2 eq,,2515.2,0.0,1 m3 water,18_chara,,0.0
+C4_2023,C4,2023,tonne,Climate change - Land use and LU change,kg CO2 eq,,2515.2,0.0,1 m3 water,18_chara,,0.0
+C4_2023,C4,2023,tonne,"Ecotoxicity, freshwater",CTUe,,2515.2,0.0,1 m3 water,18_chara,,0.0
+C4_2023,C4,2023,tonne,"Ecotoxicity, freshwater - inorganics",CTUe,,2515.2,0.0,1 m3 water,18_chara,,0.0
+C4_2023,C4,2023,tonne,"Ecotoxicity, freshwater - metals",CTUe,,2515.2,0.0,1 m3 water,18_chara,,0.0
+C4_2023,C4,2023,tonne,"Ecotoxicity, freshwater - organics",CTUe,,2515.2,0.0,1 m3 water,18_chara,,0.0
+C4_2023,C4,2023,tonne,"Eutrophication, freshwater",kg P eq,,2515.2,0.0,1 m3 water,18_chara,,0.0
+C4_2023,C4,2023,tonne,"Eutrophication, marine",kg N eq,,2515.2,0.0,1 m3 water,18_chara,,0.0
+C4_2023,C4,2023,tonne,"Eutrophication, terrestrial",mol N eq,,2515.2,0.0,1 m3 water,18_chara,,0.0
+C4_2023,C4,2023,tonne,"Human toxicity, cancer",CTUh,,2515.2,0.0,1 m3 water,18_chara,,0.0
+C4_2023,C4,2023,tonne,"Human toxicity, cancer - inorganics",CTUh,,2515.2,0.0,1 m3 water,18_chara,,0.0
+C4_2023,C4,2023,tonne,"Human toxicity, cancer - metals",CTUh,,2515.2,0.0,1 m3 water,18_chara,,0.0
+C4_2023,C4,2023,tonne,"Human toxicity, cancer - organics",CTUh,,2515.2,0.0,1 m3 water,18_chara,,0.0
+C4_2023,C4,2023,tonne,"Human toxicity, non-cancer",CTUh,,2515.2,0.0,1 m3 water,18_chara,,0.0
+C4_2023,C4,2023,tonne,"Human toxicity, non-cancer - inorganics",CTUh,,2515.2,0.0,1 m3 water,18_chara,,0.0
+C4_2023,C4,2023,tonne,"Human toxicity, non-cancer - metals",CTUh,,2515.2,0.0,1 m3 water,18_chara,,0.0
+C4_2023,C4,2023,tonne,"Human toxicity, non-cancer - organics",CTUh,,2515.2,0.0,1 m3 water,18_chara,,0.0
+C4_2023,C4,2023,tonne,Ionising radiation,kBq U-235 eq,,2515.2,0.0,1 m3 water,18_chara,,0.0
+C4_2023,C4,2023,tonne,Land use,Pt,,2515.2,0.0,1 m3 water,18_chara,,0.0
+C4_2023,C4,2023,tonne,Ozone depletion,kg CFC11 eq,,2515.2,0.0,1 m3 water,18_chara,,0.0
+C4_2023,C4,2023,tonne,Particulate matter,disease inc.,,2515.2,0.0,1 m3 water,18_chara,,0.0
+C4_2023,C4,2023,tonne,Photochemical ozone formation,kg NMVOC eq,,2515.2,0.0,1 m3 water,18_chara,,0.0
+C4_2023,C4,2023,tonne,"Resource use, fossils",MJ,,2515.2,0.0,1 m3 water,18_chara,,0.0
+C4_2023,C4,2023,tonne,"Resource use, minerals and metals",kg Sb eq,,2515.2,0.0,1 m3 water,18_chara,,0.0
+C4_2023,C4,2023,tonne,Water use,m3 depriv.,,2515.2,49.6,1 m3 water,18_chara,,124753.92
+C4_2024,C4,2024,tonne,Acidification,mol H+ eq,,1367.617,0.0,1 m3 water,18_chara,,0.0
+C4_2024,C4,2024,tonne,Climate change,kg CO2 eq,,1367.617,0.0,1 m3 water,18_chara,,0.0
+C4_2024,C4,2024,tonne,Climate change - Biogenic,kg CO2 eq,,1367.617,0.0,1 m3 water,18_chara,,0.0
+C4_2024,C4,2024,tonne,Climate change - Fossil,kg CO2 eq,,1367.617,0.0,1 m3 water,18_chara,,0.0
+C4_2024,C4,2024,tonne,Climate change - Land use and LU change,kg CO2 eq,,1367.617,0.0,1 m3 water,18_chara,,0.0
+C4_2024,C4,2024,tonne,"Ecotoxicity, freshwater",CTUe,,1367.617,0.0,1 m3 water,18_chara,,0.0
+C4_2024,C4,2024,tonne,"Ecotoxicity, freshwater - inorganics",CTUe,,1367.617,0.0,1 m3 water,18_chara,,0.0
+C4_2024,C4,2024,tonne,"Ecotoxicity, freshwater - metals",CTUe,,1367.617,0.0,1 m3 water,18_chara,,0.0
+C4_2024,C4,2024,tonne,"Ecotoxicity, freshwater - organics",CTUe,,1367.617,0.0,1 m3 water,18_chara,,0.0
+C4_2024,C4,2024,tonne,"Eutrophication, freshwater",kg P eq,,1367.617,0.0,1 m3 water,18_chara,,0.0
+C4_2024,C4,2024,tonne,"Eutrophication, marine",kg N eq,,1367.617,0.0,1 m3 water,18_chara,,0.0
+C4_2024,C4,2024,tonne,"Eutrophication, terrestrial",mol N eq,,1367.617,0.0,1 m3 water,18_chara,,0.0
+C4_2024,C4,2024,tonne,"Human toxicity, cancer",CTUh,,1367.617,0.0,1 m3 water,18_chara,,0.0
+C4_2024,C4,2024,tonne,"Human toxicity, cancer - inorganics",CTUh,,1367.617,0.0,1 m3 water,18_chara,,0.0
+C4_2024,C4,2024,tonne,"Human toxicity, cancer - metals",CTUh,,1367.617,0.0,1 m3 water,18_chara,,0.0
+C4_2024,C4,2024,tonne,"Human toxicity, cancer - organics",CTUh,,1367.617,0.0,1 m3 water,18_chara,,0.0
+C4_2024,C4,2024,tonne,"Human toxicity, non-cancer",CTUh,,1367.617,0.0,1 m3 water,18_chara,,0.0
+C4_2024,C4,2024,tonne,"Human toxicity, non-cancer - inorganics",CTUh,,1367.617,0.0,1 m3 water,18_chara,,0.0
+C4_2024,C4,2024,tonne,"Human toxicity, non-cancer - metals",CTUh,,1367.617,0.0,1 m3 water,18_chara,,0.0
+C4_2024,C4,2024,tonne,"Human toxicity, non-cancer - organics",CTUh,,1367.617,0.0,1 m3 water,18_chara,,0.0
+C4_2024,C4,2024,tonne,Ionising radiation,kBq U-235 eq,,1367.617,0.0,1 m3 water,18_chara,,0.0
+C4_2024,C4,2024,tonne,Land use,Pt,,1367.617,0.0,1 m3 water,18_chara,,0.0
+C4_2024,C4,2024,tonne,Ozone depletion,kg CFC11 eq,,1367.617,0.0,1 m3 water,18_chara,,0.0
+C4_2024,C4,2024,tonne,Particulate matter,disease inc.,,1367.617,0.0,1 m3 water,18_chara,,0.0
+C4_2024,C4,2024,tonne,Photochemical ozone formation,kg NMVOC eq,,1367.617,0.0,1 m3 water,18_chara,,0.0
+C4_2024,C4,2024,tonne,"Resource use, fossils",MJ,,1367.617,0.0,1 m3 water,18_chara,,0.0
+C4_2024,C4,2024,tonne,"Resource use, minerals and metals",kg Sb eq,,1367.617,0.0,1 m3 water,18_chara,,0.0
+C4_2024,C4,2024,tonne,Water use,m3 depriv.,,1367.617,49.6,1 m3 water,18_chara,,67833.8032
+C5_2022,C5,2022,tonne,Acidification,mol H+ eq,,1889.549,0.0,1 m3 water,18_chara,,0.0
+C5_2022,C5,2022,tonne,Climate change,kg CO2 eq,,1889.549,0.0,1 m3 water,18_chara,,0.0
+C5_2022,C5,2022,tonne,Climate change - Biogenic,kg CO2 eq,,1889.549,0.0,1 m3 water,18_chara,,0.0
+C5_2022,C5,2022,tonne,Climate change - Fossil,kg CO2 eq,,1889.549,0.0,1 m3 water,18_chara,,0.0
+C5_2022,C5,2022,tonne,Climate change - Land use and LU change,kg CO2 eq,,1889.549,0.0,1 m3 water,18_chara,,0.0
+C5_2022,C5,2022,tonne,"Ecotoxicity, freshwater",CTUe,,1889.549,0.0,1 m3 water,18_chara,,0.0
+C5_2022,C5,2022,tonne,"Ecotoxicity, freshwater - inorganics",CTUe,,1889.549,0.0,1 m3 water,18_chara,,0.0
+C5_2022,C5,2022,tonne,"Ecotoxicity, freshwater - metals",CTUe,,1889.549,0.0,1 m3 water,18_chara,,0.0
+C5_2022,C5,2022,tonne,"Ecotoxicity, freshwater - organics",CTUe,,1889.549,0.0,1 m3 water,18_chara,,0.0
+C5_2022,C5,2022,tonne,"Eutrophication, freshwater",kg P eq,,1889.549,0.0,1 m3 water,18_chara,,0.0
+C5_2022,C5,2022,tonne,"Eutrophication, marine",kg N eq,,1889.549,0.0,1 m3 water,18_chara,,0.0
+C5_2022,C5,2022,tonne,"Eutrophication, terrestrial",mol N eq,,1889.549,0.0,1 m3 water,18_chara,,0.0
+C5_2022,C5,2022,tonne,"Human toxicity, cancer",CTUh,,1889.549,0.0,1 m3 water,18_chara,,0.0
+C5_2022,C5,2022,tonne,"Human toxicity, cancer - inorganics",CTUh,,1889.549,0.0,1 m3 water,18_chara,,0.0
+C5_2022,C5,2022,tonne,"Human toxicity, cancer - metals",CTUh,,1889.549,0.0,1 m3 water,18_chara,,0.0
+C5_2022,C5,2022,tonne,"Human toxicity, cancer - organics",CTUh,,1889.549,0.0,1 m3 water,18_chara,,0.0
+C5_2022,C5,2022,tonne,"Human toxicity, non-cancer",CTUh,,1889.549,0.0,1 m3 water,18_chara,,0.0
+C5_2022,C5,2022,tonne,"Human toxicity, non-cancer - inorganics",CTUh,,1889.549,0.0,1 m3 water,18_chara,,0.0
+C5_2022,C5,2022,tonne,"Human toxicity, non-cancer - metals",CTUh,,1889.549,0.0,1 m3 water,18_chara,,0.0
+C5_2022,C5,2022,tonne,"Human toxicity, non-cancer - organics",CTUh,,1889.549,0.0,1 m3 water,18_chara,,0.0
+C5_2022,C5,2022,tonne,Ionising radiation,kBq U-235 eq,,1889.549,0.0,1 m3 water,18_chara,,0.0
+C5_2022,C5,2022,tonne,Land use,Pt,,1889.549,0.0,1 m3 water,18_chara,,0.0
+C5_2022,C5,2022,tonne,Ozone depletion,kg CFC11 eq,,1889.549,0.0,1 m3 water,18_chara,,0.0
+C5_2022,C5,2022,tonne,Particulate matter,disease inc.,,1889.549,0.0,1 m3 water,18_chara,,0.0
+C5_2022,C5,2022,tonne,Photochemical ozone formation,kg NMVOC eq,,1889.549,0.0,1 m3 water,18_chara,,0.0
+C5_2022,C5,2022,tonne,"Resource use, fossils",MJ,,1889.549,0.0,1 m3 water,18_chara,,0.0
+C5_2022,C5,2022,tonne,"Resource use, minerals and metals",kg Sb eq,,1889.549,0.0,1 m3 water,18_chara,,0.0
+C5_2022,C5,2022,tonne,Water use,m3 depriv.,,1889.549,49.6,1 m3 water,18_chara,,93721.6304
+C5_2023,C5,2023,tonne,Acidification,mol H+ eq,,1816.758,0.0,1 m3 water,18_chara,,0.0
+C5_2023,C5,2023,tonne,Climate change,kg CO2 eq,,1816.758,0.0,1 m3 water,18_chara,,0.0
+C5_2023,C5,2023,tonne,Climate change - Biogenic,kg CO2 eq,,1816.758,0.0,1 m3 water,18_chara,,0.0
+C5_2023,C5,2023,tonne,Climate change - Fossil,kg CO2 eq,,1816.758,0.0,1 m3 water,18_chara,,0.0
+C5_2023,C5,2023,tonne,Climate change - Land use and LU change,kg CO2 eq,,1816.758,0.0,1 m3 water,18_chara,,0.0
+C5_2023,C5,2023,tonne,"Ecotoxicity, freshwater",CTUe,,1816.758,0.0,1 m3 water,18_chara,,0.0
+C5_2023,C5,2023,tonne,"Ecotoxicity, freshwater - inorganics",CTUe,,1816.758,0.0,1 m3 water,18_chara,,0.0
+C5_2023,C5,2023,tonne,"Ecotoxicity, freshwater - metals",CTUe,,1816.758,0.0,1 m3 water,18_chara,,0.0
+C5_2023,C5,2023,tonne,"Ecotoxicity, freshwater - organics",CTUe,,1816.758,0.0,1 m3 water,18_chara,,0.0
+C5_2023,C5,2023,tonne,"Eutrophication, freshwater",kg P eq,,1816.758,0.0,1 m3 water,18_chara,,0.0
+C5_2023,C5,2023,tonne,"Eutrophication, marine",kg N eq,,1816.758,0.0,1 m3 water,18_chara,,0.0
+C5_2023,C5,2023,tonne,"Eutrophication, terrestrial",mol N eq,,1816.758,0.0,1 m3 water,18_chara,,0.0
+C5_2023,C5,2023,tonne,"Human toxicity, cancer",CTUh,,1816.758,0.0,1 m3 water,18_chara,,0.0
+C5_2023,C5,2023,tonne,"Human toxicity, cancer - inorganics",CTUh,,1816.758,0.0,1 m3 water,18_chara,,0.0
+C5_2023,C5,2023,tonne,"Human toxicity, cancer - metals",CTUh,,1816.758,0.0,1 m3 water,18_chara,,0.0
+C5_2023,C5,2023,tonne,"Human toxicity, cancer - organics",CTUh,,1816.758,0.0,1 m3 water,18_chara,,0.0
+C5_2023,C5,2023,tonne,"Human toxicity, non-cancer",CTUh,,1816.758,0.0,1 m3 water,18_chara,,0.0
+C5_2023,C5,2023,tonne,"Human toxicity, non-cancer - inorganics",CTUh,,1816.758,0.0,1 m3 water,18_chara,,0.0
+C5_2023,C5,2023,tonne,"Human toxicity, non-cancer - metals",CTUh,,1816.758,0.0,1 m3 water,18_chara,,0.0
+C5_2023,C5,2023,tonne,"Human toxicity, non-cancer - organics",CTUh,,1816.758,0.0,1 m3 water,18_chara,,0.0
+C5_2023,C5,2023,tonne,Ionising radiation,kBq U-235 eq,,1816.758,0.0,1 m3 water,18_chara,,0.0
+C5_2023,C5,2023,tonne,Land use,Pt,,1816.758,0.0,1 m3 water,18_chara,,0.0
+C5_2023,C5,2023,tonne,Ozone depletion,kg CFC11 eq,,1816.758,0.0,1 m3 water,18_chara,,0.0
+C5_2023,C5,2023,tonne,Particulate matter,disease inc.,,1816.758,0.0,1 m3 water,18_chara,,0.0
+C5_2023,C5,2023,tonne,Photochemical ozone formation,kg NMVOC eq,,1816.758,0.0,1 m3 water,18_chara,,0.0
+C5_2023,C5,2023,tonne,"Resource use, fossils",MJ,,1816.758,0.0,1 m3 water,18_chara,,0.0
+C5_2023,C5,2023,tonne,"Resource use, minerals and metals",kg Sb eq,,1816.758,0.0,1 m3 water,18_chara,,0.0
+C5_2023,C5,2023,tonne,Water use,m3 depriv.,,1816.758,49.6,1 m3 water,18_chara,,90111.1968
+C5_2024,C5,2024,tonne,Acidification,mol H+ eq,,1380.293,0.0,1 m3 water,18_chara,,0.0
+C5_2024,C5,2024,tonne,Climate change,kg CO2 eq,,1380.293,0.0,1 m3 water,18_chara,,0.0
+C5_2024,C5,2024,tonne,Climate change - Biogenic,kg CO2 eq,,1380.293,0.0,1 m3 water,18_chara,,0.0
+C5_2024,C5,2024,tonne,Climate change - Fossil,kg CO2 eq,,1380.293,0.0,1 m3 water,18_chara,,0.0
+C5_2024,C5,2024,tonne,Climate change - Land use and LU change,kg CO2 eq,,1380.293,0.0,1 m3 water,18_chara,,0.0
+C5_2024,C5,2024,tonne,"Ecotoxicity, freshwater",CTUe,,1380.293,0.0,1 m3 water,18_chara,,0.0
+C5_2024,C5,2024,tonne,"Ecotoxicity, freshwater - inorganics",CTUe,,1380.293,0.0,1 m3 water,18_chara,,0.0
+C5_2024,C5,2024,tonne,"Ecotoxicity, freshwater - metals",CTUe,,1380.293,0.0,1 m3 water,18_chara,,0.0
+C5_2024,C5,2024,tonne,"Ecotoxicity, freshwater - organics",CTUe,,1380.293,0.0,1 m3 water,18_chara,,0.0
+C5_2024,C5,2024,tonne,"Eutrophication, freshwater",kg P eq,,1380.293,0.0,1 m3 water,18_chara,,0.0
+C5_2024,C5,2024,tonne,"Eutrophication, marine",kg N eq,,1380.293,0.0,1 m3 water,18_chara,,0.0
+C5_2024,C5,2024,tonne,"Eutrophication, terrestrial",mol N eq,,1380.293,0.0,1 m3 water,18_chara,,0.0
+C5_2024,C5,2024,tonne,"Human toxicity, cancer",CTUh,,1380.293,0.0,1 m3 water,18_chara,,0.0
+C5_2024,C5,2024,tonne,"Human toxicity, cancer - inorganics",CTUh,,1380.293,0.0,1 m3 water,18_chara,,0.0
+C5_2024,C5,2024,tonne,"Human toxicity, cancer - metals",CTUh,,1380.293,0.0,1 m3 water,18_chara,,0.0
+C5_2024,C5,2024,tonne,"Human toxicity, cancer - organics",CTUh,,1380.293,0.0,1 m3 water,18_chara,,0.0
+C5_2024,C5,2024,tonne,"Human toxicity, non-cancer",CTUh,,1380.293,0.0,1 m3 water,18_chara,,0.0
+C5_2024,C5,2024,tonne,"Human toxicity, non-cancer - inorganics",CTUh,,1380.293,0.0,1 m3 water,18_chara,,0.0
+C5_2024,C5,2024,tonne,"Human toxicity, non-cancer - metals",CTUh,,1380.293,0.0,1 m3 water,18_chara,,0.0
+C5_2024,C5,2024,tonne,"Human toxicity, non-cancer - organics",CTUh,,1380.293,0.0,1 m3 water,18_chara,,0.0
+C5_2024,C5,2024,tonne,Ionising radiation,kBq U-235 eq,,1380.293,0.0,1 m3 water,18_chara,,0.0
+C5_2024,C5,2024,tonne,Land use,Pt,,1380.293,0.0,1 m3 water,18_chara,,0.0
+C5_2024,C5,2024,tonne,Ozone depletion,kg CFC11 eq,,1380.293,0.0,1 m3 water,18_chara,,0.0
+C5_2024,C5,2024,tonne,Particulate matter,disease inc.,,1380.293,0.0,1 m3 water,18_chara,,0.0
+C5_2024,C5,2024,tonne,Photochemical ozone formation,kg NMVOC eq,,1380.293,0.0,1 m3 water,18_chara,,0.0
+C5_2024,C5,2024,tonne,"Resource use, fossils",MJ,,1380.293,0.0,1 m3 water,18_chara,,0.0
+C5_2024,C5,2024,tonne,"Resource use, minerals and metals",kg Sb eq,,1380.293,0.0,1 m3 water,18_chara,,0.0
+C5_2024,C5,2024,tonne,Water use,m3 depriv.,,1380.293,49.6,1 m3 water,18_chara,,68462.5328
+C6_2022,C6,2022,tonne,Acidification,mol H+ eq,,5264.372,0.0,1 m3 water,18_chara,,0.0
+C6_2022,C6,2022,tonne,Climate change,kg CO2 eq,,5264.372,0.0,1 m3 water,18_chara,,0.0
+C6_2022,C6,2022,tonne,Climate change - Biogenic,kg CO2 eq,,5264.372,0.0,1 m3 water,18_chara,,0.0
+C6_2022,C6,2022,tonne,Climate change - Fossil,kg CO2 eq,,5264.372,0.0,1 m3 water,18_chara,,0.0
+C6_2022,C6,2022,tonne,Climate change - Land use and LU change,kg CO2 eq,,5264.372,0.0,1 m3 water,18_chara,,0.0
+C6_2022,C6,2022,tonne,"Ecotoxicity, freshwater",CTUe,,5264.372,0.0,1 m3 water,18_chara,,0.0
+C6_2022,C6,2022,tonne,"Ecotoxicity, freshwater - inorganics",CTUe,,5264.372,0.0,1 m3 water,18_chara,,0.0
+C6_2022,C6,2022,tonne,"Ecotoxicity, freshwater - metals",CTUe,,5264.372,0.0,1 m3 water,18_chara,,0.0
+C6_2022,C6,2022,tonne,"Ecotoxicity, freshwater - organics",CTUe,,5264.372,0.0,1 m3 water,18_chara,,0.0
+C6_2022,C6,2022,tonne,"Eutrophication, freshwater",kg P eq,,5264.372,0.0,1 m3 water,18_chara,,0.0
+C6_2022,C6,2022,tonne,"Eutrophication, marine",kg N eq,,5264.372,0.0,1 m3 water,18_chara,,0.0
+C6_2022,C6,2022,tonne,"Eutrophication, terrestrial",mol N eq,,5264.372,0.0,1 m3 water,18_chara,,0.0
+C6_2022,C6,2022,tonne,"Human toxicity, cancer",CTUh,,5264.372,0.0,1 m3 water,18_chara,,0.0
+C6_2022,C6,2022,tonne,"Human toxicity, cancer - inorganics",CTUh,,5264.372,0.0,1 m3 water,18_chara,,0.0
+C6_2022,C6,2022,tonne,"Human toxicity, cancer - metals",CTUh,,5264.372,0.0,1 m3 water,18_chara,,0.0
+C6_2022,C6,2022,tonne,"Human toxicity, cancer - organics",CTUh,,5264.372,0.0,1 m3 water,18_chara,,0.0
+C6_2022,C6,2022,tonne,"Human toxicity, non-cancer",CTUh,,5264.372,0.0,1 m3 water,18_chara,,0.0
+C6_2022,C6,2022,tonne,"Human toxicity, non-cancer - inorganics",CTUh,,5264.372,0.0,1 m3 water,18_chara,,0.0
+C6_2022,C6,2022,tonne,"Human toxicity, non-cancer - metals",CTUh,,5264.372,0.0,1 m3 water,18_chara,,0.0
+C6_2022,C6,2022,tonne,"Human toxicity, non-cancer - organics",CTUh,,5264.372,0.0,1 m3 water,18_chara,,0.0
+C6_2022,C6,2022,tonne,Ionising radiation,kBq U-235 eq,,5264.372,0.0,1 m3 water,18_chara,,0.0
+C6_2022,C6,2022,tonne,Land use,Pt,,5264.372,0.0,1 m3 water,18_chara,,0.0
+C6_2022,C6,2022,tonne,Ozone depletion,kg CFC11 eq,,5264.372,0.0,1 m3 water,18_chara,,0.0
+C6_2022,C6,2022,tonne,Particulate matter,disease inc.,,5264.372,0.0,1 m3 water,18_chara,,0.0
+C6_2022,C6,2022,tonne,Photochemical ozone formation,kg NMVOC eq,,5264.372,0.0,1 m3 water,18_chara,,0.0
+C6_2022,C6,2022,tonne,"Resource use, fossils",MJ,,5264.372,0.0,1 m3 water,18_chara,,0.0
+C6_2022,C6,2022,tonne,"Resource use, minerals and metals",kg Sb eq,,5264.372,0.0,1 m3 water,18_chara,,0.0
+C6_2022,C6,2022,tonne,Water use,m3 depriv.,,5264.372,49.6,1 m3 water,18_chara,,261112.85120000003
+C6_2023,C6,2023,tonne,Acidification,mol H+ eq,,3930.0,0.0,1 m3 water,18_chara,,0.0
+C6_2023,C6,2023,tonne,Climate change,kg CO2 eq,,3930.0,0.0,1 m3 water,18_chara,,0.0
+C6_2023,C6,2023,tonne,Climate change - Biogenic,kg CO2 eq,,3930.0,0.0,1 m3 water,18_chara,,0.0
+C6_2023,C6,2023,tonne,Climate change - Fossil,kg CO2 eq,,3930.0,0.0,1 m3 water,18_chara,,0.0
+C6_2023,C6,2023,tonne,Climate change - Land use and LU change,kg CO2 eq,,3930.0,0.0,1 m3 water,18_chara,,0.0
+C6_2023,C6,2023,tonne,"Ecotoxicity, freshwater",CTUe,,3930.0,0.0,1 m3 water,18_chara,,0.0
+C6_2023,C6,2023,tonne,"Ecotoxicity, freshwater - inorganics",CTUe,,3930.0,0.0,1 m3 water,18_chara,,0.0
+C6_2023,C6,2023,tonne,"Ecotoxicity, freshwater - metals",CTUe,,3930.0,0.0,1 m3 water,18_chara,,0.0
+C6_2023,C6,2023,tonne,"Ecotoxicity, freshwater - organics",CTUe,,3930.0,0.0,1 m3 water,18_chara,,0.0
+C6_2023,C6,2023,tonne,"Eutrophication, freshwater",kg P eq,,3930.0,0.0,1 m3 water,18_chara,,0.0
+C6_2023,C6,2023,tonne,"Eutrophication, marine",kg N eq,,3930.0,0.0,1 m3 water,18_chara,,0.0
+C6_2023,C6,2023,tonne,"Eutrophication, terrestrial",mol N eq,,3930.0,0.0,1 m3 water,18_chara,,0.0
+C6_2023,C6,2023,tonne,"Human toxicity, cancer",CTUh,,3930.0,0.0,1 m3 water,18_chara,,0.0
+C6_2023,C6,2023,tonne,"Human toxicity, cancer - inorganics",CTUh,,3930.0,0.0,1 m3 water,18_chara,,0.0
+C6_2023,C6,2023,tonne,"Human toxicity, cancer - metals",CTUh,,3930.0,0.0,1 m3 water,18_chara,,0.0
+C6_2023,C6,2023,tonne,"Human toxicity, cancer - organics",CTUh,,3930.0,0.0,1 m3 water,18_chara,,0.0
+C6_2023,C6,2023,tonne,"Human toxicity, non-cancer",CTUh,,3930.0,0.0,1 m3 water,18_chara,,0.0
+C6_2023,C6,2023,tonne,"Human toxicity, non-cancer - inorganics",CTUh,,3930.0,0.0,1 m3 water,18_chara,,0.0
+C6_2023,C6,2023,tonne,"Human toxicity, non-cancer - metals",CTUh,,3930.0,0.0,1 m3 water,18_chara,,0.0
+C6_2023,C6,2023,tonne,"Human toxicity, non-cancer - organics",CTUh,,3930.0,0.0,1 m3 water,18_chara,,0.0
+C6_2023,C6,2023,tonne,Ionising radiation,kBq U-235 eq,,3930.0,0.0,1 m3 water,18_chara,,0.0
+C6_2023,C6,2023,tonne,Land use,Pt,,3930.0,0.0,1 m3 water,18_chara,,0.0
+C6_2023,C6,2023,tonne,Ozone depletion,kg CFC11 eq,,3930.0,0.0,1 m3 water,18_chara,,0.0
+C6_2023,C6,2023,tonne,Particulate matter,disease inc.,,3930.0,0.0,1 m3 water,18_chara,,0.0
+C6_2023,C6,2023,tonne,Photochemical ozone formation,kg NMVOC eq,,3930.0,0.0,1 m3 water,18_chara,,0.0
+C6_2023,C6,2023,tonne,"Resource use, fossils",MJ,,3930.0,0.0,1 m3 water,18_chara,,0.0
+C6_2023,C6,2023,tonne,"Resource use, minerals and metals",kg Sb eq,,3930.0,0.0,1 m3 water,18_chara,,0.0
+C6_2023,C6,2023,tonne,Water use,m3 depriv.,,3930.0,49.6,1 m3 water,18_chara,,194928.0
+C6_2024,C6,2024,tonne,Acidification,mol H+ eq,,1539.918,0.0,1 m3 water,18_chara,,0.0
+C6_2024,C6,2024,tonne,Climate change,kg CO2 eq,,1539.918,0.0,1 m3 water,18_chara,,0.0
+C6_2024,C6,2024,tonne,Climate change - Biogenic,kg CO2 eq,,1539.918,0.0,1 m3 water,18_chara,,0.0
+C6_2024,C6,2024,tonne,Climate change - Fossil,kg CO2 eq,,1539.918,0.0,1 m3 water,18_chara,,0.0
+C6_2024,C6,2024,tonne,Climate change - Land use and LU change,kg CO2 eq,,1539.918,0.0,1 m3 water,18_chara,,0.0
+C6_2024,C6,2024,tonne,"Ecotoxicity, freshwater",CTUe,,1539.918,0.0,1 m3 water,18_chara,,0.0
+C6_2024,C6,2024,tonne,"Ecotoxicity, freshwater - inorganics",CTUe,,1539.918,0.0,1 m3 water,18_chara,,0.0
+C6_2024,C6,2024,tonne,"Ecotoxicity, freshwater - metals",CTUe,,1539.918,0.0,1 m3 water,18_chara,,0.0
+C6_2024,C6,2024,tonne,"Ecotoxicity, freshwater - organics",CTUe,,1539.918,0.0,1 m3 water,18_chara,,0.0
+C6_2024,C6,2024,tonne,"Eutrophication, freshwater",kg P eq,,1539.918,0.0,1 m3 water,18_chara,,0.0
+C6_2024,C6,2024,tonne,"Eutrophication, marine",kg N eq,,1539.918,0.0,1 m3 water,18_chara,,0.0
+C6_2024,C6,2024,tonne,"Eutrophication, terrestrial",mol N eq,,1539.918,0.0,1 m3 water,18_chara,,0.0
+C6_2024,C6,2024,tonne,"Human toxicity, cancer",CTUh,,1539.918,0.0,1 m3 water,18_chara,,0.0
+C6_2024,C6,2024,tonne,"Human toxicity, cancer - inorganics",CTUh,,1539.918,0.0,1 m3 water,18_chara,,0.0
+C6_2024,C6,2024,tonne,"Human toxicity, cancer - metals",CTUh,,1539.918,0.0,1 m3 water,18_chara,,0.0
+C6_2024,C6,2024,tonne,"Human toxicity, cancer - organics",CTUh,,1539.918,0.0,1 m3 water,18_chara,,0.0
+C6_2024,C6,2024,tonne,"Human toxicity, non-cancer",CTUh,,1539.918,0.0,1 m3 water,18_chara,,0.0
+C6_2024,C6,2024,tonne,"Human toxicity, non-cancer - inorganics",CTUh,,1539.918,0.0,1 m3 water,18_chara,,0.0
+C6_2024,C6,2024,tonne,"Human toxicity, non-cancer - metals",CTUh,,1539.918,0.0,1 m3 water,18_chara,,0.0
+C6_2024,C6,2024,tonne,"Human toxicity, non-cancer - organics",CTUh,,1539.918,0.0,1 m3 water,18_chara,,0.0
+C6_2024,C6,2024,tonne,Ionising radiation,kBq U-235 eq,,1539.918,0.0,1 m3 water,18_chara,,0.0
+C6_2024,C6,2024,tonne,Land use,Pt,,1539.918,0.0,1 m3 water,18_chara,,0.0
+C6_2024,C6,2024,tonne,Ozone depletion,kg CFC11 eq,,1539.918,0.0,1 m3 water,18_chara,,0.0
+C6_2024,C6,2024,tonne,Particulate matter,disease inc.,,1539.918,0.0,1 m3 water,18_chara,,0.0
+C6_2024,C6,2024,tonne,Photochemical ozone formation,kg NMVOC eq,,1539.918,0.0,1 m3 water,18_chara,,0.0
+C6_2024,C6,2024,tonne,"Resource use, fossils",MJ,,1539.918,0.0,1 m3 water,18_chara,,0.0
+C6_2024,C6,2024,tonne,"Resource use, minerals and metals",kg Sb eq,,1539.918,0.0,1 m3 water,18_chara,,0.0
+C6_2024,C6,2024,tonne,Water use,m3 depriv.,,1539.918,49.6,1 m3 water,18_chara,,76379.9328
+C7_2023,C7,2023,tonne,Acidification,mol H+ eq,,1702.015,0.0,1 m3 water,18_chara,,0.0
+C7_2023,C7,2023,tonne,Climate change,kg CO2 eq,,1702.015,0.0,1 m3 water,18_chara,,0.0
+C7_2023,C7,2023,tonne,Climate change - Biogenic,kg CO2 eq,,1702.015,0.0,1 m3 water,18_chara,,0.0
+C7_2023,C7,2023,tonne,Climate change - Fossil,kg CO2 eq,,1702.015,0.0,1 m3 water,18_chara,,0.0
+C7_2023,C7,2023,tonne,Climate change - Land use and LU change,kg CO2 eq,,1702.015,0.0,1 m3 water,18_chara,,0.0
+C7_2023,C7,2023,tonne,"Ecotoxicity, freshwater",CTUe,,1702.015,0.0,1 m3 water,18_chara,,0.0
+C7_2023,C7,2023,tonne,"Ecotoxicity, freshwater - inorganics",CTUe,,1702.015,0.0,1 m3 water,18_chara,,0.0
+C7_2023,C7,2023,tonne,"Ecotoxicity, freshwater - metals",CTUe,,1702.015,0.0,1 m3 water,18_chara,,0.0
+C7_2023,C7,2023,tonne,"Ecotoxicity, freshwater - organics",CTUe,,1702.015,0.0,1 m3 water,18_chara,,0.0
+C7_2023,C7,2023,tonne,"Eutrophication, freshwater",kg P eq,,1702.015,0.0,1 m3 water,18_chara,,0.0
+C7_2023,C7,2023,tonne,"Eutrophication, marine",kg N eq,,1702.015,0.0,1 m3 water,18_chara,,0.0
+C7_2023,C7,2023,tonne,"Eutrophication, terrestrial",mol N eq,,1702.015,0.0,1 m3 water,18_chara,,0.0
+C7_2023,C7,2023,tonne,"Human toxicity, cancer",CTUh,,1702.015,0.0,1 m3 water,18_chara,,0.0
+C7_2023,C7,2023,tonne,"Human toxicity, cancer - inorganics",CTUh,,1702.015,0.0,1 m3 water,18_chara,,0.0
+C7_2023,C7,2023,tonne,"Human toxicity, cancer - metals",CTUh,,1702.015,0.0,1 m3 water,18_chara,,0.0
+C7_2023,C7,2023,tonne,"Human toxicity, cancer - organics",CTUh,,1702.015,0.0,1 m3 water,18_chara,,0.0
+C7_2023,C7,2023,tonne,"Human toxicity, non-cancer",CTUh,,1702.015,0.0,1 m3 water,18_chara,,0.0
+C7_2023,C7,2023,tonne,"Human toxicity, non-cancer - inorganics",CTUh,,1702.015,0.0,1 m3 water,18_chara,,0.0
+C7_2023,C7,2023,tonne,"Human toxicity, non-cancer - metals",CTUh,,1702.015,0.0,1 m3 water,18_chara,,0.0
+C7_2023,C7,2023,tonne,"Human toxicity, non-cancer - organics",CTUh,,1702.015,0.0,1 m3 water,18_chara,,0.0
+C7_2023,C7,2023,tonne,Ionising radiation,kBq U-235 eq,,1702.015,0.0,1 m3 water,18_chara,,0.0
+C7_2023,C7,2023,tonne,Land use,Pt,,1702.015,0.0,1 m3 water,18_chara,,0.0
+C7_2023,C7,2023,tonne,Ozone depletion,kg CFC11 eq,,1702.015,0.0,1 m3 water,18_chara,,0.0
+C7_2023,C7,2023,tonne,Particulate matter,disease inc.,,1702.015,0.0,1 m3 water,18_chara,,0.0
+C7_2023,C7,2023,tonne,Photochemical ozone formation,kg NMVOC eq,,1702.015,0.0,1 m3 water,18_chara,,0.0
+C7_2023,C7,2023,tonne,"Resource use, fossils",MJ,,1702.015,0.0,1 m3 water,18_chara,,0.0
+C7_2023,C7,2023,tonne,"Resource use, minerals and metals",kg Sb eq,,1702.015,0.0,1 m3 water,18_chara,,0.0
+C7_2023,C7,2023,tonne,Water use,m3 depriv.,,1702.015,49.6,1 m3 water,18_chara,,84419.944
+C7_2024,C7,2024,tonne,Acidification,mol H+ eq,,2268.216,0.0,1 m3 water,18_chara,,0.0
+C7_2024,C7,2024,tonne,Climate change,kg CO2 eq,,2268.216,0.0,1 m3 water,18_chara,,0.0
+C7_2024,C7,2024,tonne,Climate change - Biogenic,kg CO2 eq,,2268.216,0.0,1 m3 water,18_chara,,0.0
+C7_2024,C7,2024,tonne,Climate change - Fossil,kg CO2 eq,,2268.216,0.0,1 m3 water,18_chara,,0.0
+C7_2024,C7,2024,tonne,Climate change - Land use and LU change,kg CO2 eq,,2268.216,0.0,1 m3 water,18_chara,,0.0
+C7_2024,C7,2024,tonne,"Ecotoxicity, freshwater",CTUe,,2268.216,0.0,1 m3 water,18_chara,,0.0
+C7_2024,C7,2024,tonne,"Ecotoxicity, freshwater - inorganics",CTUe,,2268.216,0.0,1 m3 water,18_chara,,0.0
+C7_2024,C7,2024,tonne,"Ecotoxicity, freshwater - metals",CTUe,,2268.216,0.0,1 m3 water,18_chara,,0.0
+C7_2024,C7,2024,tonne,"Ecotoxicity, freshwater - organics",CTUe,,2268.216,0.0,1 m3 water,18_chara,,0.0
+C7_2024,C7,2024,tonne,"Eutrophication, freshwater",kg P eq,,2268.216,0.0,1 m3 water,18_chara,,0.0
+C7_2024,C7,2024,tonne,"Eutrophication, marine",kg N eq,,2268.216,0.0,1 m3 water,18_chara,,0.0
+C7_2024,C7,2024,tonne,"Eutrophication, terrestrial",mol N eq,,2268.216,0.0,1 m3 water,18_chara,,0.0
+C7_2024,C7,2024,tonne,"Human toxicity, cancer",CTUh,,2268.216,0.0,1 m3 water,18_chara,,0.0
+C7_2024,C7,2024,tonne,"Human toxicity, cancer - inorganics",CTUh,,2268.216,0.0,1 m3 water,18_chara,,0.0
+C7_2024,C7,2024,tonne,"Human toxicity, cancer - metals",CTUh,,2268.216,0.0,1 m3 water,18_chara,,0.0
+C7_2024,C7,2024,tonne,"Human toxicity, cancer - organics",CTUh,,2268.216,0.0,1 m3 water,18_chara,,0.0
+C7_2024,C7,2024,tonne,"Human toxicity, non-cancer",CTUh,,2268.216,0.0,1 m3 water,18_chara,,0.0
+C7_2024,C7,2024,tonne,"Human toxicity, non-cancer - inorganics",CTUh,,2268.216,0.0,1 m3 water,18_chara,,0.0
+C7_2024,C7,2024,tonne,"Human toxicity, non-cancer - metals",CTUh,,2268.216,0.0,1 m3 water,18_chara,,0.0
+C7_2024,C7,2024,tonne,"Human toxicity, non-cancer - organics",CTUh,,2268.216,0.0,1 m3 water,18_chara,,0.0
+C7_2024,C7,2024,tonne,Ionising radiation,kBq U-235 eq,,2268.216,0.0,1 m3 water,18_chara,,0.0
+C7_2024,C7,2024,tonne,Land use,Pt,,2268.216,0.0,1 m3 water,18_chara,,0.0
+C7_2024,C7,2024,tonne,Ozone depletion,kg CFC11 eq,,2268.216,0.0,1 m3 water,18_chara,,0.0
+C7_2024,C7,2024,tonne,Particulate matter,disease inc.,,2268.216,0.0,1 m3 water,18_chara,,0.0
+C7_2024,C7,2024,tonne,Photochemical ozone formation,kg NMVOC eq,,2268.216,0.0,1 m3 water,18_chara,,0.0
+C7_2024,C7,2024,tonne,"Resource use, fossils",MJ,,2268.216,0.0,1 m3 water,18_chara,,0.0
+C7_2024,C7,2024,tonne,"Resource use, minerals and metals",kg Sb eq,,2268.216,0.0,1 m3 water,18_chara,,0.0
+C7_2024,C7,2024,tonne,Water use,m3 depriv.,,2268.216,49.6,1 m3 water,18_chara,,112503.51359999999
+C8_2022,C8,2022,tonne,Acidification,mol H+ eq,,2035.683,0.0,1 m3 water,18_chara,,0.0
+C8_2022,C8,2022,tonne,Climate change,kg CO2 eq,,2035.683,0.0,1 m3 water,18_chara,,0.0
+C8_2022,C8,2022,tonne,Climate change - Biogenic,kg CO2 eq,,2035.683,0.0,1 m3 water,18_chara,,0.0
+C8_2022,C8,2022,tonne,Climate change - Fossil,kg CO2 eq,,2035.683,0.0,1 m3 water,18_chara,,0.0
+C8_2022,C8,2022,tonne,Climate change - Land use and LU change,kg CO2 eq,,2035.683,0.0,1 m3 water,18_chara,,0.0
+C8_2022,C8,2022,tonne,"Ecotoxicity, freshwater",CTUe,,2035.683,0.0,1 m3 water,18_chara,,0.0
+C8_2022,C8,2022,tonne,"Ecotoxicity, freshwater - inorganics",CTUe,,2035.683,0.0,1 m3 water,18_chara,,0.0
+C8_2022,C8,2022,tonne,"Ecotoxicity, freshwater - metals",CTUe,,2035.683,0.0,1 m3 water,18_chara,,0.0
+C8_2022,C8,2022,tonne,"Ecotoxicity, freshwater - organics",CTUe,,2035.683,0.0,1 m3 water,18_chara,,0.0
+C8_2022,C8,2022,tonne,"Eutrophication, freshwater",kg P eq,,2035.683,0.0,1 m3 water,18_chara,,0.0
+C8_2022,C8,2022,tonne,"Eutrophication, marine",kg N eq,,2035.683,0.0,1 m3 water,18_chara,,0.0
+C8_2022,C8,2022,tonne,"Eutrophication, terrestrial",mol N eq,,2035.683,0.0,1 m3 water,18_chara,,0.0
+C8_2022,C8,2022,tonne,"Human toxicity, cancer",CTUh,,2035.683,0.0,1 m3 water,18_chara,,0.0
+C8_2022,C8,2022,tonne,"Human toxicity, cancer - inorganics",CTUh,,2035.683,0.0,1 m3 water,18_chara,,0.0
+C8_2022,C8,2022,tonne,"Human toxicity, cancer - metals",CTUh,,2035.683,0.0,1 m3 water,18_chara,,0.0
+C8_2022,C8,2022,tonne,"Human toxicity, cancer - organics",CTUh,,2035.683,0.0,1 m3 water,18_chara,,0.0
+C8_2022,C8,2022,tonne,"Human toxicity, non-cancer",CTUh,,2035.683,0.0,1 m3 water,18_chara,,0.0
+C8_2022,C8,2022,tonne,"Human toxicity, non-cancer - inorganics",CTUh,,2035.683,0.0,1 m3 water,18_chara,,0.0
+C8_2022,C8,2022,tonne,"Human toxicity, non-cancer - metals",CTUh,,2035.683,0.0,1 m3 water,18_chara,,0.0
+C8_2022,C8,2022,tonne,"Human toxicity, non-cancer - organics",CTUh,,2035.683,0.0,1 m3 water,18_chara,,0.0
+C8_2022,C8,2022,tonne,Ionising radiation,kBq U-235 eq,,2035.683,0.0,1 m3 water,18_chara,,0.0
+C8_2022,C8,2022,tonne,Land use,Pt,,2035.683,0.0,1 m3 water,18_chara,,0.0
+C8_2022,C8,2022,tonne,Ozone depletion,kg CFC11 eq,,2035.683,0.0,1 m3 water,18_chara,,0.0
+C8_2022,C8,2022,tonne,Particulate matter,disease inc.,,2035.683,0.0,1 m3 water,18_chara,,0.0
+C8_2022,C8,2022,tonne,Photochemical ozone formation,kg NMVOC eq,,2035.683,0.0,1 m3 water,18_chara,,0.0
+C8_2022,C8,2022,tonne,"Resource use, fossils",MJ,,2035.683,0.0,1 m3 water,18_chara,,0.0
+C8_2022,C8,2022,tonne,"Resource use, minerals and metals",kg Sb eq,,2035.683,0.0,1 m3 water,18_chara,,0.0
+C8_2022,C8,2022,tonne,Water use,m3 depriv.,,2035.683,49.6,1 m3 water,18_chara,,100969.8768
+C8_2023,C8,2023,tonne,Acidification,mol H+ eq,,1975.288,0.0,1 m3 water,18_chara,,0.0
+C8_2023,C8,2023,tonne,Climate change,kg CO2 eq,,1975.288,0.0,1 m3 water,18_chara,,0.0
+C8_2023,C8,2023,tonne,Climate change - Biogenic,kg CO2 eq,,1975.288,0.0,1 m3 water,18_chara,,0.0
+C8_2023,C8,2023,tonne,Climate change - Fossil,kg CO2 eq,,1975.288,0.0,1 m3 water,18_chara,,0.0
+C8_2023,C8,2023,tonne,Climate change - Land use and LU change,kg CO2 eq,,1975.288,0.0,1 m3 water,18_chara,,0.0
+C8_2023,C8,2023,tonne,"Ecotoxicity, freshwater",CTUe,,1975.288,0.0,1 m3 water,18_chara,,0.0
+C8_2023,C8,2023,tonne,"Ecotoxicity, freshwater - inorganics",CTUe,,1975.288,0.0,1 m3 water,18_chara,,0.0
+C8_2023,C8,2023,tonne,"Ecotoxicity, freshwater - metals",CTUe,,1975.288,0.0,1 m3 water,18_chara,,0.0
+C8_2023,C8,2023,tonne,"Ecotoxicity, freshwater - organics",CTUe,,1975.288,0.0,1 m3 water,18_chara,,0.0
+C8_2023,C8,2023,tonne,"Eutrophication, freshwater",kg P eq,,1975.288,0.0,1 m3 water,18_chara,,0.0
+C8_2023,C8,2023,tonne,"Eutrophication, marine",kg N eq,,1975.288,0.0,1 m3 water,18_chara,,0.0
+C8_2023,C8,2023,tonne,"Eutrophication, terrestrial",mol N eq,,1975.288,0.0,1 m3 water,18_chara,,0.0
+C8_2023,C8,2023,tonne,"Human toxicity, cancer",CTUh,,1975.288,0.0,1 m3 water,18_chara,,0.0
+C8_2023,C8,2023,tonne,"Human toxicity, cancer - inorganics",CTUh,,1975.288,0.0,1 m3 water,18_chara,,0.0
+C8_2023,C8,2023,tonne,"Human toxicity, cancer - metals",CTUh,,1975.288,0.0,1 m3 water,18_chara,,0.0
+C8_2023,C8,2023,tonne,"Human toxicity, cancer - organics",CTUh,,1975.288,0.0,1 m3 water,18_chara,,0.0
+C8_2023,C8,2023,tonne,"Human toxicity, non-cancer",CTUh,,1975.288,0.0,1 m3 water,18_chara,,0.0
+C8_2023,C8,2023,tonne,"Human toxicity, non-cancer - inorganics",CTUh,,1975.288,0.0,1 m3 water,18_chara,,0.0
+C8_2023,C8,2023,tonne,"Human toxicity, non-cancer - metals",CTUh,,1975.288,0.0,1 m3 water,18_chara,,0.0
+C8_2023,C8,2023,tonne,"Human toxicity, non-cancer - organics",CTUh,,1975.288,0.0,1 m3 water,18_chara,,0.0
+C8_2023,C8,2023,tonne,Ionising radiation,kBq U-235 eq,,1975.288,0.0,1 m3 water,18_chara,,0.0
+C8_2023,C8,2023,tonne,Land use,Pt,,1975.288,0.0,1 m3 water,18_chara,,0.0
+C8_2023,C8,2023,tonne,Ozone depletion,kg CFC11 eq,,1975.288,0.0,1 m3 water,18_chara,,0.0
+C8_2023,C8,2023,tonne,Particulate matter,disease inc.,,1975.288,0.0,1 m3 water,18_chara,,0.0
+C8_2023,C8,2023,tonne,Photochemical ozone formation,kg NMVOC eq,,1975.288,0.0,1 m3 water,18_chara,,0.0
+C8_2023,C8,2023,tonne,"Resource use, fossils",MJ,,1975.288,0.0,1 m3 water,18_chara,,0.0
+C8_2023,C8,2023,tonne,"Resource use, minerals and metals",kg Sb eq,,1975.288,0.0,1 m3 water,18_chara,,0.0
+C8_2023,C8,2023,tonne,Water use,m3 depriv.,,1975.288,49.6,1 m3 water,18_chara,,97974.28480000001
+C8_2024,C8,2024,tonne,Acidification,mol H+ eq,,2865.418,0.0,1 m3 water,18_chara,,0.0
+C8_2024,C8,2024,tonne,Climate change,kg CO2 eq,,2865.418,0.0,1 m3 water,18_chara,,0.0
+C8_2024,C8,2024,tonne,Climate change - Biogenic,kg CO2 eq,,2865.418,0.0,1 m3 water,18_chara,,0.0
+C8_2024,C8,2024,tonne,Climate change - Fossil,kg CO2 eq,,2865.418,0.0,1 m3 water,18_chara,,0.0
+C8_2024,C8,2024,tonne,Climate change - Land use and LU change,kg CO2 eq,,2865.418,0.0,1 m3 water,18_chara,,0.0
+C8_2024,C8,2024,tonne,"Ecotoxicity, freshwater",CTUe,,2865.418,0.0,1 m3 water,18_chara,,0.0
+C8_2024,C8,2024,tonne,"Ecotoxicity, freshwater - inorganics",CTUe,,2865.418,0.0,1 m3 water,18_chara,,0.0
+C8_2024,C8,2024,tonne,"Ecotoxicity, freshwater - metals",CTUe,,2865.418,0.0,1 m3 water,18_chara,,0.0
+C8_2024,C8,2024,tonne,"Ecotoxicity, freshwater - organics",CTUe,,2865.418,0.0,1 m3 water,18_chara,,0.0
+C8_2024,C8,2024,tonne,"Eutrophication, freshwater",kg P eq,,2865.418,0.0,1 m3 water,18_chara,,0.0
+C8_2024,C8,2024,tonne,"Eutrophication, marine",kg N eq,,2865.418,0.0,1 m3 water,18_chara,,0.0
+C8_2024,C8,2024,tonne,"Eutrophication, terrestrial",mol N eq,,2865.418,0.0,1 m3 water,18_chara,,0.0
+C8_2024,C8,2024,tonne,"Human toxicity, cancer",CTUh,,2865.418,0.0,1 m3 water,18_chara,,0.0
+C8_2024,C8,2024,tonne,"Human toxicity, cancer - inorganics",CTUh,,2865.418,0.0,1 m3 water,18_chara,,0.0
+C8_2024,C8,2024,tonne,"Human toxicity, cancer - metals",CTUh,,2865.418,0.0,1 m3 water,18_chara,,0.0
+C8_2024,C8,2024,tonne,"Human toxicity, cancer - organics",CTUh,,2865.418,0.0,1 m3 water,18_chara,,0.0
+C8_2024,C8,2024,tonne,"Human toxicity, non-cancer",CTUh,,2865.418,0.0,1 m3 water,18_chara,,0.0
+C8_2024,C8,2024,tonne,"Human toxicity, non-cancer - inorganics",CTUh,,2865.418,0.0,1 m3 water,18_chara,,0.0
+C8_2024,C8,2024,tonne,"Human toxicity, non-cancer - metals",CTUh,,2865.418,0.0,1 m3 water,18_chara,,0.0
+C8_2024,C8,2024,tonne,"Human toxicity, non-cancer - organics",CTUh,,2865.418,0.0,1 m3 water,18_chara,,0.0
+C8_2024,C8,2024,tonne,Ionising radiation,kBq U-235 eq,,2865.418,0.0,1 m3 water,18_chara,,0.0
+C8_2024,C8,2024,tonne,Land use,Pt,,2865.418,0.0,1 m3 water,18_chara,,0.0
+C8_2024,C8,2024,tonne,Ozone depletion,kg CFC11 eq,,2865.418,0.0,1 m3 water,18_chara,,0.0
+C8_2024,C8,2024,tonne,Particulate matter,disease inc.,,2865.418,0.0,1 m3 water,18_chara,,0.0
+C8_2024,C8,2024,tonne,Photochemical ozone formation,kg NMVOC eq,,2865.418,0.0,1 m3 water,18_chara,,0.0
+C8_2024,C8,2024,tonne,"Resource use, fossils",MJ,,2865.418,0.0,1 m3 water,18_chara,,0.0
+C8_2024,C8,2024,tonne,"Resource use, minerals and metals",kg Sb eq,,2865.418,0.0,1 m3 water,18_chara,,0.0
+C8_2024,C8,2024,tonne,Water use,m3 depriv.,,2865.418,49.6,1 m3 water,18_chara,,142124.7328
+D1_2022,D1,2022,tonne,Acidification,mol H+ eq,,8322.353,0.0,1 m3 water,18_chara,,0.0
+D1_2022,D1,2022,tonne,Climate change,kg CO2 eq,,8322.353,0.0,1 m3 water,18_chara,,0.0
+D1_2022,D1,2022,tonne,Climate change - Biogenic,kg CO2 eq,,8322.353,0.0,1 m3 water,18_chara,,0.0
+D1_2022,D1,2022,tonne,Climate change - Fossil,kg CO2 eq,,8322.353,0.0,1 m3 water,18_chara,,0.0
+D1_2022,D1,2022,tonne,Climate change - Land use and LU change,kg CO2 eq,,8322.353,0.0,1 m3 water,18_chara,,0.0
+D1_2022,D1,2022,tonne,"Ecotoxicity, freshwater",CTUe,,8322.353,0.0,1 m3 water,18_chara,,0.0
+D1_2022,D1,2022,tonne,"Ecotoxicity, freshwater - inorganics",CTUe,,8322.353,0.0,1 m3 water,18_chara,,0.0
+D1_2022,D1,2022,tonne,"Ecotoxicity, freshwater - metals",CTUe,,8322.353,0.0,1 m3 water,18_chara,,0.0
+D1_2022,D1,2022,tonne,"Ecotoxicity, freshwater - organics",CTUe,,8322.353,0.0,1 m3 water,18_chara,,0.0
+D1_2022,D1,2022,tonne,"Eutrophication, freshwater",kg P eq,,8322.353,0.0,1 m3 water,18_chara,,0.0
+D1_2022,D1,2022,tonne,"Eutrophication, marine",kg N eq,,8322.353,0.0,1 m3 water,18_chara,,0.0
+D1_2022,D1,2022,tonne,"Eutrophication, terrestrial",mol N eq,,8322.353,0.0,1 m3 water,18_chara,,0.0
+D1_2022,D1,2022,tonne,"Human toxicity, cancer",CTUh,,8322.353,0.0,1 m3 water,18_chara,,0.0
+D1_2022,D1,2022,tonne,"Human toxicity, cancer - inorganics",CTUh,,8322.353,0.0,1 m3 water,18_chara,,0.0
+D1_2022,D1,2022,tonne,"Human toxicity, cancer - metals",CTUh,,8322.353,0.0,1 m3 water,18_chara,,0.0
+D1_2022,D1,2022,tonne,"Human toxicity, cancer - organics",CTUh,,8322.353,0.0,1 m3 water,18_chara,,0.0
+D1_2022,D1,2022,tonne,"Human toxicity, non-cancer",CTUh,,8322.353,0.0,1 m3 water,18_chara,,0.0
+D1_2022,D1,2022,tonne,"Human toxicity, non-cancer - inorganics",CTUh,,8322.353,0.0,1 m3 water,18_chara,,0.0
+D1_2022,D1,2022,tonne,"Human toxicity, non-cancer - metals",CTUh,,8322.353,0.0,1 m3 water,18_chara,,0.0
+D1_2022,D1,2022,tonne,"Human toxicity, non-cancer - organics",CTUh,,8322.353,0.0,1 m3 water,18_chara,,0.0
+D1_2022,D1,2022,tonne,Ionising radiation,kBq U-235 eq,,8322.353,0.0,1 m3 water,18_chara,,0.0
+D1_2022,D1,2022,tonne,Land use,Pt,,8322.353,0.0,1 m3 water,18_chara,,0.0
+D1_2022,D1,2022,tonne,Ozone depletion,kg CFC11 eq,,8322.353,0.0,1 m3 water,18_chara,,0.0
+D1_2022,D1,2022,tonne,Particulate matter,disease inc.,,8322.353,0.0,1 m3 water,18_chara,,0.0
+D1_2022,D1,2022,tonne,Photochemical ozone formation,kg NMVOC eq,,8322.353,0.0,1 m3 water,18_chara,,0.0
+D1_2022,D1,2022,tonne,"Resource use, fossils",MJ,,8322.353,0.0,1 m3 water,18_chara,,0.0
+D1_2022,D1,2022,tonne,"Resource use, minerals and metals",kg Sb eq,,8322.353,0.0,1 m3 water,18_chara,,0.0
+D1_2022,D1,2022,tonne,Water use,m3 depriv.,,8322.353,49.6,1 m3 water,18_chara,,412788.70879999996
+D1_2023,D1,2023,tonne,Acidification,mol H+ eq,,2309.878,0.0,1 m3 water,18_chara,,0.0
+D1_2023,D1,2023,tonne,Climate change,kg CO2 eq,,2309.878,0.0,1 m3 water,18_chara,,0.0
+D1_2023,D1,2023,tonne,Climate change - Biogenic,kg CO2 eq,,2309.878,0.0,1 m3 water,18_chara,,0.0
+D1_2023,D1,2023,tonne,Climate change - Fossil,kg CO2 eq,,2309.878,0.0,1 m3 water,18_chara,,0.0
+D1_2023,D1,2023,tonne,Climate change - Land use and LU change,kg CO2 eq,,2309.878,0.0,1 m3 water,18_chara,,0.0
+D1_2023,D1,2023,tonne,"Ecotoxicity, freshwater",CTUe,,2309.878,0.0,1 m3 water,18_chara,,0.0
+D1_2023,D1,2023,tonne,"Ecotoxicity, freshwater - inorganics",CTUe,,2309.878,0.0,1 m3 water,18_chara,,0.0
+D1_2023,D1,2023,tonne,"Ecotoxicity, freshwater - metals",CTUe,,2309.878,0.0,1 m3 water,18_chara,,0.0
+D1_2023,D1,2023,tonne,"Ecotoxicity, freshwater - organics",CTUe,,2309.878,0.0,1 m3 water,18_chara,,0.0
+D1_2023,D1,2023,tonne,"Eutrophication, freshwater",kg P eq,,2309.878,0.0,1 m3 water,18_chara,,0.0
+D1_2023,D1,2023,tonne,"Eutrophication, marine",kg N eq,,2309.878,0.0,1 m3 water,18_chara,,0.0
+D1_2023,D1,2023,tonne,"Eutrophication, terrestrial",mol N eq,,2309.878,0.0,1 m3 water,18_chara,,0.0
+D1_2023,D1,2023,tonne,"Human toxicity, cancer",CTUh,,2309.878,0.0,1 m3 water,18_chara,,0.0
+D1_2023,D1,2023,tonne,"Human toxicity, cancer - inorganics",CTUh,,2309.878,0.0,1 m3 water,18_chara,,0.0
+D1_2023,D1,2023,tonne,"Human toxicity, cancer - metals",CTUh,,2309.878,0.0,1 m3 water,18_chara,,0.0
+D1_2023,D1,2023,tonne,"Human toxicity, cancer - organics",CTUh,,2309.878,0.0,1 m3 water,18_chara,,0.0
+D1_2023,D1,2023,tonne,"Human toxicity, non-cancer",CTUh,,2309.878,0.0,1 m3 water,18_chara,,0.0
+D1_2023,D1,2023,tonne,"Human toxicity, non-cancer - inorganics",CTUh,,2309.878,0.0,1 m3 water,18_chara,,0.0
+D1_2023,D1,2023,tonne,"Human toxicity, non-cancer - metals",CTUh,,2309.878,0.0,1 m3 water,18_chara,,0.0
+D1_2023,D1,2023,tonne,"Human toxicity, non-cancer - organics",CTUh,,2309.878,0.0,1 m3 water,18_chara,,0.0
+D1_2023,D1,2023,tonne,Ionising radiation,kBq U-235 eq,,2309.878,0.0,1 m3 water,18_chara,,0.0
+D1_2023,D1,2023,tonne,Land use,Pt,,2309.878,0.0,1 m3 water,18_chara,,0.0
+D1_2023,D1,2023,tonne,Ozone depletion,kg CFC11 eq,,2309.878,0.0,1 m3 water,18_chara,,0.0
+D1_2023,D1,2023,tonne,Particulate matter,disease inc.,,2309.878,0.0,1 m3 water,18_chara,,0.0
+D1_2023,D1,2023,tonne,Photochemical ozone formation,kg NMVOC eq,,2309.878,0.0,1 m3 water,18_chara,,0.0
+D1_2023,D1,2023,tonne,"Resource use, fossils",MJ,,2309.878,0.0,1 m3 water,18_chara,,0.0
+D1_2023,D1,2023,tonne,"Resource use, minerals and metals",kg Sb eq,,2309.878,0.0,1 m3 water,18_chara,,0.0
+D1_2023,D1,2023,tonne,Water use,m3 depriv.,,2309.878,49.6,1 m3 water,18_chara,,114569.94880000001
+D1_2024,D1,2024,tonne,Acidification,mol H+ eq,,1992.676,0.0,1 m3 water,18_chara,,0.0
+D1_2024,D1,2024,tonne,Climate change,kg CO2 eq,,1992.676,0.0,1 m3 water,18_chara,,0.0
+D1_2024,D1,2024,tonne,Climate change - Biogenic,kg CO2 eq,,1992.676,0.0,1 m3 water,18_chara,,0.0
+D1_2024,D1,2024,tonne,Climate change - Fossil,kg CO2 eq,,1992.676,0.0,1 m3 water,18_chara,,0.0
+D1_2024,D1,2024,tonne,Climate change - Land use and LU change,kg CO2 eq,,1992.676,0.0,1 m3 water,18_chara,,0.0
+D1_2024,D1,2024,tonne,"Ecotoxicity, freshwater",CTUe,,1992.676,0.0,1 m3 water,18_chara,,0.0
+D1_2024,D1,2024,tonne,"Ecotoxicity, freshwater - inorganics",CTUe,,1992.676,0.0,1 m3 water,18_chara,,0.0
+D1_2024,D1,2024,tonne,"Ecotoxicity, freshwater - metals",CTUe,,1992.676,0.0,1 m3 water,18_chara,,0.0
+D1_2024,D1,2024,tonne,"Ecotoxicity, freshwater - organics",CTUe,,1992.676,0.0,1 m3 water,18_chara,,0.0
+D1_2024,D1,2024,tonne,"Eutrophication, freshwater",kg P eq,,1992.676,0.0,1 m3 water,18_chara,,0.0
+D1_2024,D1,2024,tonne,"Eutrophication, marine",kg N eq,,1992.676,0.0,1 m3 water,18_chara,,0.0
+D1_2024,D1,2024,tonne,"Eutrophication, terrestrial",mol N eq,,1992.676,0.0,1 m3 water,18_chara,,0.0
+D1_2024,D1,2024,tonne,"Human toxicity, cancer",CTUh,,1992.676,0.0,1 m3 water,18_chara,,0.0
+D1_2024,D1,2024,tonne,"Human toxicity, cancer - inorganics",CTUh,,1992.676,0.0,1 m3 water,18_chara,,0.0
+D1_2024,D1,2024,tonne,"Human toxicity, cancer - metals",CTUh,,1992.676,0.0,1 m3 water,18_chara,,0.0
+D1_2024,D1,2024,tonne,"Human toxicity, cancer - organics",CTUh,,1992.676,0.0,1 m3 water,18_chara,,0.0
+D1_2024,D1,2024,tonne,"Human toxicity, non-cancer",CTUh,,1992.676,0.0,1 m3 water,18_chara,,0.0
+D1_2024,D1,2024,tonne,"Human toxicity, non-cancer - inorganics",CTUh,,1992.676,0.0,1 m3 water,18_chara,,0.0
+D1_2024,D1,2024,tonne,"Human toxicity, non-cancer - metals",CTUh,,1992.676,0.0,1 m3 water,18_chara,,0.0
+D1_2024,D1,2024,tonne,"Human toxicity, non-cancer - organics",CTUh,,1992.676,0.0,1 m3 water,18_chara,,0.0
+D1_2024,D1,2024,tonne,Ionising radiation,kBq U-235 eq,,1992.676,0.0,1 m3 water,18_chara,,0.0
+D1_2024,D1,2024,tonne,Land use,Pt,,1992.676,0.0,1 m3 water,18_chara,,0.0
+D1_2024,D1,2024,tonne,Ozone depletion,kg CFC11 eq,,1992.676,0.0,1 m3 water,18_chara,,0.0
+D1_2024,D1,2024,tonne,Particulate matter,disease inc.,,1992.676,0.0,1 m3 water,18_chara,,0.0
+D1_2024,D1,2024,tonne,Photochemical ozone formation,kg NMVOC eq,,1992.676,0.0,1 m3 water,18_chara,,0.0
+D1_2024,D1,2024,tonne,"Resource use, fossils",MJ,,1992.676,0.0,1 m3 water,18_chara,,0.0
+D1_2024,D1,2024,tonne,"Resource use, minerals and metals",kg Sb eq,,1992.676,0.0,1 m3 water,18_chara,,0.0
+D1_2024,D1,2024,tonne,Water use,m3 depriv.,,1992.676,49.6,1 m3 water,18_chara,,98836.7296
+D2_2022,D2,2022,tonne,Acidification,mol H+ eq,,9201.951,0.0,1 m3 water,18_chara,,0.0
+D2_2022,D2,2022,tonne,Climate change,kg CO2 eq,,9201.951,0.0,1 m3 water,18_chara,,0.0
+D2_2022,D2,2022,tonne,Climate change - Biogenic,kg CO2 eq,,9201.951,0.0,1 m3 water,18_chara,,0.0
+D2_2022,D2,2022,tonne,Climate change - Fossil,kg CO2 eq,,9201.951,0.0,1 m3 water,18_chara,,0.0
+D2_2022,D2,2022,tonne,Climate change - Land use and LU change,kg CO2 eq,,9201.951,0.0,1 m3 water,18_chara,,0.0
+D2_2022,D2,2022,tonne,"Ecotoxicity, freshwater",CTUe,,9201.951,0.0,1 m3 water,18_chara,,0.0
+D2_2022,D2,2022,tonne,"Ecotoxicity, freshwater - inorganics",CTUe,,9201.951,0.0,1 m3 water,18_chara,,0.0
+D2_2022,D2,2022,tonne,"Ecotoxicity, freshwater - metals",CTUe,,9201.951,0.0,1 m3 water,18_chara,,0.0
+D2_2022,D2,2022,tonne,"Ecotoxicity, freshwater - organics",CTUe,,9201.951,0.0,1 m3 water,18_chara,,0.0
+D2_2022,D2,2022,tonne,"Eutrophication, freshwater",kg P eq,,9201.951,0.0,1 m3 water,18_chara,,0.0
+D2_2022,D2,2022,tonne,"Eutrophication, marine",kg N eq,,9201.951,0.0,1 m3 water,18_chara,,0.0
+D2_2022,D2,2022,tonne,"Eutrophication, terrestrial",mol N eq,,9201.951,0.0,1 m3 water,18_chara,,0.0
+D2_2022,D2,2022,tonne,"Human toxicity, cancer",CTUh,,9201.951,0.0,1 m3 water,18_chara,,0.0
+D2_2022,D2,2022,tonne,"Human toxicity, cancer - inorganics",CTUh,,9201.951,0.0,1 m3 water,18_chara,,0.0
+D2_2022,D2,2022,tonne,"Human toxicity, cancer - metals",CTUh,,9201.951,0.0,1 m3 water,18_chara,,0.0
+D2_2022,D2,2022,tonne,"Human toxicity, cancer - organics",CTUh,,9201.951,0.0,1 m3 water,18_chara,,0.0
+D2_2022,D2,2022,tonne,"Human toxicity, non-cancer",CTUh,,9201.951,0.0,1 m3 water,18_chara,,0.0
+D2_2022,D2,2022,tonne,"Human toxicity, non-cancer - inorganics",CTUh,,9201.951,0.0,1 m3 water,18_chara,,0.0
+D2_2022,D2,2022,tonne,"Human toxicity, non-cancer - metals",CTUh,,9201.951,0.0,1 m3 water,18_chara,,0.0
+D2_2022,D2,2022,tonne,"Human toxicity, non-cancer - organics",CTUh,,9201.951,0.0,1 m3 water,18_chara,,0.0
+D2_2022,D2,2022,tonne,Ionising radiation,kBq U-235 eq,,9201.951,0.0,1 m3 water,18_chara,,0.0
+D2_2022,D2,2022,tonne,Land use,Pt,,9201.951,0.0,1 m3 water,18_chara,,0.0
+D2_2022,D2,2022,tonne,Ozone depletion,kg CFC11 eq,,9201.951,0.0,1 m3 water,18_chara,,0.0
+D2_2022,D2,2022,tonne,Particulate matter,disease inc.,,9201.951,0.0,1 m3 water,18_chara,,0.0
+D2_2022,D2,2022,tonne,Photochemical ozone formation,kg NMVOC eq,,9201.951,0.0,1 m3 water,18_chara,,0.0
+D2_2022,D2,2022,tonne,"Resource use, fossils",MJ,,9201.951,0.0,1 m3 water,18_chara,,0.0
+D2_2022,D2,2022,tonne,"Resource use, minerals and metals",kg Sb eq,,9201.951,0.0,1 m3 water,18_chara,,0.0
+D2_2022,D2,2022,tonne,Water use,m3 depriv.,,9201.951,49.6,1 m3 water,18_chara,,456416.76959999994
+D2_2023,D2,2023,tonne,Acidification,mol H+ eq,,2338.512,0.0,1 m3 water,18_chara,,0.0
+D2_2023,D2,2023,tonne,Climate change,kg CO2 eq,,2338.512,0.0,1 m3 water,18_chara,,0.0
+D2_2023,D2,2023,tonne,Climate change - Biogenic,kg CO2 eq,,2338.512,0.0,1 m3 water,18_chara,,0.0
+D2_2023,D2,2023,tonne,Climate change - Fossil,kg CO2 eq,,2338.512,0.0,1 m3 water,18_chara,,0.0
+D2_2023,D2,2023,tonne,Climate change - Land use and LU change,kg CO2 eq,,2338.512,0.0,1 m3 water,18_chara,,0.0
+D2_2023,D2,2023,tonne,"Ecotoxicity, freshwater",CTUe,,2338.512,0.0,1 m3 water,18_chara,,0.0
+D2_2023,D2,2023,tonne,"Ecotoxicity, freshwater - inorganics",CTUe,,2338.512,0.0,1 m3 water,18_chara,,0.0
+D2_2023,D2,2023,tonne,"Ecotoxicity, freshwater - metals",CTUe,,2338.512,0.0,1 m3 water,18_chara,,0.0
+D2_2023,D2,2023,tonne,"Ecotoxicity, freshwater - organics",CTUe,,2338.512,0.0,1 m3 water,18_chara,,0.0
+D2_2023,D2,2023,tonne,"Eutrophication, freshwater",kg P eq,,2338.512,0.0,1 m3 water,18_chara,,0.0
+D2_2023,D2,2023,tonne,"Eutrophication, marine",kg N eq,,2338.512,0.0,1 m3 water,18_chara,,0.0
+D2_2023,D2,2023,tonne,"Eutrophication, terrestrial",mol N eq,,2338.512,0.0,1 m3 water,18_chara,,0.0
+D2_2023,D2,2023,tonne,"Human toxicity, cancer",CTUh,,2338.512,0.0,1 m3 water,18_chara,,0.0
+D2_2023,D2,2023,tonne,"Human toxicity, cancer - inorganics",CTUh,,2338.512,0.0,1 m3 water,18_chara,,0.0
+D2_2023,D2,2023,tonne,"Human toxicity, cancer - metals",CTUh,,2338.512,0.0,1 m3 water,18_chara,,0.0
+D2_2023,D2,2023,tonne,"Human toxicity, cancer - organics",CTUh,,2338.512,0.0,1 m3 water,18_chara,,0.0
+D2_2023,D2,2023,tonne,"Human toxicity, non-cancer",CTUh,,2338.512,0.0,1 m3 water,18_chara,,0.0
+D2_2023,D2,2023,tonne,"Human toxicity, non-cancer - inorganics",CTUh,,2338.512,0.0,1 m3 water,18_chara,,0.0
+D2_2023,D2,2023,tonne,"Human toxicity, non-cancer - metals",CTUh,,2338.512,0.0,1 m3 water,18_chara,,0.0
+D2_2023,D2,2023,tonne,"Human toxicity, non-cancer - organics",CTUh,,2338.512,0.0,1 m3 water,18_chara,,0.0
+D2_2023,D2,2023,tonne,Ionising radiation,kBq U-235 eq,,2338.512,0.0,1 m3 water,18_chara,,0.0
+D2_2023,D2,2023,tonne,Land use,Pt,,2338.512,0.0,1 m3 water,18_chara,,0.0
+D2_2023,D2,2023,tonne,Ozone depletion,kg CFC11 eq,,2338.512,0.0,1 m3 water,18_chara,,0.0
+D2_2023,D2,2023,tonne,Particulate matter,disease inc.,,2338.512,0.0,1 m3 water,18_chara,,0.0
+D2_2023,D2,2023,tonne,Photochemical ozone formation,kg NMVOC eq,,2338.512,0.0,1 m3 water,18_chara,,0.0
+D2_2023,D2,2023,tonne,"Resource use, fossils",MJ,,2338.512,0.0,1 m3 water,18_chara,,0.0
+D2_2023,D2,2023,tonne,"Resource use, minerals and metals",kg Sb eq,,2338.512,0.0,1 m3 water,18_chara,,0.0
+D2_2023,D2,2023,tonne,Water use,m3 depriv.,,2338.512,49.6,1 m3 water,18_chara,,115990.19520000002
+D2_2024,D2,2024,tonne,Acidification,mol H+ eq,,1671.846,0.0,1 m3 water,18_chara,,0.0
+D2_2024,D2,2024,tonne,Climate change,kg CO2 eq,,1671.846,0.0,1 m3 water,18_chara,,0.0
+D2_2024,D2,2024,tonne,Climate change - Biogenic,kg CO2 eq,,1671.846,0.0,1 m3 water,18_chara,,0.0
+D2_2024,D2,2024,tonne,Climate change - Fossil,kg CO2 eq,,1671.846,0.0,1 m3 water,18_chara,,0.0
+D2_2024,D2,2024,tonne,Climate change - Land use and LU change,kg CO2 eq,,1671.846,0.0,1 m3 water,18_chara,,0.0
+D2_2024,D2,2024,tonne,"Ecotoxicity, freshwater",CTUe,,1671.846,0.0,1 m3 water,18_chara,,0.0
+D2_2024,D2,2024,tonne,"Ecotoxicity, freshwater - inorganics",CTUe,,1671.846,0.0,1 m3 water,18_chara,,0.0
+D2_2024,D2,2024,tonne,"Ecotoxicity, freshwater - metals",CTUe,,1671.846,0.0,1 m3 water,18_chara,,0.0
+D2_2024,D2,2024,tonne,"Ecotoxicity, freshwater - organics",CTUe,,1671.846,0.0,1 m3 water,18_chara,,0.0
+D2_2024,D2,2024,tonne,"Eutrophication, freshwater",kg P eq,,1671.846,0.0,1 m3 water,18_chara,,0.0
+D2_2024,D2,2024,tonne,"Eutrophication, marine",kg N eq,,1671.846,0.0,1 m3 water,18_chara,,0.0
+D2_2024,D2,2024,tonne,"Eutrophication, terrestrial",mol N eq,,1671.846,0.0,1 m3 water,18_chara,,0.0
+D2_2024,D2,2024,tonne,"Human toxicity, cancer",CTUh,,1671.846,0.0,1 m3 water,18_chara,,0.0
+D2_2024,D2,2024,tonne,"Human toxicity, cancer - inorganics",CTUh,,1671.846,0.0,1 m3 water,18_chara,,0.0
+D2_2024,D2,2024,tonne,"Human toxicity, cancer - metals",CTUh,,1671.846,0.0,1 m3 water,18_chara,,0.0
+D2_2024,D2,2024,tonne,"Human toxicity, cancer - organics",CTUh,,1671.846,0.0,1 m3 water,18_chara,,0.0
+D2_2024,D2,2024,tonne,"Human toxicity, non-cancer",CTUh,,1671.846,0.0,1 m3 water,18_chara,,0.0
+D2_2024,D2,2024,tonne,"Human toxicity, non-cancer - inorganics",CTUh,,1671.846,0.0,1 m3 water,18_chara,,0.0
+D2_2024,D2,2024,tonne,"Human toxicity, non-cancer - metals",CTUh,,1671.846,0.0,1 m3 water,18_chara,,0.0
+D2_2024,D2,2024,tonne,"Human toxicity, non-cancer - organics",CTUh,,1671.846,0.0,1 m3 water,18_chara,,0.0
+D2_2024,D2,2024,tonne,Ionising radiation,kBq U-235 eq,,1671.846,0.0,1 m3 water,18_chara,,0.0
+D2_2024,D2,2024,tonne,Land use,Pt,,1671.846,0.0,1 m3 water,18_chara,,0.0
+D2_2024,D2,2024,tonne,Ozone depletion,kg CFC11 eq,,1671.846,0.0,1 m3 water,18_chara,,0.0
+D2_2024,D2,2024,tonne,Particulate matter,disease inc.,,1671.846,0.0,1 m3 water,18_chara,,0.0
+D2_2024,D2,2024,tonne,Photochemical ozone formation,kg NMVOC eq,,1671.846,0.0,1 m3 water,18_chara,,0.0
+D2_2024,D2,2024,tonne,"Resource use, fossils",MJ,,1671.846,0.0,1 m3 water,18_chara,,0.0
+D2_2024,D2,2024,tonne,"Resource use, minerals and metals",kg Sb eq,,1671.846,0.0,1 m3 water,18_chara,,0.0
+D2_2024,D2,2024,tonne,Water use,m3 depriv.,,1671.846,49.6,1 m3 water,18_chara,,82923.5616
+NT1_2023,NT1,2023,tonne,Acidification,mol H+ eq,,1743.975,0.0,1 m3 water,18_chara,,0.0
+NT1_2023,NT1,2023,tonne,Climate change,kg CO2 eq,,1743.975,0.0,1 m3 water,18_chara,,0.0
+NT1_2023,NT1,2023,tonne,Climate change - Biogenic,kg CO2 eq,,1743.975,0.0,1 m3 water,18_chara,,0.0
+NT1_2023,NT1,2023,tonne,Climate change - Fossil,kg CO2 eq,,1743.975,0.0,1 m3 water,18_chara,,0.0
+NT1_2023,NT1,2023,tonne,Climate change - Land use and LU change,kg CO2 eq,,1743.975,0.0,1 m3 water,18_chara,,0.0
+NT1_2023,NT1,2023,tonne,"Ecotoxicity, freshwater",CTUe,,1743.975,0.0,1 m3 water,18_chara,,0.0
+NT1_2023,NT1,2023,tonne,"Ecotoxicity, freshwater - inorganics",CTUe,,1743.975,0.0,1 m3 water,18_chara,,0.0
+NT1_2023,NT1,2023,tonne,"Ecotoxicity, freshwater - metals",CTUe,,1743.975,0.0,1 m3 water,18_chara,,0.0
+NT1_2023,NT1,2023,tonne,"Ecotoxicity, freshwater - organics",CTUe,,1743.975,0.0,1 m3 water,18_chara,,0.0
+NT1_2023,NT1,2023,tonne,"Eutrophication, freshwater",kg P eq,,1743.975,0.0,1 m3 water,18_chara,,0.0
+NT1_2023,NT1,2023,tonne,"Eutrophication, marine",kg N eq,,1743.975,0.0,1 m3 water,18_chara,,0.0
+NT1_2023,NT1,2023,tonne,"Eutrophication, terrestrial",mol N eq,,1743.975,0.0,1 m3 water,18_chara,,0.0
+NT1_2023,NT1,2023,tonne,"Human toxicity, cancer",CTUh,,1743.975,0.0,1 m3 water,18_chara,,0.0
+NT1_2023,NT1,2023,tonne,"Human toxicity, cancer - inorganics",CTUh,,1743.975,0.0,1 m3 water,18_chara,,0.0
+NT1_2023,NT1,2023,tonne,"Human toxicity, cancer - metals",CTUh,,1743.975,0.0,1 m3 water,18_chara,,0.0
+NT1_2023,NT1,2023,tonne,"Human toxicity, cancer - organics",CTUh,,1743.975,0.0,1 m3 water,18_chara,,0.0
+NT1_2023,NT1,2023,tonne,"Human toxicity, non-cancer",CTUh,,1743.975,0.0,1 m3 water,18_chara,,0.0
+NT1_2023,NT1,2023,tonne,"Human toxicity, non-cancer - inorganics",CTUh,,1743.975,0.0,1 m3 water,18_chara,,0.0
+NT1_2023,NT1,2023,tonne,"Human toxicity, non-cancer - metals",CTUh,,1743.975,0.0,1 m3 water,18_chara,,0.0
+NT1_2023,NT1,2023,tonne,"Human toxicity, non-cancer - organics",CTUh,,1743.975,0.0,1 m3 water,18_chara,,0.0
+NT1_2023,NT1,2023,tonne,Ionising radiation,kBq U-235 eq,,1743.975,0.0,1 m3 water,18_chara,,0.0
+NT1_2023,NT1,2023,tonne,Land use,Pt,,1743.975,0.0,1 m3 water,18_chara,,0.0
+NT1_2023,NT1,2023,tonne,Ozone depletion,kg CFC11 eq,,1743.975,0.0,1 m3 water,18_chara,,0.0
+NT1_2023,NT1,2023,tonne,Particulate matter,disease inc.,,1743.975,0.0,1 m3 water,18_chara,,0.0
+NT1_2023,NT1,2023,tonne,Photochemical ozone formation,kg NMVOC eq,,1743.975,0.0,1 m3 water,18_chara,,0.0
+NT1_2023,NT1,2023,tonne,"Resource use, fossils",MJ,,1743.975,0.0,1 m3 water,18_chara,,0.0
+NT1_2023,NT1,2023,tonne,"Resource use, minerals and metals",kg Sb eq,,1743.975,0.0,1 m3 water,18_chara,,0.0
+NT1_2023,NT1,2023,tonne,Water use,m3 depriv.,,1743.975,49.6,1 m3 water,18_chara,,86501.16
+NT1_2024,NT1,2024,tonne,Acidification,mol H+ eq,,1591.899,0.0,1 m3 water,18_chara,,0.0
+NT1_2024,NT1,2024,tonne,Climate change,kg CO2 eq,,1591.899,0.0,1 m3 water,18_chara,,0.0
+NT1_2024,NT1,2024,tonne,Climate change - Biogenic,kg CO2 eq,,1591.899,0.0,1 m3 water,18_chara,,0.0
+NT1_2024,NT1,2024,tonne,Climate change - Fossil,kg CO2 eq,,1591.899,0.0,1 m3 water,18_chara,,0.0
+NT1_2024,NT1,2024,tonne,Climate change - Land use and LU change,kg CO2 eq,,1591.899,0.0,1 m3 water,18_chara,,0.0
+NT1_2024,NT1,2024,tonne,"Ecotoxicity, freshwater",CTUe,,1591.899,0.0,1 m3 water,18_chara,,0.0
+NT1_2024,NT1,2024,tonne,"Ecotoxicity, freshwater - inorganics",CTUe,,1591.899,0.0,1 m3 water,18_chara,,0.0
+NT1_2024,NT1,2024,tonne,"Ecotoxicity, freshwater - metals",CTUe,,1591.899,0.0,1 m3 water,18_chara,,0.0
+NT1_2024,NT1,2024,tonne,"Ecotoxicity, freshwater - organics",CTUe,,1591.899,0.0,1 m3 water,18_chara,,0.0
+NT1_2024,NT1,2024,tonne,"Eutrophication, freshwater",kg P eq,,1591.899,0.0,1 m3 water,18_chara,,0.0
+NT1_2024,NT1,2024,tonne,"Eutrophication, marine",kg N eq,,1591.899,0.0,1 m3 water,18_chara,,0.0
+NT1_2024,NT1,2024,tonne,"Eutrophication, terrestrial",mol N eq,,1591.899,0.0,1 m3 water,18_chara,,0.0
+NT1_2024,NT1,2024,tonne,"Human toxicity, cancer",CTUh,,1591.899,0.0,1 m3 water,18_chara,,0.0
+NT1_2024,NT1,2024,tonne,"Human toxicity, cancer - inorganics",CTUh,,1591.899,0.0,1 m3 water,18_chara,,0.0
+NT1_2024,NT1,2024,tonne,"Human toxicity, cancer - metals",CTUh,,1591.899,0.0,1 m3 water,18_chara,,0.0
+NT1_2024,NT1,2024,tonne,"Human toxicity, cancer - organics",CTUh,,1591.899,0.0,1 m3 water,18_chara,,0.0
+NT1_2024,NT1,2024,tonne,"Human toxicity, non-cancer",CTUh,,1591.899,0.0,1 m3 water,18_chara,,0.0
+NT1_2024,NT1,2024,tonne,"Human toxicity, non-cancer - inorganics",CTUh,,1591.899,0.0,1 m3 water,18_chara,,0.0
+NT1_2024,NT1,2024,tonne,"Human toxicity, non-cancer - metals",CTUh,,1591.899,0.0,1 m3 water,18_chara,,0.0
+NT1_2024,NT1,2024,tonne,"Human toxicity, non-cancer - organics",CTUh,,1591.899,0.0,1 m3 water,18_chara,,0.0
+NT1_2024,NT1,2024,tonne,Ionising radiation,kBq U-235 eq,,1591.899,0.0,1 m3 water,18_chara,,0.0
+NT1_2024,NT1,2024,tonne,Land use,Pt,,1591.899,0.0,1 m3 water,18_chara,,0.0
+NT1_2024,NT1,2024,tonne,Ozone depletion,kg CFC11 eq,,1591.899,0.0,1 m3 water,18_chara,,0.0
+NT1_2024,NT1,2024,tonne,Particulate matter,disease inc.,,1591.899,0.0,1 m3 water,18_chara,,0.0
+NT1_2024,NT1,2024,tonne,Photochemical ozone formation,kg NMVOC eq,,1591.899,0.0,1 m3 water,18_chara,,0.0
+NT1_2024,NT1,2024,tonne,"Resource use, fossils",MJ,,1591.899,0.0,1 m3 water,18_chara,,0.0
+NT1_2024,NT1,2024,tonne,"Resource use, minerals and metals",kg Sb eq,,1591.899,0.0,1 m3 water,18_chara,,0.0
+NT1_2024,NT1,2024,tonne,Water use,m3 depriv.,,1591.899,49.6,1 m3 water,18_chara,,78958.19039999999
+NT2_2022,NT2,2022,tonne,Acidification,mol H+ eq,,2760.585,0.0,1 m3 water,18_chara,,0.0
+NT2_2022,NT2,2022,tonne,Climate change,kg CO2 eq,,2760.585,0.0,1 m3 water,18_chara,,0.0
+NT2_2022,NT2,2022,tonne,Climate change - Biogenic,kg CO2 eq,,2760.585,0.0,1 m3 water,18_chara,,0.0
+NT2_2022,NT2,2022,tonne,Climate change - Fossil,kg CO2 eq,,2760.585,0.0,1 m3 water,18_chara,,0.0
+NT2_2022,NT2,2022,tonne,Climate change - Land use and LU change,kg CO2 eq,,2760.585,0.0,1 m3 water,18_chara,,0.0
+NT2_2022,NT2,2022,tonne,"Ecotoxicity, freshwater",CTUe,,2760.585,0.0,1 m3 water,18_chara,,0.0
+NT2_2022,NT2,2022,tonne,"Ecotoxicity, freshwater - inorganics",CTUe,,2760.585,0.0,1 m3 water,18_chara,,0.0
+NT2_2022,NT2,2022,tonne,"Ecotoxicity, freshwater - metals",CTUe,,2760.585,0.0,1 m3 water,18_chara,,0.0
+NT2_2022,NT2,2022,tonne,"Ecotoxicity, freshwater - organics",CTUe,,2760.585,0.0,1 m3 water,18_chara,,0.0
+NT2_2022,NT2,2022,tonne,"Eutrophication, freshwater",kg P eq,,2760.585,0.0,1 m3 water,18_chara,,0.0
+NT2_2022,NT2,2022,tonne,"Eutrophication, marine",kg N eq,,2760.585,0.0,1 m3 water,18_chara,,0.0
+NT2_2022,NT2,2022,tonne,"Eutrophication, terrestrial",mol N eq,,2760.585,0.0,1 m3 water,18_chara,,0.0
+NT2_2022,NT2,2022,tonne,"Human toxicity, cancer",CTUh,,2760.585,0.0,1 m3 water,18_chara,,0.0
+NT2_2022,NT2,2022,tonne,"Human toxicity, cancer - inorganics",CTUh,,2760.585,0.0,1 m3 water,18_chara,,0.0
+NT2_2022,NT2,2022,tonne,"Human toxicity, cancer - metals",CTUh,,2760.585,0.0,1 m3 water,18_chara,,0.0
+NT2_2022,NT2,2022,tonne,"Human toxicity, cancer - organics",CTUh,,2760.585,0.0,1 m3 water,18_chara,,0.0
+NT2_2022,NT2,2022,tonne,"Human toxicity, non-cancer",CTUh,,2760.585,0.0,1 m3 water,18_chara,,0.0
+NT2_2022,NT2,2022,tonne,"Human toxicity, non-cancer - inorganics",CTUh,,2760.585,0.0,1 m3 water,18_chara,,0.0
+NT2_2022,NT2,2022,tonne,"Human toxicity, non-cancer - metals",CTUh,,2760.585,0.0,1 m3 water,18_chara,,0.0
+NT2_2022,NT2,2022,tonne,"Human toxicity, non-cancer - organics",CTUh,,2760.585,0.0,1 m3 water,18_chara,,0.0
+NT2_2022,NT2,2022,tonne,Ionising radiation,kBq U-235 eq,,2760.585,0.0,1 m3 water,18_chara,,0.0
+NT2_2022,NT2,2022,tonne,Land use,Pt,,2760.585,0.0,1 m3 water,18_chara,,0.0
+NT2_2022,NT2,2022,tonne,Ozone depletion,kg CFC11 eq,,2760.585,0.0,1 m3 water,18_chara,,0.0
+NT2_2022,NT2,2022,tonne,Particulate matter,disease inc.,,2760.585,0.0,1 m3 water,18_chara,,0.0
+NT2_2022,NT2,2022,tonne,Photochemical ozone formation,kg NMVOC eq,,2760.585,0.0,1 m3 water,18_chara,,0.0
+NT2_2022,NT2,2022,tonne,"Resource use, fossils",MJ,,2760.585,0.0,1 m3 water,18_chara,,0.0
+NT2_2022,NT2,2022,tonne,"Resource use, minerals and metals",kg Sb eq,,2760.585,0.0,1 m3 water,18_chara,,0.0
+NT2_2022,NT2,2022,tonne,Water use,m3 depriv.,,2760.585,49.6,1 m3 water,18_chara,,136925.016
+NT2_2023,NT2,2023,tonne,Acidification,mol H+ eq,,1549.192,0.0,1 m3 water,18_chara,,0.0
+NT2_2023,NT2,2023,tonne,Climate change,kg CO2 eq,,1549.192,0.0,1 m3 water,18_chara,,0.0
+NT2_2023,NT2,2023,tonne,Climate change - Biogenic,kg CO2 eq,,1549.192,0.0,1 m3 water,18_chara,,0.0
+NT2_2023,NT2,2023,tonne,Climate change - Fossil,kg CO2 eq,,1549.192,0.0,1 m3 water,18_chara,,0.0
+NT2_2023,NT2,2023,tonne,Climate change - Land use and LU change,kg CO2 eq,,1549.192,0.0,1 m3 water,18_chara,,0.0
+NT2_2023,NT2,2023,tonne,"Ecotoxicity, freshwater",CTUe,,1549.192,0.0,1 m3 water,18_chara,,0.0
+NT2_2023,NT2,2023,tonne,"Ecotoxicity, freshwater - inorganics",CTUe,,1549.192,0.0,1 m3 water,18_chara,,0.0
+NT2_2023,NT2,2023,tonne,"Ecotoxicity, freshwater - metals",CTUe,,1549.192,0.0,1 m3 water,18_chara,,0.0
+NT2_2023,NT2,2023,tonne,"Ecotoxicity, freshwater - organics",CTUe,,1549.192,0.0,1 m3 water,18_chara,,0.0
+NT2_2023,NT2,2023,tonne,"Eutrophication, freshwater",kg P eq,,1549.192,0.0,1 m3 water,18_chara,,0.0
+NT2_2023,NT2,2023,tonne,"Eutrophication, marine",kg N eq,,1549.192,0.0,1 m3 water,18_chara,,0.0
+NT2_2023,NT2,2023,tonne,"Eutrophication, terrestrial",mol N eq,,1549.192,0.0,1 m3 water,18_chara,,0.0
+NT2_2023,NT2,2023,tonne,"Human toxicity, cancer",CTUh,,1549.192,0.0,1 m3 water,18_chara,,0.0
+NT2_2023,NT2,2023,tonne,"Human toxicity, cancer - inorganics",CTUh,,1549.192,0.0,1 m3 water,18_chara,,0.0
+NT2_2023,NT2,2023,tonne,"Human toxicity, cancer - metals",CTUh,,1549.192,0.0,1 m3 water,18_chara,,0.0
+NT2_2023,NT2,2023,tonne,"Human toxicity, cancer - organics",CTUh,,1549.192,0.0,1 m3 water,18_chara,,0.0
+NT2_2023,NT2,2023,tonne,"Human toxicity, non-cancer",CTUh,,1549.192,0.0,1 m3 water,18_chara,,0.0
+NT2_2023,NT2,2023,tonne,"Human toxicity, non-cancer - inorganics",CTUh,,1549.192,0.0,1 m3 water,18_chara,,0.0
+NT2_2023,NT2,2023,tonne,"Human toxicity, non-cancer - metals",CTUh,,1549.192,0.0,1 m3 water,18_chara,,0.0
+NT2_2023,NT2,2023,tonne,"Human toxicity, non-cancer - organics",CTUh,,1549.192,0.0,1 m3 water,18_chara,,0.0
+NT2_2023,NT2,2023,tonne,Ionising radiation,kBq U-235 eq,,1549.192,0.0,1 m3 water,18_chara,,0.0
+NT2_2023,NT2,2023,tonne,Land use,Pt,,1549.192,0.0,1 m3 water,18_chara,,0.0
+NT2_2023,NT2,2023,tonne,Ozone depletion,kg CFC11 eq,,1549.192,0.0,1 m3 water,18_chara,,0.0
+NT2_2023,NT2,2023,tonne,Particulate matter,disease inc.,,1549.192,0.0,1 m3 water,18_chara,,0.0
+NT2_2023,NT2,2023,tonne,Photochemical ozone formation,kg NMVOC eq,,1549.192,0.0,1 m3 water,18_chara,,0.0
+NT2_2023,NT2,2023,tonne,"Resource use, fossils",MJ,,1549.192,0.0,1 m3 water,18_chara,,0.0
+NT2_2023,NT2,2023,tonne,"Resource use, minerals and metals",kg Sb eq,,1549.192,0.0,1 m3 water,18_chara,,0.0
+NT2_2023,NT2,2023,tonne,Water use,m3 depriv.,,1549.192,49.6,1 m3 water,18_chara,,76839.9232
+NT2_2024,NT2,2024,tonne,Acidification,mol H+ eq,,2374.822,0.0,1 m3 water,18_chara,,0.0
+NT2_2024,NT2,2024,tonne,Climate change,kg CO2 eq,,2374.822,0.0,1 m3 water,18_chara,,0.0
+NT2_2024,NT2,2024,tonne,Climate change - Biogenic,kg CO2 eq,,2374.822,0.0,1 m3 water,18_chara,,0.0
+NT2_2024,NT2,2024,tonne,Climate change - Fossil,kg CO2 eq,,2374.822,0.0,1 m3 water,18_chara,,0.0
+NT2_2024,NT2,2024,tonne,Climate change - Land use and LU change,kg CO2 eq,,2374.822,0.0,1 m3 water,18_chara,,0.0
+NT2_2024,NT2,2024,tonne,"Ecotoxicity, freshwater",CTUe,,2374.822,0.0,1 m3 water,18_chara,,0.0
+NT2_2024,NT2,2024,tonne,"Ecotoxicity, freshwater - inorganics",CTUe,,2374.822,0.0,1 m3 water,18_chara,,0.0
+NT2_2024,NT2,2024,tonne,"Ecotoxicity, freshwater - metals",CTUe,,2374.822,0.0,1 m3 water,18_chara,,0.0
+NT2_2024,NT2,2024,tonne,"Ecotoxicity, freshwater - organics",CTUe,,2374.822,0.0,1 m3 water,18_chara,,0.0
+NT2_2024,NT2,2024,tonne,"Eutrophication, freshwater",kg P eq,,2374.822,0.0,1 m3 water,18_chara,,0.0
+NT2_2024,NT2,2024,tonne,"Eutrophication, marine",kg N eq,,2374.822,0.0,1 m3 water,18_chara,,0.0
+NT2_2024,NT2,2024,tonne,"Eutrophication, terrestrial",mol N eq,,2374.822,0.0,1 m3 water,18_chara,,0.0
+NT2_2024,NT2,2024,tonne,"Human toxicity, cancer",CTUh,,2374.822,0.0,1 m3 water,18_chara,,0.0
+NT2_2024,NT2,2024,tonne,"Human toxicity, cancer - inorganics",CTUh,,2374.822,0.0,1 m3 water,18_chara,,0.0
+NT2_2024,NT2,2024,tonne,"Human toxicity, cancer - metals",CTUh,,2374.822,0.0,1 m3 water,18_chara,,0.0
+NT2_2024,NT2,2024,tonne,"Human toxicity, cancer - organics",CTUh,,2374.822,0.0,1 m3 water,18_chara,,0.0
+NT2_2024,NT2,2024,tonne,"Human toxicity, non-cancer",CTUh,,2374.822,0.0,1 m3 water,18_chara,,0.0
+NT2_2024,NT2,2024,tonne,"Human toxicity, non-cancer - inorganics",CTUh,,2374.822,0.0,1 m3 water,18_chara,,0.0
+NT2_2024,NT2,2024,tonne,"Human toxicity, non-cancer - metals",CTUh,,2374.822,0.0,1 m3 water,18_chara,,0.0
+NT2_2024,NT2,2024,tonne,"Human toxicity, non-cancer - organics",CTUh,,2374.822,0.0,1 m3 water,18_chara,,0.0
+NT2_2024,NT2,2024,tonne,Ionising radiation,kBq U-235 eq,,2374.822,0.0,1 m3 water,18_chara,,0.0
+NT2_2024,NT2,2024,tonne,Land use,Pt,,2374.822,0.0,1 m3 water,18_chara,,0.0
+NT2_2024,NT2,2024,tonne,Ozone depletion,kg CFC11 eq,,2374.822,0.0,1 m3 water,18_chara,,0.0
+NT2_2024,NT2,2024,tonne,Particulate matter,disease inc.,,2374.822,0.0,1 m3 water,18_chara,,0.0
+NT2_2024,NT2,2024,tonne,Photochemical ozone formation,kg NMVOC eq,,2374.822,0.0,1 m3 water,18_chara,,0.0
+NT2_2024,NT2,2024,tonne,"Resource use, fossils",MJ,,2374.822,0.0,1 m3 water,18_chara,,0.0
+NT2_2024,NT2,2024,tonne,"Resource use, minerals and metals",kg Sb eq,,2374.822,0.0,1 m3 water,18_chara,,0.0
+NT2_2024,NT2,2024,tonne,Water use,m3 depriv.,,2374.822,49.6,1 m3 water,18_chara,,117791.17120000001

@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Digital Notebook | Contextual Pressures</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Outfit:wght@300;400;500;600;700&display=swap"
+    rel="stylesheet"
+  />
+  <link rel="stylesheet" href="./pivot.css" />
+</head>
+
+<body class="bioregional-context-page">
+  <div class="page">
+    <header class="top-bar">
+      <div>
+        <p class="eyebrow">Digital Notebook | Bioregional Analysis</p>
+        <h1>Contextual pressures</h1>
+        <p class="lede">
+          Place farmer-year environmental results alongside seasonal pressure indicators without treating them as causal tests.
+        </p>
+      </div>
+      <div class="pill">
+        <span class="dot"></span>
+        <span>Context layer</span>
+      </div>
+    </header>
+
+    <main class="layout diagnostics-layout context-layout">
+      <section class="panel filters">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Filters</p>
+            <h2>Sado historical context</h2>
+          </div>
+          <div class="panel-actions">
+            <a class="ghost" href="./bioregional.html">Back</a>
+            <button class="ghost" id="reset-filters">Reset</button>
+          </div>
+        </div>
+        <div class="filter-grid">
+          <label class="field">
+            <span>Month</span>
+            <select id="month-filter">
+              <option value="all">All months</option>
+              <option value="8">August</option>
+              <option value="9">September</option>
+              <option value="10">October</option>
+            </select>
+          </label>
+          <label class="field">
+            <span>Metric group</span>
+            <select id="group-filter">
+              <option value="all">All metrics</option>
+              <option value="temperature">Temperature and heatwaves</option>
+              <option value="vpd">VPD</option>
+              <option value="precipitation">Precipitation</option>
+              <option value="nao">NAO index</option>
+            </select>
+          </label>
+          <label class="field">
+            <span>Highlighted years</span>
+            <select id="year-filter">
+              <option value="all">2022-2024</option>
+              <option value="2022">2022</option>
+              <option value="2023">2023</option>
+              <option value="2024">2024</option>
+            </select>
+          </label>
+        </div>
+        <div class="chip" id="active-filters"></div>
+        <p class="panel-note">
+          The baseline is the Sado rice-region distribution for 1991-2024. Values for 2022-2024 are shown as shared seasonal context, not farmer-level causal explanation.
+        </p>
+      </section>
+
+      <section class="panel stats">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Scope</p>
+            <h2>Context snapshot</h2>
+          </div>
+        </div>
+        <div class="stat-grid" id="stat-grid"></div>
+      </section>
+
+      <section class="panel pivot">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Historical Baseline</p>
+            <h2>2022-2024 against Sado historical expectation</h2>
+            <p class="panel-note">Grey bands show Q1-Q3, the dark marker shows the historical median, and colored dots show the LCA years.</p>
+          </div>
+          <div class="chip muted" id="chart-count"></div>
+        </div>
+        <div class="context-legend">
+          <span><i class="context-point year-2022"></i>2022</span>
+          <span><i class="context-point year-2023"></i>2023</span>
+          <span><i class="context-point year-2024"></i>2024</span>
+        </div>
+        <div id="context-chart" class="context-chart"></div>
+      </section>
+
+      <section class="panel full-width">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Yield Relationship</p>
+            <h2>Sado yield associations, 1991-2024</h2>
+            <p class="panel-note">Reports Pearson r, p-value, and R2 between each monthly context metric and detrended regional yield residuals. This is contextual association, not farmer-level causality.</p>
+          </div>
+          <div class="chip muted" id="trend-count"></div>
+        </div>
+        <div id="trend-table" class="table-shell"></div>
+      </section>
+
+      <section class="panel detail">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Detail</p>
+            <h2>Context values and anomalies</h2>
+          </div>
+          <div class="chip muted" id="detail-count"></div>
+        </div>
+        <div id="detail-table" class="table-shell"></div>
+      </section>
+    </main>
+  </div>
+  <script src="./i18n.js"></script>
+  <script type="module" src="./bioregional-context.js"></script>
+</body>
+
+</html>

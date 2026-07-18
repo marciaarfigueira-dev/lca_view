@@ -1,0 +1,14 @@
+website_area,current_website_route,clean_source_route,status,notes
+pivot_crop_protection,docs/data/pivot_tables/operations_mastersheet - CROP_PROTECTION.csv,01_input_data/01_farm_operation_data/pivot_tables/operations_mastersheet - CROP_PROTECTION.csv,keep_raw_input_view,Raw input explorer can still use original pivot table.
+pivot_fertilisation,docs/data/pivot_tables/operations_mastersheet - FERTILISATION.csv,01_input_data/01_farm_operation_data/pivot_tables/operations_mastersheet - FERTILISATION.csv,keep_raw_input_view,Raw input explorer can still use original pivot table.
+pivot_machines,docs/data/pivot_tables/operations_mastersheet - Machines_No_Inputs.csv,01_input_data/01_farm_operation_data/pivot_tables/operations_mastersheet - Machines_No_Inputs.csv,keep_raw_input_view,Raw input explorer can still use original pivot table.
+pivot_sowing,docs/data/pivot_tables/operations_mastersheet - SOWING.csv,01_input_data/01_farm_operation_data/pivot_tables/operations_mastersheet - SOWING.csv,keep_raw_input_view,Raw input explorer can still use original pivot table.
+pivot_water,docs/data/pivot_tables/operations_mastersheet - Water.csv,01_input_data/01_farm_operation_data/pivot_tables/operations_mastersheet - Water.csv,keep_raw_input_view,Raw input explorer can still use original pivot table.
+lca_fertilisation,docs/data/old_or_page_calculation,03_outputs/fertilisation,replace_with_clean_output,Use generated DMU-level ha and tonne outputs.
+lca_crop_protection,docs/data/old_or_page_calculation,03_outputs/crop_protection,replace_with_clean_output,Use generated DMU-level ha and tonne outputs.
+lca_machines,docs/data/old_or_page_calculation,03_outputs/machines,replace_with_clean_output,Use generated DMU-level ha and tonne outputs.
+lca_sowing,docs/data/old_or_page_calculation,03_outputs/sowing,replace_with_clean_output,Use generated DMU-level ha and tonne outputs.
+lca_field_emissions,docs/data/pivot_tables/old CH4 and N2O CSVs,03_outputs/field_emissions,replace_with_clean_output,Use corrected methane/N2O/straw/urea outputs.
+lca_water,docs/data/old_or_page_calculation,03_outputs/water,replace_with_clean_output,Use generated DMU-level ha and tonne outputs.
+aggregated_characterisation,docs/data/cluster_impacts/old cluster CSVs,03_outputs/_aggregated/characterisation_by_dmu_*.csv,planned,Build after all DMU-level outputs are stable.
+aggregated_single_score,docs/data/cluster_impacts/old cluster CSVs,03_outputs/_aggregated/single_score_by_dmu_*.csv,planned,Build after all DMU-level outputs are stable.

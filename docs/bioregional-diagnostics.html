@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Digital Notebook | Diagnostics</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Outfit:wght@300;400;500;600;700&display=swap"
+    rel="stylesheet"
+  />
+  <link rel="stylesheet" href="./pivot.css" />
+</head>
+
+<body class="bioregional-diagnostics-page">
+  <div class="page">
+    <header class="top-bar">
+      <div>
+        <p class="eyebrow">Digital Notebook | Bioregional Analysis</p>
+        <h1>Technical and environmental diagnostics</h1>
+        <p class="lede">
+          Review DEA and PCA/HCPC outputs as robustness and sensitivity diagnostics rather than definitive rankings or typologies.
+        </p>
+      </div>
+      <div class="pill">
+        <span class="dot"></span>
+        <span>Secondary analysis</span>
+      </div>
+    </header>
+
+    <main class="layout diagnostics-layout">
+      <section class="panel filters">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Positioning</p>
+            <h2>Interpretation boundary</h2>
+          </div>
+          <div class="panel-actions">
+            <a class="ghost" href="./bioregional.html">Back</a>
+          </div>
+        </div>
+        <p class="panel-note">
+          These analyses are used to test whether technical efficiency and management-pattern signals are sensitive to assumptions.
+          They are not used as standalone evidence of environmental sustainability.
+        </p>
+      </section>
+
+      <section class="panel stats">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Overview</p>
+            <h2>Diagnostic snapshot</h2>
+          </div>
+        </div>
+        <div class="stat-grid" id="stat-grid"></div>
+      </section>
+
+      <section class="panel pivot">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">DEA</p>
+            <h2>Technical and climate-adjusted efficiency checks</h2>
+          </div>
+          <div class="chip muted" id="dea-count"></div>
+        </div>
+        <div id="dea-summary-table" class="table-shell"></div>
+      </section>
+
+      <section class="panel detail">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">PCA / HCPC</p>
+            <h2>Cluster sensitivity checks</h2>
+          </div>
+          <div class="chip muted" id="pca-count"></div>
+        </div>
+        <div id="pca-summary-table" class="table-shell"></div>
+      </section>
+
+      <section class="panel full-width">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Loadings</p>
+            <h2>Baseline PCA loadings</h2>
+          </div>
+          <div class="chip muted">winsor p95</div>
+        </div>
+        <div id="loading-table" class="table-shell"></div>
+      </section>
+    </main>
+  </div>
+  <script src="./i18n.js"></script>
+  <script type="module" src="./bioregional-diagnostics.js"></script>
+</body>
+
+</html>

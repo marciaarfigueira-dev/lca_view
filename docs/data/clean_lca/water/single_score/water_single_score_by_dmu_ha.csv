@@ -1,0 +1,987 @@
+dmu_id,farmer_id,year,basis,impact_category,impact_unit,water_amount_m3_ha,water_amount_m3_tonne,water_factor_per_unit,water_factor_unit,characterisation_sheet,single_score_file,water_total_impact
+C1_2022,C1,2022,ha,Acidification,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2022,C1,2022,ha,Climate change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2022,C1,2022,ha,Climate change - Biogenic,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2022,C1,2022,ha,Climate change - Fossil,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2022,C1,2022,ha,Climate change - Land use and LU change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2022,C1,2022,ha,"Ecotoxicity, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2022,C1,2022,ha,"Ecotoxicity, freshwater - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2022,C1,2022,ha,"Ecotoxicity, freshwater - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2022,C1,2022,ha,"Ecotoxicity, freshwater - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2022,C1,2022,ha,"Eutrophication, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2022,C1,2022,ha,"Eutrophication, marine",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2022,C1,2022,ha,"Eutrophication, terrestrial",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2022,C1,2022,ha,"Human toxicity, cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2022,C1,2022,ha,"Human toxicity, cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2022,C1,2022,ha,"Human toxicity, cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2022,C1,2022,ha,"Human toxicity, cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2022,C1,2022,ha,"Human toxicity, non-cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2022,C1,2022,ha,"Human toxicity, non-cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2022,C1,2022,ha,"Human toxicity, non-cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2022,C1,2022,ha,"Human toxicity, non-cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2022,C1,2022,ha,Ionising radiation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2022,C1,2022,ha,Land use,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2022,C1,2022,ha,Ozone depletion,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2022,C1,2022,ha,Particulate matter,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2022,C1,2022,ha,Photochemical ozone formation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2022,C1,2022,ha,"Resource use, fossils",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2022,C1,2022,ha,"Resource use, minerals and metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2022,C1,2022,ha,Total,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C1_2022,C1,2022,ha,Water use,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C1_2023,C1,2023,ha,Acidification,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2023,C1,2023,ha,Climate change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2023,C1,2023,ha,Climate change - Biogenic,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2023,C1,2023,ha,Climate change - Fossil,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2023,C1,2023,ha,Climate change - Land use and LU change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2023,C1,2023,ha,"Ecotoxicity, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2023,C1,2023,ha,"Ecotoxicity, freshwater - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2023,C1,2023,ha,"Ecotoxicity, freshwater - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2023,C1,2023,ha,"Ecotoxicity, freshwater - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2023,C1,2023,ha,"Eutrophication, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2023,C1,2023,ha,"Eutrophication, marine",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2023,C1,2023,ha,"Eutrophication, terrestrial",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2023,C1,2023,ha,"Human toxicity, cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2023,C1,2023,ha,"Human toxicity, cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2023,C1,2023,ha,"Human toxicity, cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2023,C1,2023,ha,"Human toxicity, cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2023,C1,2023,ha,"Human toxicity, non-cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2023,C1,2023,ha,"Human toxicity, non-cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2023,C1,2023,ha,"Human toxicity, non-cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2023,C1,2023,ha,"Human toxicity, non-cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2023,C1,2023,ha,Ionising radiation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2023,C1,2023,ha,Land use,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2023,C1,2023,ha,Ozone depletion,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2023,C1,2023,ha,Particulate matter,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2023,C1,2023,ha,Photochemical ozone formation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2023,C1,2023,ha,"Resource use, fossils",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2023,C1,2023,ha,"Resource use, minerals and metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2023,C1,2023,ha,Total,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C1_2023,C1,2023,ha,Water use,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C1_2024,C1,2024,ha,Acidification,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2024,C1,2024,ha,Climate change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2024,C1,2024,ha,Climate change - Biogenic,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2024,C1,2024,ha,Climate change - Fossil,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2024,C1,2024,ha,Climate change - Land use and LU change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2024,C1,2024,ha,"Ecotoxicity, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2024,C1,2024,ha,"Ecotoxicity, freshwater - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2024,C1,2024,ha,"Ecotoxicity, freshwater - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2024,C1,2024,ha,"Ecotoxicity, freshwater - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2024,C1,2024,ha,"Eutrophication, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2024,C1,2024,ha,"Eutrophication, marine",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2024,C1,2024,ha,"Eutrophication, terrestrial",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2024,C1,2024,ha,"Human toxicity, cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2024,C1,2024,ha,"Human toxicity, cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2024,C1,2024,ha,"Human toxicity, cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2024,C1,2024,ha,"Human toxicity, cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2024,C1,2024,ha,"Human toxicity, non-cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2024,C1,2024,ha,"Human toxicity, non-cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2024,C1,2024,ha,"Human toxicity, non-cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2024,C1,2024,ha,"Human toxicity, non-cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2024,C1,2024,ha,Ionising radiation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2024,C1,2024,ha,Land use,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2024,C1,2024,ha,Ozone depletion,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2024,C1,2024,ha,Particulate matter,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2024,C1,2024,ha,Photochemical ozone formation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2024,C1,2024,ha,"Resource use, fossils",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2024,C1,2024,ha,"Resource use, minerals and metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C1_2024,C1,2024,ha,Total,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C1_2024,C1,2024,ha,Water use,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C2_2022,C2,2022,ha,Acidification,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2022,C2,2022,ha,Climate change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2022,C2,2022,ha,Climate change - Biogenic,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2022,C2,2022,ha,Climate change - Fossil,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2022,C2,2022,ha,Climate change - Land use and LU change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2022,C2,2022,ha,"Ecotoxicity, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2022,C2,2022,ha,"Ecotoxicity, freshwater - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2022,C2,2022,ha,"Ecotoxicity, freshwater - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2022,C2,2022,ha,"Ecotoxicity, freshwater - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2022,C2,2022,ha,"Eutrophication, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2022,C2,2022,ha,"Eutrophication, marine",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2022,C2,2022,ha,"Eutrophication, terrestrial",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2022,C2,2022,ha,"Human toxicity, cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2022,C2,2022,ha,"Human toxicity, cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2022,C2,2022,ha,"Human toxicity, cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2022,C2,2022,ha,"Human toxicity, cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2022,C2,2022,ha,"Human toxicity, non-cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2022,C2,2022,ha,"Human toxicity, non-cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2022,C2,2022,ha,"Human toxicity, non-cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2022,C2,2022,ha,"Human toxicity, non-cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2022,C2,2022,ha,Ionising radiation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2022,C2,2022,ha,Land use,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2022,C2,2022,ha,Ozone depletion,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2022,C2,2022,ha,Particulate matter,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2022,C2,2022,ha,Photochemical ozone formation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2022,C2,2022,ha,"Resource use, fossils",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2022,C2,2022,ha,"Resource use, minerals and metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2022,C2,2022,ha,Total,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C2_2022,C2,2022,ha,Water use,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C2_2023,C2,2023,ha,Acidification,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2023,C2,2023,ha,Climate change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2023,C2,2023,ha,Climate change - Biogenic,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2023,C2,2023,ha,Climate change - Fossil,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2023,C2,2023,ha,Climate change - Land use and LU change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2023,C2,2023,ha,"Ecotoxicity, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2023,C2,2023,ha,"Ecotoxicity, freshwater - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2023,C2,2023,ha,"Ecotoxicity, freshwater - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2023,C2,2023,ha,"Ecotoxicity, freshwater - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2023,C2,2023,ha,"Eutrophication, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2023,C2,2023,ha,"Eutrophication, marine",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2023,C2,2023,ha,"Eutrophication, terrestrial",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2023,C2,2023,ha,"Human toxicity, cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2023,C2,2023,ha,"Human toxicity, cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2023,C2,2023,ha,"Human toxicity, cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2023,C2,2023,ha,"Human toxicity, cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2023,C2,2023,ha,"Human toxicity, non-cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2023,C2,2023,ha,"Human toxicity, non-cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2023,C2,2023,ha,"Human toxicity, non-cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2023,C2,2023,ha,"Human toxicity, non-cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2023,C2,2023,ha,Ionising radiation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2023,C2,2023,ha,Land use,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2023,C2,2023,ha,Ozone depletion,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2023,C2,2023,ha,Particulate matter,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2023,C2,2023,ha,Photochemical ozone formation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2023,C2,2023,ha,"Resource use, fossils",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2023,C2,2023,ha,"Resource use, minerals and metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2023,C2,2023,ha,Total,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C2_2023,C2,2023,ha,Water use,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C2_2024,C2,2024,ha,Acidification,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2024,C2,2024,ha,Climate change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2024,C2,2024,ha,Climate change - Biogenic,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2024,C2,2024,ha,Climate change - Fossil,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2024,C2,2024,ha,Climate change - Land use and LU change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2024,C2,2024,ha,"Ecotoxicity, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2024,C2,2024,ha,"Ecotoxicity, freshwater - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2024,C2,2024,ha,"Ecotoxicity, freshwater - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2024,C2,2024,ha,"Ecotoxicity, freshwater - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2024,C2,2024,ha,"Eutrophication, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2024,C2,2024,ha,"Eutrophication, marine",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2024,C2,2024,ha,"Eutrophication, terrestrial",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2024,C2,2024,ha,"Human toxicity, cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2024,C2,2024,ha,"Human toxicity, cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2024,C2,2024,ha,"Human toxicity, cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2024,C2,2024,ha,"Human toxicity, cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2024,C2,2024,ha,"Human toxicity, non-cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2024,C2,2024,ha,"Human toxicity, non-cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2024,C2,2024,ha,"Human toxicity, non-cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2024,C2,2024,ha,"Human toxicity, non-cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2024,C2,2024,ha,Ionising radiation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2024,C2,2024,ha,Land use,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2024,C2,2024,ha,Ozone depletion,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2024,C2,2024,ha,Particulate matter,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2024,C2,2024,ha,Photochemical ozone formation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2024,C2,2024,ha,"Resource use, fossils",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2024,C2,2024,ha,"Resource use, minerals and metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C2_2024,C2,2024,ha,Total,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C2_2024,C2,2024,ha,Water use,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C3_2022,C3,2022,ha,Acidification,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2022,C3,2022,ha,Climate change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2022,C3,2022,ha,Climate change - Biogenic,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2022,C3,2022,ha,Climate change - Fossil,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2022,C3,2022,ha,Climate change - Land use and LU change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2022,C3,2022,ha,"Ecotoxicity, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2022,C3,2022,ha,"Ecotoxicity, freshwater - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2022,C3,2022,ha,"Ecotoxicity, freshwater - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2022,C3,2022,ha,"Ecotoxicity, freshwater - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2022,C3,2022,ha,"Eutrophication, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2022,C3,2022,ha,"Eutrophication, marine",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2022,C3,2022,ha,"Eutrophication, terrestrial",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2022,C3,2022,ha,"Human toxicity, cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2022,C3,2022,ha,"Human toxicity, cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2022,C3,2022,ha,"Human toxicity, cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2022,C3,2022,ha,"Human toxicity, cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2022,C3,2022,ha,"Human toxicity, non-cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2022,C3,2022,ha,"Human toxicity, non-cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2022,C3,2022,ha,"Human toxicity, non-cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2022,C3,2022,ha,"Human toxicity, non-cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2022,C3,2022,ha,Ionising radiation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2022,C3,2022,ha,Land use,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2022,C3,2022,ha,Ozone depletion,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2022,C3,2022,ha,Particulate matter,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2022,C3,2022,ha,Photochemical ozone formation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2022,C3,2022,ha,"Resource use, fossils",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2022,C3,2022,ha,"Resource use, minerals and metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2022,C3,2022,ha,Total,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C3_2022,C3,2022,ha,Water use,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C3_2023,C3,2023,ha,Acidification,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2023,C3,2023,ha,Climate change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2023,C3,2023,ha,Climate change - Biogenic,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2023,C3,2023,ha,Climate change - Fossil,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2023,C3,2023,ha,Climate change - Land use and LU change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2023,C3,2023,ha,"Ecotoxicity, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2023,C3,2023,ha,"Ecotoxicity, freshwater - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2023,C3,2023,ha,"Ecotoxicity, freshwater - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2023,C3,2023,ha,"Ecotoxicity, freshwater - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2023,C3,2023,ha,"Eutrophication, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2023,C3,2023,ha,"Eutrophication, marine",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2023,C3,2023,ha,"Eutrophication, terrestrial",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2023,C3,2023,ha,"Human toxicity, cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2023,C3,2023,ha,"Human toxicity, cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2023,C3,2023,ha,"Human toxicity, cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2023,C3,2023,ha,"Human toxicity, cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2023,C3,2023,ha,"Human toxicity, non-cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2023,C3,2023,ha,"Human toxicity, non-cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2023,C3,2023,ha,"Human toxicity, non-cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2023,C3,2023,ha,"Human toxicity, non-cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2023,C3,2023,ha,Ionising radiation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2023,C3,2023,ha,Land use,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2023,C3,2023,ha,Ozone depletion,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2023,C3,2023,ha,Particulate matter,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2023,C3,2023,ha,Photochemical ozone formation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2023,C3,2023,ha,"Resource use, fossils",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2023,C3,2023,ha,"Resource use, minerals and metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2023,C3,2023,ha,Total,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C3_2023,C3,2023,ha,Water use,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C3_2024,C3,2024,ha,Acidification,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2024,C3,2024,ha,Climate change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2024,C3,2024,ha,Climate change - Biogenic,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2024,C3,2024,ha,Climate change - Fossil,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2024,C3,2024,ha,Climate change - Land use and LU change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2024,C3,2024,ha,"Ecotoxicity, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2024,C3,2024,ha,"Ecotoxicity, freshwater - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2024,C3,2024,ha,"Ecotoxicity, freshwater - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2024,C3,2024,ha,"Ecotoxicity, freshwater - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2024,C3,2024,ha,"Eutrophication, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2024,C3,2024,ha,"Eutrophication, marine",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2024,C3,2024,ha,"Eutrophication, terrestrial",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2024,C3,2024,ha,"Human toxicity, cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2024,C3,2024,ha,"Human toxicity, cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2024,C3,2024,ha,"Human toxicity, cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2024,C3,2024,ha,"Human toxicity, cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2024,C3,2024,ha,"Human toxicity, non-cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2024,C3,2024,ha,"Human toxicity, non-cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2024,C3,2024,ha,"Human toxicity, non-cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2024,C3,2024,ha,"Human toxicity, non-cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2024,C3,2024,ha,Ionising radiation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2024,C3,2024,ha,Land use,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2024,C3,2024,ha,Ozone depletion,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2024,C3,2024,ha,Particulate matter,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2024,C3,2024,ha,Photochemical ozone formation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2024,C3,2024,ha,"Resource use, fossils",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2024,C3,2024,ha,"Resource use, minerals and metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C3_2024,C3,2024,ha,Total,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C3_2024,C3,2024,ha,Water use,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C4_2022,C4,2022,ha,Acidification,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2022,C4,2022,ha,Climate change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2022,C4,2022,ha,Climate change - Biogenic,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2022,C4,2022,ha,Climate change - Fossil,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2022,C4,2022,ha,Climate change - Land use and LU change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2022,C4,2022,ha,"Ecotoxicity, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2022,C4,2022,ha,"Ecotoxicity, freshwater - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2022,C4,2022,ha,"Ecotoxicity, freshwater - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2022,C4,2022,ha,"Ecotoxicity, freshwater - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2022,C4,2022,ha,"Eutrophication, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2022,C4,2022,ha,"Eutrophication, marine",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2022,C4,2022,ha,"Eutrophication, terrestrial",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2022,C4,2022,ha,"Human toxicity, cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2022,C4,2022,ha,"Human toxicity, cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2022,C4,2022,ha,"Human toxicity, cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2022,C4,2022,ha,"Human toxicity, cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2022,C4,2022,ha,"Human toxicity, non-cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2022,C4,2022,ha,"Human toxicity, non-cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2022,C4,2022,ha,"Human toxicity, non-cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2022,C4,2022,ha,"Human toxicity, non-cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2022,C4,2022,ha,Ionising radiation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2022,C4,2022,ha,Land use,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2022,C4,2022,ha,Ozone depletion,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2022,C4,2022,ha,Particulate matter,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2022,C4,2022,ha,Photochemical ozone formation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2022,C4,2022,ha,"Resource use, fossils",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2022,C4,2022,ha,"Resource use, minerals and metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2022,C4,2022,ha,Total,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C4_2022,C4,2022,ha,Water use,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C4_2023,C4,2023,ha,Acidification,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2023,C4,2023,ha,Climate change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2023,C4,2023,ha,Climate change - Biogenic,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2023,C4,2023,ha,Climate change - Fossil,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2023,C4,2023,ha,Climate change - Land use and LU change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2023,C4,2023,ha,"Ecotoxicity, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2023,C4,2023,ha,"Ecotoxicity, freshwater - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2023,C4,2023,ha,"Ecotoxicity, freshwater - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2023,C4,2023,ha,"Ecotoxicity, freshwater - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2023,C4,2023,ha,"Eutrophication, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2023,C4,2023,ha,"Eutrophication, marine",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2023,C4,2023,ha,"Eutrophication, terrestrial",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2023,C4,2023,ha,"Human toxicity, cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2023,C4,2023,ha,"Human toxicity, cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2023,C4,2023,ha,"Human toxicity, cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2023,C4,2023,ha,"Human toxicity, cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2023,C4,2023,ha,"Human toxicity, non-cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2023,C4,2023,ha,"Human toxicity, non-cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2023,C4,2023,ha,"Human toxicity, non-cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2023,C4,2023,ha,"Human toxicity, non-cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2023,C4,2023,ha,Ionising radiation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2023,C4,2023,ha,Land use,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2023,C4,2023,ha,Ozone depletion,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2023,C4,2023,ha,Particulate matter,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2023,C4,2023,ha,Photochemical ozone formation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2023,C4,2023,ha,"Resource use, fossils",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2023,C4,2023,ha,"Resource use, minerals and metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2023,C4,2023,ha,Total,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C4_2023,C4,2023,ha,Water use,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C4_2024,C4,2024,ha,Acidification,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2024,C4,2024,ha,Climate change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2024,C4,2024,ha,Climate change - Biogenic,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2024,C4,2024,ha,Climate change - Fossil,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2024,C4,2024,ha,Climate change - Land use and LU change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2024,C4,2024,ha,"Ecotoxicity, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2024,C4,2024,ha,"Ecotoxicity, freshwater - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2024,C4,2024,ha,"Ecotoxicity, freshwater - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2024,C4,2024,ha,"Ecotoxicity, freshwater - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2024,C4,2024,ha,"Eutrophication, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2024,C4,2024,ha,"Eutrophication, marine",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2024,C4,2024,ha,"Eutrophication, terrestrial",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2024,C4,2024,ha,"Human toxicity, cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2024,C4,2024,ha,"Human toxicity, cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2024,C4,2024,ha,"Human toxicity, cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2024,C4,2024,ha,"Human toxicity, cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2024,C4,2024,ha,"Human toxicity, non-cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2024,C4,2024,ha,"Human toxicity, non-cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2024,C4,2024,ha,"Human toxicity, non-cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2024,C4,2024,ha,"Human toxicity, non-cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2024,C4,2024,ha,Ionising radiation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2024,C4,2024,ha,Land use,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2024,C4,2024,ha,Ozone depletion,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2024,C4,2024,ha,Particulate matter,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2024,C4,2024,ha,Photochemical ozone formation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2024,C4,2024,ha,"Resource use, fossils",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2024,C4,2024,ha,"Resource use, minerals and metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C4_2024,C4,2024,ha,Total,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C4_2024,C4,2024,ha,Water use,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C5_2022,C5,2022,ha,Acidification,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2022,C5,2022,ha,Climate change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2022,C5,2022,ha,Climate change - Biogenic,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2022,C5,2022,ha,Climate change - Fossil,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2022,C5,2022,ha,Climate change - Land use and LU change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2022,C5,2022,ha,"Ecotoxicity, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2022,C5,2022,ha,"Ecotoxicity, freshwater - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2022,C5,2022,ha,"Ecotoxicity, freshwater - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2022,C5,2022,ha,"Ecotoxicity, freshwater - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2022,C5,2022,ha,"Eutrophication, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2022,C5,2022,ha,"Eutrophication, marine",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2022,C5,2022,ha,"Eutrophication, terrestrial",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2022,C5,2022,ha,"Human toxicity, cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2022,C5,2022,ha,"Human toxicity, cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2022,C5,2022,ha,"Human toxicity, cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2022,C5,2022,ha,"Human toxicity, cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2022,C5,2022,ha,"Human toxicity, non-cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2022,C5,2022,ha,"Human toxicity, non-cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2022,C5,2022,ha,"Human toxicity, non-cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2022,C5,2022,ha,"Human toxicity, non-cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2022,C5,2022,ha,Ionising radiation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2022,C5,2022,ha,Land use,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2022,C5,2022,ha,Ozone depletion,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2022,C5,2022,ha,Particulate matter,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2022,C5,2022,ha,Photochemical ozone formation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2022,C5,2022,ha,"Resource use, fossils",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2022,C5,2022,ha,"Resource use, minerals and metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2022,C5,2022,ha,Total,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C5_2022,C5,2022,ha,Water use,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C5_2023,C5,2023,ha,Acidification,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2023,C5,2023,ha,Climate change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2023,C5,2023,ha,Climate change - Biogenic,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2023,C5,2023,ha,Climate change - Fossil,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2023,C5,2023,ha,Climate change - Land use and LU change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2023,C5,2023,ha,"Ecotoxicity, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2023,C5,2023,ha,"Ecotoxicity, freshwater - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2023,C5,2023,ha,"Ecotoxicity, freshwater - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2023,C5,2023,ha,"Ecotoxicity, freshwater - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2023,C5,2023,ha,"Eutrophication, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2023,C5,2023,ha,"Eutrophication, marine",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2023,C5,2023,ha,"Eutrophication, terrestrial",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2023,C5,2023,ha,"Human toxicity, cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2023,C5,2023,ha,"Human toxicity, cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2023,C5,2023,ha,"Human toxicity, cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2023,C5,2023,ha,"Human toxicity, cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2023,C5,2023,ha,"Human toxicity, non-cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2023,C5,2023,ha,"Human toxicity, non-cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2023,C5,2023,ha,"Human toxicity, non-cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2023,C5,2023,ha,"Human toxicity, non-cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2023,C5,2023,ha,Ionising radiation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2023,C5,2023,ha,Land use,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2023,C5,2023,ha,Ozone depletion,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2023,C5,2023,ha,Particulate matter,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2023,C5,2023,ha,Photochemical ozone formation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2023,C5,2023,ha,"Resource use, fossils",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2023,C5,2023,ha,"Resource use, minerals and metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2023,C5,2023,ha,Total,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C5_2023,C5,2023,ha,Water use,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C5_2024,C5,2024,ha,Acidification,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2024,C5,2024,ha,Climate change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2024,C5,2024,ha,Climate change - Biogenic,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2024,C5,2024,ha,Climate change - Fossil,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2024,C5,2024,ha,Climate change - Land use and LU change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2024,C5,2024,ha,"Ecotoxicity, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2024,C5,2024,ha,"Ecotoxicity, freshwater - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2024,C5,2024,ha,"Ecotoxicity, freshwater - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2024,C5,2024,ha,"Ecotoxicity, freshwater - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2024,C5,2024,ha,"Eutrophication, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2024,C5,2024,ha,"Eutrophication, marine",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2024,C5,2024,ha,"Eutrophication, terrestrial",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2024,C5,2024,ha,"Human toxicity, cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2024,C5,2024,ha,"Human toxicity, cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2024,C5,2024,ha,"Human toxicity, cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2024,C5,2024,ha,"Human toxicity, cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2024,C5,2024,ha,"Human toxicity, non-cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2024,C5,2024,ha,"Human toxicity, non-cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2024,C5,2024,ha,"Human toxicity, non-cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2024,C5,2024,ha,"Human toxicity, non-cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2024,C5,2024,ha,Ionising radiation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2024,C5,2024,ha,Land use,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2024,C5,2024,ha,Ozone depletion,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2024,C5,2024,ha,Particulate matter,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2024,C5,2024,ha,Photochemical ozone formation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2024,C5,2024,ha,"Resource use, fossils",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2024,C5,2024,ha,"Resource use, minerals and metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C5_2024,C5,2024,ha,Total,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C5_2024,C5,2024,ha,Water use,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C6_2022,C6,2022,ha,Acidification,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2022,C6,2022,ha,Climate change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2022,C6,2022,ha,Climate change - Biogenic,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2022,C6,2022,ha,Climate change - Fossil,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2022,C6,2022,ha,Climate change - Land use and LU change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2022,C6,2022,ha,"Ecotoxicity, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2022,C6,2022,ha,"Ecotoxicity, freshwater - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2022,C6,2022,ha,"Ecotoxicity, freshwater - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2022,C6,2022,ha,"Ecotoxicity, freshwater - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2022,C6,2022,ha,"Eutrophication, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2022,C6,2022,ha,"Eutrophication, marine",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2022,C6,2022,ha,"Eutrophication, terrestrial",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2022,C6,2022,ha,"Human toxicity, cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2022,C6,2022,ha,"Human toxicity, cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2022,C6,2022,ha,"Human toxicity, cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2022,C6,2022,ha,"Human toxicity, cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2022,C6,2022,ha,"Human toxicity, non-cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2022,C6,2022,ha,"Human toxicity, non-cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2022,C6,2022,ha,"Human toxicity, non-cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2022,C6,2022,ha,"Human toxicity, non-cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2022,C6,2022,ha,Ionising radiation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2022,C6,2022,ha,Land use,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2022,C6,2022,ha,Ozone depletion,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2022,C6,2022,ha,Particulate matter,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2022,C6,2022,ha,Photochemical ozone formation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2022,C6,2022,ha,"Resource use, fossils",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2022,C6,2022,ha,"Resource use, minerals and metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2022,C6,2022,ha,Total,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C6_2022,C6,2022,ha,Water use,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C6_2023,C6,2023,ha,Acidification,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2023,C6,2023,ha,Climate change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2023,C6,2023,ha,Climate change - Biogenic,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2023,C6,2023,ha,Climate change - Fossil,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2023,C6,2023,ha,Climate change - Land use and LU change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2023,C6,2023,ha,"Ecotoxicity, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2023,C6,2023,ha,"Ecotoxicity, freshwater - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2023,C6,2023,ha,"Ecotoxicity, freshwater - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2023,C6,2023,ha,"Ecotoxicity, freshwater - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2023,C6,2023,ha,"Eutrophication, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2023,C6,2023,ha,"Eutrophication, marine",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2023,C6,2023,ha,"Eutrophication, terrestrial",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2023,C6,2023,ha,"Human toxicity, cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2023,C6,2023,ha,"Human toxicity, cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2023,C6,2023,ha,"Human toxicity, cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2023,C6,2023,ha,"Human toxicity, cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2023,C6,2023,ha,"Human toxicity, non-cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2023,C6,2023,ha,"Human toxicity, non-cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2023,C6,2023,ha,"Human toxicity, non-cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2023,C6,2023,ha,"Human toxicity, non-cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2023,C6,2023,ha,Ionising radiation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2023,C6,2023,ha,Land use,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2023,C6,2023,ha,Ozone depletion,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2023,C6,2023,ha,Particulate matter,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2023,C6,2023,ha,Photochemical ozone formation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2023,C6,2023,ha,"Resource use, fossils",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2023,C6,2023,ha,"Resource use, minerals and metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2023,C6,2023,ha,Total,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C6_2023,C6,2023,ha,Water use,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C6_2024,C6,2024,ha,Acidification,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2024,C6,2024,ha,Climate change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2024,C6,2024,ha,Climate change - Biogenic,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2024,C6,2024,ha,Climate change - Fossil,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2024,C6,2024,ha,Climate change - Land use and LU change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2024,C6,2024,ha,"Ecotoxicity, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2024,C6,2024,ha,"Ecotoxicity, freshwater - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2024,C6,2024,ha,"Ecotoxicity, freshwater - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2024,C6,2024,ha,"Ecotoxicity, freshwater - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2024,C6,2024,ha,"Eutrophication, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2024,C6,2024,ha,"Eutrophication, marine",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2024,C6,2024,ha,"Eutrophication, terrestrial",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2024,C6,2024,ha,"Human toxicity, cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2024,C6,2024,ha,"Human toxicity, cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2024,C6,2024,ha,"Human toxicity, cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2024,C6,2024,ha,"Human toxicity, cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2024,C6,2024,ha,"Human toxicity, non-cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2024,C6,2024,ha,"Human toxicity, non-cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2024,C6,2024,ha,"Human toxicity, non-cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2024,C6,2024,ha,"Human toxicity, non-cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2024,C6,2024,ha,Ionising radiation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2024,C6,2024,ha,Land use,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2024,C6,2024,ha,Ozone depletion,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2024,C6,2024,ha,Particulate matter,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2024,C6,2024,ha,Photochemical ozone formation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2024,C6,2024,ha,"Resource use, fossils",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2024,C6,2024,ha,"Resource use, minerals and metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C6_2024,C6,2024,ha,Total,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C6_2024,C6,2024,ha,Water use,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C7_2023,C7,2023,ha,Acidification,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2023,C7,2023,ha,Climate change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2023,C7,2023,ha,Climate change - Biogenic,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2023,C7,2023,ha,Climate change - Fossil,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2023,C7,2023,ha,Climate change - Land use and LU change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2023,C7,2023,ha,"Ecotoxicity, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2023,C7,2023,ha,"Ecotoxicity, freshwater - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2023,C7,2023,ha,"Ecotoxicity, freshwater - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2023,C7,2023,ha,"Ecotoxicity, freshwater - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2023,C7,2023,ha,"Eutrophication, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2023,C7,2023,ha,"Eutrophication, marine",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2023,C7,2023,ha,"Eutrophication, terrestrial",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2023,C7,2023,ha,"Human toxicity, cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2023,C7,2023,ha,"Human toxicity, cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2023,C7,2023,ha,"Human toxicity, cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2023,C7,2023,ha,"Human toxicity, cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2023,C7,2023,ha,"Human toxicity, non-cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2023,C7,2023,ha,"Human toxicity, non-cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2023,C7,2023,ha,"Human toxicity, non-cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2023,C7,2023,ha,"Human toxicity, non-cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2023,C7,2023,ha,Ionising radiation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2023,C7,2023,ha,Land use,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2023,C7,2023,ha,Ozone depletion,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2023,C7,2023,ha,Particulate matter,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2023,C7,2023,ha,Photochemical ozone formation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2023,C7,2023,ha,"Resource use, fossils",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2023,C7,2023,ha,"Resource use, minerals and metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2023,C7,2023,ha,Total,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C7_2023,C7,2023,ha,Water use,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C7_2024,C7,2024,ha,Acidification,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2024,C7,2024,ha,Climate change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2024,C7,2024,ha,Climate change - Biogenic,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2024,C7,2024,ha,Climate change - Fossil,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2024,C7,2024,ha,Climate change - Land use and LU change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2024,C7,2024,ha,"Ecotoxicity, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2024,C7,2024,ha,"Ecotoxicity, freshwater - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2024,C7,2024,ha,"Ecotoxicity, freshwater - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2024,C7,2024,ha,"Ecotoxicity, freshwater - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2024,C7,2024,ha,"Eutrophication, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2024,C7,2024,ha,"Eutrophication, marine",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2024,C7,2024,ha,"Eutrophication, terrestrial",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2024,C7,2024,ha,"Human toxicity, cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2024,C7,2024,ha,"Human toxicity, cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2024,C7,2024,ha,"Human toxicity, cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2024,C7,2024,ha,"Human toxicity, cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2024,C7,2024,ha,"Human toxicity, non-cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2024,C7,2024,ha,"Human toxicity, non-cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2024,C7,2024,ha,"Human toxicity, non-cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2024,C7,2024,ha,"Human toxicity, non-cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2024,C7,2024,ha,Ionising radiation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2024,C7,2024,ha,Land use,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2024,C7,2024,ha,Ozone depletion,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2024,C7,2024,ha,Particulate matter,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2024,C7,2024,ha,Photochemical ozone formation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2024,C7,2024,ha,"Resource use, fossils",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2024,C7,2024,ha,"Resource use, minerals and metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C7_2024,C7,2024,ha,Total,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C7_2024,C7,2024,ha,Water use,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C8_2022,C8,2022,ha,Acidification,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2022,C8,2022,ha,Climate change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2022,C8,2022,ha,Climate change - Biogenic,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2022,C8,2022,ha,Climate change - Fossil,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2022,C8,2022,ha,Climate change - Land use and LU change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2022,C8,2022,ha,"Ecotoxicity, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2022,C8,2022,ha,"Ecotoxicity, freshwater - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2022,C8,2022,ha,"Ecotoxicity, freshwater - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2022,C8,2022,ha,"Ecotoxicity, freshwater - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2022,C8,2022,ha,"Eutrophication, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2022,C8,2022,ha,"Eutrophication, marine",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2022,C8,2022,ha,"Eutrophication, terrestrial",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2022,C8,2022,ha,"Human toxicity, cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2022,C8,2022,ha,"Human toxicity, cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2022,C8,2022,ha,"Human toxicity, cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2022,C8,2022,ha,"Human toxicity, cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2022,C8,2022,ha,"Human toxicity, non-cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2022,C8,2022,ha,"Human toxicity, non-cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2022,C8,2022,ha,"Human toxicity, non-cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2022,C8,2022,ha,"Human toxicity, non-cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2022,C8,2022,ha,Ionising radiation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2022,C8,2022,ha,Land use,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2022,C8,2022,ha,Ozone depletion,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2022,C8,2022,ha,Particulate matter,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2022,C8,2022,ha,Photochemical ozone formation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2022,C8,2022,ha,"Resource use, fossils",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2022,C8,2022,ha,"Resource use, minerals and metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2022,C8,2022,ha,Total,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C8_2022,C8,2022,ha,Water use,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C8_2023,C8,2023,ha,Acidification,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2023,C8,2023,ha,Climate change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2023,C8,2023,ha,Climate change - Biogenic,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2023,C8,2023,ha,Climate change - Fossil,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2023,C8,2023,ha,Climate change - Land use and LU change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2023,C8,2023,ha,"Ecotoxicity, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2023,C8,2023,ha,"Ecotoxicity, freshwater - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2023,C8,2023,ha,"Ecotoxicity, freshwater - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2023,C8,2023,ha,"Ecotoxicity, freshwater - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2023,C8,2023,ha,"Eutrophication, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2023,C8,2023,ha,"Eutrophication, marine",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2023,C8,2023,ha,"Eutrophication, terrestrial",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2023,C8,2023,ha,"Human toxicity, cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2023,C8,2023,ha,"Human toxicity, cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2023,C8,2023,ha,"Human toxicity, cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2023,C8,2023,ha,"Human toxicity, cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2023,C8,2023,ha,"Human toxicity, non-cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2023,C8,2023,ha,"Human toxicity, non-cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2023,C8,2023,ha,"Human toxicity, non-cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2023,C8,2023,ha,"Human toxicity, non-cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2023,C8,2023,ha,Ionising radiation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2023,C8,2023,ha,Land use,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2023,C8,2023,ha,Ozone depletion,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2023,C8,2023,ha,Particulate matter,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2023,C8,2023,ha,Photochemical ozone formation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2023,C8,2023,ha,"Resource use, fossils",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2023,C8,2023,ha,"Resource use, minerals and metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2023,C8,2023,ha,Total,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C8_2023,C8,2023,ha,Water use,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C8_2024,C8,2024,ha,Acidification,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2024,C8,2024,ha,Climate change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2024,C8,2024,ha,Climate change - Biogenic,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2024,C8,2024,ha,Climate change - Fossil,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2024,C8,2024,ha,Climate change - Land use and LU change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2024,C8,2024,ha,"Ecotoxicity, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2024,C8,2024,ha,"Ecotoxicity, freshwater - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2024,C8,2024,ha,"Ecotoxicity, freshwater - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2024,C8,2024,ha,"Ecotoxicity, freshwater - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2024,C8,2024,ha,"Eutrophication, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2024,C8,2024,ha,"Eutrophication, marine",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2024,C8,2024,ha,"Eutrophication, terrestrial",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2024,C8,2024,ha,"Human toxicity, cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2024,C8,2024,ha,"Human toxicity, cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2024,C8,2024,ha,"Human toxicity, cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2024,C8,2024,ha,"Human toxicity, cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2024,C8,2024,ha,"Human toxicity, non-cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2024,C8,2024,ha,"Human toxicity, non-cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2024,C8,2024,ha,"Human toxicity, non-cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2024,C8,2024,ha,"Human toxicity, non-cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2024,C8,2024,ha,Ionising radiation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2024,C8,2024,ha,Land use,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2024,C8,2024,ha,Ozone depletion,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2024,C8,2024,ha,Particulate matter,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2024,C8,2024,ha,Photochemical ozone formation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2024,C8,2024,ha,"Resource use, fossils",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2024,C8,2024,ha,"Resource use, minerals and metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+C8_2024,C8,2024,ha,Total,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+C8_2024,C8,2024,ha,Water use,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+D1_2022,D1,2022,ha,Acidification,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2022,D1,2022,ha,Climate change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2022,D1,2022,ha,Climate change - Biogenic,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2022,D1,2022,ha,Climate change - Fossil,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2022,D1,2022,ha,Climate change - Land use and LU change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2022,D1,2022,ha,"Ecotoxicity, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2022,D1,2022,ha,"Ecotoxicity, freshwater - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2022,D1,2022,ha,"Ecotoxicity, freshwater - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2022,D1,2022,ha,"Ecotoxicity, freshwater - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2022,D1,2022,ha,"Eutrophication, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2022,D1,2022,ha,"Eutrophication, marine",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2022,D1,2022,ha,"Eutrophication, terrestrial",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2022,D1,2022,ha,"Human toxicity, cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2022,D1,2022,ha,"Human toxicity, cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2022,D1,2022,ha,"Human toxicity, cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2022,D1,2022,ha,"Human toxicity, cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2022,D1,2022,ha,"Human toxicity, non-cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2022,D1,2022,ha,"Human toxicity, non-cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2022,D1,2022,ha,"Human toxicity, non-cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2022,D1,2022,ha,"Human toxicity, non-cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2022,D1,2022,ha,Ionising radiation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2022,D1,2022,ha,Land use,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2022,D1,2022,ha,Ozone depletion,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2022,D1,2022,ha,Particulate matter,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2022,D1,2022,ha,Photochemical ozone formation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2022,D1,2022,ha,"Resource use, fossils",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2022,D1,2022,ha,"Resource use, minerals and metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2022,D1,2022,ha,Total,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+D1_2022,D1,2022,ha,Water use,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+D1_2023,D1,2023,ha,Acidification,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2023,D1,2023,ha,Climate change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2023,D1,2023,ha,Climate change - Biogenic,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2023,D1,2023,ha,Climate change - Fossil,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2023,D1,2023,ha,Climate change - Land use and LU change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2023,D1,2023,ha,"Ecotoxicity, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2023,D1,2023,ha,"Ecotoxicity, freshwater - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2023,D1,2023,ha,"Ecotoxicity, freshwater - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2023,D1,2023,ha,"Ecotoxicity, freshwater - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2023,D1,2023,ha,"Eutrophication, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2023,D1,2023,ha,"Eutrophication, marine",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2023,D1,2023,ha,"Eutrophication, terrestrial",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2023,D1,2023,ha,"Human toxicity, cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2023,D1,2023,ha,"Human toxicity, cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2023,D1,2023,ha,"Human toxicity, cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2023,D1,2023,ha,"Human toxicity, cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2023,D1,2023,ha,"Human toxicity, non-cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2023,D1,2023,ha,"Human toxicity, non-cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2023,D1,2023,ha,"Human toxicity, non-cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2023,D1,2023,ha,"Human toxicity, non-cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2023,D1,2023,ha,Ionising radiation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2023,D1,2023,ha,Land use,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2023,D1,2023,ha,Ozone depletion,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2023,D1,2023,ha,Particulate matter,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2023,D1,2023,ha,Photochemical ozone formation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2023,D1,2023,ha,"Resource use, fossils",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2023,D1,2023,ha,"Resource use, minerals and metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2023,D1,2023,ha,Total,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+D1_2023,D1,2023,ha,Water use,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+D1_2024,D1,2024,ha,Acidification,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2024,D1,2024,ha,Climate change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2024,D1,2024,ha,Climate change - Biogenic,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2024,D1,2024,ha,Climate change - Fossil,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2024,D1,2024,ha,Climate change - Land use and LU change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2024,D1,2024,ha,"Ecotoxicity, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2024,D1,2024,ha,"Ecotoxicity, freshwater - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2024,D1,2024,ha,"Ecotoxicity, freshwater - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2024,D1,2024,ha,"Ecotoxicity, freshwater - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2024,D1,2024,ha,"Eutrophication, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2024,D1,2024,ha,"Eutrophication, marine",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2024,D1,2024,ha,"Eutrophication, terrestrial",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2024,D1,2024,ha,"Human toxicity, cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2024,D1,2024,ha,"Human toxicity, cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2024,D1,2024,ha,"Human toxicity, cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2024,D1,2024,ha,"Human toxicity, cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2024,D1,2024,ha,"Human toxicity, non-cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2024,D1,2024,ha,"Human toxicity, non-cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2024,D1,2024,ha,"Human toxicity, non-cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2024,D1,2024,ha,"Human toxicity, non-cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2024,D1,2024,ha,Ionising radiation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2024,D1,2024,ha,Land use,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2024,D1,2024,ha,Ozone depletion,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2024,D1,2024,ha,Particulate matter,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2024,D1,2024,ha,Photochemical ozone formation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2024,D1,2024,ha,"Resource use, fossils",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2024,D1,2024,ha,"Resource use, minerals and metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D1_2024,D1,2024,ha,Total,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+D1_2024,D1,2024,ha,Water use,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+D2_2022,D2,2022,ha,Acidification,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2022,D2,2022,ha,Climate change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2022,D2,2022,ha,Climate change - Biogenic,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2022,D2,2022,ha,Climate change - Fossil,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2022,D2,2022,ha,Climate change - Land use and LU change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2022,D2,2022,ha,"Ecotoxicity, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2022,D2,2022,ha,"Ecotoxicity, freshwater - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2022,D2,2022,ha,"Ecotoxicity, freshwater - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2022,D2,2022,ha,"Ecotoxicity, freshwater - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2022,D2,2022,ha,"Eutrophication, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2022,D2,2022,ha,"Eutrophication, marine",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2022,D2,2022,ha,"Eutrophication, terrestrial",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2022,D2,2022,ha,"Human toxicity, cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2022,D2,2022,ha,"Human toxicity, cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2022,D2,2022,ha,"Human toxicity, cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2022,D2,2022,ha,"Human toxicity, cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2022,D2,2022,ha,"Human toxicity, non-cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2022,D2,2022,ha,"Human toxicity, non-cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2022,D2,2022,ha,"Human toxicity, non-cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2022,D2,2022,ha,"Human toxicity, non-cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2022,D2,2022,ha,Ionising radiation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2022,D2,2022,ha,Land use,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2022,D2,2022,ha,Ozone depletion,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2022,D2,2022,ha,Particulate matter,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2022,D2,2022,ha,Photochemical ozone formation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2022,D2,2022,ha,"Resource use, fossils",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2022,D2,2022,ha,"Resource use, minerals and metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2022,D2,2022,ha,Total,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+D2_2022,D2,2022,ha,Water use,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+D2_2023,D2,2023,ha,Acidification,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2023,D2,2023,ha,Climate change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2023,D2,2023,ha,Climate change - Biogenic,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2023,D2,2023,ha,Climate change - Fossil,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2023,D2,2023,ha,Climate change - Land use and LU change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2023,D2,2023,ha,"Ecotoxicity, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2023,D2,2023,ha,"Ecotoxicity, freshwater - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2023,D2,2023,ha,"Ecotoxicity, freshwater - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2023,D2,2023,ha,"Ecotoxicity, freshwater - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2023,D2,2023,ha,"Eutrophication, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2023,D2,2023,ha,"Eutrophication, marine",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2023,D2,2023,ha,"Eutrophication, terrestrial",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2023,D2,2023,ha,"Human toxicity, cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2023,D2,2023,ha,"Human toxicity, cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2023,D2,2023,ha,"Human toxicity, cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2023,D2,2023,ha,"Human toxicity, cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2023,D2,2023,ha,"Human toxicity, non-cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2023,D2,2023,ha,"Human toxicity, non-cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2023,D2,2023,ha,"Human toxicity, non-cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2023,D2,2023,ha,"Human toxicity, non-cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2023,D2,2023,ha,Ionising radiation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2023,D2,2023,ha,Land use,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2023,D2,2023,ha,Ozone depletion,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2023,D2,2023,ha,Particulate matter,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2023,D2,2023,ha,Photochemical ozone formation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2023,D2,2023,ha,"Resource use, fossils",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2023,D2,2023,ha,"Resource use, minerals and metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2023,D2,2023,ha,Total,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+D2_2023,D2,2023,ha,Water use,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+D2_2024,D2,2024,ha,Acidification,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2024,D2,2024,ha,Climate change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2024,D2,2024,ha,Climate change - Biogenic,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2024,D2,2024,ha,Climate change - Fossil,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2024,D2,2024,ha,Climate change - Land use and LU change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2024,D2,2024,ha,"Ecotoxicity, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2024,D2,2024,ha,"Ecotoxicity, freshwater - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2024,D2,2024,ha,"Ecotoxicity, freshwater - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2024,D2,2024,ha,"Ecotoxicity, freshwater - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2024,D2,2024,ha,"Eutrophication, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2024,D2,2024,ha,"Eutrophication, marine",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2024,D2,2024,ha,"Eutrophication, terrestrial",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2024,D2,2024,ha,"Human toxicity, cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2024,D2,2024,ha,"Human toxicity, cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2024,D2,2024,ha,"Human toxicity, cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2024,D2,2024,ha,"Human toxicity, cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2024,D2,2024,ha,"Human toxicity, non-cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2024,D2,2024,ha,"Human toxicity, non-cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2024,D2,2024,ha,"Human toxicity, non-cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2024,D2,2024,ha,"Human toxicity, non-cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2024,D2,2024,ha,Ionising radiation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2024,D2,2024,ha,Land use,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2024,D2,2024,ha,Ozone depletion,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2024,D2,2024,ha,Particulate matter,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2024,D2,2024,ha,Photochemical ozone formation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2024,D2,2024,ha,"Resource use, fossils",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2024,D2,2024,ha,"Resource use, minerals and metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+D2_2024,D2,2024,ha,Total,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+D2_2024,D2,2024,ha,Water use,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+NT1_2023,NT1,2023,ha,Acidification,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2023,NT1,2023,ha,Climate change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2023,NT1,2023,ha,Climate change - Biogenic,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2023,NT1,2023,ha,Climate change - Fossil,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2023,NT1,2023,ha,Climate change - Land use and LU change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2023,NT1,2023,ha,"Ecotoxicity, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2023,NT1,2023,ha,"Ecotoxicity, freshwater - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2023,NT1,2023,ha,"Ecotoxicity, freshwater - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2023,NT1,2023,ha,"Ecotoxicity, freshwater - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2023,NT1,2023,ha,"Eutrophication, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2023,NT1,2023,ha,"Eutrophication, marine",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2023,NT1,2023,ha,"Eutrophication, terrestrial",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2023,NT1,2023,ha,"Human toxicity, cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2023,NT1,2023,ha,"Human toxicity, cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2023,NT1,2023,ha,"Human toxicity, cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2023,NT1,2023,ha,"Human toxicity, cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2023,NT1,2023,ha,"Human toxicity, non-cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2023,NT1,2023,ha,"Human toxicity, non-cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2023,NT1,2023,ha,"Human toxicity, non-cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2023,NT1,2023,ha,"Human toxicity, non-cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2023,NT1,2023,ha,Ionising radiation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2023,NT1,2023,ha,Land use,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2023,NT1,2023,ha,Ozone depletion,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2023,NT1,2023,ha,Particulate matter,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2023,NT1,2023,ha,Photochemical ozone formation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2023,NT1,2023,ha,"Resource use, fossils",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2023,NT1,2023,ha,"Resource use, minerals and metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2023,NT1,2023,ha,Total,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+NT1_2023,NT1,2023,ha,Water use,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+NT1_2024,NT1,2024,ha,Acidification,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2024,NT1,2024,ha,Climate change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2024,NT1,2024,ha,Climate change - Biogenic,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2024,NT1,2024,ha,Climate change - Fossil,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2024,NT1,2024,ha,Climate change - Land use and LU change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2024,NT1,2024,ha,"Ecotoxicity, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2024,NT1,2024,ha,"Ecotoxicity, freshwater - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2024,NT1,2024,ha,"Ecotoxicity, freshwater - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2024,NT1,2024,ha,"Ecotoxicity, freshwater - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2024,NT1,2024,ha,"Eutrophication, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2024,NT1,2024,ha,"Eutrophication, marine",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2024,NT1,2024,ha,"Eutrophication, terrestrial",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2024,NT1,2024,ha,"Human toxicity, cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2024,NT1,2024,ha,"Human toxicity, cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2024,NT1,2024,ha,"Human toxicity, cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2024,NT1,2024,ha,"Human toxicity, cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2024,NT1,2024,ha,"Human toxicity, non-cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2024,NT1,2024,ha,"Human toxicity, non-cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2024,NT1,2024,ha,"Human toxicity, non-cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2024,NT1,2024,ha,"Human toxicity, non-cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2024,NT1,2024,ha,Ionising radiation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2024,NT1,2024,ha,Land use,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2024,NT1,2024,ha,Ozone depletion,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2024,NT1,2024,ha,Particulate matter,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2024,NT1,2024,ha,Photochemical ozone formation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2024,NT1,2024,ha,"Resource use, fossils",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2024,NT1,2024,ha,"Resource use, minerals and metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT1_2024,NT1,2024,ha,Total,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+NT1_2024,NT1,2024,ha,Water use,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+NT2_2022,NT2,2022,ha,Acidification,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2022,NT2,2022,ha,Climate change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2022,NT2,2022,ha,Climate change - Biogenic,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2022,NT2,2022,ha,Climate change - Fossil,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2022,NT2,2022,ha,Climate change - Land use and LU change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2022,NT2,2022,ha,"Ecotoxicity, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2022,NT2,2022,ha,"Ecotoxicity, freshwater - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2022,NT2,2022,ha,"Ecotoxicity, freshwater - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2022,NT2,2022,ha,"Ecotoxicity, freshwater - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2022,NT2,2022,ha,"Eutrophication, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2022,NT2,2022,ha,"Eutrophication, marine",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2022,NT2,2022,ha,"Eutrophication, terrestrial",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2022,NT2,2022,ha,"Human toxicity, cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2022,NT2,2022,ha,"Human toxicity, cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2022,NT2,2022,ha,"Human toxicity, cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2022,NT2,2022,ha,"Human toxicity, cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2022,NT2,2022,ha,"Human toxicity, non-cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2022,NT2,2022,ha,"Human toxicity, non-cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2022,NT2,2022,ha,"Human toxicity, non-cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2022,NT2,2022,ha,"Human toxicity, non-cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2022,NT2,2022,ha,Ionising radiation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2022,NT2,2022,ha,Land use,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2022,NT2,2022,ha,Ozone depletion,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2022,NT2,2022,ha,Particulate matter,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2022,NT2,2022,ha,Photochemical ozone formation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2022,NT2,2022,ha,"Resource use, fossils",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2022,NT2,2022,ha,"Resource use, minerals and metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2022,NT2,2022,ha,Total,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+NT2_2022,NT2,2022,ha,Water use,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+NT2_2023,NT2,2023,ha,Acidification,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2023,NT2,2023,ha,Climate change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2023,NT2,2023,ha,Climate change - Biogenic,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2023,NT2,2023,ha,Climate change - Fossil,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2023,NT2,2023,ha,Climate change - Land use and LU change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2023,NT2,2023,ha,"Ecotoxicity, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2023,NT2,2023,ha,"Ecotoxicity, freshwater - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2023,NT2,2023,ha,"Ecotoxicity, freshwater - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2023,NT2,2023,ha,"Ecotoxicity, freshwater - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2023,NT2,2023,ha,"Eutrophication, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2023,NT2,2023,ha,"Eutrophication, marine",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2023,NT2,2023,ha,"Eutrophication, terrestrial",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2023,NT2,2023,ha,"Human toxicity, cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2023,NT2,2023,ha,"Human toxicity, cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2023,NT2,2023,ha,"Human toxicity, cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2023,NT2,2023,ha,"Human toxicity, cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2023,NT2,2023,ha,"Human toxicity, non-cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2023,NT2,2023,ha,"Human toxicity, non-cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2023,NT2,2023,ha,"Human toxicity, non-cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2023,NT2,2023,ha,"Human toxicity, non-cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2023,NT2,2023,ha,Ionising radiation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2023,NT2,2023,ha,Land use,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2023,NT2,2023,ha,Ozone depletion,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2023,NT2,2023,ha,Particulate matter,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2023,NT2,2023,ha,Photochemical ozone formation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2023,NT2,2023,ha,"Resource use, fossils",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2023,NT2,2023,ha,"Resource use, minerals and metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2023,NT2,2023,ha,Total,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+NT2_2023,NT2,2023,ha,Water use,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+NT2_2024,NT2,2024,ha,Acidification,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2024,NT2,2024,ha,Climate change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2024,NT2,2024,ha,Climate change - Biogenic,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2024,NT2,2024,ha,Climate change - Fossil,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2024,NT2,2024,ha,Climate change - Land use and LU change,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2024,NT2,2024,ha,"Ecotoxicity, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2024,NT2,2024,ha,"Ecotoxicity, freshwater - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2024,NT2,2024,ha,"Ecotoxicity, freshwater - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2024,NT2,2024,ha,"Ecotoxicity, freshwater - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2024,NT2,2024,ha,"Eutrophication, freshwater",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2024,NT2,2024,ha,"Eutrophication, marine",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2024,NT2,2024,ha,"Eutrophication, terrestrial",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2024,NT2,2024,ha,"Human toxicity, cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2024,NT2,2024,ha,"Human toxicity, cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2024,NT2,2024,ha,"Human toxicity, cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2024,NT2,2024,ha,"Human toxicity, cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2024,NT2,2024,ha,"Human toxicity, non-cancer",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2024,NT2,2024,ha,"Human toxicity, non-cancer - inorganics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2024,NT2,2024,ha,"Human toxicity, non-cancer - metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2024,NT2,2024,ha,"Human toxicity, non-cancer - organics",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2024,NT2,2024,ha,Ionising radiation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2024,NT2,2024,ha,Land use,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2024,NT2,2024,ha,Ozone depletion,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2024,NT2,2024,ha,Particulate matter,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2024,NT2,2024,ha,Photochemical ozone formation,Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2024,NT2,2024,ha,"Resource use, fossils",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2024,NT2,2024,ha,"Resource use, minerals and metals",Pt,11318.4,,0.0,1 m3 water,,singlescore_18.json,0.0
+NT2_2024,NT2,2024,ha,Total,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56
+NT2_2024,NT2,2024,ha,Water use,Pt,11318.4,,48558.4,1 m3 water,,singlescore_18.json,549603394.56

@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Digital Notebook | Methodology</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Outfit:wght@300;400;500;600;700&display=swap"
+    rel="stylesheet"
+  />
+  <link rel="stylesheet" href="./pivot.css" />
+</head>
+
+<body>
+  <div class="page">
+    <header class="top-bar">
+      <div>
+        <p class="eyebrow">Digital Notebook | Methodology</p>
+        <h1>Calculation methodology</h1>
+        <p class="lede">
+          Summary of the current factor sources, hectare and tonne bases, and field-emission equations used by the
+          cleaned farmer-year calculations.
+        </p>
+      </div>
+      <div class="pill">
+        <span class="dot"></span>
+        <span>Clean workflow</span>
+      </div>
+    </header>
+
+    <main class="layout">
+      <section class="panel filters">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Raw Data</p>
+            <h2>Environmental impact factors</h2>
+          </div>
+          <div class="panel-actions">
+            <a class="ghost" href="./bioregional.html">Back</a>
+          </div>
+        </div>
+        <div class="table-shell">
+          <table>
+            <thead>
+              <tr>
+                <th>Factor set</th>
+                <th>Role</th>
+                <th>Use in calculations</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Single score</td>
+                <td>Normalised endpoint score</td>
+                <td>Reports mapped product or process impacts in Pt values.</td>
+              </tr>
+              <tr>
+                <td>Characterisation</td>
+                <td>Midpoint impact factors</td>
+                <td>Reports impacts in category-specific units such as kg CO2 eq.</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="panel stats">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Bases</p>
+            <h2>Hectare and tonne results</h2>
+          </div>
+        </div>
+        <div class="stat-grid">
+          <div class="stat">
+            <small>Per hectare</small>
+            <strong>input_ha × factor</strong>
+          </div>
+          <div class="stat">
+            <small>Per tonne</small>
+            <strong>input_t × factor</strong>
+          </div>
+          <div class="stat">
+            <small>DMU level</small>
+            <strong>farmer-year</strong>
+          </div>
+          <div class="stat">
+            <small>Aggregation</small>
+            <strong>after calculation</strong>
+          </div>
+        </div>
+      </section>
+
+      <section class="panel pivot">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Field Emissions</p>
+            <h2>Methane from flooded rice cultivation</h2>
+          </div>
+        </div>
+        <p class="lede">
+          Direct methane emissions are modelled as foreground inventory flows using the IPCC Tier 1 emission-factor
+          approach for flooded rice cultivation. Because the available records do not provide consistent farmer-level
+          differences in water management, methane is treated as a constant hectare-based emission across farmer-years.
+          Differences in tonne-based methane impacts arise from farmer-year productivity.
+        </p>
+        <div class="table-shell">
+          <table>
+            <thead>
+              <tr>
+                <th>Parameter</th>
+                <th>Symbol</th>
+                <th>Value</th>
+                <th>Unit</th>
+                <th>Use</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Baseline emission factor</td>
+                <td>EFc</td>
+                <td>1.56</td>
+                <td>kg CH4 ha-1 day-1</td>
+                <td>Continuously flooded rice baseline.</td>
+              </tr>
+              <tr>
+                <td>Water regime during cultivation</td>
+                <td>SFw</td>
+                <td>1.00</td>
+                <td>-</td>
+                <td>Continuously flooded cultivation period.</td>
+              </tr>
+              <tr>
+                <td>Pre-season water regime</td>
+                <td>SFp</td>
+                <td>1.22</td>
+                <td>-</td>
+                <td>Applied uniformly across farmer-years.</td>
+              </tr>
+              <tr>
+                <td>Organic amendment scaling</td>
+                <td>SFo</td>
+                <td>2.539</td>
+                <td>-</td>
+                <td>Calculated as 1 + 0.19 x 8.1 and applied consistently.</td>
+              </tr>
+              <tr>
+                <td>Cultivation duration</td>
+                <td>Days</td>
+                <td>130</td>
+                <td>days</td>
+                <td>Fixed cultivation period.</td>
+              </tr>
+              <tr>
+                <td>Climate characterisation</td>
+                <td>GWP100 CH4</td>
+                <td>28</td>
+                <td>kg CO2 eq kg-1 CH4</td>
+                <td>Used to convert CH4 to kg CO2 eq.</td>
+              </tr>
+              <tr>
+                <td>Seasonal methane</td>
+                <td>CH4</td>
+                <td>628.19</td>
+                <td>kg CH4 ha-1</td>
+                <td>EFc x SFw x SFp x SFo x Days.</td>
+              </tr>
+              <tr>
+                <td>Methane impact</td>
+                <td>CH4 CO2 eq</td>
+                <td>17,589.30</td>
+                <td>kg CO2 eq ha-1</td>
+                <td>Seasonal CH4 x GWP100 CH4.</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="panel detail">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Field Emissions</p>
+            <h2>Nitrous oxide and urea CO2</h2>
+          </div>
+        </div>
+        <p class="lede">
+          Nitrous oxide emissions from managed soils include direct emissions from synthetic nitrogen, direct emissions
+          from straw returned to the field, and indirect emissions from volatilisation and leaching/runoff. Synthetic
+          nitrogen is separated into urea and compound fertiliser for volatilisation because the current workflow uses
+          different volatilised fractions for these fertiliser types. Straw is included only as an emission-relevant
+          residue input and is not treated as a co-product. Urea hydrolysis CO2 is added only for rows classified as
+          urea.
+        </p>
+        <div class="table-shell">
+          <table>
+            <thead>
+              <tr>
+                <th>Pathway</th>
+                <th>Equation</th>
+                <th>Constants and assumptions</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Direct N2O from synthetic fertiliser</td>
+                <td>N kg/ha x EF1 x 44/28 x GWP100 N2O</td>
+                <td>EF1 = 0.003 kg N2O-N kg-1 N; GWP100 N2O = 273.</td>
+              </tr>
+              <tr>
+                <td>Direct N2O from straw</td>
+                <td>40.5 x 0.003 x 44/28 x 273</td>
+                <td>Fixed residue N returned = 40.5 kg N ha-1 yr-1; result = 0.191 kg N2O ha-1 yr-1, equal to 52.1235 kg CO2 eq ha-1 yr-1.</td>
+              </tr>
+              <tr>
+                <td>Indirect N2O from volatilisation</td>
+                <td>N kg/ha x FracGASF x EF4 x 44/28 x 273</td>
+                <td>FracGASF = 0.30 for urea and 0.03 for compound fertiliser; EF4 = 0.01.</td>
+              </tr>
+              <tr>
+                <td>Indirect N2O from leaching/runoff</td>
+                <td>N kg/ha x FracLEACH x EF5 x 44/28 x 273</td>
+                <td>FracLEACH = 0.30; EF5 = 0.0075.</td>
+              </tr>
+              <tr>
+                <td>CO2 from urea hydrolysis</td>
+                <td>Urea-classified N kg/ha x 0.20</td>
+                <td>Applied only to fertilisation rows classified as urea in the current calculation pipeline.</td>
+              </tr>
+              <tr>
+                <td>Per tonne conversion</td>
+                <td>Component per tonne = component per ha / productivity</td>
+                <td>Productivity is farmer-year specific; this is why constant methane per hectare differs by tonne.</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+  </div>
+  <script src="./i18n.js"></script>
+  <script src="./context-back.js"></script>
+</body>
+
+</html>

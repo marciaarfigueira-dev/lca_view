@@ -1,0 +1,54 @@
+{
+  "live_url": "https://marciaarfigueira-dev.github.io/lca_view/",
+  "github_pages": {
+    "old_local_repo_path": "/Users/marcia/Desktop/ml_sets_report/docs",
+    "new_local_repo_root": "/Users/marcia/Desktop/lca_python_organised",
+    "new_publish_path": "/Users/marcia/Desktop/lca_python_organised/docs",
+    "remote": "https://github.com/marciaarfigueira-dev/lca_view.git",
+    "branch": "main",
+    "publish_path": "docs"
+  },
+  "clean_lca_project": {
+    "root": "/Users/marcia/Desktop/lca_python_organised",
+    "input_data": "01_input_data",
+    "calculation_scripts": "02_scripts/02_lca_calculations",
+    "outputs": "03_outputs"
+  },
+  "calculation_scripts": {
+    "fertilisation": "02_scripts/02_lca_calculations/calculate_fertilisation_lca.py",
+    "crop_protection": "02_scripts/02_lca_calculations/calculate_crop_protection_lca.py",
+    "machines": "02_scripts/02_lca_calculations/calculate_machines_lca.py",
+    "sowing": "02_scripts/02_lca_calculations/calculate_sowing_lca.py",
+    "field_emissions": "02_scripts/02_lca_calculations/calculate_field_emissions_lca.py",
+    "water": "02_scripts/02_lca_calculations/calculate_water_lca.py"
+  },
+  "clean_output_groups": {
+    "fertilisation": "03_outputs/fertilisation",
+    "crop_protection": "03_outputs/crop_protection",
+    "machines": "03_outputs/machines",
+    "sowing": "03_outputs/sowing",
+    "field_emissions": "03_outputs/field_emissions",
+    "water": "03_outputs/water"
+  },
+  "planned_aggregated_outputs": {
+    "characterisation_by_dmu_ha": "03_outputs/_aggregated/characterisation_by_dmu_ha.csv",
+    "characterisation_by_dmu_tonne": "03_outputs/_aggregated/characterisation_by_dmu_tonne.csv",
+    "single_score_by_dmu_ha": "03_outputs/_aggregated/single_score_by_dmu_ha.csv",
+    "single_score_by_dmu_tonne": "03_outputs/_aggregated/single_score_by_dmu_tonne.csv"
+  },
+  "website_export_targets": {
+    "old_data_root": "/Users/marcia/Desktop/ml_sets_report/docs/data",
+    "new_data_root": "/Users/marcia/Desktop/lca_python_organised/docs/data",
+    "future_lca_exports": "/Users/marcia/Desktop/lca_python_organised/docs/data/clean_lca",
+    "sync_script": "/Users/marcia/Desktop/lca_python_organised/04_web_page_tool/sync_website_data.py",
+    "manifest": "/Users/marcia/Desktop/lca_python_organised/docs/data/site_data_manifest.json"
+  },
+  "rules": [
+    "Use cleaned 03_outputs files as the website source of truth for LCA values.",
+    "Do not use old methane and N2O exported CSV inputs; use field_emissions outputs generated from methane_n20_calculations.xlsx.",
+    "Keep ha and tonne bases separate.",
+    "Keep characterisation and single_score outputs separate.",
+    "Aggregate only after DMU-level calculations are complete.",
+    "Do not overwrite the GitHub Pages repo until its current uncommitted edits are reviewed."
+  ]
+}

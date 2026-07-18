@@ -1,0 +1,987 @@
+dmu_id,farmer_id,year,basis,impact_category,impact_unit,seed_amount_kg_ha,seed_amount_kg_tonne,seed_factor_per_unit,seed_factor_unit,characterisation_sheet,single_score_file,sowing_total_impact
+C1_2022,C1,2022,ha,Acidification,Pt,154.9520905923,,0.01198496,1 kg seed,,seeds_singlescore_1.json,1.8570946076650918
+C1_2022,C1,2022,ha,Climate change,Pt,154.9520905923,,6016.38576,1 kg seed,,seeds_singlescore_1.json,932251.5513217438
+C1_2022,C1,2022,ha,Climate change - Biogenic,Pt,154.9520905923,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C1_2022,C1,2022,ha,Climate change - Fossil,Pt,154.9520905923,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C1_2022,C1,2022,ha,Climate change - Land use and LU change,Pt,154.9520905923,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C1_2022,C1,2022,ha,"Ecotoxicity, freshwater",Pt,154.9520905923,,22431.676919999998,1 kg seed,,seeds_singlescore_1.json,3475835.234245045
+C1_2022,C1,2022,ha,"Ecotoxicity, freshwater - inorganics",Pt,154.9520905923,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C1_2022,C1,2022,ha,"Ecotoxicity, freshwater - metals",Pt,154.9520905923,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C1_2022,C1,2022,ha,"Ecotoxicity, freshwater - organics",Pt,154.9520905923,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C1_2022,C1,2022,ha,"Eutrophication, freshwater",Pt,154.9520905923,,8.7756e-06,1 kg seed,,seeds_singlescore_1.json,0.001359797566201788
+C1_2022,C1,2022,ha,"Eutrophication, marine",Pt,154.9520905923,,0.002909536,1 kg seed,,seeds_singlescore_1.json,0.4508386858535582
+C1_2022,C1,2022,ha,"Eutrophication, terrestrial",Pt,154.9520905923,,0.10404252,1 kg seed,,seeds_singlescore_1.json,16.121605984491186
+C1_2022,C1,2022,ha,"Human toxicity, cancer",Pt,154.9520905923,,3.8458000000000003e-16,1 kg seed,,seeds_singlescore_1.json,5.959147499998674e-14
+C1_2022,C1,2022,ha,"Human toxicity, cancer - inorganics",Pt,154.9520905923,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C1_2022,C1,2022,ha,"Human toxicity, cancer - metals",Pt,154.9520905923,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C1_2022,C1,2022,ha,"Human toxicity, cancer - organics",Pt,154.9520905923,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C1_2022,C1,2022,ha,"Human toxicity, non-cancer",Pt,154.9520905923,,4.3437799999999997e-13,1 kg seed,,seeds_singlescore_1.json,6.730777920730209e-11
+C1_2022,C1,2022,ha,"Human toxicity, non-cancer - inorganics",Pt,154.9520905923,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C1_2022,C1,2022,ha,"Human toxicity, non-cancer - metals",Pt,154.9520905923,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C1_2022,C1,2022,ha,"Human toxicity, non-cancer - organics",Pt,154.9520905923,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C1_2022,C1,2022,ha,Ionising radiation,Pt,154.9520905923,,5.252001,1 kg seed,,seeds_singlescore_1.json,813.8085347428503
+C1_2022,C1,2022,ha,Land use,Pt,154.9520905923,,16893889.2,1 kg seed,,seeds_singlescore_1.json,2617743449.7746787
+C1_2022,C1,2022,ha,Ozone depletion,Pt,154.9520905923,,7.7848e-11,1 kg seed,,seeds_singlescore_1.json,1.2062710348429372e-08
+C1_2022,C1,2022,ha,Particulate matter,Pt,154.9520905923,,4.0509e-12,1 kg seed,,seeds_singlescore_1.json,6.276954237803481e-10
+C1_2022,C1,2022,ha,Photochemical ozone formation,Pt,154.9520905923,,0.0065572,1 kg seed,,seeds_singlescore_1.json,1.0160518484318297
+C1_2022,C1,2022,ha,"Resource use, fossils",Pt,154.9520905923,,26916.417690000002,1 kg seed,,seeds_singlescore_1.json,4170755.1923210667
+C1_2022,C1,2022,ha,"Resource use, minerals and metals",Pt,154.9520905923,,1.8431999999999996e-08,1 kg seed,,seeds_singlescore_1.json,2.8560769337972733e-06
+C1_2022,C1,2022,ha,Total,Pt,154.9520905923,,16980974.878934015,1 kg seed,,seeds_singlescore_1.json,2631237557.7861543
+C1_2022,C1,2022,ha,Water use,Pt,154.9520905923,,31715.821060000002,1 kg seed,,seeds_singlescore_1.json,4914432.778098297
+C1_2023,C1,2023,ha,Acidification,Pt,206.5853658537,,0.01198496,1 kg seed,,seeds_singlescore_1.json,2.4759173463419604
+C1_2023,C1,2023,ha,Climate change,Pt,206.5853658537,,6016.38576,1 kg seed,,seeds_singlescore_1.json,1242897.253346591
+C1_2023,C1,2023,ha,Climate change - Biogenic,Pt,206.5853658537,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C1_2023,C1,2023,ha,Climate change - Fossil,Pt,206.5853658537,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C1_2023,C1,2023,ha,Climate change - Land use and LU change,Pt,206.5853658537,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C1_2023,C1,2023,ha,"Ecotoxicity, freshwater",Pt,206.5853658537,,22431.676919999998,1 kg seed,,seeds_singlescore_1.json,4634056.183230198
+C1_2023,C1,2023,ha,"Ecotoxicity, freshwater - inorganics",Pt,206.5853658537,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C1_2023,C1,2023,ha,"Ecotoxicity, freshwater - metals",Pt,206.5853658537,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C1_2023,C1,2023,ha,"Ecotoxicity, freshwater - organics",Pt,206.5853658537,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C1_2023,C1,2023,ha,"Eutrophication, freshwater",Pt,206.5853658537,,8.7756e-06,1 kg seed,,seeds_singlescore_1.json,0.0018129105365857297
+C1_2023,C1,2023,ha,"Eutrophication, marine",Pt,206.5853658537,,0.002909536,1 kg seed,,seeds_singlescore_1.json,0.6010675590245109
+C1_2023,C1,2023,ha,"Eutrophication, terrestrial",Pt,206.5853658537,,0.10404252,1 kg seed,,seeds_singlescore_1.json,21.4936620585409
+C1_2023,C1,2023,ha,"Human toxicity, cancer",Pt,206.5853658537,,3.8458000000000003e-16,1 kg seed,,seeds_singlescore_1.json,7.944860000001596e-14
+C1_2023,C1,2023,ha,"Human toxicity, cancer - inorganics",Pt,206.5853658537,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C1_2023,C1,2023,ha,"Human toxicity, cancer - metals",Pt,206.5853658537,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C1_2023,C1,2023,ha,"Human toxicity, cancer - organics",Pt,206.5853658537,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C1_2023,C1,2023,ha,"Human toxicity, non-cancer",Pt,206.5853658537,,4.3437799999999997e-13,1 kg seed,,seeds_singlescore_1.json,8.97361380487985e-11
+C1_2023,C1,2023,ha,"Human toxicity, non-cancer - inorganics",Pt,206.5853658537,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C1_2023,C1,2023,ha,"Human toxicity, non-cancer - metals",Pt,206.5853658537,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C1_2023,C1,2023,ha,"Human toxicity, non-cancer - organics",Pt,206.5853658537,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C1_2023,C1,2023,ha,Ionising radiation,Pt,206.5853658537,,5.252001,1 kg seed,,seeds_singlescore_1.json,1084.9865480489982
+C1_2023,C1,2023,ha,Land use,Pt,206.5853658537,,16893889.2,1 kg seed,,seeds_singlescore_1.json,3490030281.073871
+C1_2023,C1,2023,ha,Ozone depletion,Pt,206.5853658537,,7.7848e-11,1 kg seed,,seeds_singlescore_1.json,1.608225756097884e-08
+C1_2023,C1,2023,ha,Particulate matter,Pt,206.5853658537,,4.0509e-12,1 kg seed,,seeds_singlescore_1.json,8.368566585367534e-10
+C1_2023,C1,2023,ha,Photochemical ozone formation,Pt,206.5853658537,,0.0065572,1 kg seed,,seeds_singlescore_1.json,1.3546215609758818
+C1_2023,C1,2023,ha,"Resource use, fossils",Pt,206.5853658537,,26916.417690000002,1 kg seed,,seeds_singlescore_1.json,5560537.9959596535
+C1_2023,C1,2023,ha,"Resource use, minerals and metals",Pt,206.5853658537,,1.8431999999999996e-08,1 kg seed,,seeds_singlescore_1.json,3.8077814634153976e-06
+C1_2023,C1,2023,ha,Total,Pt,206.5853658537,,16980974.878934015,1 kg seed,,seeds_singlescore_1.json,3508020907.917073
+C1_2023,C1,2023,ha,Water use,Pt,206.5853658537,,31715.821060000002,1 kg seed,,seeds_singlescore_1.json,6552024.497030584
+C1_2024,C1,2024,ha,Acidification,Pt,193.1179960448,,0.01198496,1 kg seed,,seeds_singlescore_1.json,2.314511457877086
+C1_2024,C1,2024,ha,Climate change,Pt,193.1179960448,,6016.38576,1 kg seed,,seeds_singlescore_1.json,1161872.361403671
+C1_2024,C1,2024,ha,Climate change - Biogenic,Pt,193.1179960448,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C1_2024,C1,2024,ha,Climate change - Fossil,Pt,193.1179960448,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C1_2024,C1,2024,ha,Climate change - Land use and LU change,Pt,193.1179960448,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C1_2024,C1,2024,ha,"Ecotoxicity, freshwater",Pt,193.1179960448,,22431.676919999998,1 kg seed,,seeds_singlescore_1.json,4331960.494714791
+C1_2024,C1,2024,ha,"Ecotoxicity, freshwater - inorganics",Pt,193.1179960448,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C1_2024,C1,2024,ha,"Ecotoxicity, freshwater - metals",Pt,193.1179960448,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C1_2024,C1,2024,ha,"Ecotoxicity, freshwater - organics",Pt,193.1179960448,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C1_2024,C1,2024,ha,"Eutrophication, freshwater",Pt,193.1179960448,,8.7756e-06,1 kg seed,,seeds_singlescore_1.json,0.001694726286090747
+C1_2024,C1,2024,ha,"Eutrophication, marine",Pt,193.1179960448,,0.002909536,1 kg seed,,seeds_singlescore_1.json,0.5618837617402033
+C1_2024,C1,2024,ha,"Eutrophication, terrestrial",Pt,193.1179960448,,0.10404252,1 kg seed,,seeds_singlescore_1.json,20.092482965851026
+C1_2024,C1,2024,ha,"Human toxicity, cancer",Pt,193.1179960448,,3.8458000000000003e-16,1 kg seed,,seeds_singlescore_1.json,7.42693189189092e-14
+C1_2024,C1,2024,ha,"Human toxicity, cancer - inorganics",Pt,193.1179960448,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C1_2024,C1,2024,ha,"Human toxicity, cancer - metals",Pt,193.1179960448,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C1_2024,C1,2024,ha,"Human toxicity, cancer - organics",Pt,193.1179960448,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C1_2024,C1,2024,ha,"Human toxicity, non-cancer",Pt,193.1179960448,,4.3437799999999997e-13,1 kg seed,,seeds_singlescore_1.json,8.388620888594813e-11
+C1_2024,C1,2024,ha,"Human toxicity, non-cancer - inorganics",Pt,193.1179960448,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C1_2024,C1,2024,ha,"Human toxicity, non-cancer - metals",Pt,193.1179960448,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C1_2024,C1,2024,ha,"Human toxicity, non-cancer - organics",Pt,193.1179960448,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C1_2024,C1,2024,ha,Ionising radiation,Pt,193.1179960448,,5.252001,1 kg seed,,seeds_singlescore_1.json,1014.2559083452857
+C1_2024,C1,2024,ha,Land use,Pt,193.1179960448,,16893889.2,1 kg seed,,seeds_singlescore_1.json,3262514027.7068896
+C1_2024,C1,2024,ha,Ozone depletion,Pt,193.1179960448,,7.7848e-11,1 kg seed,,seeds_singlescore_1.json,1.503384975609559e-08
+C1_2024,C1,2024,ha,Particulate matter,Pt,193.1179960448,,4.0509e-12,1 kg seed,,seeds_singlescore_1.json,7.823016901778804e-10
+C1_2024,C1,2024,ha,Photochemical ozone formation,Pt,193.1179960448,,0.0065572,1 kg seed,,seeds_singlescore_1.json,1.2663133236649626
+C1_2024,C1,2024,ha,"Resource use, fossils",Pt,193.1179960448,,26916.417690000002,1 kg seed,,seeds_singlescore_1.json,5198044.644997605
+C1_2024,C1,2024,ha,"Resource use, minerals and metals",Pt,193.1179960448,,1.8431999999999996e-08,1 kg seed,,seeds_singlescore_1.json,3.559550903097753e-06
+C1_2024,C1,2024,ha,Total,Pt,193.1179960448,,16980974.878934015,1 kg seed,,seeds_singlescore_1.json,3279331839.5068274
+C1_2024,C1,2024,ha,Water use,Pt,193.1179960448,,31715.821060000002,1 kg seed,,seeds_singlescore_1.json,6124895.806022665
+C2_2022,C2,2022,ha,Acidification,Pt,200.8753815766,,0.01198496,1 kg seed,,seeds_singlescore_1.json,2.407483413180288
+C2_2022,C2,2022,ha,Climate change,Pt,200.8753815766,,6016.38576,1 kg seed,,seeds_singlescore_1.json,1208543.7852520226
+C2_2022,C2,2022,ha,Climate change - Biogenic,Pt,200.8753815766,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C2_2022,C2,2022,ha,Climate change - Fossil,Pt,200.8753815766,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C2_2022,C2,2022,ha,Climate change - Land use and LU change,Pt,200.8753815766,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C2_2022,C2,2022,ha,"Ecotoxicity, freshwater",Pt,200.8753815766,,22431.676919999998,1 kg seed,,seeds_singlescore_1.json,4505971.660708011
+C2_2022,C2,2022,ha,"Ecotoxicity, freshwater - inorganics",Pt,200.8753815766,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C2_2022,C2,2022,ha,"Ecotoxicity, freshwater - metals",Pt,200.8753815766,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C2_2022,C2,2022,ha,"Ecotoxicity, freshwater - organics",Pt,200.8753815766,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C2_2022,C2,2022,ha,"Eutrophication, freshwater",Pt,200.8753815766,,8.7756e-06,1 kg seed,,seeds_singlescore_1.json,0.001762801998563611
+C2_2022,C2,2022,ha,"Eutrophication, marine",Pt,200.8753815766,,0.002909536,1 kg seed,,seeds_singlescore_1.json,0.5844541542108544
+C2_2022,C2,2022,ha,"Eutrophication, terrestrial",Pt,200.8753815766,,0.10404252,1 kg seed,,seeds_singlescore_1.json,20.899580905191037
+C2_2022,C2,2022,ha,"Human toxicity, cancer",Pt,200.8753815766,,3.8458000000000003e-16,1 kg seed,,seeds_singlescore_1.json,7.725265424672883e-14
+C2_2022,C2,2022,ha,"Human toxicity, cancer - inorganics",Pt,200.8753815766,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C2_2022,C2,2022,ha,"Human toxicity, cancer - metals",Pt,200.8753815766,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C2_2022,C2,2022,ha,"Human toxicity, cancer - organics",Pt,200.8753815766,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C2_2022,C2,2022,ha,"Human toxicity, non-cancer",Pt,200.8753815766,,4.3437799999999997e-13,1 kg seed,,seeds_singlescore_1.json,8.725584649848035e-11
+C2_2022,C2,2022,ha,"Human toxicity, non-cancer - inorganics",Pt,200.8753815766,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C2_2022,C2,2022,ha,"Human toxicity, non-cancer - metals",Pt,200.8753815766,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C2_2022,C2,2022,ha,"Human toxicity, non-cancer - organics",Pt,200.8753815766,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C2_2022,C2,2022,ha,Ionising radiation,Pt,200.8753815766,,5.252001,1 kg seed,,seeds_singlescore_1.json,1054.9977049156848
+C2_2022,C2,2022,ha,Land use,Pt,200.8753815766,,16893889.2,1 kg seed,,seeds_singlescore_1.json,3393566439.3628016
+C2_2022,C2,2022,ha,Ozone depletion,Pt,200.8753815766,,7.7848e-11,1 kg seed,,seeds_singlescore_1.json,1.5637746704975158e-08
+C2_2022,C2,2022,ha,Particulate matter,Pt,200.8753815766,,4.0509e-12,1 kg seed,,seeds_singlescore_1.json,8.137260832286489e-10
+C2_2022,C2,2022,ha,Photochemical ozone formation,Pt,200.8753815766,,0.0065572,1 kg seed,,seeds_singlescore_1.json,1.3171800520740815
+C2_2022,C2,2022,ha,"Resource use, fossils",Pt,200.8753815766,,26916.417690000002,1 kg seed,,seeds_singlescore_1.json,5406845.674153897
+C2_2022,C2,2022,ha,"Resource use, minerals and metals",Pt,200.8753815766,,1.8431999999999996e-08,1 kg seed,,seeds_singlescore_1.json,3.7025350332198906e-06
+C2_2022,C2,2022,ha,Total,Pt,200.8753815766,,16980974.878934015,1 kg seed,,seeds_singlescore_1.json,3411059808.3485293
+C2_2022,C2,2022,ha,Water use,Pt,200.8753815766,,31715.821060000002,1 kg seed,,seeds_singlescore_1.json,6370927.657442667
+C2_2023,C2,2023,ha,Acidification,Pt,180.0,,0.01198496,1 kg seed,,seeds_singlescore_1.json,2.1572928
+C2_2023,C2,2023,ha,Climate change,Pt,180.0,,6016.38576,1 kg seed,,seeds_singlescore_1.json,1082949.4368
+C2_2023,C2,2023,ha,Climate change - Biogenic,Pt,180.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C2_2023,C2,2023,ha,Climate change - Fossil,Pt,180.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C2_2023,C2,2023,ha,Climate change - Land use and LU change,Pt,180.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C2_2023,C2,2023,ha,"Ecotoxicity, freshwater",Pt,180.0,,22431.676919999998,1 kg seed,,seeds_singlescore_1.json,4037701.8455999997
+C2_2023,C2,2023,ha,"Ecotoxicity, freshwater - inorganics",Pt,180.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C2_2023,C2,2023,ha,"Ecotoxicity, freshwater - metals",Pt,180.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C2_2023,C2,2023,ha,"Ecotoxicity, freshwater - organics",Pt,180.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C2_2023,C2,2023,ha,"Eutrophication, freshwater",Pt,180.0,,8.7756e-06,1 kg seed,,seeds_singlescore_1.json,0.001579608
+C2_2023,C2,2023,ha,"Eutrophication, marine",Pt,180.0,,0.002909536,1 kg seed,,seeds_singlescore_1.json,0.5237164799999999
+C2_2023,C2,2023,ha,"Eutrophication, terrestrial",Pt,180.0,,0.10404252,1 kg seed,,seeds_singlescore_1.json,18.7276536
+C2_2023,C2,2023,ha,"Human toxicity, cancer",Pt,180.0,,3.8458000000000003e-16,1 kg seed,,seeds_singlescore_1.json,6.922440000000001e-14
+C2_2023,C2,2023,ha,"Human toxicity, cancer - inorganics",Pt,180.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C2_2023,C2,2023,ha,"Human toxicity, cancer - metals",Pt,180.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C2_2023,C2,2023,ha,"Human toxicity, cancer - organics",Pt,180.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C2_2023,C2,2023,ha,"Human toxicity, non-cancer",Pt,180.0,,4.3437799999999997e-13,1 kg seed,,seeds_singlescore_1.json,7.818804e-11
+C2_2023,C2,2023,ha,"Human toxicity, non-cancer - inorganics",Pt,180.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C2_2023,C2,2023,ha,"Human toxicity, non-cancer - metals",Pt,180.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C2_2023,C2,2023,ha,"Human toxicity, non-cancer - organics",Pt,180.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C2_2023,C2,2023,ha,Ionising radiation,Pt,180.0,,5.252001,1 kg seed,,seeds_singlescore_1.json,945.36018
+C2_2023,C2,2023,ha,Land use,Pt,180.0,,16893889.2,1 kg seed,,seeds_singlescore_1.json,3040900056.0
+C2_2023,C2,2023,ha,Ozone depletion,Pt,180.0,,7.7848e-11,1 kg seed,,seeds_singlescore_1.json,1.401264e-08
+C2_2023,C2,2023,ha,Particulate matter,Pt,180.0,,4.0509e-12,1 kg seed,,seeds_singlescore_1.json,7.29162e-10
+C2_2023,C2,2023,ha,Photochemical ozone formation,Pt,180.0,,0.0065572,1 kg seed,,seeds_singlescore_1.json,1.180296
+C2_2023,C2,2023,ha,"Resource use, fossils",Pt,180.0,,26916.417690000002,1 kg seed,,seeds_singlescore_1.json,4844955.1842
+C2_2023,C2,2023,ha,"Resource use, minerals and metals",Pt,180.0,,1.8431999999999996e-08,1 kg seed,,seeds_singlescore_1.json,3.317759999999999e-06
+C2_2023,C2,2023,ha,Total,Pt,180.0,,16980974.878934015,1 kg seed,,seeds_singlescore_1.json,3056575478.2081227
+C2_2023,C2,2023,ha,Water use,Pt,180.0,,31715.821060000002,1 kg seed,,seeds_singlescore_1.json,5708847.790800001
+C2_2024,C2,2024,ha,Acidification,Pt,160.0,,0.01198496,1 kg seed,,seeds_singlescore_1.json,1.9175936
+C2_2024,C2,2024,ha,Climate change,Pt,160.0,,6016.38576,1 kg seed,,seeds_singlescore_1.json,962621.7216
+C2_2024,C2,2024,ha,Climate change - Biogenic,Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C2_2024,C2,2024,ha,Climate change - Fossil,Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C2_2024,C2,2024,ha,Climate change - Land use and LU change,Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C2_2024,C2,2024,ha,"Ecotoxicity, freshwater",Pt,160.0,,22431.676919999998,1 kg seed,,seeds_singlescore_1.json,3589068.3071999997
+C2_2024,C2,2024,ha,"Ecotoxicity, freshwater - inorganics",Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C2_2024,C2,2024,ha,"Ecotoxicity, freshwater - metals",Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C2_2024,C2,2024,ha,"Ecotoxicity, freshwater - organics",Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C2_2024,C2,2024,ha,"Eutrophication, freshwater",Pt,160.0,,8.7756e-06,1 kg seed,,seeds_singlescore_1.json,0.0014040959999999999
+C2_2024,C2,2024,ha,"Eutrophication, marine",Pt,160.0,,0.002909536,1 kg seed,,seeds_singlescore_1.json,0.46552576
+C2_2024,C2,2024,ha,"Eutrophication, terrestrial",Pt,160.0,,0.10404252,1 kg seed,,seeds_singlescore_1.json,16.6468032
+C2_2024,C2,2024,ha,"Human toxicity, cancer",Pt,160.0,,3.8458000000000003e-16,1 kg seed,,seeds_singlescore_1.json,6.15328e-14
+C2_2024,C2,2024,ha,"Human toxicity, cancer - inorganics",Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C2_2024,C2,2024,ha,"Human toxicity, cancer - metals",Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C2_2024,C2,2024,ha,"Human toxicity, cancer - organics",Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C2_2024,C2,2024,ha,"Human toxicity, non-cancer",Pt,160.0,,4.3437799999999997e-13,1 kg seed,,seeds_singlescore_1.json,6.950048e-11
+C2_2024,C2,2024,ha,"Human toxicity, non-cancer - inorganics",Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C2_2024,C2,2024,ha,"Human toxicity, non-cancer - metals",Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C2_2024,C2,2024,ha,"Human toxicity, non-cancer - organics",Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C2_2024,C2,2024,ha,Ionising radiation,Pt,160.0,,5.252001,1 kg seed,,seeds_singlescore_1.json,840.32016
+C2_2024,C2,2024,ha,Land use,Pt,160.0,,16893889.2,1 kg seed,,seeds_singlescore_1.json,2703022272.0
+C2_2024,C2,2024,ha,Ozone depletion,Pt,160.0,,7.7848e-11,1 kg seed,,seeds_singlescore_1.json,1.245568e-08
+C2_2024,C2,2024,ha,Particulate matter,Pt,160.0,,4.0509e-12,1 kg seed,,seeds_singlescore_1.json,6.48144e-10
+C2_2024,C2,2024,ha,Photochemical ozone formation,Pt,160.0,,0.0065572,1 kg seed,,seeds_singlescore_1.json,1.049152
+C2_2024,C2,2024,ha,"Resource use, fossils",Pt,160.0,,26916.417690000002,1 kg seed,,seeds_singlescore_1.json,4306626.8304
+C2_2024,C2,2024,ha,"Resource use, minerals and metals",Pt,160.0,,1.8431999999999996e-08,1 kg seed,,seeds_singlescore_1.json,2.949119999999999e-06
+C2_2024,C2,2024,ha,Total,Pt,160.0,,16980974.878934015,1 kg seed,,seeds_singlescore_1.json,2716955980.629442
+C2_2024,C2,2024,ha,Water use,Pt,160.0,,31715.821060000002,1 kg seed,,seeds_singlescore_1.json,5074531.3696
+C3_2022,C3,2022,ha,Acidification,Pt,190.0,,0.01198496,1 kg seed,,seeds_singlescore_1.json,2.2771424
+C3_2022,C3,2022,ha,Climate change,Pt,190.0,,6016.38576,1 kg seed,,seeds_singlescore_1.json,1143113.2944
+C3_2022,C3,2022,ha,Climate change - Biogenic,Pt,190.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C3_2022,C3,2022,ha,Climate change - Fossil,Pt,190.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C3_2022,C3,2022,ha,Climate change - Land use and LU change,Pt,190.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C3_2022,C3,2022,ha,"Ecotoxicity, freshwater",Pt,190.0,,22431.676919999998,1 kg seed,,seeds_singlescore_1.json,4262018.6148
+C3_2022,C3,2022,ha,"Ecotoxicity, freshwater - inorganics",Pt,190.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C3_2022,C3,2022,ha,"Ecotoxicity, freshwater - metals",Pt,190.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C3_2022,C3,2022,ha,"Ecotoxicity, freshwater - organics",Pt,190.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C3_2022,C3,2022,ha,"Eutrophication, freshwater",Pt,190.0,,8.7756e-06,1 kg seed,,seeds_singlescore_1.json,0.001667364
+C3_2022,C3,2022,ha,"Eutrophication, marine",Pt,190.0,,0.002909536,1 kg seed,,seeds_singlescore_1.json,0.5528118399999999
+C3_2022,C3,2022,ha,"Eutrophication, terrestrial",Pt,190.0,,0.10404252,1 kg seed,,seeds_singlescore_1.json,19.7680788
+C3_2022,C3,2022,ha,"Human toxicity, cancer",Pt,190.0,,3.8458000000000003e-16,1 kg seed,,seeds_singlescore_1.json,7.30702e-14
+C3_2022,C3,2022,ha,"Human toxicity, cancer - inorganics",Pt,190.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C3_2022,C3,2022,ha,"Human toxicity, cancer - metals",Pt,190.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C3_2022,C3,2022,ha,"Human toxicity, cancer - organics",Pt,190.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C3_2022,C3,2022,ha,"Human toxicity, non-cancer",Pt,190.0,,4.3437799999999997e-13,1 kg seed,,seeds_singlescore_1.json,8.253181999999999e-11
+C3_2022,C3,2022,ha,"Human toxicity, non-cancer - inorganics",Pt,190.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C3_2022,C3,2022,ha,"Human toxicity, non-cancer - metals",Pt,190.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C3_2022,C3,2022,ha,"Human toxicity, non-cancer - organics",Pt,190.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C3_2022,C3,2022,ha,Ionising radiation,Pt,190.0,,5.252001,1 kg seed,,seeds_singlescore_1.json,997.88019
+C3_2022,C3,2022,ha,Land use,Pt,190.0,,16893889.2,1 kg seed,,seeds_singlescore_1.json,3209838948.0
+C3_2022,C3,2022,ha,Ozone depletion,Pt,190.0,,7.7848e-11,1 kg seed,,seeds_singlescore_1.json,1.479112e-08
+C3_2022,C3,2022,ha,Particulate matter,Pt,190.0,,4.0509e-12,1 kg seed,,seeds_singlescore_1.json,7.69671e-10
+C3_2022,C3,2022,ha,Photochemical ozone formation,Pt,190.0,,0.0065572,1 kg seed,,seeds_singlescore_1.json,1.245868
+C3_2022,C3,2022,ha,"Resource use, fossils",Pt,190.0,,26916.417690000002,1 kg seed,,seeds_singlescore_1.json,5114119.3611
+C3_2022,C3,2022,ha,"Resource use, minerals and metals",Pt,190.0,,1.8431999999999996e-08,1 kg seed,,seeds_singlescore_1.json,3.5020799999999993e-06
+C3_2022,C3,2022,ha,Total,Pt,190.0,,16980974.878934015,1 kg seed,,seeds_singlescore_1.json,3226385226.9974627
+C3_2022,C3,2022,ha,Water use,Pt,190.0,,31715.821060000002,1 kg seed,,seeds_singlescore_1.json,6026006.0014
+C3_2023,C3,2023,ha,Acidification,Pt,163.4589681903,,0.01198496,1 kg seed,,seeds_singlescore_1.json,1.9590491954020177
+C3_2023,C3,2023,ha,Climate change,Pt,163.4589681903,,6016.38576,1 kg seed,,seeds_singlescore_1.json,983432.208564414
+C3_2023,C3,2023,ha,Climate change - Biogenic,Pt,163.4589681903,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C3_2023,C3,2023,ha,Climate change - Fossil,Pt,163.4589681903,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C3_2023,C3,2023,ha,Climate change - Land use and LU change,Pt,163.4589681903,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C3_2023,C3,2023,ha,"Ecotoxicity, freshwater",Pt,163.4589681903,,22431.676919999998,1 kg seed,,seeds_singlescore_1.json,3666658.764121366
+C3_2023,C3,2023,ha,"Ecotoxicity, freshwater - inorganics",Pt,163.4589681903,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C3_2023,C3,2023,ha,"Ecotoxicity, freshwater - metals",Pt,163.4589681903,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C3_2023,C3,2023,ha,"Ecotoxicity, freshwater - organics",Pt,163.4589681903,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C3_2023,C3,2023,ha,"Eutrophication, freshwater",Pt,163.4589681903,,8.7756e-06,1 kg seed,,seeds_singlescore_1.json,0.0014344505212507965
+C3_2023,C3,2023,ha,"Eutrophication, marine",Pt,163.4589681903,,0.002909536,1 kg seed,,seeds_singlescore_1.json,0.47558975247253266
+C3_2023,C3,2023,ha,"Eutrophication, terrestrial",Pt,163.4589681903,,0.10404252,1 kg seed,,seeds_singlescore_1.json,17.00668296711865
+C3_2023,C3,2023,ha,"Human toxicity, cancer",Pt,163.4589681903,,3.8458000000000003e-16,1 kg seed,,seeds_singlescore_1.json,6.286304998662558e-14
+C3_2023,C3,2023,ha,"Human toxicity, cancer - inorganics",Pt,163.4589681903,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C3_2023,C3,2023,ha,"Human toxicity, cancer - metals",Pt,163.4589681903,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C3_2023,C3,2023,ha,"Human toxicity, cancer - organics",Pt,163.4589681903,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C3_2023,C3,2023,ha,"Human toxicity, non-cancer",Pt,163.4589681903,,4.3437799999999997e-13,1 kg seed,,seeds_singlescore_1.json,7.100297968456613e-11
+C3_2023,C3,2023,ha,"Human toxicity, non-cancer - inorganics",Pt,163.4589681903,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C3_2023,C3,2023,ha,"Human toxicity, non-cancer - metals",Pt,163.4589681903,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C3_2023,C3,2023,ha,"Human toxicity, non-cancer - organics",Pt,163.4589681903,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C3_2023,C3,2023,ha,Ionising radiation,Pt,163.4589681903,,5.252001,1 kg seed,,seeds_singlescore_1.json,858.4866643944238
+C3_2023,C3,2023,ha,Land use,Pt,163.4589681903,,16893889.2,1 kg seed,,seeds_singlescore_1.json,2761457697.3532524
+C3_2023,C3,2023,ha,Ozone depletion,Pt,163.4589681903,,7.7848e-11,1 kg seed,,seeds_singlescore_1.json,1.2724953755678475e-08
+C3_2023,C3,2023,ha,Particulate matter,Pt,163.4589681903,,4.0509e-12,1 kg seed,,seeds_singlescore_1.json,6.621559342420863e-10
+C3_2023,C3,2023,ha,Photochemical ozone formation,Pt,163.4589681903,,0.0065572,1 kg seed,,seeds_singlescore_1.json,1.071833146217435
+C3_2023,C3,2023,ha,"Resource use, fossils",Pt,163.4589681903,,26916.417690000002,1 kg seed,,seeds_singlescore_1.json,4399729.862986539
+C3_2023,C3,2023,ha,"Resource use, minerals and metals",Pt,163.4589681903,,1.8431999999999996e-08,1 kg seed,,seeds_singlescore_1.json,3.0128757016836088e-06
+C3_2023,C3,2023,ha,Total,Pt,163.4589681903,,16980974.878934015,1 kg seed,,seeds_singlescore_1.json,2775692632.5759583
+C3_2023,C3,2023,ha,Water use,Pt,163.4589681903,,31715.821060000002,1 kg seed,,seeds_singlescore_1.json,5184235.385775787
+C3_2024,C3,2024,ha,Acidification,Pt,191.4755412991,,0.01198496,1 kg seed,,seeds_singlescore_1.json,2.2948267034480616
+C3_2024,C3,2024,ha,Climate change,Pt,191.4755412991,,6016.38576,1 kg seed,,seeds_singlescore_1.json,1151990.7200601972
+C3_2024,C3,2024,ha,Climate change - Biogenic,Pt,191.4755412991,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C3_2024,C3,2024,ha,Climate change - Fossil,Pt,191.4755412991,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C3_2024,C3,2024,ha,Climate change - Land use and LU change,Pt,191.4755412991,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C3_2024,C3,2024,ha,"Ecotoxicity, freshwater",Pt,191.4755412991,,22431.676919999998,1 kg seed,,seeds_singlescore_1.json,4295117.480503528
+C3_2024,C3,2024,ha,"Ecotoxicity, freshwater - inorganics",Pt,191.4755412991,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C3_2024,C3,2024,ha,"Ecotoxicity, freshwater - metals",Pt,191.4755412991,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C3_2024,C3,2024,ha,"Ecotoxicity, freshwater - organics",Pt,191.4755412991,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C3_2024,C3,2024,ha,"Eutrophication, freshwater",Pt,191.4755412991,,8.7756e-06,1 kg seed,,seeds_singlescore_1.json,0.001680312760224382
+C3_2024,C3,2024,ha,"Eutrophication, marine",Pt,191.4755412991,,0.002909536,1 kg seed,,seeds_singlescore_1.json,0.5571049805292182
+C3_2024,C3,2024,ha,"Eutrophication, terrestrial",Pt,191.4755412991,,0.10404252,1 kg seed,,seeds_singlescore_1.json,19.921597835122437
+C3_2024,C3,2024,ha,"Human toxicity, cancer",Pt,191.4755412991,,3.8458000000000003e-16,1 kg seed,,seeds_singlescore_1.json,7.363766367280788e-14
+C3_2024,C3,2024,ha,"Human toxicity, cancer - inorganics",Pt,191.4755412991,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C3_2024,C3,2024,ha,"Human toxicity, cancer - metals",Pt,191.4755412991,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C3_2024,C3,2024,ha,"Human toxicity, cancer - organics",Pt,191.4755412991,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C3_2024,C3,2024,ha,"Human toxicity, non-cancer",Pt,191.4755412991,,4.3437799999999997e-13,1 kg seed,,seeds_singlescore_1.json,8.317276267842045e-11
+C3_2024,C3,2024,ha,"Human toxicity, non-cancer - inorganics",Pt,191.4755412991,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C3_2024,C3,2024,ha,"Human toxicity, non-cancer - metals",Pt,191.4755412991,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C3_2024,C3,2024,ha,"Human toxicity, non-cancer - organics",Pt,191.4755412991,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C3_2024,C3,2024,ha,Ionising radiation,Pt,191.4755412991,,5.252001,1 kg seed,,seeds_singlescore_1.json,1005.6297343784145
+C3_2024,C3,2024,ha,Land use,Pt,191.4755412991,,16893889.2,1 kg seed,,seeds_singlescore_1.json,3234766579.2170196
+C3_2024,C3,2024,ha,Ozone depletion,Pt,191.4755412991,,7.7848e-11,1 kg seed,,seeds_singlescore_1.json,1.4905987939052337e-08
+C3_2024,C3,2024,ha,Particulate matter,Pt,191.4755412991,,4.0509e-12,1 kg seed,,seeds_singlescore_1.json,7.756482702485242e-10
+C3_2024,C3,2024,ha,Photochemical ozone formation,Pt,191.4755412991,,0.0065572,1 kg seed,,seeds_singlescore_1.json,1.2555434194064585
+C3_2024,C3,2024,ha,"Resource use, fossils",Pt,191.4755412991,,26916.417690000002,1 kg seed,,seeds_singlescore_1.json,5153835.647025421
+C3_2024,C3,2024,ha,"Resource use, minerals and metals",Pt,191.4755412991,,1.8431999999999996e-08,1 kg seed,,seeds_singlescore_1.json,3.5292771772250104e-06
+C3_2024,C3,2024,ha,Total,Pt,191.4755412991,,16980974.878934015,1 kg seed,,seeds_singlescore_1.json,3251441356.7303095
+C3_2024,C3,2024,ha,Water use,Pt,191.4755412991,,31715.821060000002,1 kg seed,,seeds_singlescore_1.json,6072804.005208896
+C4_2022,C4,2022,ha,Acidification,Pt,220.0,,0.01198496,1 kg seed,,seeds_singlescore_1.json,2.6366912
+C4_2022,C4,2022,ha,Climate change,Pt,220.0,,6016.38576,1 kg seed,,seeds_singlescore_1.json,1323604.8672
+C4_2022,C4,2022,ha,Climate change - Biogenic,Pt,220.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C4_2022,C4,2022,ha,Climate change - Fossil,Pt,220.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C4_2022,C4,2022,ha,Climate change - Land use and LU change,Pt,220.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C4_2022,C4,2022,ha,"Ecotoxicity, freshwater",Pt,220.0,,22431.676919999998,1 kg seed,,seeds_singlescore_1.json,4934968.9224
+C4_2022,C4,2022,ha,"Ecotoxicity, freshwater - inorganics",Pt,220.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C4_2022,C4,2022,ha,"Ecotoxicity, freshwater - metals",Pt,220.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C4_2022,C4,2022,ha,"Ecotoxicity, freshwater - organics",Pt,220.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C4_2022,C4,2022,ha,"Eutrophication, freshwater",Pt,220.0,,8.7756e-06,1 kg seed,,seeds_singlescore_1.json,0.0019306319999999998
+C4_2022,C4,2022,ha,"Eutrophication, marine",Pt,220.0,,0.002909536,1 kg seed,,seeds_singlescore_1.json,0.64009792
+C4_2022,C4,2022,ha,"Eutrophication, terrestrial",Pt,220.0,,0.10404252,1 kg seed,,seeds_singlescore_1.json,22.8893544
+C4_2022,C4,2022,ha,"Human toxicity, cancer",Pt,220.0,,3.8458000000000003e-16,1 kg seed,,seeds_singlescore_1.json,8.460760000000001e-14
+C4_2022,C4,2022,ha,"Human toxicity, cancer - inorganics",Pt,220.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C4_2022,C4,2022,ha,"Human toxicity, cancer - metals",Pt,220.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C4_2022,C4,2022,ha,"Human toxicity, cancer - organics",Pt,220.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C4_2022,C4,2022,ha,"Human toxicity, non-cancer",Pt,220.0,,4.3437799999999997e-13,1 kg seed,,seeds_singlescore_1.json,9.556315999999999e-11
+C4_2022,C4,2022,ha,"Human toxicity, non-cancer - inorganics",Pt,220.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C4_2022,C4,2022,ha,"Human toxicity, non-cancer - metals",Pt,220.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C4_2022,C4,2022,ha,"Human toxicity, non-cancer - organics",Pt,220.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C4_2022,C4,2022,ha,Ionising radiation,Pt,220.0,,5.252001,1 kg seed,,seeds_singlescore_1.json,1155.44022
+C4_2022,C4,2022,ha,Land use,Pt,220.0,,16893889.2,1 kg seed,,seeds_singlescore_1.json,3716655624.0
+C4_2022,C4,2022,ha,Ozone depletion,Pt,220.0,,7.7848e-11,1 kg seed,,seeds_singlescore_1.json,1.712656e-08
+C4_2022,C4,2022,ha,Particulate matter,Pt,220.0,,4.0509e-12,1 kg seed,,seeds_singlescore_1.json,8.91198e-10
+C4_2022,C4,2022,ha,Photochemical ozone formation,Pt,220.0,,0.0065572,1 kg seed,,seeds_singlescore_1.json,1.442584
+C4_2022,C4,2022,ha,"Resource use, fossils",Pt,220.0,,26916.417690000002,1 kg seed,,seeds_singlescore_1.json,5921611.8918
+C4_2022,C4,2022,ha,"Resource use, minerals and metals",Pt,220.0,,1.8431999999999996e-08,1 kg seed,,seeds_singlescore_1.json,4.055039999999999e-06
+C4_2022,C4,2022,ha,Total,Pt,220.0,,16980974.878934015,1 kg seed,,seeds_singlescore_1.json,3735814473.3654833
+C4_2022,C4,2022,ha,Water use,Pt,220.0,,31715.821060000002,1 kg seed,,seeds_singlescore_1.json,6977480.6332
+C4_2023,C4,2023,ha,Acidification,Pt,200.0,,0.01198496,1 kg seed,,seeds_singlescore_1.json,2.396992
+C4_2023,C4,2023,ha,Climate change,Pt,200.0,,6016.38576,1 kg seed,,seeds_singlescore_1.json,1203277.152
+C4_2023,C4,2023,ha,Climate change - Biogenic,Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C4_2023,C4,2023,ha,Climate change - Fossil,Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C4_2023,C4,2023,ha,Climate change - Land use and LU change,Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C4_2023,C4,2023,ha,"Ecotoxicity, freshwater",Pt,200.0,,22431.676919999998,1 kg seed,,seeds_singlescore_1.json,4486335.384
+C4_2023,C4,2023,ha,"Ecotoxicity, freshwater - inorganics",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C4_2023,C4,2023,ha,"Ecotoxicity, freshwater - metals",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C4_2023,C4,2023,ha,"Ecotoxicity, freshwater - organics",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C4_2023,C4,2023,ha,"Eutrophication, freshwater",Pt,200.0,,8.7756e-06,1 kg seed,,seeds_singlescore_1.json,0.00175512
+C4_2023,C4,2023,ha,"Eutrophication, marine",Pt,200.0,,0.002909536,1 kg seed,,seeds_singlescore_1.json,0.5819072
+C4_2023,C4,2023,ha,"Eutrophication, terrestrial",Pt,200.0,,0.10404252,1 kg seed,,seeds_singlescore_1.json,20.808504
+C4_2023,C4,2023,ha,"Human toxicity, cancer",Pt,200.0,,3.8458000000000003e-16,1 kg seed,,seeds_singlescore_1.json,7.6916e-14
+C4_2023,C4,2023,ha,"Human toxicity, cancer - inorganics",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C4_2023,C4,2023,ha,"Human toxicity, cancer - metals",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C4_2023,C4,2023,ha,"Human toxicity, cancer - organics",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C4_2023,C4,2023,ha,"Human toxicity, non-cancer",Pt,200.0,,4.3437799999999997e-13,1 kg seed,,seeds_singlescore_1.json,8.68756e-11
+C4_2023,C4,2023,ha,"Human toxicity, non-cancer - inorganics",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C4_2023,C4,2023,ha,"Human toxicity, non-cancer - metals",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C4_2023,C4,2023,ha,"Human toxicity, non-cancer - organics",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C4_2023,C4,2023,ha,Ionising radiation,Pt,200.0,,5.252001,1 kg seed,,seeds_singlescore_1.json,1050.4002
+C4_2023,C4,2023,ha,Land use,Pt,200.0,,16893889.2,1 kg seed,,seeds_singlescore_1.json,3378777840.0
+C4_2023,C4,2023,ha,Ozone depletion,Pt,200.0,,7.7848e-11,1 kg seed,,seeds_singlescore_1.json,1.55696e-08
+C4_2023,C4,2023,ha,Particulate matter,Pt,200.0,,4.0509e-12,1 kg seed,,seeds_singlescore_1.json,8.1018e-10
+C4_2023,C4,2023,ha,Photochemical ozone formation,Pt,200.0,,0.0065572,1 kg seed,,seeds_singlescore_1.json,1.31144
+C4_2023,C4,2023,ha,"Resource use, fossils",Pt,200.0,,26916.417690000002,1 kg seed,,seeds_singlescore_1.json,5383283.538000001
+C4_2023,C4,2023,ha,"Resource use, minerals and metals",Pt,200.0,,1.8431999999999996e-08,1 kg seed,,seeds_singlescore_1.json,3.686399999999999e-06
+C4_2023,C4,2023,ha,Total,Pt,200.0,,16980974.878934015,1 kg seed,,seeds_singlescore_1.json,3396194975.786803
+C4_2023,C4,2023,ha,Water use,Pt,200.0,,31715.821060000002,1 kg seed,,seeds_singlescore_1.json,6343164.212
+C4_2024,C4,2024,ha,Acidification,Pt,170.0,,0.01198496,1 kg seed,,seeds_singlescore_1.json,2.0374432
+C4_2024,C4,2024,ha,Climate change,Pt,170.0,,6016.38576,1 kg seed,,seeds_singlescore_1.json,1022785.5792
+C4_2024,C4,2024,ha,Climate change - Biogenic,Pt,170.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C4_2024,C4,2024,ha,Climate change - Fossil,Pt,170.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C4_2024,C4,2024,ha,Climate change - Land use and LU change,Pt,170.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C4_2024,C4,2024,ha,"Ecotoxicity, freshwater",Pt,170.0,,22431.676919999998,1 kg seed,,seeds_singlescore_1.json,3813385.0763999997
+C4_2024,C4,2024,ha,"Ecotoxicity, freshwater - inorganics",Pt,170.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C4_2024,C4,2024,ha,"Ecotoxicity, freshwater - metals",Pt,170.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C4_2024,C4,2024,ha,"Ecotoxicity, freshwater - organics",Pt,170.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C4_2024,C4,2024,ha,"Eutrophication, freshwater",Pt,170.0,,8.7756e-06,1 kg seed,,seeds_singlescore_1.json,0.001491852
+C4_2024,C4,2024,ha,"Eutrophication, marine",Pt,170.0,,0.002909536,1 kg seed,,seeds_singlescore_1.json,0.49462111999999997
+C4_2024,C4,2024,ha,"Eutrophication, terrestrial",Pt,170.0,,0.10404252,1 kg seed,,seeds_singlescore_1.json,17.6872284
+C4_2024,C4,2024,ha,"Human toxicity, cancer",Pt,170.0,,3.8458000000000003e-16,1 kg seed,,seeds_singlescore_1.json,6.537860000000001e-14
+C4_2024,C4,2024,ha,"Human toxicity, cancer - inorganics",Pt,170.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C4_2024,C4,2024,ha,"Human toxicity, cancer - metals",Pt,170.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C4_2024,C4,2024,ha,"Human toxicity, cancer - organics",Pt,170.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C4_2024,C4,2024,ha,"Human toxicity, non-cancer",Pt,170.0,,4.3437799999999997e-13,1 kg seed,,seeds_singlescore_1.json,7.384425999999999e-11
+C4_2024,C4,2024,ha,"Human toxicity, non-cancer - inorganics",Pt,170.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C4_2024,C4,2024,ha,"Human toxicity, non-cancer - metals",Pt,170.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C4_2024,C4,2024,ha,"Human toxicity, non-cancer - organics",Pt,170.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C4_2024,C4,2024,ha,Ionising radiation,Pt,170.0,,5.252001,1 kg seed,,seeds_singlescore_1.json,892.84017
+C4_2024,C4,2024,ha,Land use,Pt,170.0,,16893889.2,1 kg seed,,seeds_singlescore_1.json,2871961164.0
+C4_2024,C4,2024,ha,Ozone depletion,Pt,170.0,,7.7848e-11,1 kg seed,,seeds_singlescore_1.json,1.3234160000000001e-08
+C4_2024,C4,2024,ha,Particulate matter,Pt,170.0,,4.0509e-12,1 kg seed,,seeds_singlescore_1.json,6.88653e-10
+C4_2024,C4,2024,ha,Photochemical ozone formation,Pt,170.0,,0.0065572,1 kg seed,,seeds_singlescore_1.json,1.114724
+C4_2024,C4,2024,ha,"Resource use, fossils",Pt,170.0,,26916.417690000002,1 kg seed,,seeds_singlescore_1.json,4575791.007300001
+C4_2024,C4,2024,ha,"Resource use, minerals and metals",Pt,170.0,,1.8431999999999996e-08,1 kg seed,,seeds_singlescore_1.json,3.1334399999999993e-06
+C4_2024,C4,2024,ha,Total,Pt,170.0,,16980974.878934015,1 kg seed,,seeds_singlescore_1.json,2886765729.4187827
+C4_2024,C4,2024,ha,Water use,Pt,170.0,,31715.821060000002,1 kg seed,,seeds_singlescore_1.json,5391689.580200001
+C5_2022,C5,2022,ha,Acidification,Pt,159.4055944056,,0.01198496,1 kg seed,,seeds_singlescore_1.json,1.9104696727273396
+C5_2022,C5,2022,ha,Climate change,Pt,159.4055944056,,6016.38576,1 kg seed,,seeds_singlescore_1.json,959045.5482461875
+C5_2022,C5,2022,ha,Climate change - Biogenic,Pt,159.4055944056,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C5_2022,C5,2022,ha,Climate change - Fossil,Pt,159.4055944056,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C5_2022,C5,2022,ha,Climate change - Land use and LU change,Pt,159.4055944056,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C5_2022,C5,2022,ha,"Ecotoxicity, freshwater",Pt,159.4055944056,,22431.676919999998,1 kg seed,,seeds_singlescore_1.json,3575734.7929469785
+C5_2022,C5,2022,ha,"Ecotoxicity, freshwater - inorganics",Pt,159.4055944056,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C5_2022,C5,2022,ha,"Ecotoxicity, freshwater - metals",Pt,159.4055944056,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C5_2022,C5,2022,ha,"Ecotoxicity, freshwater - organics",Pt,159.4055944056,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C5_2022,C5,2022,ha,"Eutrophication, freshwater",Pt,159.4055944056,,8.7756e-06,1 kg seed,,seeds_singlescore_1.json,0.0013988797342657832
+C5_2022,C5,2022,ha,"Eutrophication, marine",Pt,159.4055944056,,0.002909536,1 kg seed,,seeds_singlescore_1.json,0.4637963155244918
+C5_2022,C5,2022,ha,"Eutrophication, terrestrial",Pt,159.4055944056,,0.10404252,1 kg seed,,seeds_singlescore_1.json,16.584959744056526
+C5_2022,C5,2022,ha,"Human toxicity, cancer",Pt,159.4055944056,,3.8458000000000003e-16,1 kg seed,,seeds_singlescore_1.json,6.130420349650565e-14
+C5_2022,C5,2022,ha,"Human toxicity, cancer - inorganics",Pt,159.4055944056,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C5_2022,C5,2022,ha,"Human toxicity, cancer - metals",Pt,159.4055944056,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C5_2022,C5,2022,ha,"Human toxicity, cancer - organics",Pt,159.4055944056,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C5_2022,C5,2022,ha,"Human toxicity, non-cancer",Pt,159.4055944056,,4.3437799999999997e-13,1 kg seed,,seeds_singlescore_1.json,6.924228328671571e-11
+C5_2022,C5,2022,ha,"Human toxicity, non-cancer - inorganics",Pt,159.4055944056,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C5_2022,C5,2022,ha,"Human toxicity, non-cancer - metals",Pt,159.4055944056,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C5_2022,C5,2022,ha,"Human toxicity, non-cancer - organics",Pt,159.4055944056,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C5_2022,C5,2022,ha,Ionising radiation,Pt,159.4055944056,,5.252001,1 kg seed,,seeds_singlescore_1.json,837.1983412238056
+C5_2022,C5,2022,ha,Land use,Pt,159.4055944056,,16893889.2,1 kg seed,,seeds_singlescore_1.json,2692980449.7483463
+C5_2022,C5,2022,ha,Ozone depletion,Pt,159.4055944056,,7.7848e-11,1 kg seed,,seeds_singlescore_1.json,1.2409406713287149e-08
+C5_2022,C5,2022,ha,Particulate matter,Pt,159.4055944056,,4.0509e-12,1 kg seed,,seeds_singlescore_1.json,6.45736122377645e-10
+C5_2022,C5,2022,ha,Photochemical ozone formation,Pt,159.4055944056,,0.0065572,1 kg seed,,seeds_singlescore_1.json,1.0452543636364002
+C5_2022,C5,2022,ha,"Resource use, fossils",Pt,159.4055944056,,26916.417690000002,1 kg seed,,seeds_singlescore_1.json,4290627.561143857
+C5_2022,C5,2022,ha,"Resource use, minerals and metals",Pt,159.4055944056,,1.8431999999999996e-08,1 kg seed,,seeds_singlescore_1.json,2.9381639160840185e-06
+C5_2022,C5,2022,ha,Total,Pt,159.4055944056,,16980974.878934015,1 kg seed,,seeds_singlescore_1.json,2706862394.1630383
+C5_2022,C5,2022,ha,Water use,Pt,159.4055944056,,31715.821060000002,1 kg seed,,seeds_singlescore_1.json,5055679.308130947
+C5_2023,C5,2023,ha,Acidification,Pt,171.4221218962,,0.01198496,1 kg seed,,seeds_singlescore_1.json,2.054487274041081
+C5_2023,C5,2023,ha,Climate change,Pt,171.4221218962,,6016.38576,1 kg seed,,seeds_singlescore_1.json,1031341.6131252819
+C5_2023,C5,2023,ha,Climate change - Biogenic,Pt,171.4221218962,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C5_2023,C5,2023,ha,Climate change - Fossil,Pt,171.4221218962,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C5_2023,C5,2023,ha,Climate change - Land use and LU change,Pt,171.4221218962,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C5_2023,C5,2023,ha,"Ecotoxicity, freshwater",Pt,171.4221218962,,22431.676919999998,1 kg seed,,seeds_singlescore_1.json,3845285.6553164157
+C5_2023,C5,2023,ha,"Ecotoxicity, freshwater - inorganics",Pt,171.4221218962,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C5_2023,C5,2023,ha,"Ecotoxicity, freshwater - metals",Pt,171.4221218962,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C5_2023,C5,2023,ha,"Ecotoxicity, freshwater - organics",Pt,171.4221218962,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C5_2023,C5,2023,ha,"Eutrophication, freshwater",Pt,171.4221218962,,8.7756e-06,1 kg seed,,seeds_singlescore_1.json,0.0015043319729122926
+C5_2023,C5,2023,ha,"Eutrophication, marine",Pt,171.4221218962,,0.002909536,1 kg seed,,seeds_singlescore_1.json,0.4987588348533821
+C5_2023,C5,2023,ha,"Eutrophication, terrestrial",Pt,171.4221218962,,0.10404252,1 kg seed,,seeds_singlescore_1.json,17.835189545827827
+C5_2023,C5,2023,ha,"Human toxicity, cancer",Pt,171.4221218962,,3.8458000000000003e-16,1 kg seed,,seeds_singlescore_1.json,6.59255196388406e-14
+C5_2023,C5,2023,ha,"Human toxicity, cancer - inorganics",Pt,171.4221218962,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C5_2023,C5,2023,ha,"Human toxicity, cancer - metals",Pt,171.4221218962,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C5_2023,C5,2023,ha,"Human toxicity, cancer - organics",Pt,171.4221218962,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C5_2023,C5,2023,ha,"Human toxicity, non-cancer",Pt,171.4221218962,,4.3437799999999997e-13,1 kg seed,,seeds_singlescore_1.json,7.446199846502756e-11
+C5_2023,C5,2023,ha,"Human toxicity, non-cancer - inorganics",Pt,171.4221218962,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C5_2023,C5,2023,ha,"Human toxicity, non-cancer - metals",Pt,171.4221218962,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C5_2023,C5,2023,ha,"Human toxicity, non-cancer - organics",Pt,171.4221218962,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C5_2023,C5,2023,ha,Ionising radiation,Pt,171.4221218962,,5.252001,1 kg seed,,seeds_singlescore_1.json,900.3091556209642
+C5_2023,C5,2023,ha,Land use,Pt,171.4221218962,,16893889.2,1 kg seed,,seeds_singlescore_1.json,2895986333.7432966
+C5_2023,C5,2023,ha,Ozone depletion,Pt,171.4221218962,,7.7848e-11,1 kg seed,,seeds_singlescore_1.json,1.3344869345375377e-08
+C5_2023,C5,2023,ha,Particulate matter,Pt,171.4221218962,,4.0509e-12,1 kg seed,,seeds_singlescore_1.json,6.944138735893165e-10
+C5_2023,C5,2023,ha,Photochemical ozone formation,Pt,171.4221218962,,0.0065572,1 kg seed,,seeds_singlescore_1.json,1.1240491376977626
+C5_2023,C5,2023,ha,"Resource use, fossils",Pt,171.4221218962,,26916.417690000002,1 kg seed,,seeds_singlescore_1.json,4614069.434264215
+C5_2023,C5,2023,ha,"Resource use, minerals and metals",Pt,171.4221218962,,1.8431999999999996e-08,1 kg seed,,seeds_singlescore_1.json,3.159652550790758e-06
+C5_2023,C5,2023,ha,Total,Pt,171.4221218962,,16980974.878934015,1 kg seed,,seeds_singlescore_1.json,2910914745.6129365
+C5_2023,C5,2023,ha,Water use,Pt,171.4221218962,,31715.821060000002,1 kg seed,,seeds_singlescore_1.json,5436793.343785387
+C5_2024,C5,2024,ha,Acidification,Pt,154.4243792325,,0.01198496,1 kg seed,,seeds_singlescore_1.json,1.8507700081263432
+C5_2024,C5,2024,ha,Climate change,Pt,154.4243792325,,6016.38576,1 kg seed,,seeds_singlescore_1.json,929076.6362112528
+C5_2024,C5,2024,ha,Climate change - Biogenic,Pt,154.4243792325,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C5_2024,C5,2024,ha,Climate change - Fossil,Pt,154.4243792325,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C5_2024,C5,2024,ha,Climate change - Land use and LU change,Pt,154.4243792325,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C5_2024,C5,2024,ha,"Ecotoxicity, freshwater",Pt,154.4243792325,,22431.676919999998,1 kg seed,,seeds_singlescore_1.json,3463997.7835149975
+C5_2024,C5,2024,ha,"Ecotoxicity, freshwater - inorganics",Pt,154.4243792325,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C5_2024,C5,2024,ha,"Ecotoxicity, freshwater - metals",Pt,154.4243792325,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C5_2024,C5,2024,ha,"Ecotoxicity, freshwater - organics",Pt,154.4243792325,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C5_2024,C5,2024,ha,"Eutrophication, freshwater",Pt,154.4243792325,,8.7756e-06,1 kg seed,,seeds_singlescore_1.json,0.001355166582392727
+C5_2024,C5,2024,ha,"Eutrophication, marine",Pt,154.4243792325,,0.002909536,1 kg seed,,seeds_singlescore_1.json,0.4493032906546111
+C5_2024,C5,2024,ha,"Eutrophication, terrestrial",Pt,154.4243792325,,0.10404252,1 kg seed,,seeds_singlescore_1.json,16.066701564784967
+C5_2024,C5,2024,ha,"Human toxicity, cancer",Pt,154.4243792325,,3.8458000000000003e-16,1 kg seed,,seeds_singlescore_1.json,5.938852776523486e-14
+C5_2024,C5,2024,ha,"Human toxicity, cancer - inorganics",Pt,154.4243792325,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C5_2024,C5,2024,ha,"Human toxicity, cancer - metals",Pt,154.4243792325,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C5_2024,C5,2024,ha,"Human toxicity, cancer - organics",Pt,154.4243792325,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C5_2024,C5,2024,ha,"Human toxicity, non-cancer",Pt,154.4243792325,,4.3437799999999997e-13,1 kg seed,,seeds_singlescore_1.json,6.707855300225488e-11
+C5_2024,C5,2024,ha,"Human toxicity, non-cancer - inorganics",Pt,154.4243792325,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C5_2024,C5,2024,ha,"Human toxicity, non-cancer - metals",Pt,154.4243792325,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C5_2024,C5,2024,ha,"Human toxicity, non-cancer - organics",Pt,154.4243792325,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C5_2024,C5,2024,ha,Ionising radiation,Pt,154.4243792325,,5.252001,1 kg seed,,seeds_singlescore_1.json,811.0369941534692
+C5_2024,C5,2024,ha,Land use,Pt,154.4243792325,,16893889.2,1 kg seed,,seeds_singlescore_1.json,2608828352.532636
+C5_2024,C5,2024,ha,Ozone depletion,Pt,154.4243792325,,7.7848e-11,1 kg seed,,seeds_singlescore_1.json,1.202162907449166e-08
+C5_2024,C5,2024,ha,Particulate matter,Pt,154.4243792325,,4.0509e-12,1 kg seed,,seeds_singlescore_1.json,6.255577178329343e-10
+C5_2024,C5,2024,ha,Photochemical ozone formation,Pt,154.4243792325,,0.0065572,1 kg seed,,seeds_singlescore_1.json,1.012591539503349
+C5_2024,C5,2024,ha,"Resource use, fossils",Pt,154.4243792325,,26916.417690000002,1 kg seed,,seeds_singlescore_1.json,4156551.092940932
+C5_2024,C5,2024,ha,"Resource use, minerals and metals",Pt,154.4243792325,,1.8431999999999996e-08,1 kg seed,,seeds_singlescore_1.json,2.8463501580134392e-06
+C5_2024,C5,2024,ha,Total,Pt,154.4243792325,,16980974.878934015,1 kg seed,,seeds_singlescore_1.json,2622276504.442062
+C5_2024,C5,2024,ha,Water use,Pt,154.4243792325,,31715.821060000002,1 kg seed,,seeds_singlescore_1.json,4897695.979039551
+C6_2022,C6,2022,ha,Acidification,Pt,200.0,,0.01198496,1 kg seed,,seeds_singlescore_1.json,2.396992
+C6_2022,C6,2022,ha,Climate change,Pt,200.0,,6016.38576,1 kg seed,,seeds_singlescore_1.json,1203277.152
+C6_2022,C6,2022,ha,Climate change - Biogenic,Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C6_2022,C6,2022,ha,Climate change - Fossil,Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C6_2022,C6,2022,ha,Climate change - Land use and LU change,Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C6_2022,C6,2022,ha,"Ecotoxicity, freshwater",Pt,200.0,,22431.676919999998,1 kg seed,,seeds_singlescore_1.json,4486335.384
+C6_2022,C6,2022,ha,"Ecotoxicity, freshwater - inorganics",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C6_2022,C6,2022,ha,"Ecotoxicity, freshwater - metals",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C6_2022,C6,2022,ha,"Ecotoxicity, freshwater - organics",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C6_2022,C6,2022,ha,"Eutrophication, freshwater",Pt,200.0,,8.7756e-06,1 kg seed,,seeds_singlescore_1.json,0.00175512
+C6_2022,C6,2022,ha,"Eutrophication, marine",Pt,200.0,,0.002909536,1 kg seed,,seeds_singlescore_1.json,0.5819072
+C6_2022,C6,2022,ha,"Eutrophication, terrestrial",Pt,200.0,,0.10404252,1 kg seed,,seeds_singlescore_1.json,20.808504
+C6_2022,C6,2022,ha,"Human toxicity, cancer",Pt,200.0,,3.8458000000000003e-16,1 kg seed,,seeds_singlescore_1.json,7.6916e-14
+C6_2022,C6,2022,ha,"Human toxicity, cancer - inorganics",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C6_2022,C6,2022,ha,"Human toxicity, cancer - metals",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C6_2022,C6,2022,ha,"Human toxicity, cancer - organics",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C6_2022,C6,2022,ha,"Human toxicity, non-cancer",Pt,200.0,,4.3437799999999997e-13,1 kg seed,,seeds_singlescore_1.json,8.68756e-11
+C6_2022,C6,2022,ha,"Human toxicity, non-cancer - inorganics",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C6_2022,C6,2022,ha,"Human toxicity, non-cancer - metals",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C6_2022,C6,2022,ha,"Human toxicity, non-cancer - organics",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C6_2022,C6,2022,ha,Ionising radiation,Pt,200.0,,5.252001,1 kg seed,,seeds_singlescore_1.json,1050.4002
+C6_2022,C6,2022,ha,Land use,Pt,200.0,,16893889.2,1 kg seed,,seeds_singlescore_1.json,3378777840.0
+C6_2022,C6,2022,ha,Ozone depletion,Pt,200.0,,7.7848e-11,1 kg seed,,seeds_singlescore_1.json,1.55696e-08
+C6_2022,C6,2022,ha,Particulate matter,Pt,200.0,,4.0509e-12,1 kg seed,,seeds_singlescore_1.json,8.1018e-10
+C6_2022,C6,2022,ha,Photochemical ozone formation,Pt,200.0,,0.0065572,1 kg seed,,seeds_singlescore_1.json,1.31144
+C6_2022,C6,2022,ha,"Resource use, fossils",Pt,200.0,,26916.417690000002,1 kg seed,,seeds_singlescore_1.json,5383283.538000001
+C6_2022,C6,2022,ha,"Resource use, minerals and metals",Pt,200.0,,1.8431999999999996e-08,1 kg seed,,seeds_singlescore_1.json,3.686399999999999e-06
+C6_2022,C6,2022,ha,Total,Pt,200.0,,16980974.878934015,1 kg seed,,seeds_singlescore_1.json,3396194975.786803
+C6_2022,C6,2022,ha,Water use,Pt,200.0,,31715.821060000002,1 kg seed,,seeds_singlescore_1.json,6343164.212
+C6_2023,C6,2023,ha,Acidification,Pt,200.0,,0.01198496,1 kg seed,,seeds_singlescore_1.json,2.396992
+C6_2023,C6,2023,ha,Climate change,Pt,200.0,,6016.38576,1 kg seed,,seeds_singlescore_1.json,1203277.152
+C6_2023,C6,2023,ha,Climate change - Biogenic,Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C6_2023,C6,2023,ha,Climate change - Fossil,Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C6_2023,C6,2023,ha,Climate change - Land use and LU change,Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C6_2023,C6,2023,ha,"Ecotoxicity, freshwater",Pt,200.0,,22431.676919999998,1 kg seed,,seeds_singlescore_1.json,4486335.384
+C6_2023,C6,2023,ha,"Ecotoxicity, freshwater - inorganics",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C6_2023,C6,2023,ha,"Ecotoxicity, freshwater - metals",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C6_2023,C6,2023,ha,"Ecotoxicity, freshwater - organics",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C6_2023,C6,2023,ha,"Eutrophication, freshwater",Pt,200.0,,8.7756e-06,1 kg seed,,seeds_singlescore_1.json,0.00175512
+C6_2023,C6,2023,ha,"Eutrophication, marine",Pt,200.0,,0.002909536,1 kg seed,,seeds_singlescore_1.json,0.5819072
+C6_2023,C6,2023,ha,"Eutrophication, terrestrial",Pt,200.0,,0.10404252,1 kg seed,,seeds_singlescore_1.json,20.808504
+C6_2023,C6,2023,ha,"Human toxicity, cancer",Pt,200.0,,3.8458000000000003e-16,1 kg seed,,seeds_singlescore_1.json,7.6916e-14
+C6_2023,C6,2023,ha,"Human toxicity, cancer - inorganics",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C6_2023,C6,2023,ha,"Human toxicity, cancer - metals",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C6_2023,C6,2023,ha,"Human toxicity, cancer - organics",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C6_2023,C6,2023,ha,"Human toxicity, non-cancer",Pt,200.0,,4.3437799999999997e-13,1 kg seed,,seeds_singlescore_1.json,8.68756e-11
+C6_2023,C6,2023,ha,"Human toxicity, non-cancer - inorganics",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C6_2023,C6,2023,ha,"Human toxicity, non-cancer - metals",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C6_2023,C6,2023,ha,"Human toxicity, non-cancer - organics",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C6_2023,C6,2023,ha,Ionising radiation,Pt,200.0,,5.252001,1 kg seed,,seeds_singlescore_1.json,1050.4002
+C6_2023,C6,2023,ha,Land use,Pt,200.0,,16893889.2,1 kg seed,,seeds_singlescore_1.json,3378777840.0
+C6_2023,C6,2023,ha,Ozone depletion,Pt,200.0,,7.7848e-11,1 kg seed,,seeds_singlescore_1.json,1.55696e-08
+C6_2023,C6,2023,ha,Particulate matter,Pt,200.0,,4.0509e-12,1 kg seed,,seeds_singlescore_1.json,8.1018e-10
+C6_2023,C6,2023,ha,Photochemical ozone formation,Pt,200.0,,0.0065572,1 kg seed,,seeds_singlescore_1.json,1.31144
+C6_2023,C6,2023,ha,"Resource use, fossils",Pt,200.0,,26916.417690000002,1 kg seed,,seeds_singlescore_1.json,5383283.538000001
+C6_2023,C6,2023,ha,"Resource use, minerals and metals",Pt,200.0,,1.8431999999999996e-08,1 kg seed,,seeds_singlescore_1.json,3.686399999999999e-06
+C6_2023,C6,2023,ha,Total,Pt,200.0,,16980974.878934015,1 kg seed,,seeds_singlescore_1.json,3396194975.786803
+C6_2023,C6,2023,ha,Water use,Pt,200.0,,31715.821060000002,1 kg seed,,seeds_singlescore_1.json,6343164.212
+C6_2024,C6,2024,ha,Acidification,Pt,180.0,,0.01198496,1 kg seed,,seeds_singlescore_1.json,2.1572928
+C6_2024,C6,2024,ha,Climate change,Pt,180.0,,6016.38576,1 kg seed,,seeds_singlescore_1.json,1082949.4368
+C6_2024,C6,2024,ha,Climate change - Biogenic,Pt,180.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C6_2024,C6,2024,ha,Climate change - Fossil,Pt,180.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C6_2024,C6,2024,ha,Climate change - Land use and LU change,Pt,180.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C6_2024,C6,2024,ha,"Ecotoxicity, freshwater",Pt,180.0,,22431.676919999998,1 kg seed,,seeds_singlescore_1.json,4037701.8455999997
+C6_2024,C6,2024,ha,"Ecotoxicity, freshwater - inorganics",Pt,180.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C6_2024,C6,2024,ha,"Ecotoxicity, freshwater - metals",Pt,180.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C6_2024,C6,2024,ha,"Ecotoxicity, freshwater - organics",Pt,180.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C6_2024,C6,2024,ha,"Eutrophication, freshwater",Pt,180.0,,8.7756e-06,1 kg seed,,seeds_singlescore_1.json,0.001579608
+C6_2024,C6,2024,ha,"Eutrophication, marine",Pt,180.0,,0.002909536,1 kg seed,,seeds_singlescore_1.json,0.5237164799999999
+C6_2024,C6,2024,ha,"Eutrophication, terrestrial",Pt,180.0,,0.10404252,1 kg seed,,seeds_singlescore_1.json,18.7276536
+C6_2024,C6,2024,ha,"Human toxicity, cancer",Pt,180.0,,3.8458000000000003e-16,1 kg seed,,seeds_singlescore_1.json,6.922440000000001e-14
+C6_2024,C6,2024,ha,"Human toxicity, cancer - inorganics",Pt,180.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C6_2024,C6,2024,ha,"Human toxicity, cancer - metals",Pt,180.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C6_2024,C6,2024,ha,"Human toxicity, cancer - organics",Pt,180.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C6_2024,C6,2024,ha,"Human toxicity, non-cancer",Pt,180.0,,4.3437799999999997e-13,1 kg seed,,seeds_singlescore_1.json,7.818804e-11
+C6_2024,C6,2024,ha,"Human toxicity, non-cancer - inorganics",Pt,180.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C6_2024,C6,2024,ha,"Human toxicity, non-cancer - metals",Pt,180.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C6_2024,C6,2024,ha,"Human toxicity, non-cancer - organics",Pt,180.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C6_2024,C6,2024,ha,Ionising radiation,Pt,180.0,,5.252001,1 kg seed,,seeds_singlescore_1.json,945.36018
+C6_2024,C6,2024,ha,Land use,Pt,180.0,,16893889.2,1 kg seed,,seeds_singlescore_1.json,3040900056.0
+C6_2024,C6,2024,ha,Ozone depletion,Pt,180.0,,7.7848e-11,1 kg seed,,seeds_singlescore_1.json,1.401264e-08
+C6_2024,C6,2024,ha,Particulate matter,Pt,180.0,,4.0509e-12,1 kg seed,,seeds_singlescore_1.json,7.29162e-10
+C6_2024,C6,2024,ha,Photochemical ozone formation,Pt,180.0,,0.0065572,1 kg seed,,seeds_singlescore_1.json,1.180296
+C6_2024,C6,2024,ha,"Resource use, fossils",Pt,180.0,,26916.417690000002,1 kg seed,,seeds_singlescore_1.json,4844955.1842
+C6_2024,C6,2024,ha,"Resource use, minerals and metals",Pt,180.0,,1.8431999999999996e-08,1 kg seed,,seeds_singlescore_1.json,3.317759999999999e-06
+C6_2024,C6,2024,ha,Total,Pt,180.0,,16980974.878934015,1 kg seed,,seeds_singlescore_1.json,3056575478.2081227
+C6_2024,C6,2024,ha,Water use,Pt,180.0,,31715.821060000002,1 kg seed,,seeds_singlescore_1.json,5708847.790800001
+C7_2023,C7,2023,ha,Acidification,Pt,160.0,,0.01198496,1 kg seed,,seeds_singlescore_1.json,1.9175936
+C7_2023,C7,2023,ha,Climate change,Pt,160.0,,6016.38576,1 kg seed,,seeds_singlescore_1.json,962621.7216
+C7_2023,C7,2023,ha,Climate change - Biogenic,Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C7_2023,C7,2023,ha,Climate change - Fossil,Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C7_2023,C7,2023,ha,Climate change - Land use and LU change,Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C7_2023,C7,2023,ha,"Ecotoxicity, freshwater",Pt,160.0,,22431.676919999998,1 kg seed,,seeds_singlescore_1.json,3589068.3071999997
+C7_2023,C7,2023,ha,"Ecotoxicity, freshwater - inorganics",Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C7_2023,C7,2023,ha,"Ecotoxicity, freshwater - metals",Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C7_2023,C7,2023,ha,"Ecotoxicity, freshwater - organics",Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C7_2023,C7,2023,ha,"Eutrophication, freshwater",Pt,160.0,,8.7756e-06,1 kg seed,,seeds_singlescore_1.json,0.0014040959999999999
+C7_2023,C7,2023,ha,"Eutrophication, marine",Pt,160.0,,0.002909536,1 kg seed,,seeds_singlescore_1.json,0.46552576
+C7_2023,C7,2023,ha,"Eutrophication, terrestrial",Pt,160.0,,0.10404252,1 kg seed,,seeds_singlescore_1.json,16.6468032
+C7_2023,C7,2023,ha,"Human toxicity, cancer",Pt,160.0,,3.8458000000000003e-16,1 kg seed,,seeds_singlescore_1.json,6.15328e-14
+C7_2023,C7,2023,ha,"Human toxicity, cancer - inorganics",Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C7_2023,C7,2023,ha,"Human toxicity, cancer - metals",Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C7_2023,C7,2023,ha,"Human toxicity, cancer - organics",Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C7_2023,C7,2023,ha,"Human toxicity, non-cancer",Pt,160.0,,4.3437799999999997e-13,1 kg seed,,seeds_singlescore_1.json,6.950048e-11
+C7_2023,C7,2023,ha,"Human toxicity, non-cancer - inorganics",Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C7_2023,C7,2023,ha,"Human toxicity, non-cancer - metals",Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C7_2023,C7,2023,ha,"Human toxicity, non-cancer - organics",Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C7_2023,C7,2023,ha,Ionising radiation,Pt,160.0,,5.252001,1 kg seed,,seeds_singlescore_1.json,840.32016
+C7_2023,C7,2023,ha,Land use,Pt,160.0,,16893889.2,1 kg seed,,seeds_singlescore_1.json,2703022272.0
+C7_2023,C7,2023,ha,Ozone depletion,Pt,160.0,,7.7848e-11,1 kg seed,,seeds_singlescore_1.json,1.245568e-08
+C7_2023,C7,2023,ha,Particulate matter,Pt,160.0,,4.0509e-12,1 kg seed,,seeds_singlescore_1.json,6.48144e-10
+C7_2023,C7,2023,ha,Photochemical ozone formation,Pt,160.0,,0.0065572,1 kg seed,,seeds_singlescore_1.json,1.049152
+C7_2023,C7,2023,ha,"Resource use, fossils",Pt,160.0,,26916.417690000002,1 kg seed,,seeds_singlescore_1.json,4306626.8304
+C7_2023,C7,2023,ha,"Resource use, minerals and metals",Pt,160.0,,1.8431999999999996e-08,1 kg seed,,seeds_singlescore_1.json,2.949119999999999e-06
+C7_2023,C7,2023,ha,Total,Pt,160.0,,16980974.878934015,1 kg seed,,seeds_singlescore_1.json,2716955980.629442
+C7_2023,C7,2023,ha,Water use,Pt,160.0,,31715.821060000002,1 kg seed,,seeds_singlescore_1.json,5074531.3696
+C7_2024,C7,2024,ha,Acidification,Pt,170.0,,0.01198496,1 kg seed,,seeds_singlescore_1.json,2.0374432
+C7_2024,C7,2024,ha,Climate change,Pt,170.0,,6016.38576,1 kg seed,,seeds_singlescore_1.json,1022785.5792
+C7_2024,C7,2024,ha,Climate change - Biogenic,Pt,170.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C7_2024,C7,2024,ha,Climate change - Fossil,Pt,170.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C7_2024,C7,2024,ha,Climate change - Land use and LU change,Pt,170.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C7_2024,C7,2024,ha,"Ecotoxicity, freshwater",Pt,170.0,,22431.676919999998,1 kg seed,,seeds_singlescore_1.json,3813385.0763999997
+C7_2024,C7,2024,ha,"Ecotoxicity, freshwater - inorganics",Pt,170.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C7_2024,C7,2024,ha,"Ecotoxicity, freshwater - metals",Pt,170.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C7_2024,C7,2024,ha,"Ecotoxicity, freshwater - organics",Pt,170.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C7_2024,C7,2024,ha,"Eutrophication, freshwater",Pt,170.0,,8.7756e-06,1 kg seed,,seeds_singlescore_1.json,0.001491852
+C7_2024,C7,2024,ha,"Eutrophication, marine",Pt,170.0,,0.002909536,1 kg seed,,seeds_singlescore_1.json,0.49462111999999997
+C7_2024,C7,2024,ha,"Eutrophication, terrestrial",Pt,170.0,,0.10404252,1 kg seed,,seeds_singlescore_1.json,17.6872284
+C7_2024,C7,2024,ha,"Human toxicity, cancer",Pt,170.0,,3.8458000000000003e-16,1 kg seed,,seeds_singlescore_1.json,6.537860000000001e-14
+C7_2024,C7,2024,ha,"Human toxicity, cancer - inorganics",Pt,170.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C7_2024,C7,2024,ha,"Human toxicity, cancer - metals",Pt,170.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C7_2024,C7,2024,ha,"Human toxicity, cancer - organics",Pt,170.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C7_2024,C7,2024,ha,"Human toxicity, non-cancer",Pt,170.0,,4.3437799999999997e-13,1 kg seed,,seeds_singlescore_1.json,7.384425999999999e-11
+C7_2024,C7,2024,ha,"Human toxicity, non-cancer - inorganics",Pt,170.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C7_2024,C7,2024,ha,"Human toxicity, non-cancer - metals",Pt,170.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C7_2024,C7,2024,ha,"Human toxicity, non-cancer - organics",Pt,170.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C7_2024,C7,2024,ha,Ionising radiation,Pt,170.0,,5.252001,1 kg seed,,seeds_singlescore_1.json,892.84017
+C7_2024,C7,2024,ha,Land use,Pt,170.0,,16893889.2,1 kg seed,,seeds_singlescore_1.json,2871961164.0
+C7_2024,C7,2024,ha,Ozone depletion,Pt,170.0,,7.7848e-11,1 kg seed,,seeds_singlescore_1.json,1.3234160000000001e-08
+C7_2024,C7,2024,ha,Particulate matter,Pt,170.0,,4.0509e-12,1 kg seed,,seeds_singlescore_1.json,6.88653e-10
+C7_2024,C7,2024,ha,Photochemical ozone formation,Pt,170.0,,0.0065572,1 kg seed,,seeds_singlescore_1.json,1.114724
+C7_2024,C7,2024,ha,"Resource use, fossils",Pt,170.0,,26916.417690000002,1 kg seed,,seeds_singlescore_1.json,4575791.007300001
+C7_2024,C7,2024,ha,"Resource use, minerals and metals",Pt,170.0,,1.8431999999999996e-08,1 kg seed,,seeds_singlescore_1.json,3.1334399999999993e-06
+C7_2024,C7,2024,ha,Total,Pt,170.0,,16980974.878934015,1 kg seed,,seeds_singlescore_1.json,2886765729.4187827
+C7_2024,C7,2024,ha,Water use,Pt,170.0,,31715.821060000002,1 kg seed,,seeds_singlescore_1.json,5391689.580200001
+C8_2022,C8,2022,ha,Acidification,Pt,195.7133058985,,0.01198496,1 kg seed,,seeds_singlescore_1.json,2.3456161426612865
+C8_2022,C8,2022,ha,Climate change,Pt,195.7133058985,,6016.38576,1 kg seed,,seeds_singlescore_1.json,1177486.7466502595
+C8_2022,C8,2022,ha,Climate change - Biogenic,Pt,195.7133058985,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C8_2022,C8,2022,ha,Climate change - Fossil,Pt,195.7133058985,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C8_2022,C8,2022,ha,Climate change - Land use and LU change,Pt,195.7133058985,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C8_2022,C8,2022,ha,"Ecotoxicity, freshwater",Pt,195.7133058985,,22431.676919999998,1 kg seed,,seeds_singlescore_1.json,4390177.646860282
+C8_2022,C8,2022,ha,"Ecotoxicity, freshwater - inorganics",Pt,195.7133058985,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C8_2022,C8,2022,ha,"Ecotoxicity, freshwater - metals",Pt,195.7133058985,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C8_2022,C8,2022,ha,"Ecotoxicity, freshwater - organics",Pt,195.7133058985,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C8_2022,C8,2022,ha,"Eutrophication, freshwater",Pt,195.7133058985,,8.7756e-06,1 kg seed,,seeds_singlescore_1.json,0.0017175016872428765
+C8_2022,C8,2022,ha,"Eutrophication, marine",Pt,195.7133058985,,0.002909536,1 kg seed,,seeds_singlescore_1.json,0.5694349091906981
+C8_2022,C8,2022,ha,"Eutrophication, terrestrial",Pt,195.7133058985,,0.10404252,1 kg seed,,seeds_singlescore_1.json,20.362505543210805
+C8_2022,C8,2022,ha,"Human toxicity, cancer",Pt,195.7133058985,,3.8458000000000003e-16,1 kg seed,,seeds_singlescore_1.json,7.526742318244514e-14
+C8_2022,C8,2022,ha,"Human toxicity, cancer - inorganics",Pt,195.7133058985,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C8_2022,C8,2022,ha,"Human toxicity, cancer - metals",Pt,195.7133058985,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C8_2022,C8,2022,ha,"Human toxicity, cancer - organics",Pt,195.7133058985,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C8_2022,C8,2022,ha,"Human toxicity, non-cancer",Pt,195.7133058985,,4.3437799999999997e-13,1 kg seed,,seeds_singlescore_1.json,8.501355438957863e-11
+C8_2022,C8,2022,ha,"Human toxicity, non-cancer - inorganics",Pt,195.7133058985,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C8_2022,C8,2022,ha,"Human toxicity, non-cancer - metals",Pt,195.7133058985,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C8_2022,C8,2022,ha,"Human toxicity, non-cancer - organics",Pt,195.7133058985,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C8_2022,C8,2022,ha,Ionising radiation,Pt,195.7133058985,,5.252001,1 kg seed,,seeds_singlescore_1.json,1027.886478292228
+C8_2022,C8,2022,ha,Land use,Pt,195.7133058985,,16893889.2,1 kg seed,,seeds_singlescore_1.json,3306358904.8149652
+C8_2022,C8,2022,ha,Ozone depletion,Pt,195.7133058985,,7.7848e-11,1 kg seed,,seeds_singlescore_1.json,1.5235889437586428e-08
+C8_2022,C8,2022,ha,Particulate matter,Pt,195.7133058985,,4.0509e-12,1 kg seed,,seeds_singlescore_1.json,7.928150308642337e-10
+C8_2022,C8,2022,ha,Photochemical ozone formation,Pt,195.7133058985,,0.0065572,1 kg seed,,seeds_singlescore_1.json,1.2833312894376443
+C8_2022,C8,2022,ha,"Resource use, fossils",Pt,195.7133058985,,26916.417690000002,1 kg seed,,seeds_singlescore_1.json,5267901.089054767
+C8_2022,C8,2022,ha,"Resource use, minerals and metals",Pt,195.7133058985,,1.8431999999999996e-08,1 kg seed,,seeds_singlescore_1.json,3.6073876543211516e-06
+C8_2022,C8,2022,ha,Total,Pt,195.7133058985,,16980974.878934015,1 kg seed,,seeds_singlescore_1.json,3323402730.935557
+C8_2022,C8,2022,ha,Water use,Pt,195.7133058985,,31715.821060000002,1 kg seed,,seeds_singlescore_1.json,6207208.188937869
+C8_2023,C8,2023,ha,Acidification,Pt,130.0,,0.01198496,1 kg seed,,seeds_singlescore_1.json,1.5580448
+C8_2023,C8,2023,ha,Climate change,Pt,130.0,,6016.38576,1 kg seed,,seeds_singlescore_1.json,782130.1488
+C8_2023,C8,2023,ha,Climate change - Biogenic,Pt,130.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C8_2023,C8,2023,ha,Climate change - Fossil,Pt,130.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C8_2023,C8,2023,ha,Climate change - Land use and LU change,Pt,130.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C8_2023,C8,2023,ha,"Ecotoxicity, freshwater",Pt,130.0,,22431.676919999998,1 kg seed,,seeds_singlescore_1.json,2916117.9995999997
+C8_2023,C8,2023,ha,"Ecotoxicity, freshwater - inorganics",Pt,130.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C8_2023,C8,2023,ha,"Ecotoxicity, freshwater - metals",Pt,130.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C8_2023,C8,2023,ha,"Ecotoxicity, freshwater - organics",Pt,130.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C8_2023,C8,2023,ha,"Eutrophication, freshwater",Pt,130.0,,8.7756e-06,1 kg seed,,seeds_singlescore_1.json,0.001140828
+C8_2023,C8,2023,ha,"Eutrophication, marine",Pt,130.0,,0.002909536,1 kg seed,,seeds_singlescore_1.json,0.37823967999999997
+C8_2023,C8,2023,ha,"Eutrophication, terrestrial",Pt,130.0,,0.10404252,1 kg seed,,seeds_singlescore_1.json,13.5255276
+C8_2023,C8,2023,ha,"Human toxicity, cancer",Pt,130.0,,3.8458000000000003e-16,1 kg seed,,seeds_singlescore_1.json,4.99954e-14
+C8_2023,C8,2023,ha,"Human toxicity, cancer - inorganics",Pt,130.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C8_2023,C8,2023,ha,"Human toxicity, cancer - metals",Pt,130.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C8_2023,C8,2023,ha,"Human toxicity, cancer - organics",Pt,130.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C8_2023,C8,2023,ha,"Human toxicity, non-cancer",Pt,130.0,,4.3437799999999997e-13,1 kg seed,,seeds_singlescore_1.json,5.6469139999999995e-11
+C8_2023,C8,2023,ha,"Human toxicity, non-cancer - inorganics",Pt,130.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C8_2023,C8,2023,ha,"Human toxicity, non-cancer - metals",Pt,130.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C8_2023,C8,2023,ha,"Human toxicity, non-cancer - organics",Pt,130.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C8_2023,C8,2023,ha,Ionising radiation,Pt,130.0,,5.252001,1 kg seed,,seeds_singlescore_1.json,682.76013
+C8_2023,C8,2023,ha,Land use,Pt,130.0,,16893889.2,1 kg seed,,seeds_singlescore_1.json,2196205596.0
+C8_2023,C8,2023,ha,Ozone depletion,Pt,130.0,,7.7848e-11,1 kg seed,,seeds_singlescore_1.json,1.0120240000000001e-08
+C8_2023,C8,2023,ha,Particulate matter,Pt,130.0,,4.0509e-12,1 kg seed,,seeds_singlescore_1.json,5.26617e-10
+C8_2023,C8,2023,ha,Photochemical ozone formation,Pt,130.0,,0.0065572,1 kg seed,,seeds_singlescore_1.json,0.852436
+C8_2023,C8,2023,ha,"Resource use, fossils",Pt,130.0,,26916.417690000002,1 kg seed,,seeds_singlescore_1.json,3499134.2997000003
+C8_2023,C8,2023,ha,"Resource use, minerals and metals",Pt,130.0,,1.8431999999999996e-08,1 kg seed,,seeds_singlescore_1.json,2.3961599999999993e-06
+C8_2023,C8,2023,ha,Total,Pt,130.0,,16980974.878934015,1 kg seed,,seeds_singlescore_1.json,2207526734.2614217
+C8_2023,C8,2023,ha,Water use,Pt,130.0,,31715.821060000002,1 kg seed,,seeds_singlescore_1.json,4123056.7378000002
+C8_2024,C8,2024,ha,Acidification,Pt,160.0,,0.01198496,1 kg seed,,seeds_singlescore_1.json,1.9175936
+C8_2024,C8,2024,ha,Climate change,Pt,160.0,,6016.38576,1 kg seed,,seeds_singlescore_1.json,962621.7216
+C8_2024,C8,2024,ha,Climate change - Biogenic,Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C8_2024,C8,2024,ha,Climate change - Fossil,Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C8_2024,C8,2024,ha,Climate change - Land use and LU change,Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C8_2024,C8,2024,ha,"Ecotoxicity, freshwater",Pt,160.0,,22431.676919999998,1 kg seed,,seeds_singlescore_1.json,3589068.3071999997
+C8_2024,C8,2024,ha,"Ecotoxicity, freshwater - inorganics",Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C8_2024,C8,2024,ha,"Ecotoxicity, freshwater - metals",Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C8_2024,C8,2024,ha,"Ecotoxicity, freshwater - organics",Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C8_2024,C8,2024,ha,"Eutrophication, freshwater",Pt,160.0,,8.7756e-06,1 kg seed,,seeds_singlescore_1.json,0.0014040959999999999
+C8_2024,C8,2024,ha,"Eutrophication, marine",Pt,160.0,,0.002909536,1 kg seed,,seeds_singlescore_1.json,0.46552576
+C8_2024,C8,2024,ha,"Eutrophication, terrestrial",Pt,160.0,,0.10404252,1 kg seed,,seeds_singlescore_1.json,16.6468032
+C8_2024,C8,2024,ha,"Human toxicity, cancer",Pt,160.0,,3.8458000000000003e-16,1 kg seed,,seeds_singlescore_1.json,6.15328e-14
+C8_2024,C8,2024,ha,"Human toxicity, cancer - inorganics",Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C8_2024,C8,2024,ha,"Human toxicity, cancer - metals",Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C8_2024,C8,2024,ha,"Human toxicity, cancer - organics",Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C8_2024,C8,2024,ha,"Human toxicity, non-cancer",Pt,160.0,,4.3437799999999997e-13,1 kg seed,,seeds_singlescore_1.json,6.950048e-11
+C8_2024,C8,2024,ha,"Human toxicity, non-cancer - inorganics",Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C8_2024,C8,2024,ha,"Human toxicity, non-cancer - metals",Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C8_2024,C8,2024,ha,"Human toxicity, non-cancer - organics",Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+C8_2024,C8,2024,ha,Ionising radiation,Pt,160.0,,5.252001,1 kg seed,,seeds_singlescore_1.json,840.32016
+C8_2024,C8,2024,ha,Land use,Pt,160.0,,16893889.2,1 kg seed,,seeds_singlescore_1.json,2703022272.0
+C8_2024,C8,2024,ha,Ozone depletion,Pt,160.0,,7.7848e-11,1 kg seed,,seeds_singlescore_1.json,1.245568e-08
+C8_2024,C8,2024,ha,Particulate matter,Pt,160.0,,4.0509e-12,1 kg seed,,seeds_singlescore_1.json,6.48144e-10
+C8_2024,C8,2024,ha,Photochemical ozone formation,Pt,160.0,,0.0065572,1 kg seed,,seeds_singlescore_1.json,1.049152
+C8_2024,C8,2024,ha,"Resource use, fossils",Pt,160.0,,26916.417690000002,1 kg seed,,seeds_singlescore_1.json,4306626.8304
+C8_2024,C8,2024,ha,"Resource use, minerals and metals",Pt,160.0,,1.8431999999999996e-08,1 kg seed,,seeds_singlescore_1.json,2.949119999999999e-06
+C8_2024,C8,2024,ha,Total,Pt,160.0,,16980974.878934015,1 kg seed,,seeds_singlescore_1.json,2716955980.629442
+C8_2024,C8,2024,ha,Water use,Pt,160.0,,31715.821060000002,1 kg seed,,seeds_singlescore_1.json,5074531.3696
+D1_2022,D1,2022,ha,Acidification,Pt,120.0,,0.01198496,1 kg seed,,seeds_singlescore_1.json,1.4381952
+D1_2022,D1,2022,ha,Climate change,Pt,120.0,,6016.38576,1 kg seed,,seeds_singlescore_1.json,721966.2912
+D1_2022,D1,2022,ha,Climate change - Biogenic,Pt,120.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D1_2022,D1,2022,ha,Climate change - Fossil,Pt,120.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D1_2022,D1,2022,ha,Climate change - Land use and LU change,Pt,120.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D1_2022,D1,2022,ha,"Ecotoxicity, freshwater",Pt,120.0,,22431.676919999998,1 kg seed,,seeds_singlescore_1.json,2691801.2304
+D1_2022,D1,2022,ha,"Ecotoxicity, freshwater - inorganics",Pt,120.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D1_2022,D1,2022,ha,"Ecotoxicity, freshwater - metals",Pt,120.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D1_2022,D1,2022,ha,"Ecotoxicity, freshwater - organics",Pt,120.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D1_2022,D1,2022,ha,"Eutrophication, freshwater",Pt,120.0,,8.7756e-06,1 kg seed,,seeds_singlescore_1.json,0.001053072
+D1_2022,D1,2022,ha,"Eutrophication, marine",Pt,120.0,,0.002909536,1 kg seed,,seeds_singlescore_1.json,0.34914432
+D1_2022,D1,2022,ha,"Eutrophication, terrestrial",Pt,120.0,,0.10404252,1 kg seed,,seeds_singlescore_1.json,12.4851024
+D1_2022,D1,2022,ha,"Human toxicity, cancer",Pt,120.0,,3.8458000000000003e-16,1 kg seed,,seeds_singlescore_1.json,4.6149600000000007e-14
+D1_2022,D1,2022,ha,"Human toxicity, cancer - inorganics",Pt,120.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D1_2022,D1,2022,ha,"Human toxicity, cancer - metals",Pt,120.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D1_2022,D1,2022,ha,"Human toxicity, cancer - organics",Pt,120.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D1_2022,D1,2022,ha,"Human toxicity, non-cancer",Pt,120.0,,4.3437799999999997e-13,1 kg seed,,seeds_singlescore_1.json,5.2125359999999996e-11
+D1_2022,D1,2022,ha,"Human toxicity, non-cancer - inorganics",Pt,120.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D1_2022,D1,2022,ha,"Human toxicity, non-cancer - metals",Pt,120.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D1_2022,D1,2022,ha,"Human toxicity, non-cancer - organics",Pt,120.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D1_2022,D1,2022,ha,Ionising radiation,Pt,120.0,,5.252001,1 kg seed,,seeds_singlescore_1.json,630.2401199999999
+D1_2022,D1,2022,ha,Land use,Pt,120.0,,16893889.2,1 kg seed,,seeds_singlescore_1.json,2027266704.0
+D1_2022,D1,2022,ha,Ozone depletion,Pt,120.0,,7.7848e-11,1 kg seed,,seeds_singlescore_1.json,9.34176e-09
+D1_2022,D1,2022,ha,Particulate matter,Pt,120.0,,4.0509e-12,1 kg seed,,seeds_singlescore_1.json,4.86108e-10
+D1_2022,D1,2022,ha,Photochemical ozone formation,Pt,120.0,,0.0065572,1 kg seed,,seeds_singlescore_1.json,0.786864
+D1_2022,D1,2022,ha,"Resource use, fossils",Pt,120.0,,26916.417690000002,1 kg seed,,seeds_singlescore_1.json,3229970.1228
+D1_2022,D1,2022,ha,"Resource use, minerals and metals",Pt,120.0,,1.8431999999999996e-08,1 kg seed,,seeds_singlescore_1.json,2.2118399999999996e-06
+D1_2022,D1,2022,ha,Total,Pt,120.0,,16980974.878934015,1 kg seed,,seeds_singlescore_1.json,2037716985.4720817
+D1_2022,D1,2022,ha,Water use,Pt,120.0,,31715.821060000002,1 kg seed,,seeds_singlescore_1.json,3805898.5272000004
+D1_2023,D1,2023,ha,Acidification,Pt,220.0,,0.01198496,1 kg seed,,seeds_singlescore_1.json,2.6366912
+D1_2023,D1,2023,ha,Climate change,Pt,220.0,,6016.38576,1 kg seed,,seeds_singlescore_1.json,1323604.8672
+D1_2023,D1,2023,ha,Climate change - Biogenic,Pt,220.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D1_2023,D1,2023,ha,Climate change - Fossil,Pt,220.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D1_2023,D1,2023,ha,Climate change - Land use and LU change,Pt,220.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D1_2023,D1,2023,ha,"Ecotoxicity, freshwater",Pt,220.0,,22431.676919999998,1 kg seed,,seeds_singlescore_1.json,4934968.9224
+D1_2023,D1,2023,ha,"Ecotoxicity, freshwater - inorganics",Pt,220.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D1_2023,D1,2023,ha,"Ecotoxicity, freshwater - metals",Pt,220.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D1_2023,D1,2023,ha,"Ecotoxicity, freshwater - organics",Pt,220.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D1_2023,D1,2023,ha,"Eutrophication, freshwater",Pt,220.0,,8.7756e-06,1 kg seed,,seeds_singlescore_1.json,0.0019306319999999998
+D1_2023,D1,2023,ha,"Eutrophication, marine",Pt,220.0,,0.002909536,1 kg seed,,seeds_singlescore_1.json,0.64009792
+D1_2023,D1,2023,ha,"Eutrophication, terrestrial",Pt,220.0,,0.10404252,1 kg seed,,seeds_singlescore_1.json,22.8893544
+D1_2023,D1,2023,ha,"Human toxicity, cancer",Pt,220.0,,3.8458000000000003e-16,1 kg seed,,seeds_singlescore_1.json,8.460760000000001e-14
+D1_2023,D1,2023,ha,"Human toxicity, cancer - inorganics",Pt,220.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D1_2023,D1,2023,ha,"Human toxicity, cancer - metals",Pt,220.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D1_2023,D1,2023,ha,"Human toxicity, cancer - organics",Pt,220.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D1_2023,D1,2023,ha,"Human toxicity, non-cancer",Pt,220.0,,4.3437799999999997e-13,1 kg seed,,seeds_singlescore_1.json,9.556315999999999e-11
+D1_2023,D1,2023,ha,"Human toxicity, non-cancer - inorganics",Pt,220.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D1_2023,D1,2023,ha,"Human toxicity, non-cancer - metals",Pt,220.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D1_2023,D1,2023,ha,"Human toxicity, non-cancer - organics",Pt,220.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D1_2023,D1,2023,ha,Ionising radiation,Pt,220.0,,5.252001,1 kg seed,,seeds_singlescore_1.json,1155.44022
+D1_2023,D1,2023,ha,Land use,Pt,220.0,,16893889.2,1 kg seed,,seeds_singlescore_1.json,3716655624.0
+D1_2023,D1,2023,ha,Ozone depletion,Pt,220.0,,7.7848e-11,1 kg seed,,seeds_singlescore_1.json,1.712656e-08
+D1_2023,D1,2023,ha,Particulate matter,Pt,220.0,,4.0509e-12,1 kg seed,,seeds_singlescore_1.json,8.91198e-10
+D1_2023,D1,2023,ha,Photochemical ozone formation,Pt,220.0,,0.0065572,1 kg seed,,seeds_singlescore_1.json,1.442584
+D1_2023,D1,2023,ha,"Resource use, fossils",Pt,220.0,,26916.417690000002,1 kg seed,,seeds_singlescore_1.json,5921611.8918
+D1_2023,D1,2023,ha,"Resource use, minerals and metals",Pt,220.0,,1.8431999999999996e-08,1 kg seed,,seeds_singlescore_1.json,4.055039999999999e-06
+D1_2023,D1,2023,ha,Total,Pt,220.0,,16980974.878934015,1 kg seed,,seeds_singlescore_1.json,3735814473.3654833
+D1_2023,D1,2023,ha,Water use,Pt,220.0,,31715.821060000002,1 kg seed,,seeds_singlescore_1.json,6977480.6332
+D1_2024,D1,2024,ha,Acidification,Pt,160.0,,0.01198496,1 kg seed,,seeds_singlescore_1.json,1.9175936
+D1_2024,D1,2024,ha,Climate change,Pt,160.0,,6016.38576,1 kg seed,,seeds_singlescore_1.json,962621.7216
+D1_2024,D1,2024,ha,Climate change - Biogenic,Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D1_2024,D1,2024,ha,Climate change - Fossil,Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D1_2024,D1,2024,ha,Climate change - Land use and LU change,Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D1_2024,D1,2024,ha,"Ecotoxicity, freshwater",Pt,160.0,,22431.676919999998,1 kg seed,,seeds_singlescore_1.json,3589068.3071999997
+D1_2024,D1,2024,ha,"Ecotoxicity, freshwater - inorganics",Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D1_2024,D1,2024,ha,"Ecotoxicity, freshwater - metals",Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D1_2024,D1,2024,ha,"Ecotoxicity, freshwater - organics",Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D1_2024,D1,2024,ha,"Eutrophication, freshwater",Pt,160.0,,8.7756e-06,1 kg seed,,seeds_singlescore_1.json,0.0014040959999999999
+D1_2024,D1,2024,ha,"Eutrophication, marine",Pt,160.0,,0.002909536,1 kg seed,,seeds_singlescore_1.json,0.46552576
+D1_2024,D1,2024,ha,"Eutrophication, terrestrial",Pt,160.0,,0.10404252,1 kg seed,,seeds_singlescore_1.json,16.6468032
+D1_2024,D1,2024,ha,"Human toxicity, cancer",Pt,160.0,,3.8458000000000003e-16,1 kg seed,,seeds_singlescore_1.json,6.15328e-14
+D1_2024,D1,2024,ha,"Human toxicity, cancer - inorganics",Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D1_2024,D1,2024,ha,"Human toxicity, cancer - metals",Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D1_2024,D1,2024,ha,"Human toxicity, cancer - organics",Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D1_2024,D1,2024,ha,"Human toxicity, non-cancer",Pt,160.0,,4.3437799999999997e-13,1 kg seed,,seeds_singlescore_1.json,6.950048e-11
+D1_2024,D1,2024,ha,"Human toxicity, non-cancer - inorganics",Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D1_2024,D1,2024,ha,"Human toxicity, non-cancer - metals",Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D1_2024,D1,2024,ha,"Human toxicity, non-cancer - organics",Pt,160.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D1_2024,D1,2024,ha,Ionising radiation,Pt,160.0,,5.252001,1 kg seed,,seeds_singlescore_1.json,840.32016
+D1_2024,D1,2024,ha,Land use,Pt,160.0,,16893889.2,1 kg seed,,seeds_singlescore_1.json,2703022272.0
+D1_2024,D1,2024,ha,Ozone depletion,Pt,160.0,,7.7848e-11,1 kg seed,,seeds_singlescore_1.json,1.245568e-08
+D1_2024,D1,2024,ha,Particulate matter,Pt,160.0,,4.0509e-12,1 kg seed,,seeds_singlescore_1.json,6.48144e-10
+D1_2024,D1,2024,ha,Photochemical ozone formation,Pt,160.0,,0.0065572,1 kg seed,,seeds_singlescore_1.json,1.049152
+D1_2024,D1,2024,ha,"Resource use, fossils",Pt,160.0,,26916.417690000002,1 kg seed,,seeds_singlescore_1.json,4306626.8304
+D1_2024,D1,2024,ha,"Resource use, minerals and metals",Pt,160.0,,1.8431999999999996e-08,1 kg seed,,seeds_singlescore_1.json,2.949119999999999e-06
+D1_2024,D1,2024,ha,Total,Pt,160.0,,16980974.878934015,1 kg seed,,seeds_singlescore_1.json,2716955980.629442
+D1_2024,D1,2024,ha,Water use,Pt,160.0,,31715.821060000002,1 kg seed,,seeds_singlescore_1.json,5074531.3696
+D2_2022,D2,2022,ha,Acidification,Pt,200.0,,0.01198496,1 kg seed,,seeds_singlescore_1.json,2.396992
+D2_2022,D2,2022,ha,Climate change,Pt,200.0,,6016.38576,1 kg seed,,seeds_singlescore_1.json,1203277.152
+D2_2022,D2,2022,ha,Climate change - Biogenic,Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D2_2022,D2,2022,ha,Climate change - Fossil,Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D2_2022,D2,2022,ha,Climate change - Land use and LU change,Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D2_2022,D2,2022,ha,"Ecotoxicity, freshwater",Pt,200.0,,22431.676919999998,1 kg seed,,seeds_singlescore_1.json,4486335.384
+D2_2022,D2,2022,ha,"Ecotoxicity, freshwater - inorganics",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D2_2022,D2,2022,ha,"Ecotoxicity, freshwater - metals",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D2_2022,D2,2022,ha,"Ecotoxicity, freshwater - organics",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D2_2022,D2,2022,ha,"Eutrophication, freshwater",Pt,200.0,,8.7756e-06,1 kg seed,,seeds_singlescore_1.json,0.00175512
+D2_2022,D2,2022,ha,"Eutrophication, marine",Pt,200.0,,0.002909536,1 kg seed,,seeds_singlescore_1.json,0.5819072
+D2_2022,D2,2022,ha,"Eutrophication, terrestrial",Pt,200.0,,0.10404252,1 kg seed,,seeds_singlescore_1.json,20.808504
+D2_2022,D2,2022,ha,"Human toxicity, cancer",Pt,200.0,,3.8458000000000003e-16,1 kg seed,,seeds_singlescore_1.json,7.6916e-14
+D2_2022,D2,2022,ha,"Human toxicity, cancer - inorganics",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D2_2022,D2,2022,ha,"Human toxicity, cancer - metals",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D2_2022,D2,2022,ha,"Human toxicity, cancer - organics",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D2_2022,D2,2022,ha,"Human toxicity, non-cancer",Pt,200.0,,4.3437799999999997e-13,1 kg seed,,seeds_singlescore_1.json,8.68756e-11
+D2_2022,D2,2022,ha,"Human toxicity, non-cancer - inorganics",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D2_2022,D2,2022,ha,"Human toxicity, non-cancer - metals",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D2_2022,D2,2022,ha,"Human toxicity, non-cancer - organics",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D2_2022,D2,2022,ha,Ionising radiation,Pt,200.0,,5.252001,1 kg seed,,seeds_singlescore_1.json,1050.4002
+D2_2022,D2,2022,ha,Land use,Pt,200.0,,16893889.2,1 kg seed,,seeds_singlescore_1.json,3378777840.0
+D2_2022,D2,2022,ha,Ozone depletion,Pt,200.0,,7.7848e-11,1 kg seed,,seeds_singlescore_1.json,1.55696e-08
+D2_2022,D2,2022,ha,Particulate matter,Pt,200.0,,4.0509e-12,1 kg seed,,seeds_singlescore_1.json,8.1018e-10
+D2_2022,D2,2022,ha,Photochemical ozone formation,Pt,200.0,,0.0065572,1 kg seed,,seeds_singlescore_1.json,1.31144
+D2_2022,D2,2022,ha,"Resource use, fossils",Pt,200.0,,26916.417690000002,1 kg seed,,seeds_singlescore_1.json,5383283.538000001
+D2_2022,D2,2022,ha,"Resource use, minerals and metals",Pt,200.0,,1.8431999999999996e-08,1 kg seed,,seeds_singlescore_1.json,3.686399999999999e-06
+D2_2022,D2,2022,ha,Total,Pt,200.0,,16980974.878934015,1 kg seed,,seeds_singlescore_1.json,3396194975.786803
+D2_2022,D2,2022,ha,Water use,Pt,200.0,,31715.821060000002,1 kg seed,,seeds_singlescore_1.json,6343164.212
+D2_2023,D2,2023,ha,Acidification,Pt,220.0,,0.01198496,1 kg seed,,seeds_singlescore_1.json,2.6366912
+D2_2023,D2,2023,ha,Climate change,Pt,220.0,,6016.38576,1 kg seed,,seeds_singlescore_1.json,1323604.8672
+D2_2023,D2,2023,ha,Climate change - Biogenic,Pt,220.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D2_2023,D2,2023,ha,Climate change - Fossil,Pt,220.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D2_2023,D2,2023,ha,Climate change - Land use and LU change,Pt,220.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D2_2023,D2,2023,ha,"Ecotoxicity, freshwater",Pt,220.0,,22431.676919999998,1 kg seed,,seeds_singlescore_1.json,4934968.9224
+D2_2023,D2,2023,ha,"Ecotoxicity, freshwater - inorganics",Pt,220.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D2_2023,D2,2023,ha,"Ecotoxicity, freshwater - metals",Pt,220.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D2_2023,D2,2023,ha,"Ecotoxicity, freshwater - organics",Pt,220.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D2_2023,D2,2023,ha,"Eutrophication, freshwater",Pt,220.0,,8.7756e-06,1 kg seed,,seeds_singlescore_1.json,0.0019306319999999998
+D2_2023,D2,2023,ha,"Eutrophication, marine",Pt,220.0,,0.002909536,1 kg seed,,seeds_singlescore_1.json,0.64009792
+D2_2023,D2,2023,ha,"Eutrophication, terrestrial",Pt,220.0,,0.10404252,1 kg seed,,seeds_singlescore_1.json,22.8893544
+D2_2023,D2,2023,ha,"Human toxicity, cancer",Pt,220.0,,3.8458000000000003e-16,1 kg seed,,seeds_singlescore_1.json,8.460760000000001e-14
+D2_2023,D2,2023,ha,"Human toxicity, cancer - inorganics",Pt,220.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D2_2023,D2,2023,ha,"Human toxicity, cancer - metals",Pt,220.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D2_2023,D2,2023,ha,"Human toxicity, cancer - organics",Pt,220.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D2_2023,D2,2023,ha,"Human toxicity, non-cancer",Pt,220.0,,4.3437799999999997e-13,1 kg seed,,seeds_singlescore_1.json,9.556315999999999e-11
+D2_2023,D2,2023,ha,"Human toxicity, non-cancer - inorganics",Pt,220.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D2_2023,D2,2023,ha,"Human toxicity, non-cancer - metals",Pt,220.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D2_2023,D2,2023,ha,"Human toxicity, non-cancer - organics",Pt,220.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D2_2023,D2,2023,ha,Ionising radiation,Pt,220.0,,5.252001,1 kg seed,,seeds_singlescore_1.json,1155.44022
+D2_2023,D2,2023,ha,Land use,Pt,220.0,,16893889.2,1 kg seed,,seeds_singlescore_1.json,3716655624.0
+D2_2023,D2,2023,ha,Ozone depletion,Pt,220.0,,7.7848e-11,1 kg seed,,seeds_singlescore_1.json,1.712656e-08
+D2_2023,D2,2023,ha,Particulate matter,Pt,220.0,,4.0509e-12,1 kg seed,,seeds_singlescore_1.json,8.91198e-10
+D2_2023,D2,2023,ha,Photochemical ozone formation,Pt,220.0,,0.0065572,1 kg seed,,seeds_singlescore_1.json,1.442584
+D2_2023,D2,2023,ha,"Resource use, fossils",Pt,220.0,,26916.417690000002,1 kg seed,,seeds_singlescore_1.json,5921611.8918
+D2_2023,D2,2023,ha,"Resource use, minerals and metals",Pt,220.0,,1.8431999999999996e-08,1 kg seed,,seeds_singlescore_1.json,4.055039999999999e-06
+D2_2023,D2,2023,ha,Total,Pt,220.0,,16980974.878934015,1 kg seed,,seeds_singlescore_1.json,3735814473.3654833
+D2_2023,D2,2023,ha,Water use,Pt,220.0,,31715.821060000002,1 kg seed,,seeds_singlescore_1.json,6977480.6332
+D2_2024,D2,2024,ha,Acidification,Pt,190.0,,0.01198496,1 kg seed,,seeds_singlescore_1.json,2.2771424
+D2_2024,D2,2024,ha,Climate change,Pt,190.0,,6016.38576,1 kg seed,,seeds_singlescore_1.json,1143113.2944
+D2_2024,D2,2024,ha,Climate change - Biogenic,Pt,190.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D2_2024,D2,2024,ha,Climate change - Fossil,Pt,190.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D2_2024,D2,2024,ha,Climate change - Land use and LU change,Pt,190.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D2_2024,D2,2024,ha,"Ecotoxicity, freshwater",Pt,190.0,,22431.676919999998,1 kg seed,,seeds_singlescore_1.json,4262018.6148
+D2_2024,D2,2024,ha,"Ecotoxicity, freshwater - inorganics",Pt,190.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D2_2024,D2,2024,ha,"Ecotoxicity, freshwater - metals",Pt,190.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D2_2024,D2,2024,ha,"Ecotoxicity, freshwater - organics",Pt,190.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D2_2024,D2,2024,ha,"Eutrophication, freshwater",Pt,190.0,,8.7756e-06,1 kg seed,,seeds_singlescore_1.json,0.001667364
+D2_2024,D2,2024,ha,"Eutrophication, marine",Pt,190.0,,0.002909536,1 kg seed,,seeds_singlescore_1.json,0.5528118399999999
+D2_2024,D2,2024,ha,"Eutrophication, terrestrial",Pt,190.0,,0.10404252,1 kg seed,,seeds_singlescore_1.json,19.7680788
+D2_2024,D2,2024,ha,"Human toxicity, cancer",Pt,190.0,,3.8458000000000003e-16,1 kg seed,,seeds_singlescore_1.json,7.30702e-14
+D2_2024,D2,2024,ha,"Human toxicity, cancer - inorganics",Pt,190.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D2_2024,D2,2024,ha,"Human toxicity, cancer - metals",Pt,190.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D2_2024,D2,2024,ha,"Human toxicity, cancer - organics",Pt,190.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D2_2024,D2,2024,ha,"Human toxicity, non-cancer",Pt,190.0,,4.3437799999999997e-13,1 kg seed,,seeds_singlescore_1.json,8.253181999999999e-11
+D2_2024,D2,2024,ha,"Human toxicity, non-cancer - inorganics",Pt,190.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D2_2024,D2,2024,ha,"Human toxicity, non-cancer - metals",Pt,190.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D2_2024,D2,2024,ha,"Human toxicity, non-cancer - organics",Pt,190.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+D2_2024,D2,2024,ha,Ionising radiation,Pt,190.0,,5.252001,1 kg seed,,seeds_singlescore_1.json,997.88019
+D2_2024,D2,2024,ha,Land use,Pt,190.0,,16893889.2,1 kg seed,,seeds_singlescore_1.json,3209838948.0
+D2_2024,D2,2024,ha,Ozone depletion,Pt,190.0,,7.7848e-11,1 kg seed,,seeds_singlescore_1.json,1.479112e-08
+D2_2024,D2,2024,ha,Particulate matter,Pt,190.0,,4.0509e-12,1 kg seed,,seeds_singlescore_1.json,7.69671e-10
+D2_2024,D2,2024,ha,Photochemical ozone formation,Pt,190.0,,0.0065572,1 kg seed,,seeds_singlescore_1.json,1.245868
+D2_2024,D2,2024,ha,"Resource use, fossils",Pt,190.0,,26916.417690000002,1 kg seed,,seeds_singlescore_1.json,5114119.3611
+D2_2024,D2,2024,ha,"Resource use, minerals and metals",Pt,190.0,,1.8431999999999996e-08,1 kg seed,,seeds_singlescore_1.json,3.5020799999999993e-06
+D2_2024,D2,2024,ha,Total,Pt,190.0,,16980974.878934015,1 kg seed,,seeds_singlescore_1.json,3226385226.9974627
+D2_2024,D2,2024,ha,Water use,Pt,190.0,,31715.821060000002,1 kg seed,,seeds_singlescore_1.json,6026006.0014
+NT1_2023,NT1,2023,ha,Acidification,Pt,200.0,,0.01198496,1 kg seed,,seeds_singlescore_1.json,2.396992
+NT1_2023,NT1,2023,ha,Climate change,Pt,200.0,,6016.38576,1 kg seed,,seeds_singlescore_1.json,1203277.152
+NT1_2023,NT1,2023,ha,Climate change - Biogenic,Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT1_2023,NT1,2023,ha,Climate change - Fossil,Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT1_2023,NT1,2023,ha,Climate change - Land use and LU change,Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT1_2023,NT1,2023,ha,"Ecotoxicity, freshwater",Pt,200.0,,22431.676919999998,1 kg seed,,seeds_singlescore_1.json,4486335.384
+NT1_2023,NT1,2023,ha,"Ecotoxicity, freshwater - inorganics",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT1_2023,NT1,2023,ha,"Ecotoxicity, freshwater - metals",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT1_2023,NT1,2023,ha,"Ecotoxicity, freshwater - organics",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT1_2023,NT1,2023,ha,"Eutrophication, freshwater",Pt,200.0,,8.7756e-06,1 kg seed,,seeds_singlescore_1.json,0.00175512
+NT1_2023,NT1,2023,ha,"Eutrophication, marine",Pt,200.0,,0.002909536,1 kg seed,,seeds_singlescore_1.json,0.5819072
+NT1_2023,NT1,2023,ha,"Eutrophication, terrestrial",Pt,200.0,,0.10404252,1 kg seed,,seeds_singlescore_1.json,20.808504
+NT1_2023,NT1,2023,ha,"Human toxicity, cancer",Pt,200.0,,3.8458000000000003e-16,1 kg seed,,seeds_singlescore_1.json,7.6916e-14
+NT1_2023,NT1,2023,ha,"Human toxicity, cancer - inorganics",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT1_2023,NT1,2023,ha,"Human toxicity, cancer - metals",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT1_2023,NT1,2023,ha,"Human toxicity, cancer - organics",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT1_2023,NT1,2023,ha,"Human toxicity, non-cancer",Pt,200.0,,4.3437799999999997e-13,1 kg seed,,seeds_singlescore_1.json,8.68756e-11
+NT1_2023,NT1,2023,ha,"Human toxicity, non-cancer - inorganics",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT1_2023,NT1,2023,ha,"Human toxicity, non-cancer - metals",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT1_2023,NT1,2023,ha,"Human toxicity, non-cancer - organics",Pt,200.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT1_2023,NT1,2023,ha,Ionising radiation,Pt,200.0,,5.252001,1 kg seed,,seeds_singlescore_1.json,1050.4002
+NT1_2023,NT1,2023,ha,Land use,Pt,200.0,,16893889.2,1 kg seed,,seeds_singlescore_1.json,3378777840.0
+NT1_2023,NT1,2023,ha,Ozone depletion,Pt,200.0,,7.7848e-11,1 kg seed,,seeds_singlescore_1.json,1.55696e-08
+NT1_2023,NT1,2023,ha,Particulate matter,Pt,200.0,,4.0509e-12,1 kg seed,,seeds_singlescore_1.json,8.1018e-10
+NT1_2023,NT1,2023,ha,Photochemical ozone formation,Pt,200.0,,0.0065572,1 kg seed,,seeds_singlescore_1.json,1.31144
+NT1_2023,NT1,2023,ha,"Resource use, fossils",Pt,200.0,,26916.417690000002,1 kg seed,,seeds_singlescore_1.json,5383283.538000001
+NT1_2023,NT1,2023,ha,"Resource use, minerals and metals",Pt,200.0,,1.8431999999999996e-08,1 kg seed,,seeds_singlescore_1.json,3.686399999999999e-06
+NT1_2023,NT1,2023,ha,Total,Pt,200.0,,16980974.878934015,1 kg seed,,seeds_singlescore_1.json,3396194975.786803
+NT1_2023,NT1,2023,ha,Water use,Pt,200.0,,31715.821060000002,1 kg seed,,seeds_singlescore_1.json,6343164.212
+NT1_2024,NT1,2024,ha,Acidification,Pt,230.0,,0.01198496,1 kg seed,,seeds_singlescore_1.json,2.7565408
+NT1_2024,NT1,2024,ha,Climate change,Pt,230.0,,6016.38576,1 kg seed,,seeds_singlescore_1.json,1383768.7248
+NT1_2024,NT1,2024,ha,Climate change - Biogenic,Pt,230.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT1_2024,NT1,2024,ha,Climate change - Fossil,Pt,230.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT1_2024,NT1,2024,ha,Climate change - Land use and LU change,Pt,230.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT1_2024,NT1,2024,ha,"Ecotoxicity, freshwater",Pt,230.0,,22431.676919999998,1 kg seed,,seeds_singlescore_1.json,5159285.6916
+NT1_2024,NT1,2024,ha,"Ecotoxicity, freshwater - inorganics",Pt,230.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT1_2024,NT1,2024,ha,"Ecotoxicity, freshwater - metals",Pt,230.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT1_2024,NT1,2024,ha,"Ecotoxicity, freshwater - organics",Pt,230.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT1_2024,NT1,2024,ha,"Eutrophication, freshwater",Pt,230.0,,8.7756e-06,1 kg seed,,seeds_singlescore_1.json,0.002018388
+NT1_2024,NT1,2024,ha,"Eutrophication, marine",Pt,230.0,,0.002909536,1 kg seed,,seeds_singlescore_1.json,0.66919328
+NT1_2024,NT1,2024,ha,"Eutrophication, terrestrial",Pt,230.0,,0.10404252,1 kg seed,,seeds_singlescore_1.json,23.9297796
+NT1_2024,NT1,2024,ha,"Human toxicity, cancer",Pt,230.0,,3.8458000000000003e-16,1 kg seed,,seeds_singlescore_1.json,8.845340000000001e-14
+NT1_2024,NT1,2024,ha,"Human toxicity, cancer - inorganics",Pt,230.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT1_2024,NT1,2024,ha,"Human toxicity, cancer - metals",Pt,230.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT1_2024,NT1,2024,ha,"Human toxicity, cancer - organics",Pt,230.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT1_2024,NT1,2024,ha,"Human toxicity, non-cancer",Pt,230.0,,4.3437799999999997e-13,1 kg seed,,seeds_singlescore_1.json,9.990694e-11
+NT1_2024,NT1,2024,ha,"Human toxicity, non-cancer - inorganics",Pt,230.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT1_2024,NT1,2024,ha,"Human toxicity, non-cancer - metals",Pt,230.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT1_2024,NT1,2024,ha,"Human toxicity, non-cancer - organics",Pt,230.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT1_2024,NT1,2024,ha,Ionising radiation,Pt,230.0,,5.252001,1 kg seed,,seeds_singlescore_1.json,1207.96023
+NT1_2024,NT1,2024,ha,Land use,Pt,230.0,,16893889.2,1 kg seed,,seeds_singlescore_1.json,3885594516.0
+NT1_2024,NT1,2024,ha,Ozone depletion,Pt,230.0,,7.7848e-11,1 kg seed,,seeds_singlescore_1.json,1.790504e-08
+NT1_2024,NT1,2024,ha,Particulate matter,Pt,230.0,,4.0509e-12,1 kg seed,,seeds_singlescore_1.json,9.31707e-10
+NT1_2024,NT1,2024,ha,Photochemical ozone formation,Pt,230.0,,0.0065572,1 kg seed,,seeds_singlescore_1.json,1.508156
+NT1_2024,NT1,2024,ha,"Resource use, fossils",Pt,230.0,,26916.417690000002,1 kg seed,,seeds_singlescore_1.json,6190776.068700001
+NT1_2024,NT1,2024,ha,"Resource use, minerals and metals",Pt,230.0,,1.8431999999999996e-08,1 kg seed,,seeds_singlescore_1.json,4.239359999999999e-06
+NT1_2024,NT1,2024,ha,Total,Pt,230.0,,16980974.878934015,1 kg seed,,seeds_singlescore_1.json,3905624222.1548233
+NT1_2024,NT1,2024,ha,Water use,Pt,230.0,,31715.821060000002,1 kg seed,,seeds_singlescore_1.json,7294638.843800001
+NT2_2022,NT2,2022,ha,Acidification,Pt,135.0,,0.01198496,1 kg seed,,seeds_singlescore_1.json,1.6179696
+NT2_2022,NT2,2022,ha,Climate change,Pt,135.0,,6016.38576,1 kg seed,,seeds_singlescore_1.json,812212.0776
+NT2_2022,NT2,2022,ha,Climate change - Biogenic,Pt,135.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT2_2022,NT2,2022,ha,Climate change - Fossil,Pt,135.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT2_2022,NT2,2022,ha,Climate change - Land use and LU change,Pt,135.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT2_2022,NT2,2022,ha,"Ecotoxicity, freshwater",Pt,135.0,,22431.676919999998,1 kg seed,,seeds_singlescore_1.json,3028276.3841999997
+NT2_2022,NT2,2022,ha,"Ecotoxicity, freshwater - inorganics",Pt,135.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT2_2022,NT2,2022,ha,"Ecotoxicity, freshwater - metals",Pt,135.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT2_2022,NT2,2022,ha,"Ecotoxicity, freshwater - organics",Pt,135.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT2_2022,NT2,2022,ha,"Eutrophication, freshwater",Pt,135.0,,8.7756e-06,1 kg seed,,seeds_singlescore_1.json,0.001184706
+NT2_2022,NT2,2022,ha,"Eutrophication, marine",Pt,135.0,,0.002909536,1 kg seed,,seeds_singlescore_1.json,0.39278736
+NT2_2022,NT2,2022,ha,"Eutrophication, terrestrial",Pt,135.0,,0.10404252,1 kg seed,,seeds_singlescore_1.json,14.0457402
+NT2_2022,NT2,2022,ha,"Human toxicity, cancer",Pt,135.0,,3.8458000000000003e-16,1 kg seed,,seeds_singlescore_1.json,5.1918300000000004e-14
+NT2_2022,NT2,2022,ha,"Human toxicity, cancer - inorganics",Pt,135.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT2_2022,NT2,2022,ha,"Human toxicity, cancer - metals",Pt,135.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT2_2022,NT2,2022,ha,"Human toxicity, cancer - organics",Pt,135.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT2_2022,NT2,2022,ha,"Human toxicity, non-cancer",Pt,135.0,,4.3437799999999997e-13,1 kg seed,,seeds_singlescore_1.json,5.864102999999999e-11
+NT2_2022,NT2,2022,ha,"Human toxicity, non-cancer - inorganics",Pt,135.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT2_2022,NT2,2022,ha,"Human toxicity, non-cancer - metals",Pt,135.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT2_2022,NT2,2022,ha,"Human toxicity, non-cancer - organics",Pt,135.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT2_2022,NT2,2022,ha,Ionising radiation,Pt,135.0,,5.252001,1 kg seed,,seeds_singlescore_1.json,709.020135
+NT2_2022,NT2,2022,ha,Land use,Pt,135.0,,16893889.2,1 kg seed,,seeds_singlescore_1.json,2280675042.0
+NT2_2022,NT2,2022,ha,Ozone depletion,Pt,135.0,,7.7848e-11,1 kg seed,,seeds_singlescore_1.json,1.050948e-08
+NT2_2022,NT2,2022,ha,Particulate matter,Pt,135.0,,4.0509e-12,1 kg seed,,seeds_singlescore_1.json,5.468715e-10
+NT2_2022,NT2,2022,ha,Photochemical ozone formation,Pt,135.0,,0.0065572,1 kg seed,,seeds_singlescore_1.json,0.885222
+NT2_2022,NT2,2022,ha,"Resource use, fossils",Pt,135.0,,26916.417690000002,1 kg seed,,seeds_singlescore_1.json,3633716.3881500005
+NT2_2022,NT2,2022,ha,"Resource use, minerals and metals",Pt,135.0,,1.8431999999999996e-08,1 kg seed,,seeds_singlescore_1.json,2.4883199999999992e-06
+NT2_2022,NT2,2022,ha,Total,Pt,135.0,,16980974.878934015,1 kg seed,,seeds_singlescore_1.json,2292431608.656092
+NT2_2022,NT2,2022,ha,Water use,Pt,135.0,,31715.821060000002,1 kg seed,,seeds_singlescore_1.json,4281635.8431
+NT2_2023,NT2,2023,ha,Acidification,Pt,150.0,,0.01198496,1 kg seed,,seeds_singlescore_1.json,1.797744
+NT2_2023,NT2,2023,ha,Climate change,Pt,150.0,,6016.38576,1 kg seed,,seeds_singlescore_1.json,902457.8640000001
+NT2_2023,NT2,2023,ha,Climate change - Biogenic,Pt,150.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT2_2023,NT2,2023,ha,Climate change - Fossil,Pt,150.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT2_2023,NT2,2023,ha,Climate change - Land use and LU change,Pt,150.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT2_2023,NT2,2023,ha,"Ecotoxicity, freshwater",Pt,150.0,,22431.676919999998,1 kg seed,,seeds_singlescore_1.json,3364751.5379999997
+NT2_2023,NT2,2023,ha,"Ecotoxicity, freshwater - inorganics",Pt,150.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT2_2023,NT2,2023,ha,"Ecotoxicity, freshwater - metals",Pt,150.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT2_2023,NT2,2023,ha,"Ecotoxicity, freshwater - organics",Pt,150.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT2_2023,NT2,2023,ha,"Eutrophication, freshwater",Pt,150.0,,8.7756e-06,1 kg seed,,seeds_singlescore_1.json,0.0013163399999999998
+NT2_2023,NT2,2023,ha,"Eutrophication, marine",Pt,150.0,,0.002909536,1 kg seed,,seeds_singlescore_1.json,0.4364304
+NT2_2023,NT2,2023,ha,"Eutrophication, terrestrial",Pt,150.0,,0.10404252,1 kg seed,,seeds_singlescore_1.json,15.606378
+NT2_2023,NT2,2023,ha,"Human toxicity, cancer",Pt,150.0,,3.8458000000000003e-16,1 kg seed,,seeds_singlescore_1.json,5.7687e-14
+NT2_2023,NT2,2023,ha,"Human toxicity, cancer - inorganics",Pt,150.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT2_2023,NT2,2023,ha,"Human toxicity, cancer - metals",Pt,150.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT2_2023,NT2,2023,ha,"Human toxicity, cancer - organics",Pt,150.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT2_2023,NT2,2023,ha,"Human toxicity, non-cancer",Pt,150.0,,4.3437799999999997e-13,1 kg seed,,seeds_singlescore_1.json,6.515669999999999e-11
+NT2_2023,NT2,2023,ha,"Human toxicity, non-cancer - inorganics",Pt,150.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT2_2023,NT2,2023,ha,"Human toxicity, non-cancer - metals",Pt,150.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT2_2023,NT2,2023,ha,"Human toxicity, non-cancer - organics",Pt,150.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT2_2023,NT2,2023,ha,Ionising radiation,Pt,150.0,,5.252001,1 kg seed,,seeds_singlescore_1.json,787.80015
+NT2_2023,NT2,2023,ha,Land use,Pt,150.0,,16893889.2,1 kg seed,,seeds_singlescore_1.json,2534083380.0
+NT2_2023,NT2,2023,ha,Ozone depletion,Pt,150.0,,7.7848e-11,1 kg seed,,seeds_singlescore_1.json,1.16772e-08
+NT2_2023,NT2,2023,ha,Particulate matter,Pt,150.0,,4.0509e-12,1 kg seed,,seeds_singlescore_1.json,6.07635e-10
+NT2_2023,NT2,2023,ha,Photochemical ozone formation,Pt,150.0,,0.0065572,1 kg seed,,seeds_singlescore_1.json,0.98358
+NT2_2023,NT2,2023,ha,"Resource use, fossils",Pt,150.0,,26916.417690000002,1 kg seed,,seeds_singlescore_1.json,4037462.6535000005
+NT2_2023,NT2,2023,ha,"Resource use, minerals and metals",Pt,150.0,,1.8431999999999996e-08,1 kg seed,,seeds_singlescore_1.json,2.7647999999999993e-06
+NT2_2023,NT2,2023,ha,Total,Pt,150.0,,16980974.878934015,1 kg seed,,seeds_singlescore_1.json,2547146231.840102
+NT2_2023,NT2,2023,ha,Water use,Pt,150.0,,31715.821060000002,1 kg seed,,seeds_singlescore_1.json,4757373.159
+NT2_2024,NT2,2024,ha,Acidification,Pt,150.0,,0.01198496,1 kg seed,,seeds_singlescore_1.json,1.797744
+NT2_2024,NT2,2024,ha,Climate change,Pt,150.0,,6016.38576,1 kg seed,,seeds_singlescore_1.json,902457.8640000001
+NT2_2024,NT2,2024,ha,Climate change - Biogenic,Pt,150.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT2_2024,NT2,2024,ha,Climate change - Fossil,Pt,150.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT2_2024,NT2,2024,ha,Climate change - Land use and LU change,Pt,150.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT2_2024,NT2,2024,ha,"Ecotoxicity, freshwater",Pt,150.0,,22431.676919999998,1 kg seed,,seeds_singlescore_1.json,3364751.5379999997
+NT2_2024,NT2,2024,ha,"Ecotoxicity, freshwater - inorganics",Pt,150.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT2_2024,NT2,2024,ha,"Ecotoxicity, freshwater - metals",Pt,150.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT2_2024,NT2,2024,ha,"Ecotoxicity, freshwater - organics",Pt,150.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT2_2024,NT2,2024,ha,"Eutrophication, freshwater",Pt,150.0,,8.7756e-06,1 kg seed,,seeds_singlescore_1.json,0.0013163399999999998
+NT2_2024,NT2,2024,ha,"Eutrophication, marine",Pt,150.0,,0.002909536,1 kg seed,,seeds_singlescore_1.json,0.4364304
+NT2_2024,NT2,2024,ha,"Eutrophication, terrestrial",Pt,150.0,,0.10404252,1 kg seed,,seeds_singlescore_1.json,15.606378
+NT2_2024,NT2,2024,ha,"Human toxicity, cancer",Pt,150.0,,3.8458000000000003e-16,1 kg seed,,seeds_singlescore_1.json,5.7687e-14
+NT2_2024,NT2,2024,ha,"Human toxicity, cancer - inorganics",Pt,150.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT2_2024,NT2,2024,ha,"Human toxicity, cancer - metals",Pt,150.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT2_2024,NT2,2024,ha,"Human toxicity, cancer - organics",Pt,150.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT2_2024,NT2,2024,ha,"Human toxicity, non-cancer",Pt,150.0,,4.3437799999999997e-13,1 kg seed,,seeds_singlescore_1.json,6.515669999999999e-11
+NT2_2024,NT2,2024,ha,"Human toxicity, non-cancer - inorganics",Pt,150.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT2_2024,NT2,2024,ha,"Human toxicity, non-cancer - metals",Pt,150.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT2_2024,NT2,2024,ha,"Human toxicity, non-cancer - organics",Pt,150.0,,0.0,1 kg seed,,seeds_singlescore_1.json,0.0
+NT2_2024,NT2,2024,ha,Ionising radiation,Pt,150.0,,5.252001,1 kg seed,,seeds_singlescore_1.json,787.80015
+NT2_2024,NT2,2024,ha,Land use,Pt,150.0,,16893889.2,1 kg seed,,seeds_singlescore_1.json,2534083380.0
+NT2_2024,NT2,2024,ha,Ozone depletion,Pt,150.0,,7.7848e-11,1 kg seed,,seeds_singlescore_1.json,1.16772e-08
+NT2_2024,NT2,2024,ha,Particulate matter,Pt,150.0,,4.0509e-12,1 kg seed,,seeds_singlescore_1.json,6.07635e-10
+NT2_2024,NT2,2024,ha,Photochemical ozone formation,Pt,150.0,,0.0065572,1 kg seed,,seeds_singlescore_1.json,0.98358
+NT2_2024,NT2,2024,ha,"Resource use, fossils",Pt,150.0,,26916.417690000002,1 kg seed,,seeds_singlescore_1.json,4037462.6535000005
+NT2_2024,NT2,2024,ha,"Resource use, minerals and metals",Pt,150.0,,1.8431999999999996e-08,1 kg seed,,seeds_singlescore_1.json,2.7647999999999993e-06
+NT2_2024,NT2,2024,ha,Total,Pt,150.0,,16980974.878934015,1 kg seed,,seeds_singlescore_1.json,2547146231.840102
+NT2_2024,NT2,2024,ha,Water use,Pt,150.0,,31715.821060000002,1 kg seed,,seeds_singlescore_1.json,4757373.159

@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Digital Notebook | Bioregional Baseline</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Outfit:wght@300;400;500;600;700&display=swap"
+    rel="stylesheet"
+  />
+  <link rel="stylesheet" href="./pivot.css" />
+</head>
+
+<body class="bioregional-baseline-page">
+  <div class="page">
+    <header class="top-bar">
+      <div>
+        <p class="eyebrow">Digital Notebook | Bioregional Analysis</p>
+        <h1>Environmental baseline</h1>
+        <p class="lede">
+          Summarise the distribution of farmer-year life-cycle impacts across the rice bioregion.
+        </p>
+      </div>
+      <div class="pill">
+        <span class="dot"></span>
+        <span>34 farmer-years</span>
+      </div>
+    </header>
+
+    <main class="layout">
+      <section class="panel filters">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Filters</p>
+            <h2>Baseline scope</h2>
+          </div>
+          <div class="panel-actions">
+            <a class="ghost" href="./bioregional.html">Back</a>
+            <button class="ghost" id="reset-filters">Reset</button>
+          </div>
+        </div>
+        <div class="filter-grid">
+          <label class="field">
+            <span>Year</span>
+            <select id="season-filter"></select>
+          </label>
+          <label class="field">
+            <span>Impact basis</span>
+            <select id="basis-filter">
+              <option value="ha">Per hectare</option>
+              <option value="tonne">Per tonne</option>
+            </select>
+          </label>
+          <label class="field">
+            <span>Impact type</span>
+            <select id="score-filter">
+              <option value="chara">Characterisation</option>
+              <option value="single">Single score</option>
+            </select>
+          </label>
+          <label class="field">
+            <span>Categories</span>
+            <select id="limit-filter">
+              <option value="12">Top 12</option>
+              <option value="20">Top 20</option>
+              <option value="all">All</option>
+            </select>
+          </label>
+        </div>
+        <div class="chip" id="active-filters"></div>
+      </section>
+
+      <section class="panel stats">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Overview</p>
+            <h2>Snapshot</h2>
+          </div>
+        </div>
+        <div class="stat-grid" id="stat-grid"></div>
+      </section>
+
+      <section class="panel year-panel">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Year Comparison</p>
+            <h2>Impact basis by year</h2>
+            <p class="panel-note">Hover bars to view median, Q1-Q3, mean, minimum, and maximum values.</p>
+          </div>
+          <div class="chip muted" id="year-count"></div>
+        </div>
+        <div id="year-chart" class="year-chart"></div>
+      </section>
+
+      <section class="panel detail" id="drivers">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Drivers</p>
+            <h2>Mean source contribution</h2>
+          </div>
+          <div class="chip muted" id="driver-count"></div>
+        </div>
+        <div id="driver-table" class="table-shell"></div>
+      </section>
+    </main>
+  </div>
+  <script src="./i18n.js"></script>
+  <script type="module" src="./bioregional-baseline.js"></script>
+</body>
+
+</html>

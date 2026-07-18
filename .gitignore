@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+~$*
+
+# Local virtual environments and temporary files
+.venv/
+venv/
+tmp_mplconfig/
+
+# Keep manuscript lock files and generated OS files out of Git.
+00_manuscript/~$*
+docs/.DS_Store
+docs/data/.DS_Store

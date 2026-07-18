@@ -1,0 +1,81 @@
+dmu_id,farmer_id,year,variety,operation,equipment,dose_kg_ha,covered_area_ha,productivity_t_ha,seed_kg_total,production_t
+C1_2022,C1,2022,Ronaldo,broadcast sowing,centrifugal_spreader,155.0,15.48,4.49,2399.4,69.5052
+C1_2022,C1,2022,Corimbo,broadcast sowing,centrifugal_spreader,155.0,1.5,3.48,232.5,5.22
+C1_2022,C1,2022,Sprint,broadcast sowing,centrifugal_spreader,155.0,18.3,4.44,2836.5,81.25200000000001
+C1_2022,C1,2022,Leonardo,broadcast sowing,centrifugal_spreader,155.0,1.6,3.16,248.0,5.056000000000001
+C1_2022,C1,2022,JSendra,broadcast sowing,centrifugal_spreader,160.0,4.3,5.18,688.0,22.273999999999997
+C1_2022,C1,2022,PVL136IT,broadcast sowing,centrifugal_spreader,150.0,4.74,4.29,711.0,20.334600000000002
+C1_2023,C1,2023,Leonardo,broadcast sowing,centrifugal_spreader,220.0,28.4,4.0,6248.0,113.6
+C1_2023,C1,2023,Corimbo,broadcast sowing,centrifugal_spreader,170.0,4.01,2.16,681.6999999999999,8.6616
+C1_2023,C1,2023,PVL136IT,broadcast sowing,centrifugal_spreader,120.0,4.1,5.0,491.99999999999994,20.5
+C1_2023,C1,2023,Telemaco,broadcast sowing,centrifugal_spreader,220.0,9.0,6.0,1980.0,54.0
+C1_2024,C1,2024,PVL136IT,broadcast sowing,centrifugal_spreader,190.0,6.31,6.0,1198.8999999999999,37.86
+C1_2024,C1,2024,Leonardo,broadcast sowing,centrifugal_spreader,190.0,14.21,2.0,2699.9,28.42
+C1_2024,C1,2024,Ronaldo,broadcast sowing,centrifugal_spreader,190.0,8.42,1.46,1599.8,12.293199999999999
+C1_2024,C1,2024,DIVA PV,broadcast sowing,centrifugal_spreader,190.0,11.84,9.0,2249.6,106.56
+C1_2024,C1,2024,Formula,broadcast sowing,centrifugal_spreader,220.0,4.73,9.0,1040.6000000000001,42.57000000000001
+C2_2022,C2,2022,Ronaldo,broadcast sowing,airplane_sprayer,200.0,34.06,5.46,6812.0,185.9676
+C2_2022,C2,2022,Gládio,broadcast sowing,airplane_sprayer,200.0,75.37,7.7,15074.0,580.349
+C2_2022,C2,2022,Selénio,broadcast sowing,airplane_sprayer,250.0,1.95,5.93,487.5,11.5635
+C2_2023,C2,2023,Selénio,broadcast sowing,centrifugal_spreader,180.0,2.22,6.08,399.6,13.497600000000002
+C2_2023,C2,2023,Ronaldo,broadcast sowing,centrifugal_spreader,180.0,45.5,13.83,8190.0,629.265
+C2_2023,C2,2023,Leonardo,broadcast sowing,centrifugal_spreader,180.0,67.49,5.34,12148.199999999999,360.3966
+C2_2024,C2,2024,Formula,broadcast sowing,centrifugal_spreader,160.0,7.5,7.39,1200.0,55.425
+C2_2024,C2,2024,Ibérico,broadcast sowing,centrifugal_spreader,160.0,15.62,7.39,2499.2,115.4318
+C2_2024,C2,2024,Leonardo,broadcast sowing,centrifugal_spreader,160.0,4.4,7.39,704.0,32.516
+C2_2024,C2,2024,Ronaldo,broadcast sowing,centrifugal_spreader,160.0,90.7,7.39,14512.0,670.273
+C2_2024,C2,2024,Selénio,broadcast sowing,centrifugal_spreader,160.0,2.5,7.39,400.0,18.474999999999998
+C3_2022,C3,2022,Sprint,broadcast sowing,centrifugal_spreader,190.0,26.31,4.99,4998.9,131.2869
+C3_2022,C3,2022,Telemaco,broadcast sowing,centrifugal_spreader,190.0,36.57,2.36,6948.3,86.3052
+C3_2022,C3,2022,Selénio,broadcast sowing,centrifugal_spreader,190.0,27.89,6.36,5299.1,177.3804
+C3_2022,C3,2022,JSendra,broadcast sowing,centrifugal_spreader,190.0,23.77,4.26,4516.3,101.2602
+C3_2023,C3,2023,Leonardo,broadcast sowing,centrifugal_spreader,160.0,34.38,9.61,5500.8,330.3918
+C3_2023,C3,2023,Telemaco,broadcast sowing,centrifugal_spreader,180.0,38.89,3.88,7000.2,150.8932
+C3_2023,C3,2023,Selénio,broadcast sowing,centrifugal_spreader,150.0,38.96,4.07,5844.0,158.5672
+C3_2024,C3,2024,Selénio,broadcast sowing,centrifugal_spreader,190.0,20.0,3.81,3800.0,76.2
+C3_2024,C3,2024,Sintra,broadcast sowing,centrifugal_spreader,190.0,39.21,4.54,7449.900000000001,178.01340000000002
+C3_2024,C3,2024,Ronaldo,broadcast sowing,centrifugal_spreader,220.0,5.52,7.9,1214.3999999999999,43.608
+C3_2024,C3,2024,Diva,broadcast sowing,centrifugal_spreader,190.0,23.7,8.96,4503.0,212.352
+C3_2024,C3,2024,JSendra,broadcast sowing,centrifugal_spreader,190.0,23.8,8.96,4522.0,213.24800000000002
+C4_2022,C4,2022,Ronaldo,broadcast sowing,centrifugal_spreader,220.0,25.21,3.62,5546.2,91.26020000000001
+C4_2023,C4,2023,Provisi PVL a,broadcast sowing,centrifugal_spreader,200.0,5.76,9.57,1152.0,55.1232
+C4_2023,C4,2023,Luna,broadcast sowing,centrifugal_spreader,200.0,18.08,2.89,3615.9999999999995,52.2512
+C4_2024,C4,2024,Formula,broadcast sowing,centrifugal_spreader,170.0,8.57,7.67,1456.9,65.7319
+C4_2024,C4,2024,Diva PV,broadcast sowing,centrifugal_spreader,170.0,15.3,8.61,2601.0,131.733
+C5_2022,C5,2022,Ronaldo,broadcast sowing,centrifugal_spreader,165.0,25.75,5.66,4248.75,145.745
+C5_2022,C5,2022,PVL,broadcast sowing,centrifugal_spreader,145.0,10.0,6.83,1450.0,68.3
+C5_2023,C5,2023,Luna CL,broadcast sowing,centrifugal_spreader,205.0,21.44,6.69,4395.2,143.4336
+C5_2023,C5,2023,PVL136 IT,broadcast sowing,centrifugal_spreader,120.0,14.0,5.29,1680.0,74.06
+C5_2024,C5,2024,Ronaldo,broadcast sowing,centrifugal_spreader,200.0,15.25,10.78,3050.0,164.39499999999998
+C5_2024,C5,2024,Diva PV,broadcast sowing,centrifugal_spreader,120.0,20.19,6.25,2422.8,126.18750000000001
+C6_2022,C6,2022,Ronaldo,broadcast sowing,airplane_sprayer,200.0,73.11,2.15,14622.0,157.1865
+C6_2023,C6,2023,Ronaldo,broadcast sowing,airplane_sprayer,200.0,71.09,2.88,14218.0,204.7392
+C6_2024,C6,2024,Diva PV,broadcast sowing,airplane_sprayer,180.0,54.22,7.25,9759.6,393.09499999999997
+C7_2023,C7,2023,Elettra,broadcast sowing,centrifugal_spreader,160.0,6.09,4.96,974.4,30.2064
+C7_2023,C7,2023,Ronaldo,broadcast sowing,centrifugal_spreader,160.0,31.24,6.98,4998.4,218.0552
+C7_2024,C7,2024,Ronaldo,broadcast sowing,centrifugal_spreader,170.0,22.45,4.42,3816.5,99.229
+C7_2024,C7,2024,Caravela,broadcast sowing,centrifugal_spreader,170.0,14.9,3.93,2533.0,58.557
+C8_2022,C8,2022,PVL136IT,broadcast sowing,centrifugal_spreader,140.0,12.5,4.15,1750.0,51.87500000000001
+C8_2022,C8,2022,Ronaldo,broadcast sowing,centrifugal_spreader,200.0,32.5,5.78,6500.0,187.85
+C8_2022,C8,2022,Gládio,broadcast sowing,centrifugal_spreader,240.0,12.5,6.45,3000.0,80.625
+C8_2022,C8,2022,Elettra,broadcast sowing,centrifugal_spreader,200.0,0.82,4.34,164.0,3.5587999999999997
+C8_2023,C8,2023,PVL 136IT,broadcast sowing,centrifugal_spreader,130.0,37.8,3.17,4914.0,119.826
+C8_2023,C8,2023,Leonardo,broadcast sowing,centrifugal_spreader,130.0,14.34,14.11,1864.2,202.3374
+C8_2023,C8,2023,Selénio,broadcast sowing,centrifugal_spreader,130.0,5.9,2.07,767.0,12.213
+C8_2024,C8,2024,Selénio,broadcast sowing,centrifugal_spreader,160.0,4.0,1.52,640.0,6.08
+C8_2024,C8,2024,PVL,broadcast sowing,centrifugal_spreader,160.0,12.5,5.06,2000.0,63.24999999999999
+C8_2024,C8,2024,Ronaldo,broadcast sowing,centrifugal_spreader,160.0,17.2,3.98,2752.0,68.456
+C8_2024,C8,2024,Leonardo,broadcast sowing,centrifugal_spreader,160.0,25.42,3.77,4067.2000000000003,95.83340000000001
+D1_2022,D1,2022,Leonardo,row sowing,seeder,120.0,12.25,1.36,1470.0,16.66
+D1_2023,D1,2023,Carnaroli,broadcast sowing,centrifugal_spreader,220.0,17.99,4.9,3957.7999999999997,88.151
+D1_2024,D1,2024,Ronaldo,broadcast sowing,centrifugal_spreader,160.0,13.0,6.42,2080.0,83.46
+D1_2024,D1,2024,Carnaroli,broadcast sowing,centrifugal_spreader,160.0,10.0,4.39,1600.0,43.9
+D1_2024,D1,2024,PVL,broadcast sowing,centrifugal_spreader,160.0,1.8,5.56,288.0,10.008
+D2_2022,D2,2022,Luna,row sowing,seeder,200.0,18.21,1.23,3642.0,22.3983
+D2_2023,D2,2023,Luna CL,broadcast sowing,centrifugal_spreader,220.0,18.22,4.84,4008.3999999999996,88.1848
+D2_2024,D2,2024,PVL136IT,broadcast sowing,centrifugal_spreader,190.0,18.22,6.77,3461.7999999999997,123.34939999999999
+NT1_2024,NT1,2024,Ronaldo,row sowing,seeder,230.0,37.9,7.11,8717.0,269.469
+NT2_2022,NT2,2022,Luna CL,row sowing,seeder,135.0,20.42,4.07,2756.7000000000003,83.10940000000001
+NT2_2023,NT2,2023,PVL 136 IT,row sowing,seeder,150.0,20.19,7.31,3028.5,147.5889
+NT2_2024,NT2,2024,PVL 136 IT,row sowing,seeder,150.0,20.19,4.77,3028.5,96.3063
+NT1_2023,NT1,2023,Velox,row sowing,seeder,200.0,14.92,6.49,2984.0,96.8308
