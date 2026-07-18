@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Redirecting</title>
+  <script>
+    (function () {
+      var base = "/lca_view/";
+      var path = window.location.pathname;
+      if (path.indexOf(base + "docs/") === 0) return;
+      if (path.indexOf(base) === 0) {
+        var rest = path.slice(base.length);
+        window.location.replace(base + "docs/" + (rest || "index.html") + window.location.search + window.location.hash);
+      }
+    })();
+  </script>
+</head>
+
+<body>
+  <p><a href="/lca_view/docs/index.html">Open Environmental Tool</a></p>
+</body>
+
+</html>
