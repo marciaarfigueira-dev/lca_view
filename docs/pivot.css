@@ -232,6 +232,10 @@ h1 {
   grid-area: detail;
 }
 
+.framework {
+  grid-area: framework;
+}
+
 .year-panel {
   grid-area: year;
 }
@@ -246,6 +250,7 @@ h1 {
 .benchmark-layout {
   grid-template-areas:
     "filters stats"
+    "framework framework"
     "pivot pivot"
     "detail detail";
 }
@@ -1027,6 +1032,19 @@ h1 {
   margin-top: 12px;
 }
 
+.framework-table table {
+  min-width: 980px;
+}
+
+.framework-table td:first-child {
+  font-weight: 700;
+  color: var(--ink);
+}
+
+.framework-table td:nth-child(4) {
+  white-space: nowrap;
+}
+
 table {
   width: 100%;
   border-collapse: collapse;
@@ -1201,6 +1219,7 @@ tbody tr:nth-child(odd) {
     grid-template-areas:
       "filters"
       "stats"
+      "framework"
       "pivot"
       "detail";
   }
