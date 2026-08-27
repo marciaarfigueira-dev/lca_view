@@ -101,8 +101,8 @@ Migration note:
 ```text
 old local repo root: /Users/marcia/Desktop/ml_sets_report/docs
 new local repo root: /Users/marcia/Desktop/lca_python_organised
-new GitHub Pages folder: docs
+public application folder: docs
 ```
 
-On GitHub Pages, the repository should publish from the `main` branch and
-`/docs` folder.
+GitHub Pages publishes the `main` branch from the repository root. The root
+`index.html` redirects to `docs/index.html`, where the public application lives.

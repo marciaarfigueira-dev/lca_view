@@ -6,7 +6,8 @@
     "new_publish_path": "/Users/marcia/Desktop/lca_python_organised/docs",
     "remote": "https://github.com/marciaarfigueira-dev/lca_view.git",
     "branch": "main",
-    "publish_path": "docs"
+    "publish_path": "/",
+    "application_path": "docs"
   },
   "clean_lca_project": {
     "root": "/Users/marcia/Desktop/lca_python_organised",
