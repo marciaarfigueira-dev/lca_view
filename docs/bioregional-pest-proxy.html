@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Digital Notebook | Pest Proxy</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Outfit:wght@300;400;500;600;700&display=swap"
+    rel="stylesheet"
+  />
+  <link rel="stylesheet" href="./pivot.css" />
+</head>
+
+<body class="pest-proxy-page">
+  <div class="page">
+    <header class="top-bar">
+      <div>
+        <p class="eyebrow">Digital Notebook | Exploratory Method Development</p>
+        <h1>Pest-pressure proxy</h1>
+        <p class="lede">
+          Use crop-protection records as intervention signals by reported target. These views do not measure pest,
+          disease or weed abundance, treatment need, avoided damage or treatment effectiveness.
+        </p>
+      </div>
+      <div class="pill">
+        <span class="dot"></span>
+        <span>Treatment signal</span>
+      </div>
+    </header>
+
+    <main class="layout pest-proxy-layout">
+      <section class="panel filters">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Filters</p>
+            <h2>Crop-protection signal scope</h2>
+          </div>
+          <div class="panel-actions">
+            <a class="ghost overview-link" href="./choose-lens.html">Back to overview</a>
+            <a class="ghost method-link" href="./bioregional-pest-proxy-methods.html">Methods</a>
+            <a class="ghost" href="./bioregional.html">Back</a>
+            <button class="ghost" id="reset-filters">Reset</button>
+          </div>
+        </div>
+        <div class="filter-grid">
+          <label class="field">
+            <span>Year</span>
+            <select id="pest-year-filter">
+              <option value="all">2022-2024</option>
+              <option value="2022">2022</option>
+              <option value="2023">2023</option>
+              <option value="2024">2024</option>
+            </select>
+          </label>
+          <label class="field">
+            <span>Metric</span>
+            <select id="pest-metric-filter">
+              <option value="kg_ha">kg a.i./ha</option>
+              <option value="kg_tonne">kg a.i./t</option>
+              <option value="operation_count">Operation count</option>
+              <option value="area_share">Treated area / farm area</option>
+            </select>
+          </label>
+          <label class="field">
+            <span>Target</span>
+            <select id="pest-target-filter"></select>
+          </label>
+        </div>
+        <div class="chip" id="pest-active-filters"></div>
+        <p class="panel-note">
+          If one application lists several targets, the same application is attributed to each reported target. Target
+          columns therefore show reported treatment signals and should not be summed as total crop-protection use.
+          Colour intensity is scaled against the 2022-2024 maximum for the selected metric, so filtered year views remain
+          comparable.
+        </p>
+      </section>
+
+      <section class="panel stats">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Scope</p>
+            <h2>Signal snapshot</h2>
+          </div>
+        </div>
+        <div class="stat-grid" id="pest-stat-grid"></div>
+      </section>
+
+      <section class="panel pest-panel">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Heatmap</p>
+            <h2>Farmer-year by reported target</h2>
+          </div>
+          <div class="chip muted" id="pest-count"></div>
+        </div>
+        <div id="pest-heatmap" class="pest-heatmap-shell"></div>
+      </section>
+
+      <section class="panel pest-summary-panel">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Target Summary</p>
+            <h2>Reported targets and treatment intensity</h2>
+          </div>
+          <div class="chip muted" id="pest-summary-count"></div>
+        </div>
+        <div id="pest-summary-table" class="table-shell"></div>
+      </section>
+    </main>
+  </div>
+  <script src="./i18n.js"></script>
+  <script type="module" src="./bioregional-pest-proxy.js"></script>
+</body>
+
+</html>

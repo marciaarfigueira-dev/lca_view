@@ -1,0 +1,88 @@
+operation_label,factor_group,single_score_file,impact_category,impact_unit,factor_per_unit,factor_unit
+herbicide,herbicide,herbicide_single_score.json,Total,Pt,13176815.469822299,1 kg herbicide active substance
+herbicide,herbicide,herbicide_single_score.json,Climate change,Pt,24201.564,1 kg herbicide active substance
+herbicide,herbicide,herbicide_single_score.json,Ozone depletion,Pt,2.1756e-09,1 kg herbicide active substance
+herbicide,herbicide,herbicide_single_score.json,Ionising radiation,Pt,837.086585,1 kg herbicide active substance
+herbicide,herbicide,herbicide_single_score.json,Photochemical ozone formation,Pt,0.0482284,1 kg herbicide active substance
+herbicide,herbicide,herbicide_single_score.json,Particulate matter,Pt,1.7361e-11,1 kg herbicide active substance
+herbicide,herbicide,herbicide_single_score.json,"Human toxicity, non-cancer",Pt,7.236719999999999e-12,1 kg herbicide active substance
+herbicide,herbicide,herbicide_single_score.json,"Human toxicity, cancer",Pt,5.3791999999999995e-15,1 kg herbicide active substance
+herbicide,herbicide,herbicide_single_score.json,Acidification,Pt,0.17838808,1 kg herbicide active substance
+herbicide,herbicide,herbicide_single_score.json,"Eutrophication, freshwater",Pt,0.0001366398,1 kg herbicide active substance
+herbicide,herbicide,herbicide_single_score.json,"Eutrophication, marine",Pt,0.010586454,1 kg herbicide active substance
+herbicide,herbicide,herbicide_single_score.json,"Eutrophication, terrestrial",Pt,0.60443343,1 kg herbicide active substance
+herbicide,herbicide,herbicide_single_score.json,"Ecotoxicity, freshwater",Pt,1460507.7396,1 kg herbicide active substance
+herbicide,herbicide,herbicide_single_score.json,Land use,Pt,10351420.44,1 kg herbicide active substance
+herbicide,herbicide,herbicide_single_score.json,Water use,Pt,1884.394864,1 kg herbicide active substance
+herbicide,herbicide,herbicide_single_score.json,"Resource use, fossils",Pt,1337963.403,1 kg herbicide active substance
+herbicide,herbicide,herbicide_single_score.json,"Resource use, minerals and metals",Pt,2.9472e-07,1 kg herbicide active substance
+herbicide,herbicide,herbicide_single_score.json,Climate change - Fossil,Pt,0,1 kg herbicide active substance
+herbicide,herbicide,herbicide_single_score.json,Climate change - Biogenic,Pt,0,1 kg herbicide active substance
+herbicide,herbicide,herbicide_single_score.json,Climate change - Land use and LU change,Pt,0,1 kg herbicide active substance
+herbicide,herbicide,herbicide_single_score.json,"Human toxicity, non-cancer - organics",Pt,0,1 kg herbicide active substance
+herbicide,herbicide,herbicide_single_score.json,"Human toxicity, non-cancer - inorganics",Pt,0,1 kg herbicide active substance
+herbicide,herbicide,herbicide_single_score.json,"Human toxicity, non-cancer - metals",Pt,0,1 kg herbicide active substance
+herbicide,herbicide,herbicide_single_score.json,"Human toxicity, cancer - organics",Pt,0,1 kg herbicide active substance
+herbicide,herbicide,herbicide_single_score.json,"Human toxicity, cancer - inorganics",Pt,0,1 kg herbicide active substance
+herbicide,herbicide,herbicide_single_score.json,"Human toxicity, cancer - metals",Pt,0,1 kg herbicide active substance
+herbicide,herbicide,herbicide_single_score.json,"Ecotoxicity, freshwater - organics",Pt,0,1 kg herbicide active substance
+herbicide,herbicide,herbicide_single_score.json,"Ecotoxicity, freshwater - inorganics",Pt,0,1 kg herbicide active substance
+herbicide,herbicide,herbicide_single_score.json,"Ecotoxicity, freshwater - metals",Pt,0,1 kg herbicide active substance
+fungicide,fungicide,fungicide_single_score.json,Total,Pt,14456166.866849951,1 kg fungicide active substance
+fungicide,fungicide,fungicide_single_score.json,Climate change,Pt,16691.588519999998,1 kg fungicide active substance
+fungicide,fungicide,fungicide_single_score.json,Ozone depletion,Pt,1.40008e-09,1 kg fungicide active substance
+fungicide,fungicide,fungicide_single_score.json,Ionising radiation,Pt,620.0116840000001,1 kg fungicide active substance
+fungicide,fungicide,fungicide_single_score.json,Photochemical ozone formation,Pt,0.03470854,1 kg fungicide active substance
+fungicide,fungicide,fungicide_single_score.json,Particulate matter,Pt,1.44032e-11,1 kg fungicide active substance
+fungicide,fungicide,fungicide_single_score.json,"Human toxicity, non-cancer",Pt,3.766066e-12,1 kg fungicide active substance
+fungicide,fungicide,fungicide_single_score.json,"Human toxicity, cancer",Pt,5.9696e-15,1 kg fungicide active substance
+fungicide,fungicide,fungicide_single_score.json,Acidification,Pt,0.13245375999999998,1 kg fungicide active substance
+fungicide,fungicide,fungicide_single_score.json,"Eutrophication, freshwater",Pt,0.000103618,1 kg fungicide active substance
+fungicide,fungicide,fungicide_single_score.json,"Eutrophication, marine",Pt,0.008716038,1 kg fungicide active substance
+fungicide,fungicide,fungicide_single_score.json,"Eutrophication, terrestrial",Pt,0.45373077,1 kg fungicide active substance
+fungicide,fungicide,fungicide_single_score.json,"Ecotoxicity, freshwater",Pt,3825051.6733000004,1 kg fungicide active substance
+fungicide,fungicide,fungicide_single_score.json,Land use,Pt,9671351.19,1 kg fungicide active substance
+fungicide,fungicide,fungicide_single_score.json,Water use,Pt,1440.918633,1 kg fungicide active substance
+fungicide,fungicide,fungicide_single_score.json,"Resource use, fossils",Pt,941010.855,1 kg fungicide active substance
+fungicide,fungicide,fungicide_single_score.json,"Resource use, minerals and metals",Pt,2.208e-07,1 kg fungicide active substance
+fungicide,fungicide,fungicide_single_score.json,Climate change - Fossil,Pt,0,1 kg fungicide active substance
+fungicide,fungicide,fungicide_single_score.json,Climate change - Biogenic,Pt,0,1 kg fungicide active substance
+fungicide,fungicide,fungicide_single_score.json,Climate change - Land use and LU change,Pt,0,1 kg fungicide active substance
+fungicide,fungicide,fungicide_single_score.json,"Human toxicity, non-cancer - organics",Pt,0,1 kg fungicide active substance
+fungicide,fungicide,fungicide_single_score.json,"Human toxicity, non-cancer - inorganics",Pt,0,1 kg fungicide active substance
+fungicide,fungicide,fungicide_single_score.json,"Human toxicity, non-cancer - metals",Pt,0,1 kg fungicide active substance
+fungicide,fungicide,fungicide_single_score.json,"Human toxicity, cancer - organics",Pt,0,1 kg fungicide active substance
+fungicide,fungicide,fungicide_single_score.json,"Human toxicity, cancer - inorganics",Pt,0,1 kg fungicide active substance
+fungicide,fungicide,fungicide_single_score.json,"Human toxicity, cancer - metals",Pt,0,1 kg fungicide active substance
+fungicide,fungicide,fungicide_single_score.json,"Ecotoxicity, freshwater - organics",Pt,0,1 kg fungicide active substance
+fungicide,fungicide,fungicide_single_score.json,"Ecotoxicity, freshwater - inorganics",Pt,0,1 kg fungicide active substance
+fungicide,fungicide,fungicide_single_score.json,"Ecotoxicity, freshwater - metals",Pt,0,1 kg fungicide active substance
+pesticide,pesticide_insecticide,pesticide_insecticide_single_score.json,Total,Pt,540489472.3400254,1 kg insecticide active substance
+pesticide,pesticide_insecticide,pesticide_insecticide_single_score.json,Climate change,Pt,18147.4914,1 kg insecticide active substance
+pesticide,pesticide_insecticide,pesticide_insecticide_single_score.json,Ozone depletion,Pt,1.4799999999999999e-09,1 kg insecticide active substance
+pesticide,pesticide_insecticide,pesticide_insecticide_single_score.json,Ionising radiation,Pt,711.710174,1 kg insecticide active substance
+pesticide,pesticide_insecticide,pesticide_insecticide_single_score.json,Photochemical ozone formation,Pt,0.038507059999999996,1 kg insecticide active substance
+pesticide,pesticide_insecticide,pesticide_insecticide_single_score.json,Particulate matter,Pt,1.54963e-11,1 kg insecticide active substance
+pesticide,pesticide_insecticide,pesticide_insecticide_single_score.json,"Human toxicity, non-cancer",Pt,1.5654213999999998e-09,1 kg insecticide active substance
+pesticide,pesticide_insecticide,pesticide_insecticide_single_score.json,"Human toxicity, cancer",Pt,4.6166e-15,1 kg insecticide active substance
+pesticide,pesticide_insecticide,pesticide_insecticide_single_score.json,Acidification,Pt,0.14868711999999998,1 kg insecticide active substance
+pesticide,pesticide_insecticide,pesticide_insecticide_single_score.json,"Eutrophication, freshwater",Pt,0.000118759,1 kg insecticide active substance
+pesticide,pesticide_insecticide,pesticide_insecticide_single_score.json,"Eutrophication, marine",Pt,0.009537278,1 kg insecticide active substance
+pesticide,pesticide_insecticide,pesticide_insecticide_single_score.json,"Eutrophication, terrestrial",Pt,0.50045004,1 kg insecticide active substance
+pesticide,pesticide_insecticide,pesticide_insecticide_single_score.json,"Ecotoxicity, freshwater",Pt,529018443.3026,1 kg insecticide active substance
+pesticide,pesticide_insecticide,pesticide_insecticide_single_score.json,Land use,Pt,10419696.54,1 kg insecticide active substance
+pesticide,pesticide_insecticide,pesticide_insecticide_single_score.json,Water use,Pt,1631.081551,1 kg insecticide active substance
+pesticide,pesticide_insecticide,pesticide_insecticide_single_score.json,"Resource use, fossils",Pt,1030841.5170000001,1 kg insecticide active substance
+pesticide,pesticide_insecticide,pesticide_insecticide_single_score.json,"Resource use, minerals and metals",Pt,2.5343999999999997e-07,1 kg insecticide active substance
+pesticide,pesticide_insecticide,pesticide_insecticide_single_score.json,Climate change - Fossil,Pt,0,1 kg insecticide active substance
+pesticide,pesticide_insecticide,pesticide_insecticide_single_score.json,Climate change - Biogenic,Pt,0,1 kg insecticide active substance
+pesticide,pesticide_insecticide,pesticide_insecticide_single_score.json,Climate change - Land use and LU change,Pt,0,1 kg insecticide active substance
+pesticide,pesticide_insecticide,pesticide_insecticide_single_score.json,"Human toxicity, non-cancer - organics",Pt,0,1 kg insecticide active substance
+pesticide,pesticide_insecticide,pesticide_insecticide_single_score.json,"Human toxicity, non-cancer - inorganics",Pt,0,1 kg insecticide active substance
+pesticide,pesticide_insecticide,pesticide_insecticide_single_score.json,"Human toxicity, non-cancer - metals",Pt,0,1 kg insecticide active substance
+pesticide,pesticide_insecticide,pesticide_insecticide_single_score.json,"Human toxicity, cancer - organics",Pt,0,1 kg insecticide active substance
+pesticide,pesticide_insecticide,pesticide_insecticide_single_score.json,"Human toxicity, cancer - inorganics",Pt,0,1 kg insecticide active substance
+pesticide,pesticide_insecticide,pesticide_insecticide_single_score.json,"Human toxicity, cancer - metals",Pt,0,1 kg insecticide active substance
+pesticide,pesticide_insecticide,pesticide_insecticide_single_score.json,"Ecotoxicity, freshwater - organics",Pt,0,1 kg insecticide active substance
+pesticide,pesticide_insecticide,pesticide_insecticide_single_score.json,"Ecotoxicity, freshwater - inorganics",Pt,0,1 kg insecticide active substance
+pesticide,pesticide_insecticide,pesticide_insecticide_single_score.json,"Ecotoxicity, freshwater - metals",Pt,0,1 kg insecticide active substance

@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Environmental Tool | Pest Proxy Methods</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Outfit:wght@300;400;500;600;700&display=swap"
+    rel="stylesheet"
+  />
+  <link rel="stylesheet" href="./pivot.css" />
+</head>
+
+<body class="pest-methods-page">
+  <div class="page">
+    <header class="top-bar">
+      <div>
+        <p class="eyebrow">Environmental Tool | Exploratory Method Development</p>
+        <h1>Pest-proxy methods</h1>
+        <p class="lede">
+          Explanation of how crop-protection records are converted into treatment-based pest, disease and weed
+          intervention signals.
+        </p>
+      </div>
+      <div class="pill">
+        <span class="dot"></span>
+        <span>Methods note</span>
+      </div>
+    </header>
+
+    <main class="layout diagnostics-methods-layout">
+      <section class="panel filters">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Boundary</p>
+            <h2>How to read the pest proxy</h2>
+          </div>
+          <div class="panel-actions">
+            <a class="ghost overview-link" href="./choose-lens.html">Back to overview</a>
+            <a class="ghost" href="./bioregional-pest-proxy.html">Back to pest proxy</a>
+          </div>
+        </div>
+        <p class="panel-note">
+          The pest proxy is derived from reported crop-protection interventions and target flags in the farm notebooks.
+          It is not measured pest pressure. It does not verify pest abundance, economic thresholds, treatment necessity,
+          avoided crop damage or treatment effectiveness.
+        </p>
+      </section>
+
+      <section class="panel stats">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Unit</p>
+            <h2>Cell calculation</h2>
+          </div>
+        </div>
+        <p class="panel-note">
+          The default cell value is target-attributed active ingredient per farmer-year hectare. For each crop-protection
+          operation, the applied active ingredient is assigned to each target flagged in the record. If several targets
+          are flagged for one operation, the same application appears under each target. Target columns are therefore
+          not additive totals.
+        </p>
+      </section>
+
+      <section class="panel pivot">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Options</p>
+            <h2>Metrics and filters</h2>
+          </div>
+        </div>
+        <div class="table-shell">
+          <table>
+            <thead>
+              <tr>
+                <th>Option</th>
+                <th>Meaning</th>
+                <th>Interpretation</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>kg a.i./ha</td>
+                <td>Target-attributed active ingredient divided by cultivated farmer-year area.</td>
+                <td>Main land-based treatment signal.</td>
+              </tr>
+              <tr>
+                <td>kg a.i./t</td>
+                <td>Target-attributed active ingredient divided by harvested paddy rice production.</td>
+                <td>Output-normalised treatment signal mediated by realised yield.</td>
+              </tr>
+              <tr>
+                <td>Operation count</td>
+                <td>Number of target-attributed crop-protection records.</td>
+                <td>Frequency signal; does not account for dose or treated area.</td>
+              </tr>
+              <tr>
+                <td>Treated area / farm area</td>
+                <td>Reported treated area divided by cultivated farmer-year area.</td>
+                <td>Coverage signal; repeated passes and multiple targets can increase the apparent signal.</td>
+              </tr>
+              <tr>
+                <td>Year filter</td>
+                <td>Shows all years together or a single production year.</td>
+                <td>Colour scale remains fixed against the 2022-2024 maximum for the selected metric.</td>
+              </tr>
+              <tr>
+                <td>Target filter</td>
+                <td>Limits the heatmap to one reported target.</td>
+                <td>Useful for inspecting which farmer-years reported interventions against the selected target.</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="panel detail">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Colour Scale</p>
+            <h2>Baseline for heatmap intensity</h2>
+          </div>
+        </div>
+        <p class="panel-note">
+          Heatmap colour intensity is scaled against the maximum farmer-year by target value across 2022-2024 for the
+          selected metric. This means filtered views remain visually comparable across years. The scale is still
+          within-sample: it is not a historical pest-pressure baseline or an external monitoring threshold.
+        </p>
+      </section>
+    </main>
+  </div>
+  <script src="./i18n.js"></script>
+</body>
+
+</html>

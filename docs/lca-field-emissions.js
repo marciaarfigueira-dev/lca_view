@@ -13,18 +13,6 @@ const FILES = [
     basis: "tonne",
     path: "./data/clean_lca/field_emissions/characterisation/field_emissions_characterisation_by_dmu_tonne.csv",
   },
-  {
-    score: "single",
-    scoreLabel: "Single score",
-    basis: "ha",
-    path: "./data/clean_lca/field_emissions/single_score/field_emissions_single_score_by_dmu_ha.csv",
-  },
-  {
-    score: "single",
-    scoreLabel: "Single score",
-    basis: "tonne",
-    path: "./data/clean_lca/field_emissions/single_score/field_emissions_single_score_by_dmu_tonne.csv",
-  },
 ];
 
 const GAS_LABELS = {
@@ -182,7 +170,7 @@ function renderActive(count) {
   if (state.filters.season !== "all") parts.push(`Year ${state.filters.season}`);
   if (state.filters.farmer !== "all") parts.push(`Farmer ${state.filters.farmer}`);
   parts.push(state.filters.basis === "ha" ? "Per hectare" : "Per tonne");
-  parts.push(state.filters.score === "chara" ? "Characterisation" : "Single score");
+  parts.push("Characterisation");
   if (state.filters.gas !== "all") parts.push(gasLabel(state.filters.gas));
   if (state.filters.component !== "all") parts.push(componentLabel(state.filters.component));
   elements.active.textContent = `${parts.join(" • ")} — ${count} rows`;

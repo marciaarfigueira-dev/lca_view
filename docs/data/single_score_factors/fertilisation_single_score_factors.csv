@@ -1,0 +1,88 @@
+nutrient,single_score_file,impact_category,impact_unit,factor_per_unit,factor_unit
+N,nitrogen_N_singlescore_8.json,Total,Pt,519378.6717280199,1 kg N
+N,nitrogen_N_singlescore_8.json,Climate change,Pt,6645.07914,1 kg N
+N,nitrogen_N_singlescore_8.json,Ozone depletion,Pt,5.2984e-10,1 kg N
+N,nitrogen_N_singlescore_8.json,Ionising radiation,Pt,21.066451,1 kg N
+N,nitrogen_N_singlescore_8.json,Photochemical ozone formation,Pt,0.00772702,1 kg N
+N,nitrogen_N_singlescore_8.json,Particulate matter,Pt,2.56557e-11,1 kg N
+N,nitrogen_N_singlescore_8.json,"Human toxicity, non-cancer",Pt,1.748e-13,1 kg N
+N,nitrogen_N_singlescore_8.json,"Human toxicity, cancer",Pt,4.3788000000000003e-16,1 kg N
+N,nitrogen_N_singlescore_8.json,Acidification,Pt,0.19821624,1 kg N
+N,nitrogen_N_singlescore_8.json,"Eutrophication, freshwater",Pt,4.5732e-06,1 kg N
+N,nitrogen_N_singlescore_8.json,"Eutrophication, marine",Pt,0.002243326,1 kg N
+N,nitrogen_N_singlescore_8.json,"Eutrophication, terrestrial",Pt,1.58592573,1 kg N
+N,nitrogen_N_singlescore_8.json,"Ecotoxicity, freshwater",Pt,5565.61551,1 kg N
+N,nitrogen_N_singlescore_8.json,Land use,Pt,254308.65899999999,1 kg N
+N,nitrogen_N_singlescore_8.json,Water use,Pt,210.37731,1 kg N
+N,nitrogen_N_singlescore_8.json,"Resource use, fossils",Pt,252626.08020000003,1 kg N
+N,nitrogen_N_singlescore_8.json,"Resource use, minerals and metals",Pt,1.3007999999999998e-07,1 kg N
+N,nitrogen_N_singlescore_8.json,Climate change - Fossil,Pt,0,1 kg N
+N,nitrogen_N_singlescore_8.json,Climate change - Biogenic,Pt,0,1 kg N
+N,nitrogen_N_singlescore_8.json,Climate change - Land use and LU change,Pt,0,1 kg N
+N,nitrogen_N_singlescore_8.json,"Human toxicity, non-cancer - organics",Pt,0,1 kg N
+N,nitrogen_N_singlescore_8.json,"Human toxicity, non-cancer - inorganics",Pt,0,1 kg N
+N,nitrogen_N_singlescore_8.json,"Human toxicity, non-cancer - metals",Pt,0,1 kg N
+N,nitrogen_N_singlescore_8.json,"Human toxicity, cancer - organics",Pt,0,1 kg N
+N,nitrogen_N_singlescore_8.json,"Human toxicity, cancer - inorganics",Pt,0,1 kg N
+N,nitrogen_N_singlescore_8.json,"Human toxicity, cancer - metals",Pt,0,1 kg N
+N,nitrogen_N_singlescore_8.json,"Ecotoxicity, freshwater - organics",Pt,0,1 kg N
+N,nitrogen_N_singlescore_8.json,"Ecotoxicity, freshwater - inorganics",Pt,0,1 kg N
+N,nitrogen_N_singlescore_8.json,"Ecotoxicity, freshwater - metals",Pt,0,1 kg N
+P,phosphorus_P2O5_singlescore_9.json,Total,Pt,3764220.789358167,1 kg P2O5
+P,phosphorus_P2O5_singlescore_9.json,Climate change,Pt,5038.05543,1 kg P2O5
+P,phosphorus_P2O5_singlescore_9.json,Ozone depletion,Pt,5.1356e-10,1 kg P2O5
+P,phosphorus_P2O5_singlescore_9.json,Ionising radiation,Pt,71.22199499999999,1 kg P2O5
+P,phosphorus_P2O5_singlescore_9.json,Photochemical ozone formation,Pt,0.015733399999999998,1 kg P2O5
+P,phosphorus_P2O5_singlescore_9.json,Particulate matter,Pt,1.5046200000000003e-11,1 kg P2O5
+P,phosphorus_P2O5_singlescore_9.json,"Human toxicity, non-cancer",Pt,5.67226e-13,1 kg P2O5
+P,phosphorus_P2O5_singlescore_9.json,"Human toxicity, cancer",Pt,2.0828e-15,1 kg P2O5
+P,phosphorus_P2O5_singlescore_9.json,Acidification,Pt,0.09966368,1 kg P2O5
+P,phosphorus_P2O5_singlescore_9.json,"Eutrophication, freshwater",Pt,1.96112e-05,1 kg P2O5
+P,phosphorus_P2O5_singlescore_9.json,"Eutrophication, marine",Pt,0.002318746,1 kg P2O5
+P,phosphorus_P2O5_singlescore_9.json,"Eutrophication, terrestrial",Pt,0.34276347,1 kg P2O5
+P,phosphorus_P2O5_singlescore_9.json,"Ecotoxicity, freshwater",Pt,90293.99429999999,1 kg P2O5
+P,phosphorus_P2O5_singlescore_9.json,Land use,Pt,3434320.02,1 kg P2O5
+P,phosphorus_P2O5_singlescore_9.json,Water use,Pt,1554.109634,1 kg P2O5
+P,phosphorus_P2O5_singlescore_9.json,"Resource use, fossils",Pt,232942.92750000002,1 kg P2O5
+P,phosphorus_P2O5_singlescore_9.json,"Resource use, minerals and metals",Pt,2.5872e-07,1 kg P2O5
+P,phosphorus_P2O5_singlescore_9.json,Climate change - Fossil,Pt,0,1 kg P2O5
+P,phosphorus_P2O5_singlescore_9.json,Climate change - Biogenic,Pt,0,1 kg P2O5
+P,phosphorus_P2O5_singlescore_9.json,Climate change - Land use and LU change,Pt,0,1 kg P2O5
+P,phosphorus_P2O5_singlescore_9.json,"Human toxicity, non-cancer - organics",Pt,0,1 kg P2O5
+P,phosphorus_P2O5_singlescore_9.json,"Human toxicity, non-cancer - inorganics",Pt,0,1 kg P2O5
+P,phosphorus_P2O5_singlescore_9.json,"Human toxicity, non-cancer - metals",Pt,0,1 kg P2O5
+P,phosphorus_P2O5_singlescore_9.json,"Human toxicity, cancer - organics",Pt,0,1 kg P2O5
+P,phosphorus_P2O5_singlescore_9.json,"Human toxicity, cancer - inorganics",Pt,0,1 kg P2O5
+P,phosphorus_P2O5_singlescore_9.json,"Human toxicity, cancer - metals",Pt,0,1 kg P2O5
+P,phosphorus_P2O5_singlescore_9.json,"Ecotoxicity, freshwater - organics",Pt,0,1 kg P2O5
+P,phosphorus_P2O5_singlescore_9.json,"Ecotoxicity, freshwater - inorganics",Pt,0,1 kg P2O5
+P,phosphorus_P2O5_singlescore_9.json,"Ecotoxicity, freshwater - metals",Pt,0,1 kg P2O5
+K,potassium_K2O_singlescore_10.json,Total,Pt,3484059.454128132,1 kg K2O
+K,potassium_K2O_singlescore_10.json,Climate change,Pt,4986.658170000001,1 kg K2O
+K,potassium_K2O_singlescore_10.json,Ozone depletion,Pt,5.8312e-10,1 kg K2O
+K,potassium_K2O_singlescore_10.json,Ionising radiation,Pt,51.815903000000006,1 kg K2O
+K,potassium_K2O_singlescore_10.json,Photochemical ozone formation,Pt,0.015512239999999998,1 kg K2O
+K,potassium_K2O_singlescore_10.json,Particulate matter,Pt,1.45961e-11,1 kg K2O
+K,potassium_K2O_singlescore_10.json,"Human toxicity, non-cancer",Pt,8.652599999999999e-13,1 kg K2O
+K,potassium_K2O_singlescore_10.json,"Human toxicity, cancer",Pt,1.4514e-15,1 kg K2O
+K,potassium_K2O_singlescore_10.json,Acidification,Pt,0.06340608,1 kg K2O
+K,potassium_K2O_singlescore_10.json,"Eutrophication, freshwater",Pt,1.2730799999999998e-05,1 kg K2O
+K,potassium_K2O_singlescore_10.json,"Eutrophication, marine",Pt,0.002428524,1 kg K2O
+K,potassium_K2O_singlescore_10.json,"Eutrophication, terrestrial",Pt,0.38357631,1 kg K2O
+K,potassium_K2O_singlescore_10.json,"Ecotoxicity, freshwater",Pt,458127.314,1 kg K2O
+K,potassium_K2O_singlescore_10.json,Land use,Pt,2789874,1 kg K2O
+K,potassium_K2O_singlescore_10.json,Water use,Pt,1161.545319,1 kg K2O
+K,potassium_K2O_singlescore_10.json,"Resource use, fossils",Pt,229857.6558,1 kg K2O
+K,potassium_K2O_singlescore_10.json,"Resource use, minerals and metals",Pt,2.472e-07,1 kg K2O
+K,potassium_K2O_singlescore_10.json,Climate change - Fossil,Pt,0,1 kg K2O
+K,potassium_K2O_singlescore_10.json,Climate change - Biogenic,Pt,0,1 kg K2O
+K,potassium_K2O_singlescore_10.json,Climate change - Land use and LU change,Pt,0,1 kg K2O
+K,potassium_K2O_singlescore_10.json,"Human toxicity, non-cancer - organics",Pt,0,1 kg K2O
+K,potassium_K2O_singlescore_10.json,"Human toxicity, non-cancer - inorganics",Pt,0,1 kg K2O
+K,potassium_K2O_singlescore_10.json,"Human toxicity, non-cancer - metals",Pt,0,1 kg K2O
+K,potassium_K2O_singlescore_10.json,"Human toxicity, cancer - organics",Pt,0,1 kg K2O
+K,potassium_K2O_singlescore_10.json,"Human toxicity, cancer - inorganics",Pt,0,1 kg K2O
+K,potassium_K2O_singlescore_10.json,"Human toxicity, cancer - metals",Pt,0,1 kg K2O
+K,potassium_K2O_singlescore_10.json,"Ecotoxicity, freshwater - organics",Pt,0,1 kg K2O
+K,potassium_K2O_singlescore_10.json,"Ecotoxicity, freshwater - inorganics",Pt,0,1 kg K2O
+K,potassium_K2O_singlescore_10.json,"Ecotoxicity, freshwater - metals",Pt,0,1 kg K2O

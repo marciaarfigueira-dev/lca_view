@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Environmental Tool | Weather Context Methods</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Outfit:wght@300;400;500;600;700&display=swap"
+    rel="stylesheet"
+  />
+  <link rel="stylesheet" href="./pivot.css" />
+</head>
+
+<body class="context-methods-page">
+  <div class="page">
+    <header class="top-bar">
+      <div>
+        <p class="eyebrow">Environmental Tool | Exploratory Method Development</p>
+        <h1>Weather context methods</h1>
+        <p class="lede">
+          Explanation of the seasonal weather context layer used beside farmer-year LCA results. This page describes
+          shared regional context, not farmer-level causal attribution.
+        </p>
+      </div>
+      <div class="pill">
+        <span class="dot"></span>
+        <span>Methods note</span>
+      </div>
+    </header>
+
+    <main class="layout diagnostics-methods-layout">
+      <section class="panel filters">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Boundary</p>
+            <h2>How to read the weather layer</h2>
+          </div>
+          <div class="panel-actions">
+            <a class="ghost overview-link" href="./choose-lens.html">Back to overview</a>
+            <a class="ghost" href="./bioregional-context.html#weather">Back to weather context</a>
+          </div>
+        </div>
+        <p class="panel-note">
+          Weather indicators are shared Sado-region context variables for the rice-growing period. They help interpret
+          whether the LCA years occurred under unusual seasonal conditions, but they do not explain individual
+          farmer-year outcomes by themselves.
+        </p>
+      </section>
+
+      <section class="panel stats">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Baseline</p>
+            <h2>Historical comparison basis</h2>
+          </div>
+        </div>
+        <p class="panel-note">
+          The weather page compares 2022-2024 against the Sado historical distribution for 1991-2024. Grey bands show
+          Q1-Q3, the dark marker shows the historical median, and coloured points show the LCA years.
+        </p>
+      </section>
+
+      <section class="panel pivot">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Metrics</p>
+            <h2>Weather indicators shown</h2>
+          </div>
+        </div>
+        <div class="table-shell">
+          <table>
+            <thead>
+              <tr>
+                <th>Metric group</th>
+                <th>Indicators</th>
+                <th>Interpretation</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Temperature and heatwaves</td>
+                <td>Mean daily maximum temperature, days above 35 deg C and 40 deg C, heatwave days above 35 deg C and 40 deg C.</td>
+                <td>Thermal exposure and extreme-heat context during selected months.</td>
+              </tr>
+              <tr>
+                <td>VPD</td>
+                <td>Mean vapour pressure deficit.</td>
+                <td>Atmospheric drying demand, interpreted as regional context rather than field water status.</td>
+              </tr>
+              <tr>
+                <td>Precipitation</td>
+                <td>Monthly precipitation.</td>
+                <td>Rainfall context, not measured farm-level water availability or irrigation delivery.</td>
+              </tr>
+              <tr>
+                <td>NAO index</td>
+                <td>Monthly North Atlantic Oscillation index.</td>
+                <td>Large-scale atmospheric context, not a direct farm-level driver.</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="panel detail">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Yield Associations</p>
+            <h2>Historical correlations</h2>
+          </div>
+        </div>
+        <p class="panel-note">
+          The yield-association table reports Pearson r, p-value and R2 between monthly context metrics and detrended
+          regional yield residuals over 1991-2024. These are historical regional associations and should not be read as
+          causal evidence for the 34 farmer-year LCA observations.
+        </p>
+      </section>
+    </main>
+  </div>
+  <script src="./i18n.js"></script>
+</body>
+
+</html>

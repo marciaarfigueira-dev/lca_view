@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Environmental Tool | Exploratory Diagnostic Methods</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Outfit:wght@300;400;500;600;700&display=swap"
+    rel="stylesheet"
+  />
+  <link rel="stylesheet" href="./pivot.css" />
+</head>
+
+<body class="diagnostics-methods-page">
+  <div class="page">
+    <header class="top-bar">
+      <div>
+        <p class="eyebrow">Environmental Tool | Exploratory Method Development</p>
+        <h1>PCA and DEA diagnostic methods</h1>
+        <p class="lede">
+          Explanation of the exploratory PCA and DEA options used in the thesis-facing diagnostic page. These methods
+          are not used as farm rankings, causal estimates or compliance assessments.
+        </p>
+      </div>
+      <div class="pill">
+        <span class="dot"></span>
+        <span>Methods note</span>
+      </div>
+    </header>
+
+    <main class="layout diagnostics-methods-layout">
+      <section class="panel filters">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Boundary</p>
+            <h2>How to read these diagnostics</h2>
+          </div>
+          <div class="panel-actions">
+            <a class="ghost overview-link" href="./choose-lens.html">Back to overview</a>
+            <a class="ghost" href="./bioregional-diagnostics.html">Back to diagnostics</a>
+          </div>
+        </div>
+        <p class="panel-note">
+          The exploratory diagnostics use the same 34 farmer-year observations and four simple indicators: nitrogen
+          input, crop-protection active ingredient, soil-operation intensity and yield. They are included to explore
+          possible future analytical routes for larger or more complete datasets. The small availability sample means
+          PCA clusters and DEA frontiers are sensitive to individual observations and should not be interpreted as stable
+          farm types or environmental-efficiency scores.
+        </p>
+      </section>
+
+      <section class="panel stats">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Inputs</p>
+            <h2>Variables used</h2>
+          </div>
+        </div>
+        <div class="table-shell">
+          <table>
+            <thead>
+              <tr>
+                <th>Variable</th>
+                <th>Meaning</th>
+                <th>Interpretation limit</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Nitrogen input</td>
+                <td>Reconstructed fertiliser N input per hectare.</td>
+                <td>Represents applied N, not crop uptake, surplus or measured loss.</td>
+              </tr>
+              <tr>
+                <td>Crop-protection intensity</td>
+                <td>Active ingredient applied per hectare.</td>
+                <td>Represents intervention intensity, not pest pressure or treatment effectiveness.</td>
+              </tr>
+              <tr>
+                <td>Soil-operation intensity</td>
+                <td>Standardised machinery operation area per cultivated hectare.</td>
+                <td>Represents operated area, not measured fuel use or soil compaction.</td>
+              </tr>
+              <tr>
+                <td>Yield</td>
+                <td>Harvested paddy-rice output per hectare from cooperative records.</td>
+                <td>Reflects realised productivity but is not causally attributed to the input indicators.</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="panel pivot">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">PCA / HCPC</p>
+            <h2>Pattern-detection options</h2>
+          </div>
+        </div>
+        <div class="table-shell">
+          <table>
+            <thead>
+              <tr>
+                <th>Option or output</th>
+                <th>Meaning</th>
+                <th>How to interpret it</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>PCA variant: uncapped</td>
+                <td>Principal component analysis using the unmodified indicators.</td>
+                <td>Shows raw multivariate contrast, but can be strongly influenced by extreme observations.</td>
+              </tr>
+              <tr>
+                <td>PCA variant: Winsor p90, p95, p99</td>
+                <td>Values above the selected percentile are capped before PCA.</td>
+                <td>Tests whether the pattern changes when extreme values are dampened.</td>
+              </tr>
+              <tr>
+                <td>PC1 and PC2</td>
+                <td>The first two principal components summarising the largest contrasts among observations.</td>
+                <td>Useful for visual pattern detection, not for assigning definitive farm types.</td>
+              </tr>
+              <tr>
+                <td>HCPC cluster</td>
+                <td>Hierarchical clustering applied to the PCA space.</td>
+                <td>Exploratory grouping only; cluster membership is sensitive in a small sample.</td>
+              </tr>
+              <tr>
+                <td>Silhouette</td>
+                <td>Summary of how separated the exploratory clusters are.</td>
+                <td>Higher values suggest clearer separation, but do not validate causal or agronomic classes.</td>
+              </tr>
+              <tr>
+                <td>ARI</td>
+                <td>Adjusted Rand Index comparing cluster assignments across variants or leave-one-out checks.</td>
+                <td>Used as a robustness signal: lower values mean cluster assignments change more strongly.</td>
+              </tr>
+              <tr>
+                <td>PCA loadings</td>
+                <td>Contribution of each input variable to PC1 and PC2.</td>
+                <td>Shows which indicators shape the plotted contrast.</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="panel detail">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">DEA</p>
+            <h2>Efficiency-diagnostic options</h2>
+          </div>
+        </div>
+        <div class="table-shell">
+          <table>
+            <thead>
+              <tr>
+                <th>Option or output</th>
+                <th>Meaning</th>
+                <th>How to interpret it</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Technical VRS</td>
+                <td>Input-oriented DEA with variable returns to scale.</td>
+                <td>Prototype technical input-output diagnostic using N, crop protection and machinery against yield.</td>
+              </tr>
+              <tr>
+                <td>Technical CRS</td>
+                <td>Input-oriented DEA with constant returns to scale.</td>
+                <td>Scale-sensitive comparison; useful as a contrast to VRS, not as a definitive score.</td>
+              </tr>
+              <tr>
+                <td>Non-CH4 climate-adjusted VRS</td>
+                <td>Environmental sensitivity excluding methane because CH4 is common per hectare in the central LCA model.</td>
+                <td>Tests one environmental framing without letting common methane dominate the frontier.</td>
+              </tr>
+              <tr>
+                <td>Selected-undesirable environmental VRS</td>
+                <td>Prototype DEA including selected undesirable environmental burdens.</td>
+                <td>Exploratory only; not a validated environmental-efficiency ranking.</td>
+              </tr>
+              <tr>
+                <td>Efficiency score</td>
+                <td>Relative distance to the within-sample frontier under the selected model.</td>
+                <td>Frontier is built from only 34 observations, so scores can change if observations or assumptions change.</td>
+              </tr>
+              <tr>
+                <td>Leave-one-out check</td>
+                <td>Recomputes the diagnostic after excluding each observation from its own peer reference set.</td>
+                <td>Shows sensitivity to individual observations and peer-set fragility.</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+  </div>
+  <script src="./i18n.js"></script>
+</body>
+
+</html>

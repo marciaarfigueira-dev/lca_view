@@ -21,7 +21,7 @@
         <p class="eyebrow">Digital Notebook | Interactive Graphs</p>
         <h1>Stacked impact categories</h1>
         <p class="lede">
-          Compare mean farmer-year impacts across input sources and impact categories.
+          Compare input-source contributions across midpoint characterisation and single-score impact results.
         </p>
       </div>
       <div class="pill">
@@ -38,6 +38,8 @@
             <h2>Graph scope</h2>
           </div>
           <div class="panel-actions">
+            <a class="ghost overview-link" href="./choose-lens.html">Back to overview</a>
+            <a class="ghost method-link" href="./input-contributions-methods.html">Methods</a>
             <a class="ghost" href="./bioregional.html">Back</a>
             <button class="ghost" id="reset-filters">Reset</button>
           </div>
@@ -61,15 +63,15 @@
           <label class="field">
             <span>Impact type</span>
             <select id="score-filter">
-              <option value="single">Single score</option>
               <option value="chara">Characterisation</option>
+              <option value="single_score">Single score</option>
             </select>
           </label>
           <label class="field">
             <span>Graph scale</span>
             <select id="scale-filter">
-              <option value="absolute">Absolute value</option>
               <option value="share">100% contribution</option>
+              <option value="absolute">Absolute value</option>
             </select>
           </label>
           <label class="field">
@@ -79,7 +81,10 @@
               <option value="area_weighted">Area-weighted mean</option>
               <option value="production_weighted">Production-weighted mean</option>
               <option value="sum">Total burden</option>
+              <option value="selected_value" hidden>Selected farmer-year value</option>
+              <option value="farmer_mean" hidden>Farmer multi-year mean</option>
             </select>
+            <small id="aggregation-note" class="field-note"></small>
           </label>
           <label class="field">
             <span>Categories</span>

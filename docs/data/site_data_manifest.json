@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-18T18:33:56+00:00",
+  "generated_at_utc": "2026-08-27T08:34:52+00:00",
   "project_root": "/Users/marcia/Desktop/lca_python_organised",
   "rules": [
     "docs/data is generated from cleaned inputs and outputs.",
@@ -10,14 +10,14 @@
     {
       "source": "01_input_data/01_farm_operation_data/pivot_tables/operations_mastersheet - CROP_PROTECTION.csv",
       "target": "docs/data/pivot_tables/operations_mastersheet - CROP_PROTECTION.csv",
-      "bytes": 96716,
-      "sha256": "57a86c3adefb5713273d64d26f60d45c8de385abc3d756c498b18d4608228ddd"
+      "bytes": 89208,
+      "sha256": "080ddab8b71753de724810f2ad959ef9bd73a0b3f22b05e7fd5c72d63e6aaca9"
     },
     {
       "source": "01_input_data/01_farm_operation_data/pivot_tables/operations_mastersheet - FERTILISATION.csv",
       "target": "docs/data/pivot_tables/operations_mastersheet - FERTILISATION.csv",
-      "bytes": 17366,
-      "sha256": "1f5df8c7745f9afec38f5c4ee0904c8226af527057bd0c91ff987076dc15e794"
+      "bytes": 16183,
+      "sha256": "32fe87b88b938da77ce14138ee9f397ae9c2a098faaa6c8e0706d01a612d7803"
     },
     {
       "source": "01_input_data/01_farm_operation_data/pivot_tables/operations_mastersheet - Machines_No_Inputs.csv",
@@ -28,8 +28,8 @@
     {
       "source": "01_input_data/01_farm_operation_data/pivot_tables/operations_mastersheet - SOWING.csv",
       "target": "docs/data/pivot_tables/operations_mastersheet - SOWING.csv",
-      "bytes": 10828,
-      "sha256": "d3fa6f9bb1abfb7749d1b5d231324e6dff9da706f4b251230c1733d6ff1a7e4b"
+      "bytes": 10367,
+      "sha256": "030554bf9e9af523b1ce832360b33410c7e7987add19e0de402dcefc622984d5"
     },
     {
       "source": "01_input_data/01_farm_operation_data/pivot_tables/operations_mastersheet - Water.csv",
@@ -44,18 +44,50 @@
       "sha256": "da47b691bcce8db16d1c4e6dae03b36d419a214717dab766bc913fa379aa7103"
     }
   ],
+  "single_score_reference_factors": [
+    {
+      "source": "01_input_data/02_environmental_impact_input_data/02_single_scores/crop_protection/crop_protection_single_score_factors.csv",
+      "target": "docs/data/single_score_factors/crop_protection_single_score_factors.csv",
+      "bytes": 11334,
+      "sha256": "ba441f59a2dd3a283e398399c6a93e025e7d535e2555169680b070ea33e747f3"
+    },
+    {
+      "source": "01_input_data/02_environmental_impact_input_data/02_single_scores/fertilisation/fertilisation_single_score_factors.csv",
+      "target": "docs/data/single_score_factors/fertilisation_single_score_factors.csv",
+      "bytes": 7393,
+      "sha256": "26054b7deecc90de320b343397619be08459ddd832d5fb84506f2f088c3f3959"
+    },
+    {
+      "source": "01_input_data/02_environmental_impact_input_data/02_single_scores/machines/machines_single_score_factors.csv",
+      "target": "docs/data/single_score_factors/machines_single_score_factors.csv",
+      "bytes": 24169,
+      "sha256": "41a8c768c8bd54f05247194067425d1921d442e9974399ad43b94285014224fb"
+    },
+    {
+      "source": "01_input_data/02_environmental_impact_input_data/02_single_scores/sowing/sowing_single_score_factors.csv",
+      "target": "docs/data/single_score_factors/sowing_single_score_factors.csv",
+      "bytes": 2454,
+      "sha256": "291cbeebe31ee794c18a4c0b9af61a3f6c56d3ead3b977362a6b2a862ed5ac76"
+    },
+    {
+      "source": "01_input_data/02_environmental_impact_input_data/02_single_scores/water/water_single_score_factors.csv",
+      "target": "docs/data/single_score_factors/water_single_score_factors.csv",
+      "bytes": 2101,
+      "sha256": "d888ee81b547bfb102a06e226e429af10379a0fcd84f6a79ecfcadf7e3a28926"
+    }
+  ],
   "clean_lca_outputs": [
     {
       "source": "03_outputs/crop_protection/characterisation/crop_protection_characterisation_by_dmu_ha.csv",
       "target": "docs/data/clean_lca/crop_protection/characterisation/crop_protection_characterisation_by_dmu_ha.csv",
-      "bytes": 339429,
-      "sha256": "d552ff3a0f856167a06efba9846260920819d9eb8bfa608996c810261c8a077a"
+      "bytes": 336489,
+      "sha256": "b2269401f44a63202db5feb66b81d4154317396f58ce28613470653e31280815"
     },
     {
       "source": "03_outputs/crop_protection/characterisation/crop_protection_characterisation_by_dmu_tonne.csv",
       "target": "docs/data/clean_lca/crop_protection/characterisation/crop_protection_characterisation_by_dmu_tonne.csv",
-      "bytes": 351158,
-      "sha256": "9e3b1b249a505be1b19ebf0dea602c3b973d5e91a918ff9c3b4e32d8d00192df"
+      "bytes": 348218,
+      "sha256": "58431d06c4c3d67f53fb9935aec3149e054c11b8a108460631f53602eb4c0171"
     },
     {
       "source": "03_outputs/crop_protection/inventory/crop_protection_inventory_by_dmu.csv",
@@ -84,80 +116,80 @@
     {
       "source": "03_outputs/fertilisation/characterisation/fertilisation_characterisation_by_dmu_ha.csv",
       "target": "docs/data/clean_lca/fertilisation/characterisation/fertilisation_characterisation_by_dmu_ha.csv",
-      "bytes": 195732,
-      "sha256": "d6c0f3bcdeb9c93512aeec58be303645c14b1ed1e270d7971473023c679ec3bf"
+      "bytes": 194215,
+      "sha256": "6de82fee05caa6eb6bc017c1bf3e8e4c3708125c5f7092427da0877f8a814890"
     },
     {
       "source": "03_outputs/fertilisation/characterisation/fertilisation_characterisation_by_dmu_tonne.csv",
       "target": "docs/data/clean_lca/fertilisation/characterisation/fertilisation_characterisation_by_dmu_tonne.csv",
-      "bytes": 201295,
-      "sha256": "85575ec8423f91bd8806893b8aa7ccd369087903602029de14654139c5134f2d"
+      "bytes": 200680,
+      "sha256": "20bab555b5d7f1d19e716e42a5cc3075608220396bdd4d72b60c13745497bb43"
     },
     {
       "source": "03_outputs/fertilisation/inventory/fertilisation_inventory_by_dmu.csv",
       "target": "docs/data/clean_lca/fertilisation/inventory/fertilisation_inventory_by_dmu.csv",
-      "bytes": 2780,
-      "sha256": "fb3021db122f5f5fba31d41fe4e513be813a5abb2d87a39289076e1764e33585"
+      "bytes": 2797,
+      "sha256": "c42f0c359a96bd44d5a40cd6cda8f2b9b04fc16283bc67f12c4317c2c2672a38"
     },
     {
       "source": "03_outputs/fertilisation/single_score/fertilisation_single_score_by_dmu_ha.csv",
       "target": "docs/data/clean_lca/fertilisation/single_score/fertilisation_single_score_by_dmu_ha.csv",
-      "bytes": 264981,
-      "sha256": "a3c71c81ef2d74db2a3246d72f03e71edfa6d0dc9dc95bb67f7dd8b36e9116f8"
+      "bytes": 265870,
+      "sha256": "94fafe15bbe06b1cc14e49ce2f0dd982cd62808e9eda2173279b24098ce401ee"
     },
     {
       "source": "03_outputs/fertilisation/single_score/fertilisation_single_score_by_dmu_tonne.csv",
       "target": "docs/data/clean_lca/fertilisation/single_score/fertilisation_single_score_by_dmu_tonne.csv",
-      "bytes": 268703,
-      "sha256": "f22b8de6add0e3c9a4d4278c07657fdebf87bcbd757837dc84c91a5f492ae229"
+      "bytes": 270407,
+      "sha256": "f19dc13a150b5ab5be6ae8509f8ffb098415cc6fd7646cdc0538b32ec2365fc2"
     },
     {
       "source": "03_outputs/field_emissions/characterisation/field_emissions_characterisation_by_dmu_ha.csv",
       "target": "docs/data/clean_lca/field_emissions/characterisation/field_emissions_characterisation_by_dmu_ha.csv",
-      "bytes": 16682,
-      "sha256": "854af736329af05bddd3e1859c841afe0732de67c1437289159b4ecdf98b0c2d"
+      "bytes": 17166,
+      "sha256": "c2788f9f2a098929ccf1ef27adabec0b6895289045d4412b0066593c65a4e022"
     },
     {
       "source": "03_outputs/field_emissions/characterisation/field_emissions_characterisation_by_dmu_tonne.csv",
       "target": "docs/data/clean_lca/field_emissions/characterisation/field_emissions_characterisation_by_dmu_tonne.csv",
-      "bytes": 18204,
-      "sha256": "58eeb3bc795f71b01e0bb41be1fb650655da9cd1330fd36eb37b68d7b67109d4"
+      "bytes": 18201,
+      "sha256": "c2978c9e2ac4a3b25b14bab209ece018d9087128893432b00705624d988c1852"
     },
     {
       "source": "03_outputs/field_emissions/inventory/field_emissions_inventory_by_dmu.csv",
       "target": "docs/data/clean_lca/field_emissions/inventory/field_emissions_inventory_by_dmu.csv",
-      "bytes": 14398,
-      "sha256": "e1916849ef20acf7cbf48931dcf864f0c3b8f6be6e7b6e5842a37aa1ae9ab107"
+      "bytes": 16608,
+      "sha256": "22df03f2056fa9f4f8459ea76245266432b21f85f9e84a1db2a255d6940bd34d"
     },
     {
       "source": "03_outputs/field_emissions/inventory/n2o_inventory_by_operation.csv",
       "target": "docs/data/clean_lca/field_emissions/inventory/n2o_inventory_by_operation.csv",
-      "bytes": 15918,
-      "sha256": "0a38dfe78cafdad08bea74c01c302b8b0ddc186599d3bfcc334bd0909af3c537"
+      "bytes": 17210,
+      "sha256": "64d6dcbbc08430247be31c7760f54c17fe48b1611d8412c55f8d2c334d3b72f4"
     },
     {
       "source": "03_outputs/field_emissions/single_score/field_emissions_single_score_by_dmu_ha.csv",
       "target": "docs/data/clean_lca/field_emissions/single_score/field_emissions_single_score_by_dmu_ha.csv",
-      "bytes": 15579,
-      "sha256": "247405565b11e778999c831cfafc95bff1ef304e8caf35c88e96d2562de9927b"
+      "bytes": 15906,
+      "sha256": "974c10e8e287cc56bd784f63ab00ba2954ed60d79f0d5587022bb684cdbf9918"
     },
     {
       "source": "03_outputs/field_emissions/single_score/field_emissions_single_score_by_dmu_tonne.csv",
       "target": "docs/data/clean_lca/field_emissions/single_score/field_emissions_single_score_by_dmu_tonne.csv",
-      "bytes": 16766,
-      "sha256": "760c5aebcf442ffa532c24e82ac2073ddee49a25478cc7b921e28967d219ef06"
+      "bytes": 16787,
+      "sha256": "804a6a20acbe19dec3acad9362b0cecef060cbc0167bd560c4016528887e681b"
     },
     {
       "source": "03_outputs/machines/characterisation/machines_characterisation_by_dmu_ha.csv",
       "target": "docs/data/clean_lca/machines/characterisation/machines_characterisation_by_dmu_ha.csv",
-      "bytes": 405951,
-      "sha256": "c719f09fff5b6144f38f9abed0c41def0c24ff4c010ab85c1a5c98be5b0e8f25"
+      "bytes": 399067,
+      "sha256": "30ca52958dd7fcb95a8dac003f53c338cd92128bf064b6bbda6dafdc26f938f9"
     },
     {
       "source": "03_outputs/machines/characterisation/machines_characterisation_by_dmu_tonne.csv",
       "target": "docs/data/clean_lca/machines/characterisation/machines_characterisation_by_dmu_tonne.csv",
-      "bytes": 486220,
-      "sha256": "e4d84828098af4634a40701e938a8e1dd9c414c6fd9c7718671ebec61f3f815f"
+      "bytes": 479336,
+      "sha256": "2a110aa78b180bba3d443167aa641e3ad1207f24ca36471d66354490b5c2199f"
     },
     {
       "source": "03_outputs/machines/inventory/machines_inventory_by_dmu.csv",
@@ -186,14 +218,14 @@
     {
       "source": "03_outputs/sowing/characterisation/sowing_characterisation_by_dmu_ha.csv",
       "target": "docs/data/clean_lca/sowing/characterisation/sowing_characterisation_by_dmu_ha.csv",
-      "bytes": 102568,
-      "sha256": "45ae7ab2c7e6447740dd1f02e211ec47e15b3524f4d861da574565c102137b7b"
+      "bytes": 101598,
+      "sha256": "6fd4f7d0198653a1f9c6658591482ad7875992c2c59cf5d9623e54e59dc8c2fb"
     },
     {
       "source": "03_outputs/sowing/characterisation/sowing_characterisation_by_dmu_tonne.csv",
       "target": "docs/data/clean_lca/sowing/characterisation/sowing_characterisation_by_dmu_tonne.csv",
-      "bytes": 115590,
-      "sha256": "ce030bf85d4d2b84c5d62a7b2024bd213dcb40f7addda95a3867ea572500ee62"
+      "bytes": 114620,
+      "sha256": "6e02171bad894d3ba5c3e25e2d2a1aa92b3f6a78a6c8370cb5152b8bafb064da"
     },
     {
       "source": "03_outputs/sowing/inventory/sowing_inventory_by_dmu.csv",
@@ -218,104 +250,32 @@
       "target": "docs/data/clean_lca/sowing/single_score/sowing_single_score_by_dmu_tonne.csv",
       "bytes": 126539,
       "sha256": "878a4294aa561a376d7ee3fc413124ebd4f6b054a18168178c6a21ef7a681b3a"
-    },
-    {
-      "source": "03_outputs/water/characterisation/water_characterisation_by_dmu_ha.csv",
-      "target": "docs/data/clean_lca/water/characterisation/water_characterisation_by_dmu_ha.csv",
-      "bytes": 89796,
-      "sha256": "7f9dbdbfef8896dc38977a57339c24b49b60d9693e2af4f01d0cf16dffad5d5c"
-    },
-    {
-      "source": "03_outputs/water/characterisation/water_characterisation_by_dmu_tonne.csv",
-      "target": "docs/data/clean_lca/water/characterisation/water_characterisation_by_dmu_tonne.csv",
-      "bytes": 93531,
-      "sha256": "8ae1fde5bd3755363fd34a53db0ac73044bc3d97d417cd92ad266e2bb1750e3e"
-    },
-    {
-      "source": "03_outputs/water/inventory/water_inventory_by_dmu.csv",
-      "target": "docs/data/clean_lca/water/inventory/water_inventory_by_dmu.csv",
-      "bytes": 1609,
-      "sha256": "3d0ed2e4c19f4c313ec849f2b59573dac8a484a82e37bcc0d2d14edcd2f3c495"
-    },
-    {
-      "source": "03_outputs/water/single_score/water_single_score_by_dmu_ha.csv",
-      "target": "docs/data/clean_lca/water/single_score/water_single_score_by_dmu_ha.csv",
-      "bytes": 99258,
-      "sha256": "e525faeb790a113ac65000bf1ae539bd0d9a220a741f47e22acdecd595af10cf"
-    },
-    {
-      "source": "03_outputs/water/single_score/water_single_score_by_dmu_tonne.csv",
-      "target": "docs/data/clean_lca/water/single_score/water_single_score_by_dmu_tonne.csv",
-      "bytes": 103151,
-      "sha256": "78e30d32b8c1cc32006be07470f4e1d3846b6b67c3862878c8f2eab33b62b1b5"
     }
   ],
-  "diagnostics": [
+  "economic_inputs": [
     {
-      "source": "03_outputs/dea/technical_dea_vrs_crs_results.csv",
-      "target": "docs/data/diagnostics/dea/technical_dea_vrs_crs_results.csv",
-      "bytes": 4665,
-      "sha256": "a7edeb00c21c870ce51dc0c8be58a08c05c603caa118178f64a57be742a17537"
+      "source": "01_input_data/03_economic_input_data/crop_protection_price_scenarios_2024.csv",
+      "target": "docs/data/economic/crop_protection_price_scenarios_2024.csv",
+      "bytes": 5485,
+      "sha256": "01255f39c7791209574e65f040175eccec17c11816eaf70dfcb4efabff2570b0"
     },
     {
-      "source": "03_outputs/dea/technical_dea_vrs_crs_summary.csv",
-      "target": "docs/data/diagnostics/dea/technical_dea_vrs_crs_summary.csv",
-      "bytes": 188,
-      "sha256": "82d485d785cc4cf9bbe5fa8c86beec5ca5c76a0331f825321ed875a252104b46"
+      "source": "01_input_data/03_economic_input_data/fertiliser_price_scenarios_2024.csv",
+      "target": "docs/data/economic/fertiliser_price_scenarios_2024.csv",
+      "bytes": 1741,
+      "sha256": "489f27777fd68279730dfbbfc74f1084bfa0624746edbe8381d4fcb9720ef1e3"
     },
     {
-      "source": "03_outputs/dea/technical_dea_leave_one_out_summary.csv",
-      "target": "docs/data/diagnostics/dea/technical_dea_leave_one_out_summary.csv",
-      "bytes": 167,
-      "sha256": "fc350875580d7966d4bad732015f667a3f40b9632b0bbe3b49d6f424db71486c"
+      "source": "01_input_data/03_economic_input_data/rice_paddy_price_scenarios_by_year.csv",
+      "target": "docs/data/economic/rice_paddy_price_scenarios_by_year.csv",
+      "bytes": 1222,
+      "sha256": "275726e6f2a5f6ef78147c0488433bde48a8307d26cb5b0efc1b16b1970beba0"
     },
     {
-      "source": "03_outputs/dea/non_ch4_climate_adjusted_dea_results.csv",
-      "target": "docs/data/diagnostics/dea/non_ch4_climate_adjusted_dea_results.csv",
-      "bytes": 6984,
-      "sha256": "865b61f6f1efaefa15aab1d325d4446b799fe1b03448b370fb0ac32ce57b6389"
-    },
-    {
-      "source": "03_outputs/dea/non_ch4_climate_adjusted_dea_summary.csv",
-      "target": "docs/data/diagnostics/dea/non_ch4_climate_adjusted_dea_summary.csv",
-      "bytes": 171,
-      "sha256": "a5133dac30b326e40f276504c6ab790bf07e47cee6a836f3e3fb609f86172b97"
-    },
-    {
-      "source": "03_outputs/dea/climate_adjusted_dea_results.csv",
-      "target": "docs/data/diagnostics/dea/climate_adjusted_dea_results.csv",
-      "bytes": 6935,
-      "sha256": "d6c35fcf7a5ff740345fe0dcf1b5c298bcff703d71a15de61add27ae6c6bab14"
-    },
-    {
-      "source": "03_outputs/dea/climate_adjusted_dea_summary.csv",
-      "target": "docs/data/diagnostics/dea/climate_adjusted_dea_summary.csv",
-      "bytes": 186,
-      "sha256": "3b0a548d3a48d2c895294aa866471502f66647cdad308ae3c9ed07ed386861a6"
-    },
-    {
-      "source": "03_outputs/pca_hcpc/pca_hcpc_sensitivity_summary.csv",
-      "target": "docs/data/diagnostics/pca_hcpc/pca_hcpc_sensitivity_summary.csv",
-      "bytes": 649,
-      "sha256": "75b97be6176c2db5032d8742d41bd6146792ff8b37e70233bdac3a4444f6306e"
-    },
-    {
-      "source": "03_outputs/pca_hcpc/pca_hcpc_leave_one_out_summary.csv",
-      "target": "docs/data/diagnostics/pca_hcpc/pca_hcpc_leave_one_out_summary.csv",
-      "bytes": 358,
-      "sha256": "06583e46946d550e71dd559122ed1a5791265faf4987f07ab22df6ce730fb2ed"
-    },
-    {
-      "source": "03_outputs/pca_hcpc/pca_hcpc_loadings.csv",
-      "target": "docs/data/diagnostics/pca_hcpc/pca_hcpc_loadings.csv",
-      "bytes": 3314,
-      "sha256": "6b771564078c7138b718b46512df218fa9e45807cc4eb0dd0be7caee41c75b9b"
-    },
-    {
-      "source": "03_outputs/pca_hcpc/pca_hcpc_cluster_centroids.csv",
-      "target": "docs/data/diagnostics/pca_hcpc/pca_hcpc_cluster_centroids.csv",
-      "bytes": 1501,
-      "sha256": "7c882979dfd9c0753f1c9b8e89f7b6d8084dbd22ee7cd324b5a5a8bfc11c07db"
+      "source": "01_input_data/03_economic_input_data/rice_variety_price_group_map.csv",
+      "target": "docs/data/economic/rice_variety_price_group_map.csv",
+      "bytes": 2271,
+      "sha256": "0b4dff24aeea6af8e9e7938bd157a3b8d8f711de771266d22d4b063a96bbdec6"
     }
   ],
   "context": [
@@ -327,6 +287,50 @@
       "rows": 102,
       "bytes": 15909,
       "sha256": "594784bb41d96072da6da9c635db927520fe4ff9dcaba5e462087f53dad8213c"
+    }
+  ],
+  "exploratory_diagnostics": [
+    {
+      "source": "99_archive_do_not_use/removed_from_revised_article_2026-08-05/03_outputs/dea/dea_exploratory_diagnostics_summary_rounded.csv",
+      "target": "docs/data/diagnostics/dea/dea_exploratory_diagnostics_summary_rounded.csv",
+      "bytes": 1054,
+      "sha256": "c2246967b0412855c642ea4168673ebfcd5bf684a16468224fa0841e0e17ec18"
+    },
+    {
+      "source": "99_archive_do_not_use/removed_from_revised_article_2026-08-05/03_outputs/dea/dea_model_comparison_scores.csv",
+      "target": "docs/data/diagnostics/dea/dea_model_comparison_scores.csv",
+      "bytes": 3939,
+      "sha256": "5e86330cab5a54b4d8a975a47f515054aa420098b725668ab2b7e8b6eee2077c"
+    },
+    {
+      "source": "99_archive_do_not_use/removed_from_revised_article_2026-08-05/03_outputs/dea/technical_dea_leave_one_out_summary.csv",
+      "target": "docs/data/diagnostics/dea/technical_dea_leave_one_out_summary.csv",
+      "bytes": 167,
+      "sha256": "fc350875580d7966d4bad732015f667a3f40b9632b0bbe3b49d6f424db71486c"
+    },
+    {
+      "source": "99_archive_do_not_use/removed_from_revised_article_2026-08-05/03_outputs/pca_hcpc/pca_hcpc_sensitivity_summary.csv",
+      "target": "docs/data/diagnostics/pca_hcpc/pca_hcpc_sensitivity_summary.csv",
+      "bytes": 649,
+      "sha256": "75b97be6176c2db5032d8742d41bd6146792ff8b37e70233bdac3a4444f6306e"
+    },
+    {
+      "source": "99_archive_do_not_use/removed_from_revised_article_2026-08-05/03_outputs/pca_hcpc/pca_hcpc_leave_one_out_summary.csv",
+      "target": "docs/data/diagnostics/pca_hcpc/pca_hcpc_leave_one_out_summary.csv",
+      "bytes": 358,
+      "sha256": "06583e46946d550e71dd559122ed1a5791265faf4987f07ab22df6ce730fb2ed"
+    },
+    {
+      "source": "99_archive_do_not_use/removed_from_revised_article_2026-08-05/03_outputs/pca_hcpc/pca_hcpc_loadings.csv",
+      "target": "docs/data/diagnostics/pca_hcpc/pca_hcpc_loadings.csv",
+      "bytes": 3314,
+      "sha256": "6b771564078c7138b718b46512df218fa9e45807cc4eb0dd0be7caee41c75b9b"
+    },
+    {
+      "source": "99_archive_do_not_use/removed_from_revised_article_2026-08-05/03_outputs/pca_hcpc/pca_hcpc_sensitivity_labels.csv",
+      "target": "docs/data/diagnostics/pca_hcpc/pca_hcpc_sensitivity_labels.csv",
+      "bytes": 19813,
+      "sha256": "be47f31791a7adbcdcd7e15280950ec70672a33f9f4eb84fe1b6beab492485c1"
     }
   ]
 }

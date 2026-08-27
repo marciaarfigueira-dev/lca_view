@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Digital Notebook | Farmer-Year Benchmarking</title>
+  <title>Environmental Tool | Farmer-Year Benchmarking</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link
@@ -18,15 +18,16 @@
   <div class="page">
     <header class="top-bar">
       <div>
-        <p class="eyebrow">Digital Notebook | Bioregional Analysis</p>
-        <h1>Farmer-year benchmarking</h1>
+        <p class="eyebrow">Environmental Tool | Bioregional Analysis</p>
+        <h1>Farmer-year bioregional benchmark</h1>
         <p class="lede">
-          Compare each farmer-year with the regional median for a selected impact category.
+          Compare management activities and environmental outcomes with farms operating in the same growing season and
+          with the pooled 2022-2024 regional distribution.
         </p>
       </div>
       <div class="pill">
         <span class="dot"></span>
-        <span>34 farmer-years</span>
+        <span>34 farmer-years | 12 farms | 3 seasons</span>
       </div>
     </header>
 
@@ -34,171 +35,213 @@
       <section class="panel filters">
         <div class="panel-header">
           <div>
-            <p class="eyebrow">Filters</p>
-            <h2>Benchmark scope</h2>
+            <p class="eyebrow">Selection</p>
+            <h2>Farmer-year scope</h2>
           </div>
           <div class="panel-actions">
+            <a class="ghost overview-link" href="./choose-lens.html">Back to overview</a>
+            <a class="ghost method-link" href="./bioregional-benchmark-methods.html">Methods</a>
             <a class="ghost" href="./bioregional.html">Back</a>
             <button class="ghost" id="reset-filters">Reset</button>
           </div>
         </div>
         <div class="filter-grid">
           <label class="field">
-            <span>Year</span>
-            <select id="season-filter"></select>
-          </label>
-          <label class="field">
-            <span>Impact basis</span>
-            <select id="basis-filter">
-              <option value="ha">Per hectare</option>
-              <option value="tonne">Per tonne</option>
+            <span>View</span>
+            <select id="view-filter">
+              <option value="profile">Selected farmer-year profile</option>
+              <option value="regional">All farmers by year</option>
             </select>
           </label>
           <label class="field">
-            <span>Impact type</span>
-            <select id="score-filter">
-              <option value="chara">Characterisation</option>
-              <option value="single">Single score</option>
+            <span>Farmer</span>
+            <select id="farmer-filter"></select>
+          </label>
+          <label class="field">
+            <span>Year</span>
+            <select id="year-filter"></select>
+          </label>
+          <label class="field">
+            <span>Reference</span>
+            <select id="reference-filter">
+              <option value="both">Annual + pooled</option>
+              <option value="annual">Same year</option>
+              <option value="pooled">Pooled 2022-2024</option>
             </select>
           </label>
           <label class="field wide">
-            <span>Impact category</span>
-            <select id="category-filter"></select>
-          </label>
-          <label class="field">
-            <span>Sort</span>
-            <select id="sort-filter">
-              <option value="value_desc">Highest impact first</option>
-              <option value="value_asc">Lowest impact first</option>
-              <option value="farmer">Farmer ID</option>
+            <span>Domain</span>
+            <select id="domain-filter">
+              <option value="all">Complete farmer-year profile</option>
+              <option value="productivity">Productivity</option>
+              <option value="nitrogen">Nitrogen</option>
+              <option value="phosphorus">Phosphorus</option>
+              <option value="potassium">Potassium</option>
+              <option value="crop_protection">Crop protection</option>
+              <option value="mechanisation">Mechanisation</option>
+              <option value="lca_profile">Environmental profile</option>
             </select>
           </label>
         </div>
         <div class="chip" id="active-filters"></div>
+        <p class="panel-note">
+          This is a relative benchmark, not an absolute sustainability ranking. Higher or lower values are interpreted
+          according to the indicator, not as a universal good/bad score.
+        </p>
       </section>
 
       <section class="panel stats">
         <div class="panel-header">
           <div>
             <p class="eyebrow">Overview</p>
-            <h2>Regional median comparison</h2>
+            <h2>Selected farmer-year</h2>
           </div>
         </div>
         <div class="stat-grid" id="stat-grid"></div>
       </section>
 
-      <section class="panel framework">
+      <section class="panel pivot" data-view-panel="profile">
         <div class="panel-header">
           <div>
-            <p class="eyebrow">Draft setup</p>
-            <h2>Benchmarking framework</h2>
+            <p class="eyebrow">Profile</p>
+            <h2>Management and environmental outcomes</h2>
             <p class="panel-note">
-              This table maps the activity indicator to the environmental result that should be benchmarked. It is a
-              working setup for the final farmer-year comparison.
+              Each indicator is shown against the same-year distribution and the pooled regional distribution.
             </p>
           </div>
+          <div class="chip muted" id="profile-count"></div>
         </div>
-        <div class="table-shell framework-table">
-          <table>
-            <thead>
-              <tr>
-                <th>Dimension</th>
-                <th>Activity or performance indicator</th>
-                <th>Environmental result</th>
-                <th>Scale</th>
-                <th>Main interpretation</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td>Productivity</td>
-                <td>Yield, t/ha</td>
-                <td>Full LCA profile per tonne</td>
-                <td>Output-based</td>
-                <td>Shows how realised yield mediates all environmental burdens per unit of rice.</td>
-              </tr>
-              <tr>
-                <td>Nitrogen management</td>
-                <td>N input, kg N/ha; N surplus and NUE pending final assumptions</td>
-                <td>Climate change, acidification, and eutrophication impacts</td>
-                <td>Per hectare</td>
-                <td>Land-based burdens associated with fertiliser production and nitrogen losses.</td>
-              </tr>
-              <tr>
-                <td>Nitrogen productivity</td>
-                <td>N input, kg N/t rice</td>
-                <td>Nitrogen-related LCA impacts per tonne</td>
-                <td>Per tonne</td>
-                <td>Nitrogen demand and associated burden relative to output.</td>
-              </tr>
-              <tr>
-                <td>Crop protection</td>
-                <td>Active ingredient, kg/ha, disaggregated by product where possible</td>
-                <td>Freshwater ecotoxicity and human-toxicity impacts</td>
-                <td>Per hectare</td>
-                <td>Chemical pressure and characterised toxicity associated with the pesticide portfolio.</td>
-              </tr>
-              <tr>
-                <td>Crop-protection productivity</td>
-                <td>Active ingredient, kg/t rice</td>
-                <td>Ecotoxicity and toxicity impacts per tonne</td>
-                <td>Per tonne</td>
-                <td>Chemical use and characterised toxicity relative to output.</td>
-              </tr>
-              <tr>
-                <td>Mechanisation</td>
-                <td>Worked area or operations/ha</td>
-                <td>Fossil-resource use, climate change, ionising radiation, and other machinery-related impacts</td>
-                <td>Per hectare</td>
-                <td>Land-based burdens associated with machinery operations.</td>
-              </tr>
-              <tr>
-                <td>Mechanisation productivity</td>
-                <td>Worked area or operations/t rice</td>
-                <td>Machinery-related impacts per tonne</td>
-                <td>Per tonne</td>
-                <td>Operational burden relative to output.</td>
-              </tr>
-              <tr>
-                <td>Irrigation</td>
-                <td>Water use, m3/ha</td>
-                <td>Water-use impact per hectare</td>
-                <td>Per hectare</td>
-                <td>Water demand and characterised pressure associated with land management.</td>
-              </tr>
-              <tr>
-                <td>Water productivity</td>
-                <td>Water use, m3/t rice</td>
-                <td>Water-use impact per tonne</td>
-                <td>Per tonne</td>
-                <td>Water demand and characterised pressure relative to output.</td>
-              </tr>
-            </tbody>
-          </table>
+        <div class="filter-grid compact">
+          <label class="field wide">
+            <span>Profile indicator</span>
+            <select id="profile-indicator-filter"></select>
+          </label>
         </div>
+        <div id="profile-blocks" class="profile-blocks"></div>
       </section>
 
-      <section class="panel pivot">
+      <section class="panel regional" data-view-panel="regional">
         <div class="panel-header">
           <div>
-            <p class="eyebrow">Benchmark</p>
-            <h2>Farmer-years versus regional median</h2>
-            <p class="panel-note">Bars show total impact for the selected category. The marker indicates the median of the current selection.</p>
+            <p class="eyebrow">Regional view</p>
+            <h2>All farmers by year</h2>
+            <p class="panel-note">
+              Each year shows all farmer-years for the selected indicator as percentage deviation from that year's
+              median. The shaded band marks the annual IQR.
+            </p>
           </div>
-          <div class="chip muted" id="benchmark-count"></div>
+          <div class="chip muted" id="regional-count"></div>
         </div>
-        <div id="benchmark-chart" class="benchmark-chart"></div>
+        <div class="filter-grid compact">
+          <label class="field wide">
+            <span>Regional indicator</span>
+            <select id="regional-indicator-filter"></select>
+          </label>
+        </div>
+        <div id="regional-summary" class="year-summary-grid"></div>
+        <div id="regional-chart" class="dotplot"></div>
       </section>
 
       <section class="panel detail">
         <div class="panel-header">
           <div>
             <p class="eyebrow">Detail</p>
-            <h2>Benchmark values</h2>
+            <h2>Benchmark statistics</h2>
           </div>
           <div class="chip muted" id="detail-count"></div>
         </div>
         <div id="detail-table" class="table-shell"></div>
+      </section>
+
+      <section class="panel method-panel">
+        <details class="method-details">
+          <summary>
+            <span>
+              <span class="eyebrow">Method and limitations</span>
+              <strong>How indicators are linked</strong>
+            </span>
+          </summary>
+          <div class="method-body">
+            <p>
+              The benchmark links record-derived activity indicators to LCA results without treating those links as
+              causal effects or compliance judgements. Irrigation records are retained as reporting evidence, but
+              measured farmer-year water delivery and flooding dynamics were not available for the interpreted LCA.
+              PCA and DEA are treated separately as exploratory method-development diagnostics, not as part of the
+              farmer-year benchmark or as sustainability rankings.
+            </p>
+            <div class="table-shell framework-table">
+              <table>
+                <thead>
+                  <tr>
+                    <th>Dimension</th>
+                    <th>Activity or performance indicator</th>
+                    <th>Environmental result</th>
+                    <th>Scale</th>
+                    <th>Main interpretation</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>Productivity</td>
+                    <td>Yield, t/ha</td>
+                    <td>Full LCA profile per tonne</td>
+                    <td>Output-based</td>
+                    <td>Shows how realised yield mediates environmental burdens per tonne of rice.</td>
+                  </tr>
+                  <tr>
+                    <td>Nitrogen management</td>
+                    <td>N input, kg N/ha and kg N/t rice</td>
+                    <td>N fertiliser production impacts and field N emissions</td>
+                    <td>Per hectare</td>
+                    <td>Land-based burdens associated with N fertiliser production and nitrogen-loss pathways.</td>
+                  </tr>
+                  <tr>
+                    <td>Nitrogen productivity</td>
+                    <td>N input, kg N/t rice</td>
+                    <td>Nitrogen-related LCA impacts per tonne</td>
+                    <td>Per tonne</td>
+                    <td>Nitrogen demand and associated burden relative to output.</td>
+                  </tr>
+                  <tr>
+                    <td>Phosphorus management</td>
+                    <td>P fertiliser input, kg P2O5/ha and kg P2O5/t rice</td>
+                    <td>Freshwater eutrophication, climate, acidification, and mineral-resource impacts from P fertiliser</td>
+                    <td>Per hectare and per tonne</td>
+                    <td>Separates phosphorus fertiliser use from the phosphorus-equivalent unit used for freshwater eutrophication.</td>
+                  </tr>
+                  <tr>
+                    <td>Potassium management</td>
+                    <td>K fertiliser input, kg K2O/ha and kg K2O/t rice</td>
+                    <td>Climate, acidification, and mineral-resource impacts from K fertiliser</td>
+                    <td>Per hectare and per tonne</td>
+                    <td>Separates potassium fertiliser use and production impacts from N and P fertiliser pathways.</td>
+                  </tr>
+                  <tr>
+                    <td>Crop protection</td>
+                    <td>Active ingredient, kg/ha</td>
+                    <td>Freshwater ecotoxicity and human-toxicity impacts</td>
+                    <td>Per hectare</td>
+                    <td>Chemical pressure and characterised toxicity associated with the pesticide portfolio.</td>
+                  </tr>
+                  <tr>
+                    <td>Mechanisation</td>
+                    <td>Worked area or operations/ha and /t</td>
+                    <td>Fossil-resource use, climate change, and ionising radiation</td>
+                    <td>Per hectare and per tonne</td>
+                    <td>Operational burden relative to land management and output.</td>
+                  </tr>
+                  <tr>
+                    <td>Background water use</td>
+                    <td>No foreground irrigation flow retained in interpreted LCA</td>
+                    <td>EF 3.0 water-use category where embedded in upstream inputs</td>
+                    <td>Per hectare and per tonne</td>
+                    <td>Background-process water-use burden, not measured on-farm irrigation demand.</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </details>
       </section>
     </main>
   </div>

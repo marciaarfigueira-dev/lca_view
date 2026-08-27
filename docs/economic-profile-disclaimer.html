@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Environmental Tool | Economic Profiling Boundary</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Outfit:wght@300;400;500;600;700&display=swap"
+    rel="stylesheet" />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+
+<body class="bioregional">
+  <div class="page">
+    <header class="site-header" data-reveal>
+      <div>
+        <a class="back-link" href="./bioregional.html">Back to bioregional analysis</a>
+        <p class="eyebrow">Exploratory Method Development</p>
+        <h1>Economic profiling boundary.</h1>
+        <p class="lede">
+          This view is an exploratory farmer-year cost-revenue profile. It is useful for method development and
+          relative comparison, but it is not a complete farm-accounting or profitability assessment.
+        </p>
+      </div>
+    </header>
+
+    <section class="section" data-reveal>
+      <div class="section-header">
+        <div>
+          <h2>What is included</h2>
+          <p>
+            The profile compares paddy-rice revenue with selected input costs reconstructed from the available records.
+          </p>
+        </div>
+      </div>
+      <div class="card-grid">
+        <div class="card emphasis">
+          <span class="mini">Revenue</span>
+          <h3>Paddy rice</h3>
+          <p>
+            Farmer-year revenue is estimated from harvested paddy-rice production and production-year paddy price
+            scenarios.
+          </p>
+        </div>
+        <div class="card emphasis">
+          <span class="mini">Costs</span>
+          <h3>Selected inputs</h3>
+          <p>
+            Costs currently include fertiliser products and crop-protection products only, using low, central and high
+            price scenarios.
+          </p>
+        </div>
+        <div class="card emphasis">
+          <span class="mini">Margin</span>
+          <h3>Partial margin</h3>
+          <p>
+            The displayed margin is revenue minus the selected priced input domains. It should be read as a partial
+            indicator, not as farm profit.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" data-reveal>
+      <div class="section-header">
+        <div>
+          <h2>What is excluded</h2>
+          <p>
+            Several important cost and income components are missing from this first exploratory layer.
+          </p>
+        </div>
+      </div>
+      <div class="card-grid">
+        <div class="card">
+          <span class="mini">Machinery</span>
+          <h3>Ownership and operation</h3>
+          <p>
+            Machinery purchase, depreciation, maintenance, fuel, contractor fees and machine-specific operating costs
+            are not included.
+          </p>
+        </div>
+        <div class="card">
+          <span class="mini">Farm costs</span>
+          <h3>Labour and fixed costs</h3>
+          <p>
+            Labour, land rent, financing, insurance, storage, drying, transport, cooperative charges and post-harvest
+            costs are outside the current calculation.
+          </p>
+        </div>
+        <div class="card">
+          <span class="mini">Policy</span>
+          <h3>Subsidies and payments</h3>
+          <p>
+            CAP payments, coupled support, scheme payments and other income transfers are not included in the displayed
+            margin.
+          </p>
+        </div>
+        <div class="card">
+          <span class="mini">Uncertainty</span>
+          <h3>Prices are scenarios</h3>
+          <p>
+            Prices are screening assumptions rather than audited transaction prices paid or received by each farmer.
+            The layer should be enhanced with verified prices and additional cost categories.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" data-reveal>
+      <div class="card emphasis">
+        <span class="mini">Continue</span>
+        <h3>Use as exploratory evidence only</h3>
+        <p>
+          Open the profile to compare farmer-years under the same selected boundary. Do not interpret the results as
+          full profitability, financial viability or audited farm income.
+        </p>
+        <a class="card-link" href="./economic-profile.html">Open economic profile</a>
+        <a class="card-link" href="./economic-profile-methods.html">Read methods</a>
+      </div>
+    </section>
+  </div>
+  <script src="./i18n.js"></script>
+  <script src="./app.js"></script>
+</body>
+
+</html>

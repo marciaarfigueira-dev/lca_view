@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Environmental Tool | Economic Profiling</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Outfit:wght@300;400;500;600;700&display=swap"
+    rel="stylesheet"
+  />
+  <link rel="stylesheet" href="./pivot.css" />
+</head>
+
+<body class="economic-profile-page">
+  <div class="page">
+    <header class="top-bar">
+      <div>
+        <p class="eyebrow">Environmental Tool | Exploratory Method Development</p>
+        <h1>Economic profiling</h1>
+        <p class="lede">
+          Compare farmer-year paddy-rice revenue with reconstructed fertiliser and crop-protection costs. The profile
+          combines campaign-specific rice prices with input price scenarios; it is exploratory, not audited farm
+          accounting.
+        </p>
+      </div>
+      <div class="pill">
+        <span class="dot"></span>
+        <span>Cost-revenue profile</span>
+      </div>
+    </header>
+
+    <main class="layout economic-layout">
+      <section class="panel filters">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Filters</p>
+            <h2>Economic scope</h2>
+          </div>
+          <div class="panel-actions">
+            <a class="ghost overview-link" href="./choose-lens.html">Back to overview</a>
+            <a class="ghost" href="./economic-profile-disclaimer.html">Boundary</a>
+            <a class="ghost method-link" href="./economic-profile-methods.html">Methods</a>
+            <a class="ghost" href="./bioregional.html">Back</a>
+            <button class="ghost" id="reset-filters">Reset</button>
+          </div>
+        </div>
+        <div class="filter-grid">
+          <label class="field">
+            <span>Year</span>
+            <select id="year-filter"></select>
+          </label>
+          <label class="field">
+            <span>Farmer</span>
+            <select id="farmer-filter"></select>
+          </label>
+          <label class="field">
+            <span>Cost scope</span>
+            <select id="domain-filter">
+              <option value="all" selected>Fertilisers + crop protection</option>
+              <option value="fertilisers">Fertilisers</option>
+              <option value="crop_protection">Crop protection</option>
+            </select>
+          </label>
+          <label class="field">
+            <span>Price scenario</span>
+            <select id="scenario-filter">
+              <option value="low">Low</option>
+              <option value="central" selected>Central</option>
+              <option value="high">High</option>
+            </select>
+          </label>
+          <label class="field">
+            <span>Functional basis</span>
+            <select id="basis-filter">
+              <option value="ha" selected>EUR/ha</option>
+              <option value="tonne">EUR/t</option>
+            </select>
+          </label>
+        </div>
+        <div class="chip" id="active-filters"></div>
+        <p class="panel-note">
+          Revenue is calculated from paddy-rice production and production-year price scenarios. Costs include only the
+          selected input scope. Seeds, machinery, water, labour, depreciation, land rent, subsidies and post-harvest
+          costs are not included.
+        </p>
+      </section>
+
+      <section class="panel stats">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Overview</p>
+            <h2>Scenario snapshot</h2>
+          </div>
+        </div>
+        <div class="stat-grid" id="stat-grid"></div>
+      </section>
+
+      <section class="panel pivot">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Farmer-Year Profile</p>
+            <h2>Revenue, selected costs and margin</h2>
+            <p class="panel-note">
+              Bars compare paddy-rice revenue with the selected input costs for each farmer-year. Margin is revenue
+              minus the selected priced input domains only.
+            </p>
+          </div>
+          <div class="chip muted" id="range-count"></div>
+        </div>
+        <div id="range-chart" class="economic-range-chart"></div>
+      </section>
+
+      <section class="panel economic-revenue-panel">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Rice Sales</p>
+            <h2>Farmer-year economic table</h2>
+            <p class="panel-note">
+              Revenue uses production-year paddy prices for the corresponding marketing campaign. Gross margin subtracts
+              only the selected priced input domains shown in this page.
+            </p>
+          </div>
+          <div class="chip muted" id="revenue-count"></div>
+        </div>
+        <div id="revenue-table" class="table-shell"></div>
+      </section>
+
+      <section class="panel economic-product-panel">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Products</p>
+            <h2>Price coverage and product contribution</h2>
+          </div>
+          <div class="chip muted" id="product-count"></div>
+        </div>
+        <div id="product-table" class="table-shell"></div>
+      </section>
+
+      <section class="panel detail">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Detail</p>
+            <h2>Farmer-year expenditure table</h2>
+          </div>
+          <div class="chip muted" id="detail-count"></div>
+        </div>
+        <div id="detail-table" class="table-shell"></div>
+      </section>
+    </main>
+  </div>
+  <script src="./i18n.js"></script>
+  <script type="module" src="./economic-profile.js"></script>
+</body>
+
+</html>

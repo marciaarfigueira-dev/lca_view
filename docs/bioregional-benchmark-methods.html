@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Environmental Tool | Benchmark Methods</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Outfit:wght@300;400;500;600;700&display=swap"
+    rel="stylesheet"
+  />
+  <link rel="stylesheet" href="./pivot.css" />
+</head>
+
+<body class="benchmark-methods-page">
+  <div class="page">
+    <header class="top-bar">
+      <div>
+        <p class="eyebrow">Environmental Tool | Bioregional Analysis</p>
+        <h1>Farmer-year benchmark methods</h1>
+        <p class="lede">
+          Explanation of the annual and pooled median benchmarks used to compare farmer-year management and LCA
+          indicators within the observed Sado rice sample.
+        </p>
+      </div>
+      <div class="pill">
+        <span class="dot"></span>
+        <span>Methods note</span>
+      </div>
+    </header>
+
+    <main class="layout diagnostics-methods-layout">
+      <section class="panel filters">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Boundary</p>
+            <h2>What this benchmark shows</h2>
+          </div>
+          <div class="panel-actions">
+            <a class="ghost overview-link" href="./choose-lens.html">Back to overview</a>
+            <a class="ghost" href="./bioregional-benchmark.html">Back to benchmark</a>
+          </div>
+        </div>
+        <p class="panel-note">
+          The benchmark positions each farmer-year relative to other observations in the same sample. It is descriptive,
+          within-sample and non-causal. It does not classify farms as sustainable or unsustainable and does not estimate
+          management effects.
+        </p>
+      </section>
+
+      <section class="panel stats">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">References</p>
+            <h2>Annual and pooled medians</h2>
+          </div>
+        </div>
+        <p class="panel-note">
+          The annual reference compares a farmer-year with the median of the same production year. The pooled reference
+          compares it with the median across 2022-2024. Annual medians reduce direct comparison across different growing
+          seasons; pooled medians show broader position within the three-year sample.
+        </p>
+      </section>
+
+      <section class="panel pivot">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Calculation</p>
+            <h2>Deviation from median</h2>
+          </div>
+        </div>
+        <p class="panel-note">
+          For each selected indicator, the page calculates percentage deviation from the relevant median:
+          100 x (farmer-year value minus median) divided by median. Positive values mean above the reference median and
+          negative values mean below it. Whether above or below is favourable depends on the indicator.
+        </p>
+      </section>
+
+      <section class="panel detail">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Indicator Domains</p>
+            <h2>What can be compared</h2>
+          </div>
+        </div>
+        <div class="table-shell">
+          <table>
+            <thead>
+              <tr>
+                <th>Domain</th>
+                <th>Indicators</th>
+                <th>Interpretation</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Productivity</td>
+                <td>Yield and output-normalised indicators.</td>
+                <td>Shows realised production context, not causal management success.</td>
+              </tr>
+              <tr>
+                <td>Nutrients</td>
+                <td>N, P2O5 and K2O input indicators.</td>
+                <td>Shows applied nutrient intensity, not crop uptake, surplus or losses.</td>
+              </tr>
+              <tr>
+                <td>Crop protection</td>
+                <td>Active ingredient and crop-protection LCA indicators.</td>
+                <td>Represents intervention intensity, not measured pest pressure.</td>
+              </tr>
+              <tr>
+                <td>Mechanisation</td>
+                <td>Operated area and machinery LCA indicators.</td>
+                <td>Represents standardised operation intensity, not measured fuel use.</td>
+              </tr>
+              <tr>
+                <td>Environmental profile</td>
+                <td>EF 3.0 midpoint impacts per hectare and per tonne.</td>
+                <td>Separates land-based pressure from output-normalised burden.</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+  </div>
+  <script src="./i18n.js"></script>
+</body>
+
+</html>

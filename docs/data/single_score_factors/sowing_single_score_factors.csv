@@ -1,0 +1,30 @@
+input,single_score_file,impact_category,impact_unit,factor_per_unit,factor_unit
+seeds,seeds_singlescore_1.json,Total,Pt,16980974.878934015,1 kg seed
+seeds,seeds_singlescore_1.json,Climate change,Pt,6016.38576,1 kg seed
+seeds,seeds_singlescore_1.json,Ozone depletion,Pt,7.7848e-11,1 kg seed
+seeds,seeds_singlescore_1.json,Ionising radiation,Pt,5.252001,1 kg seed
+seeds,seeds_singlescore_1.json,Photochemical ozone formation,Pt,0.0065572,1 kg seed
+seeds,seeds_singlescore_1.json,Particulate matter,Pt,4.0509e-12,1 kg seed
+seeds,seeds_singlescore_1.json,"Human toxicity, non-cancer",Pt,4.3437799999999997e-13,1 kg seed
+seeds,seeds_singlescore_1.json,"Human toxicity, cancer",Pt,3.8458000000000003e-16,1 kg seed
+seeds,seeds_singlescore_1.json,Acidification,Pt,0.01198496,1 kg seed
+seeds,seeds_singlescore_1.json,"Eutrophication, freshwater",Pt,8.7756e-06,1 kg seed
+seeds,seeds_singlescore_1.json,"Eutrophication, marine",Pt,0.002909536,1 kg seed
+seeds,seeds_singlescore_1.json,"Eutrophication, terrestrial",Pt,0.10404252,1 kg seed
+seeds,seeds_singlescore_1.json,"Ecotoxicity, freshwater",Pt,22431.676919999998,1 kg seed
+seeds,seeds_singlescore_1.json,Land use,Pt,16893889.2,1 kg seed
+seeds,seeds_singlescore_1.json,Water use,Pt,31715.821060000002,1 kg seed
+seeds,seeds_singlescore_1.json,"Resource use, fossils",Pt,26916.417690000002,1 kg seed
+seeds,seeds_singlescore_1.json,"Resource use, minerals and metals",Pt,1.8431999999999996e-08,1 kg seed
+seeds,seeds_singlescore_1.json,Climate change - Fossil,Pt,0,1 kg seed
+seeds,seeds_singlescore_1.json,Climate change - Biogenic,Pt,0,1 kg seed
+seeds,seeds_singlescore_1.json,Climate change - Land use and LU change,Pt,0,1 kg seed
+seeds,seeds_singlescore_1.json,"Human toxicity, non-cancer - organics",Pt,0,1 kg seed
+seeds,seeds_singlescore_1.json,"Human toxicity, non-cancer - inorganics",Pt,0,1 kg seed
+seeds,seeds_singlescore_1.json,"Human toxicity, non-cancer - metals",Pt,0,1 kg seed
+seeds,seeds_singlescore_1.json,"Human toxicity, cancer - organics",Pt,0,1 kg seed
+seeds,seeds_singlescore_1.json,"Human toxicity, cancer - inorganics",Pt,0,1 kg seed
+seeds,seeds_singlescore_1.json,"Human toxicity, cancer - metals",Pt,0,1 kg seed
+seeds,seeds_singlescore_1.json,"Ecotoxicity, freshwater - organics",Pt,0,1 kg seed
+seeds,seeds_singlescore_1.json,"Ecotoxicity, freshwater - inorganics",Pt,0,1 kg seed
+seeds,seeds_singlescore_1.json,"Ecotoxicity, freshwater - metals",Pt,0,1 kg seed

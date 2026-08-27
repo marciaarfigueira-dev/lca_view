@@ -1,7 +1,9 @@
 .DS_Store
+**/.DS_Store
 __pycache__/
 *.py[cod]
 ~$*
+.mplconfig/
 
 # Local virtual environments and temporary files
 .venv/
@@ -9,6 +11,11 @@ venv/
 tmp_mplconfig/
 
 # Keep manuscript lock files and generated OS files out of Git.
+00_manuscript/
 00_manuscript/~$*
 docs/.DS_Store
 docs/data/.DS_Store
+
+# Local-only working material.
+99_archive_do_not_use/
+04_publication_site_exports/

@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Digital Notebook | LCA - Field emissions</title>
+  <title>Environmental Tool | Field Emissions</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link
@@ -18,10 +18,10 @@
   <div class="page">
     <header class="top-bar">
       <div>
-        <p class="eyebrow">Digital Notebook | LCA</p>
-        <h1>Field emission impacts</h1>
+        <p class="eyebrow">Farm-Record Backstage | Field Emissions</p>
+        <h1>Field Emissions</h1>
         <p class="lede">
-          Browse methane, nitrous oxide, straw, volatilisation, leaching, and urea CO2 impacts by farmer-year.
+            Browse methane, nitrous oxide, residue, volatilisation, leaching, and urea CO2 impacts by farmer-year.
         </p>
       </div>
       <div class="pill">
@@ -38,6 +38,7 @@
             <h2>Scope</h2>
           </div>
           <div class="panel-actions">
+            <a class="ghost overview-link" href="./choose-lens.html">Back to overview</a>
             <button class="ghost" id="reset-filters">Reset</button>
             <a class="ghost" href="./bioregional.html">Back</a>
           </div>
@@ -62,7 +63,6 @@
             <span>Impact type</span>
             <select id="score-filter">
               <option value="chara">Characterisation</option>
-              <option value="single">Single score</option>
             </select>
           </label>
           <label class="field">
@@ -95,7 +95,18 @@
           </div>
           <div class="chip muted" id="summary-count"></div>
         </div>
-        <div id="summary-table" class="table-shell"></div>
+        <div class="record-viewer" data-record-viewer>
+          <div class="record-view-toggle" role="group" aria-label="Record view">
+            <button type="button" class="active" data-record-view-button="table">Table</button>
+            <button type="button" data-record-view-button="chart">Chart</button>
+          </div>
+          <div id="summary-table" class="table-shell" data-record-view-panel="table"></div>
+          <aside class="graph-placeholder" data-record-view-panel="chart" hidden>
+            <span class="mini">Graphs</span>
+            <strong>Field emissions graph workspace</strong>
+            <p>Use the table view to compare calculated foreground emissions by year, farmer, gas, component, and functional basis.</p>
+          </aside>
+        </div>
       </section>
 
       <section class="panel detail">
@@ -112,6 +123,7 @@
   </div>
   <script src="./i18n.js"></script>
   <script src="./context-back.js"></script>
+  <script src="./record-view-toggle.js"></script>
   <script type="module" src="./lca-field-emissions.js"></script>
 </body>
 

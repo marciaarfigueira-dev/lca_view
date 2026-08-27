@@ -17,14 +17,15 @@
       <header class="top-bar">
         <div>
           <p class="eyebrow">Digital Notebook | Impact Factors</p>
-          <h1>Raw impact factors</h1>
+          <h1>Reference impact factors</h1>
           <p class="lede">
-            Browse the exact factors used in the LCA calculations. Filter by product or impact category.
+            Browse the characterisation and single-score factors used in the LCA calculations. Filter by product or
+            impact category.
           </p>
         </div>
         <div class="pill">
           <span class="dot"></span>
-          <span>Per unit factors</span>
+          <span>EF 3.0 reference factors</span>
         </div>
       </header>
 
@@ -36,7 +37,8 @@
               <h2>Focus the view</h2>
             </div>
             <div class="panel-actions">
-              <a class="ghost" href="./bioregional.html">Back</a>
+              <a class="ghost overview-link" href="./choose-lens.html">Back to overview</a>
+              <a class="ghost" href="./farmer.html">Back to Farm-Record Backstage</a>
               <button class="ghost" id="reset-filters">Reset</button>
             </div>
           </div>
@@ -44,8 +46,8 @@
             <label class="field">
               <span>Factor set</span>
               <select id="type-filter">
-                <option value="single">Single score</option>
                 <option value="chara">Characterisation</option>
+                <option value="single_score">Single score</option>
               </select>
             </label>
             <label class="field">

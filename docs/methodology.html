@@ -39,7 +39,8 @@
             <h2>Environmental impact factors</h2>
           </div>
           <div class="panel-actions">
-            <a class="ghost" href="./bioregional.html">Back</a>
+            <a class="ghost overview-link" href="./choose-lens.html">Back to overview</a>
+            <a class="ghost" href="./farmer.html">Back to Farm-Record Backstage</a>
           </div>
         </div>
         <div class="table-shell">
@@ -53,14 +54,19 @@
             </thead>
             <tbody>
               <tr>
-                <td>Single score</td>
-                <td>Normalised endpoint score</td>
-                <td>Reports mapped product or process impacts in Pt values.</td>
+                <td>EF 3.0 midpoint characterisation</td>
+                <td>Life-cycle impact assessment method</td>
+                <td>Reports impacts in category-specific midpoint units. These results support the interpreted environmental profiles; no normalisation, weighting or single-score aggregation is applied to them.</td>
               </tr>
               <tr>
-                <td>Characterisation</td>
-                <td>Midpoint impact factors</td>
-                <td>Reports impacts in category-specific units such as kg CO2 eq.</td>
+                <td>Pre-characterised single-score factors</td>
+                <td>Optional aggregated reference</td>
+                <td>Available only in explicitly labelled exploratory and reference views. They are not used for manuscript interpretation or farm ranking.</td>
+              </tr>
+              <tr>
+                <td>Background-process unit impact factors</td>
+                <td>Agri-footprint 2.0 and ecoinvent 3 process mappings</td>
+                <td>Mapped to the closest available process and geographical proxy, then scaled by farmer-year activity data.</td>
               </tr>
             </tbody>
           </table>
@@ -124,56 +130,42 @@
                 <td>EFc</td>
                 <td>1.56</td>
                 <td>kg CH4 ha-1 day-1</td>
-                <td>Continuously flooded rice baseline.</td>
+                <td>Central 2019 Refinement value. Sensitivity range: 1.06-2.31.</td>
               </tr>
               <tr>
                 <td>Water regime during cultivation</td>
                 <td>SFw</td>
-                <td>1.00</td>
+                <td>0.60</td>
                 <td>-</td>
-                <td>Continuously flooded cultivation period.</td>
+                <td>Common irrigated-rice assumption where farmer-specific flooding and drainage records were unavailable. Sensitivity alternatives: 0.55 and 1.00.</td>
               </tr>
               <tr>
                 <td>Pre-season water regime</td>
                 <td>SFp</td>
                 <td>1.22</td>
                 <td>-</td>
-                <td>Applied uniformly across farmer-years.</td>
+                <td>Applied uniformly across farmer-years. Sensitivity alternatives: 1.00 and 2.41.</td>
               </tr>
               <tr>
                 <td>Organic amendment scaling</td>
                 <td>SFo</td>
-                <td>2.539</td>
+                <td>1.00</td>
                 <td>-</td>
-                <td>Calculated as 1 + 0.19 x 8.1 and applied consistently.</td>
+                <td>No straw methane multiplier in the central model because straw quantity and incorporation timing were not consistently recorded.</td>
               </tr>
               <tr>
                 <td>Cultivation duration</td>
-                <td>Days</td>
+                <td>t</td>
                 <td>130</td>
                 <td>days</td>
-                <td>Fixed cultivation period.</td>
-              </tr>
-              <tr>
-                <td>Climate characterisation</td>
-                <td>GWP100 CH4</td>
-                <td>28</td>
-                <td>kg CO2 eq kg-1 CH4</td>
-                <td>Used to convert CH4 to kg CO2 eq.</td>
+                <td>Common cultivation-period assumption. Sensitivity range: 111-153 days.</td>
               </tr>
               <tr>
                 <td>Seasonal methane</td>
                 <td>CH4</td>
-                <td>628.19</td>
+                <td>148.45</td>
                 <td>kg CH4 ha-1</td>
-                <td>EFc x SFw x SFp x SFo x Days.</td>
-              </tr>
-              <tr>
-                <td>Methane impact</td>
-                <td>CH4 CO2 eq</td>
-                <td>17,589.30</td>
-                <td>kg CO2 eq ha-1</td>
-                <td>Seasonal CH4 x GWP100 CH4.</td>
+                <td>EFc x SFw x SFp x SFo x t.</td>
               </tr>
             </tbody>
           </table>
@@ -190,8 +182,8 @@
         <p class="lede">
           Nitrous oxide emissions from managed soils include direct emissions from synthetic nitrogen, direct emissions
           from straw returned to the field, and indirect emissions from volatilisation and leaching/runoff. Synthetic
-          nitrogen is separated into urea and compound fertiliser for volatilisation because the current workflow uses
-          different volatilised fractions for these fertiliser types. Straw is included only as an emission-relevant
+          nitrogen is separated by identifiable N form for volatilisation because the current workflow uses
+          different volatilised fractions for urea, ammonium-based and unidentified fertiliser forms. Straw is included only as an emission-relevant
           residue input and is not treated as a co-product. Urea hydrolysis CO2 is added only for rows classified as
           urea.
         </p>
@@ -207,28 +199,28 @@
             <tbody>
               <tr>
                 <td>Direct N2O from synthetic fertiliser</td>
-                <td>N kg/ha x EF1 x 44/28 x GWP100 N2O</td>
-                <td>EF1 = 0.003 kg N2O-N kg-1 N; GWP100 N2O = 273.</td>
+                <td>F_SN x EF1FR x 44/28</td>
+                <td>EF1FR = 0.004 kg N2O-N kg-1 N for flooded rice. Sensitivity range: 0.003-0.005.</td>
               </tr>
               <tr>
-                <td>Direct N2O from straw</td>
-                <td>40.5 x 0.003 x 44/28 x 273</td>
-                <td>Fixed residue N returned = 40.5 kg N ha-1 yr-1; result = 0.191 kg N2O ha-1 yr-1, equal to 52.1235 kg CO2 eq ha-1 yr-1.</td>
+                <td>Direct N2O from crop residues</td>
+                <td>F_CR x EF1FR x 44/28</td>
+                <td>F_CR = 40.5 kg N ha-1 in the central model; a no-residue-return scenario uses F_CR = 0.</td>
               </tr>
               <tr>
                 <td>Indirect N2O from volatilisation</td>
-                <td>N kg/ha x FracGASF x EF4 x 44/28 x 273</td>
-                <td>FracGASF = 0.30 for urea and 0.03 for compound fertiliser; EF4 = 0.01.</td>
+                <td>sum(F_SN,k x FracGASF_k) x EF4 x 44/28</td>
+                <td>EF4 = 0.010 kg N2O-N kg-1 volatilised N. Central FracGASF values: urea 0.15, ammonium-based 0.08, unknown N form 0.11.</td>
               </tr>
               <tr>
                 <td>Indirect N2O from leaching/runoff</td>
-                <td>N kg/ha x FracLEACH x EF5 x 44/28 x 273</td>
-                <td>FracLEACH = 0.30; EF5 = 0.0075.</td>
+                <td>F_N x FracLEACH x EF5 x 44/28</td>
+                <td>FracLEACH = 0.24 and EF5 = 0.011 kg N2O-N kg-1 N lost in the central model.</td>
               </tr>
               <tr>
                 <td>CO2 from urea hydrolysis</td>
-                <td>Urea-classified N kg/ha x 0.20</td>
-                <td>Applied only to fertilisation rows classified as urea in the current calculation pipeline.</td>
+                <td>M_urea x EF_C x 44/12</td>
+                <td>EF_C = 0.20 kg C kg-1 urea. Mixed commercial fertilisers use reconstructed urea-equivalent mass where applicable.</td>
               </tr>
               <tr>
                 <td>Per tonne conversion</td>

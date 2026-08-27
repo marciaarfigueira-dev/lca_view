@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Environmental Tool | LCA System Boundary</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Outfit:wght@300;400;500;600;700&display=swap"
+    rel="stylesheet" />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+
+<body class="bioregional lca-boundary-page">
+  <div class="page">
+    <header class="site-header" data-reveal>
+      <div>
+        <a class="back-link" href="./farmer.html">Back to Farm-Record Backstage</a>
+        <p class="eyebrow">Farm-Record Backstage | LCA model</p>
+        <h1>Life-cycle system boundary.</h1>
+        <p class="lede">
+          Click a system component to inspect the products, operations or foreground emission pathways reconstructed
+          from the farm records and linked LCA datasets.
+        </p>
+      </div>
+    </header>
+
+    <section class="section lca-boundary-shell" data-reveal>
+      <div class="section-header">
+        <div>
+          <h2>Cradle-to-farm-gate model</h2>
+          <p>
+            The system boundary contains upstream input processes, reconstructed on-farm operations, calculated field
+            emissions and the farm-gate paddy-rice reference output. Downstream drying, milling, use and end-of-life
+            pathways are shown outside the boundary.
+          </p>
+        </div>
+      </div>
+
+      <div class="lca-boundary-map">
+        <div class="lca-system-boundary-box">
+          <div class="lca-boundary-grid">
+            <div class="lca-boundary-stage inside-boundary">
+              <h3>1. Upstream production</h3>
+              <p>Background processes</p>
+              <button class="lca-node" data-boundary-key="seeds">Seed production</button>
+              <button class="lca-node" data-boundary-key="fertilisers">Fertiliser production</button>
+              <button class="lca-node" data-boundary-key="crop-protection">Crop-protection supply</button>
+            </div>
+
+            <div class="lca-boundary-stage inside-boundary">
+              <h3>2. On-farm operations</h3>
+              <p>Foreground activities</p>
+              <button class="lca-node" data-boundary-key="seed-inputs">Seeds applied</button>
+              <button class="lca-node" data-boundary-key="nitrogen">N applied</button>
+              <button class="lca-node" data-boundary-key="phosphorus">P2O5 applied</button>
+              <button class="lca-node" data-boundary-key="potassium">K2O applied</button>
+              <button class="lca-node" data-boundary-key="herbicides">Herbicides applied</button>
+              <button class="lca-node" data-boundary-key="fungicides">Fungicides applied</button>
+              <button class="lca-node" data-boundary-key="insecticides">Insecticides applied</button>
+              <button class="lca-node" data-boundary-key="field-operations">Field operations</button>
+              <button class="lca-node muted" data-boundary-key="irrigation">Irrigation records</button>
+            </div>
+
+            <div class="lca-boundary-stage inside-boundary cultivation-stage">
+              <h3>3. Field emissions</h3>
+              <p>Calculated foreground elementary flows</p>
+              <div class="emission-strip">
+                <button class="lca-node compact" data-boundary-key="methane">CH4 from flooded rice</button>
+                <button class="lca-node compact" data-boundary-key="direct-n2o">Direct N2O</button>
+                <button class="lca-node compact" data-boundary-key="indirect-n2o">Indirect N2O</button>
+                <button class="lca-node compact" data-boundary-key="urea-co2">CO2 from urea</button>
+              </div>
+            </div>
+
+            <div class="lca-boundary-stage inside-boundary farm-output-stage">
+              <h3>4. Farm output</h3>
+              <p>Farm-gate reference output</p>
+              <button class="lca-node" data-boundary-key="paddy-output">Paddy rice production</button>
+            </div>
+          </div>
+          <div class="system-boundary-label">System boundary</div>
+        </div>
+
+        <div class="lca-boundary-stage outside-boundary">
+          <h3>Out of scope</h3>
+          <p>Downstream life cycle</p>
+          <button class="lca-node muted" data-boundary-key="downstream">Drying, milling, use and end-of-life</button>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" data-reveal>
+      <div class="boundary-detail-panel" id="boundary-detail-panel">
+        <div>
+          <p class="eyebrow" id="boundary-detail-eyebrow">Selected component</p>
+          <h2 id="boundary-detail-title">Click a block in the system map</h2>
+          <p id="boundary-detail-note">
+            The detail panel will show the products, operations, emission pathways or interpretation boundary attached
+            to that component.
+          </p>
+        </div>
+        <div id="boundary-detail-content" class="boundary-detail-content"></div>
+      </div>
+    </section>
+  </div>
+  <script src="./i18n.js"></script>
+  <script src="./app.js"></script>
+  <script type="module" src="./lca-system-boundary.js?v=20260816g"></script>
+</body>
+
+</html>

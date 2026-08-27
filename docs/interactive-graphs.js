@@ -5,16 +5,19 @@ const SOURCES = [
   { key: "sowing", label: "Sowing", color: "#22c55e", totalColumn: "sowing_total_impact" },
   { key: "fertilisation", label: "Fertilisation", color: "#f59e0b", totalColumn: "fertilisation_total_impact" },
   { key: "machines", label: "Machinery", color: "#6366f1", totalColumn: "machines_total_impact" },
-  { key: "water", label: "Water", color: "#14b8a6", totalColumn: "water_total_impact" },
   { key: "field_emissions", label: "Field emissions", color: "#be123c", totalColumn: "field_emissions_impact" },
 ];
 
 const DISPLAY_SOURCES = [
   ...SOURCES.filter((source) => source.key !== "field_emissions"),
   { key: "field_emissions_ch4", label: "Methane (CH4)", color: "#be123c" },
-  { key: "field_emissions_n2o", label: "N2O emissions", color: "#db2777" },
-  { key: "field_emissions_co2", label: "Urea CO2", color: "#f97316" },
+  { key: "field_emissions_nitrogen", label: "Nitrogen field emissions", color: "#db2777" },
 ];
+
+const SCORE_LABELS = {
+  chara: "Characterisation",
+  single_score: "Single score",
+};
 
 const state = {
   rows: [],
@@ -23,9 +26,10 @@ const state = {
     season: "all",
     farmer: "all",
     basis: "ha",
-    score: "single",
-    scale: "absolute",
+    score: "chara",
+    scale: "share",
     aggregation: "equal_mean",
+    aggregationBeforeLock: "equal_mean",
     limit: "12",
   },
 };
@@ -37,6 +41,7 @@ const elements = {
   score: document.getElementById("score-filter"),
   scale: document.getElementById("scale-filter"),
   aggregation: document.getElementById("aggregation-filter"),
+  aggregationNote: document.getElementById("aggregation-note"),
   limit: document.getElementById("limit-filter"),
   reset: document.getElementById("reset-filters"),
   active: document.getElementById("active-filters"),
@@ -72,10 +77,10 @@ async function init() {
 
 async function loadSource(source) {
   const variants = [
-    { score: "single", folder: "single_score", basis: "ha", suffix: "ha" },
-    { score: "single", folder: "single_score", basis: "tonne", suffix: "tonne" },
     { score: "chara", folder: "characterisation", basis: "ha", suffix: "ha" },
     { score: "chara", folder: "characterisation", basis: "tonne", suffix: "tonne" },
+    { score: "single_score", folder: "single_score", basis: "ha", suffix: "ha" },
+    { score: "single_score", folder: "single_score", basis: "tonne", suffix: "tonne" },
   ];
   return Promise.all(
     variants.map(async (variant) => {
@@ -104,8 +109,7 @@ function sourceIdentity(source, row) {
   }
   const gas = String(row.gas || "").toLowerCase();
   if (gas === "ch4") return { source: "field_emissions_ch4", sourceLabel: "Methane (CH4)", color: "#be123c" };
-  if (gas === "n2o") return { source: "field_emissions_n2o", sourceLabel: "N2O emissions", color: "#db2777" };
-  if (gas === "co2") return { source: "field_emissions_co2", sourceLabel: "Urea CO2", color: "#f97316" };
+  if (gas === "n2o" || gas === "co2") return { source: "field_emissions_nitrogen", sourceLabel: "Nitrogen field emissions", color: "#db2777" };
   return { source: "field_emissions_other", sourceLabel: "Other field emissions", color: "#9f1239" };
 }
 
@@ -147,10 +151,12 @@ function hydrateFilters() {
 function attachEvents() {
   elements.season.addEventListener("change", () => {
     state.filters.season = elements.season.value;
+    syncAggregationForScope();
     render();
   });
   elements.farmer.addEventListener("change", () => {
     state.filters.farmer = elements.farmer.value;
+    syncAggregationForScope();
     render();
   });
   elements.basis.addEventListener("change", () => {
@@ -178,23 +184,26 @@ function attachEvents() {
       season: "all",
       farmer: "all",
       basis: "ha",
-      score: "single",
-      scale: "absolute",
+      score: "chara",
+      scale: "share",
       aggregation: "equal_mean",
+      aggregationBeforeLock: "equal_mean",
       limit: "12",
     });
     elements.season.value = "all";
     elements.farmer.value = "all";
     elements.basis.value = "ha";
-    elements.score.value = "single";
-    elements.scale.value = "absolute";
+    elements.score.value = "chara";
+    elements.scale.value = "share";
     elements.aggregation.value = "equal_mean";
     elements.limit.value = "12";
+    syncAggregationForScope();
     render();
   });
 }
 
 function render() {
+  syncAggregationForScope();
   const rows = filteredRows();
   const categories = buildCategories(rows);
   renderActive(rows.length);
@@ -202,6 +211,37 @@ function render() {
   renderLegend();
   renderChart(categories);
   renderDetail(categories);
+}
+
+function syncAggregationForScope() {
+  const singleFarmer = state.filters.farmer !== "all";
+  const singleYear = state.filters.season !== "all";
+  if (singleFarmer && singleYear) {
+    if (!elements.aggregation.disabled) {
+      state.filters.aggregationBeforeLock = state.filters.aggregation;
+    }
+    state.filters.aggregation = "selected_value";
+    elements.aggregation.disabled = true;
+    elements.aggregation.value = "selected_value";
+    elements.aggregationNote.textContent = "Locked: one selected farmer-year.";
+    return;
+  }
+  if (singleFarmer) {
+    if (!elements.aggregation.disabled) {
+      state.filters.aggregationBeforeLock = state.filters.aggregation;
+    }
+    state.filters.aggregation = "farmer_mean";
+    elements.aggregation.disabled = true;
+    elements.aggregation.value = "farmer_mean";
+    elements.aggregationNote.textContent = "Locked: one farmer across selected years.";
+    return;
+  }
+  if (state.filters.aggregation === "selected_value" || state.filters.aggregation === "farmer_mean") {
+    state.filters.aggregation = state.filters.aggregationBeforeLock || "equal_mean";
+  }
+  elements.aggregation.disabled = false;
+  elements.aggregation.value = state.filters.aggregation;
+  elements.aggregationNote.textContent = "Available when multiple farmer-years are selected.";
 }
 
 function filteredRows() {
@@ -281,7 +321,7 @@ function renderActive(count) {
   if (state.filters.season !== "all") parts.push(`Year ${state.filters.season}`);
   if (state.filters.farmer !== "all") parts.push(`Farmer ${state.filters.farmer}`);
   parts.push(state.filters.basis === "ha" ? "Per hectare" : "Per tonne");
-  parts.push(state.filters.score === "single" ? "Single score" : "Characterisation");
+  parts.push(scoreLabel());
   parts.push(state.filters.scale === "share" ? "100% contribution" : "Absolute value");
   parts.push(aggregationLabel());
   elements.active.textContent = `${parts.join(" • ")} — ${count} source rows`;
@@ -331,7 +371,7 @@ function renderChart(categories) {
       ${categories
         .map((category) => {
           const stackHeight = state.filters.scale === "share" ? 100 : Math.max(2, (category.total / maxTotal) * 100);
-          const unit = state.filters.scale === "share" ? "% of category" : category.unit || valueUnit();
+          const unit = state.filters.scale === "share" ? "% of category" : displayUnit(category.unit);
           const valueLabel = state.filters.scale === "share" ? "100% of category" : `${formatNumber(category.total, 2)} ${unit}`;
           return `
             <div class="stacked-category">
@@ -342,7 +382,7 @@ function renderChart(categories) {
                   .map((segment) => {
                     const pct = category.total ? (segment.value / category.total) * 100 : 0;
                     const height = state.filters.scale === "share" ? pct : (segment.value / category.total) * 100;
-                    return `<div class="stacked-segment" title="${segment.sourceLabel}: ${formatNumber(segment.value, 2)} ${category.unit || valueUnit()} (${formatNumber(pct, 1)}%)" style="height:${height}%; background:${segment.color}"></div>`;
+                    return `<div class="stacked-segment" title="${segment.sourceLabel}: ${formatNumber(segment.value, 2)} ${displayUnit(category.unit)} (${formatNumber(pct, 1)}%)" style="height:${height}%; background:${segment.color}"></div>`;
                   })
                   .join("")}
               </div>
@@ -360,7 +400,7 @@ function renderDetail(categories) {
     category.segments.map((segment) => ({
       category: category.category,
       source: segment.sourceLabel,
-      unit: category.unit || valueUnit(),
+      unit: displayUnit(category.unit),
       value: segment.value,
       share: category.total ? (segment.value / category.total) * 100 : 0,
     }))
@@ -407,7 +447,7 @@ function sourceOrder(key) {
 
 function aggregateContribution(row) {
   const value = row.value || 0;
-  if (state.filters.aggregation === "equal_mean") {
+  if (state.filters.aggregation === "equal_mean" || state.filters.aggregation === "selected_value" || state.filters.aggregation === "farmer_mean") {
     return { numerator: value, denominator: 1 };
   }
   if (state.filters.aggregation === "area_weighted") {
@@ -433,8 +473,14 @@ function aggregationLabel() {
     area_weighted: "Area-weighted mean",
     production_weighted: "Production-weighted mean",
     sum: "Total burden",
+    selected_value: "Selected farmer-year value",
+    farmer_mean: "Farmer multi-year mean",
   };
   return labels[state.filters.aggregation] || state.filters.aggregation;
+}
+
+function scoreLabel() {
+  return SCORE_LABELS[state.filters.score] || state.filters.score;
 }
 
 function fillSelect(select, values, label) {
@@ -462,9 +508,15 @@ function uniqueValues(rows, key) {
 }
 
 function valueUnit() {
-  if (state.filters.aggregation === "sum") return state.filters.score === "single" ? "Pt" : "impact";
-  if (state.filters.score === "single") return state.filters.basis === "ha" ? "Pt/ha" : "Pt/t";
+  if (state.filters.aggregation === "sum") return "impact";
+  if (state.filters.score === "single_score") return state.filters.basis === "ha" ? "Pt/ha" : "Pt/t";
   return state.filters.basis === "ha" ? "impact/ha" : "impact/t";
+}
+
+function displayUnit(unit) {
+  const base = unit || (state.filters.score === "single_score" ? "Pt" : "impact");
+  if (state.filters.aggregation === "sum") return base;
+  return state.filters.basis === "ha" ? `${base}/ha` : `${base}/t`;
 }
 
 function formatNumber(value, digits = 1) {

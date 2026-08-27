@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Environmental Tool | Choose view</title>
+  <title>CAP Farm Notebooks | Choose view</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link
@@ -18,24 +18,46 @@
     <header class="site-header" data-reveal>
       <div class="brand">
         <div>
-          <p class="eyebrow">Environmental Tool</p>
-          <h1>Choose how you want to explore the results.</h1>
+          <p class="eyebrow">CAP Farm Notebooks</p>
+          <h1>Choose how to explore the data.</h1>
           <p class="lede">
-            Start with farmer-year results or explore bioregional patterns across the study area.
+            Browse the harmonised records, compare farmer-year input pressure, environmental profiles and economic
+            analysis through a shared ML-SETS tool architecture.
+            This data is available for 12 rice farmers across the Sado basin, for the 2022, 2023, and 2024 growing
+            seasons.
           </p>
         </div>
       </div>
     </header>
 
+    <section class="section" data-reveal>
+      <div class="section-header">
+        <div>
+          <h2>Tool Architecture</h2>
+          <p>Start here to see how the record infrastructure, farm-system benchmarking and exploratory extensions fit together.</p>
+        </div>
+      </div>
+      <div class="card-grid">
+        <div class="card emphasis">
+          <span class="mini">ML-SETS</span>
+          <h3>Core interpretation map</h3>
+          <p>Inspect the multi-level social-ecological-technical framing that organises the whole prototype.</p>
+          <a class="card-link" href="./ml-sets-framework.html?from=overview">Open architecture</a>
+        </div>
+      </div>
+    </section>
+
     <main class="option-grid" data-reveal>
       <a class="option-card primary" href="./farmer.html">
-        <h2>Farmers Environmental Analysis</h2>
-        <p>Explore all farmer-year environmental results directly, without clustering, on a per-hectare or per-tonne basis.</p>
-        <div class="option-cta">Open farmers analysis</div>
+        <h2>Farm-Record Backstage</h2>
+        <p>Inspect the cleaned records, LCA system boundary, calculation notes and external datasets behind the
+          benchmark and impact views.</p>
+        <div class="option-cta">Open backstage</div>
       </a>
       <a class="option-card" href="./bioregional.html">
-        <h2>Bioregional environmental analysis</h2>
-        <p>Compare the study area across seasons, production systems, and clusters using aggregated environmental results.</p>
+        <h2>Bioregional Benchmarking</h2>
+        <p>Here you can compare farmer-year input benchmarking, environmental and economic profiles. You can also check
+          exploratory methods of bioregional learning.</p>
         <div class="option-cta">Enter bioregional</div>
       </a>
     </main>

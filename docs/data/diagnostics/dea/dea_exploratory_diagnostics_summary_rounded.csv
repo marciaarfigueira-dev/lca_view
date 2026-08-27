@@ -1,0 +1,5 @@
+analysis,model,inputs_or_undesirables,desirable_output,n_dmus,mean_score,median_score,min_score,max_score,frontier_or_efficient_dmus,interpretation
+Technical DEA,VRS input-oriented,N input; crop-protection active ingredient; soil-operation intensity,Yield,34,0.71,0.686,0.445,1.0,6,Technical input-output diagnostic only
+Technical DEA,CRS input-oriented,N input; crop-protection active ingredient; soil-operation intensity,Yield,34,0.533,0.562,0.091,1.0,2,Technical input-output diagnostic only
+Technical DEA robustness,VRS leave-one-out,Same as technical VRS; each DMU excluded from its own peer reference set,Yield,34,1.038,0.66,,,4,2 infeasible and 4 super-efficient frontier observations indicate peer-set sensitivity
+Environmental DEA sensitivity,Selected-undesirable VRS input-oriented,N input; crop-protection active ingredient; soil-operation intensity; non-CH4 climate change; freshwater ecotoxicity; freshwater eutrophication,Yield,34,0.866,0.875,0.573,1.0,10,Environmental-burden sensitivity; not a definitive environmental efficiency ranking

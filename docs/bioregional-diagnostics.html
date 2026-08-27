@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Digital Notebook | Diagnostics</title>
+  <title>Environmental Tool | PCA and DEA Diagnostics</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link
@@ -18,15 +18,17 @@
   <div class="page">
     <header class="top-bar">
       <div>
-        <p class="eyebrow">Digital Notebook | Bioregional Analysis</p>
-        <h1>Technical and environmental diagnostics</h1>
+        <p class="eyebrow">Environmental Tool | Exploratory Method Development</p>
+        <h1>PCA and DEA diagnostics</h1>
         <p class="lede">
-          Review DEA and PCA/HCPC outputs as robustness and sensitivity diagnostics rather than definitive rankings or typologies.
+          Secondary diagnostics for future analytical development. These views are kept separate from the bioregional
+          environmental baseline and farmer-year benchmark, and are not used to rank farms, infer causality or assess
+          sustainability compliance.
         </p>
       </div>
       <div class="pill">
         <span class="dot"></span>
-        <span>Secondary analysis</span>
+        <span>Exploratory only</span>
       </div>
     </header>
 
@@ -34,17 +36,41 @@
       <section class="panel filters">
         <div class="panel-header">
           <div>
-            <p class="eyebrow">Positioning</p>
+            <p class="eyebrow">Scope</p>
             <h2>Interpretation boundary</h2>
           </div>
           <div class="panel-actions">
+            <a class="ghost overview-link" href="./choose-lens.html">Back to overview</a>
+            <a class="ghost method-link" href="./bioregional-diagnostics-methods.html">Methods</a>
             <a class="ghost" href="./bioregional.html">Back</a>
           </div>
         </div>
         <p class="panel-note">
-          These analyses are used to test whether technical efficiency and management-pattern signals are sensitive to assumptions.
-          They are not used as standalone evidence of environmental sustainability.
+          PCA is treated as pattern detection and DEA as a technical-efficiency prototype. The sample contains 34
+          farmer-years from 12 farms, so frontier scores and clusters are sensitive to individual observations, model
+          specification and missing contextual variables. The main article therefore relies on LCA per hectare, LCA per
+          tonne and annual median benchmarks; this page preserves PCA/DEA only as a thesis-facing diagnostic path.
         </p>
+        <div class="filter-grid">
+          <label class="field">
+            <span>PCA variant</span>
+            <select id="variant-filter"></select>
+          </label>
+          <label class="field">
+            <span>Year</span>
+            <select id="year-filter"></select>
+          </label>
+          <label class="field wide">
+            <span>DEA model shown in detail</span>
+            <select id="dea-model-filter">
+              <option value="dea_theta_vrs">Technical VRS</option>
+              <option value="dea_theta_crs">Technical CRS</option>
+              <option value="dea_theta_non_ch4_climate_adjusted_vrs">Non-CH4 climate-adjusted VRS</option>
+              <option value="dea_theta_environmental_selected_undesirable_vrs">Selected-undesirable environmental VRS</option>
+            </select>
+          </label>
+        </div>
+        <div class="chip" id="active-filters"></div>
       </section>
 
       <section class="panel stats">
@@ -60,38 +86,65 @@
       <section class="panel pivot">
         <div class="panel-header">
           <div>
+            <p class="eyebrow">PCA / HCPC</p>
+            <h2>Pattern-detection space</h2>
+            <p class="panel-note">
+              Points are farmer-years positioned on PC1 and PC2. Colours show exploratory clusters for the selected
+              preprocessing variant.
+            </p>
+          </div>
+          <div class="chip muted" id="scatter-count"></div>
+        </div>
+        <div id="pca-scatter" class="exploratory-scatter"></div>
+      </section>
+
+      <section class="panel detail">
+        <div class="panel-header">
+          <div>
             <p class="eyebrow">DEA</p>
-            <h2>Technical and climate-adjusted efficiency checks</h2>
+            <h2>Efficiency sensitivity checks</h2>
           </div>
           <div class="chip muted" id="dea-count"></div>
         </div>
         <div id="dea-summary-table" class="table-shell"></div>
       </section>
 
-      <section class="panel detail">
+      <section class="panel pca-summary-panel">
         <div class="panel-header">
           <div>
-            <p class="eyebrow">PCA / HCPC</p>
-            <h2>Cluster sensitivity checks</h2>
+            <p class="eyebrow">PCA Robustness</p>
+            <h2>Variant and leave-one-out checks</h2>
           </div>
           <div class="chip muted" id="pca-count"></div>
         </div>
         <div id="pca-summary-table" class="table-shell"></div>
       </section>
 
-      <section class="panel full-width">
+      <section class="panel loading-panel">
         <div class="panel-header">
           <div>
-            <p class="eyebrow">Loadings</p>
-            <h2>Baseline PCA loadings</h2>
+            <p class="eyebrow">PCA Loadings</p>
+            <h2>Variables shaping PC1 and PC2</h2>
           </div>
-          <div class="chip muted">winsor p95</div>
+          <div class="chip muted" id="loading-count"></div>
         </div>
         <div id="loading-table" class="table-shell"></div>
+      </section>
+
+      <section class="panel farmer-detail-panel">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Farmer-year Detail</p>
+            <h2>DEA score and PCA position</h2>
+          </div>
+          <div class="chip muted" id="detail-count"></div>
+        </div>
+        <div id="detail-table" class="table-shell"></div>
       </section>
     </main>
   </div>
   <script src="./i18n.js"></script>
+  <script src="./context-back.js"></script>
   <script type="module" src="./bioregional-diagnostics.js"></script>
 </body>
 

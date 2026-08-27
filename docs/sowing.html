@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Digital Notebook | Sowing</title>
+    <title>Environmental Tool | Sowing Records</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link
@@ -16,8 +16,8 @@
     <div class="page">
       <header class="top-bar">
         <div>
-          <p class="eyebrow">Digital Notebook | Sowing</p>
-          <h1>Sowing input table</h1>
+          <p class="eyebrow">Farm-Record Backstage | Sowing</p>
+          <h1>Sowing Records</h1>
           <p class="lede">
             Filter sowing events by year, farmer, variety, operation, or equipment. Track seed rates in kg/ha and kg/t.
           </p>
@@ -36,6 +36,7 @@
             <h2>Focus the view</h2>
           </div>
           <div class="panel-actions">
+            <a class="ghost overview-link" href="./choose-lens.html">Back to overview</a>
             <a class="ghost" href="./bioregional.html">Back</a>
             <button class="ghost" id="reset-filters">Reset</button>
           </div>
@@ -91,7 +92,18 @@
             </div>
             <div class="chip muted" id="pivot-count"></div>
           </div>
-          <div id="pivot-table" class="table-shell"></div>
+          <div class="record-viewer" data-record-viewer>
+            <div class="record-view-toggle" role="group" aria-label="Record view">
+              <button type="button" class="active" data-record-view-button="table">Table</button>
+              <button type="button" data-record-view-button="chart">Chart</button>
+            </div>
+            <div id="pivot-table" class="table-shell" data-record-view-panel="table"></div>
+            <aside class="graph-placeholder" data-record-view-panel="chart" hidden>
+              <span class="mini">Graphs</span>
+              <strong>Sowing graph workspace</strong>
+              <p>Placeholder for seed rate, variety, and sowing-operation charts we will choose next.</p>
+            </aside>
+          </div>
         </section>
 
         <section class="panel detail">
@@ -108,6 +120,7 @@
     </div>
   <script src="./i18n.js"></script>
   <script src="./context-back.js"></script>
+  <script src="./record-view-toggle.js"></script>
     <script type="module" src="./sowing.js"></script>
   </body>
 </html>

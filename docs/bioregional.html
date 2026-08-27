@@ -18,21 +18,38 @@
     <header class="site-header" data-reveal>
       <div>
         <a class="back-link" href="./choose-lens.html">Back to overview</a>
-        <p class="eyebrow">Bioregional analysis</p>
-        <h1>Bioregional results.</h1>
+          <p class="eyebrow">Bioregional analysis</p>
+          <h1>Environmental benchmarking across farmer-years.</h1>
         <p class="lede">
-          This view summarises farmer-year environmental performance across the rice bioregion, with exploratory
-          diagnostics kept separate from the baseline comparison.
+          This view keeps annual LCA profiles, functional-unit contrasts, input contributions, benchmarking, and
+          contextual indicators separate.
         </p>
       </div>
-      <div class="status-pill">Bioregional track</div>
     </header>
 
     <section class="section" data-reveal>
       <div class="section-header">
         <div>
+          <h2>Farmer-Year Benchmarking</h2>
+          <p>Compare the 34 farmer-year observations directly against the regional median.</p>
+        </div>
+      </div>
+      <div class="card-grid">
+        <div class="card emphasis">
+          <span class="mini">Benchmark</span>
+          <h3>Farmer-year comparison</h3>
+          <p>Show each farmer-year above or below the selected regional median, with filters for year, impact category,
+            functional basis, and indicator domain.</p>
+          <a class="card-link" href="./bioregional-benchmark.html">Open benchmark</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" data-reveal>
+      <div class="section-header">
+        <div>
           <h2>Bioregional Environmental Baseline</h2>
-          <p>Summarise farmer-year life-cycle impacts across the bioregion without relying on clusters.</p>
+          <p>Summarise farmer-year life-cycle impacts across the bioregion by impact category and functional unit.</p>
         </div>
       </div>
       <div class="card-grid">
@@ -45,7 +62,8 @@
         <div class="card">
           <span class="mini">Input types</span>
           <h3>Contribution by input type</h3>
-          <p>Explore stacked input-type contribution graphs by impact category: fertilisation, crop protection, machinery, sowing, water, methane, N2O, and urea CO2.</p>
+          <p>Explore stacked input-type contribution graphs by impact category: fertilisation, crop protection,
+            machinery, sowing, methane, N2O, and urea CO2.</p>
           <a class="card-link" href="./interactive-graphs.html">Open input graphs</a>
         </div>
       </div>
@@ -54,65 +72,42 @@
     <section class="section" data-reveal>
       <div class="section-header">
         <div>
-          <h2>Farmer-Year Benchmarking</h2>
-          <p>Compare the 34 farmer-year observations directly against the regional median.</p>
+          <h2>Exploratory Method Development</h2>
+          <p>Keep PCA, DEA, weather and pest-pressure context separate from the main LCA baseline and benchmark.</p>
         </div>
       </div>
       <div class="card-grid">
-        <div class="card emphasis">
-          <span class="mini">Benchmark</span>
-          <h3>DMU comparison</h3>
-          <p>Show each farmer-year above or below the selected regional median, with filters for year, impact category, basis, and method.</p>
-          <a class="card-link" href="./bioregional-benchmark.html">Open benchmark</a>
-        </div>
-      </div>
-    </section>
-
-    <section class="section" data-reveal>
-      <div class="section-header">
-        <div>
-          <h2>Technical And Environmental Diagnostics</h2>
-          <p>Keep DEA and PCA/HCPC as secondary robustness and sensitivity checks.</p>
-        </div>
-      </div>
-      <div class="card-grid">
-        <div class="card emphasis">
-          <span class="mini">Diagnostics</span>
-          <h3>DEA and PCA checks</h3>
-          <p>Technical DEA robustness, climate-adjusted DEA sensitivity, PCA loadings, and cluster-stability checks.</p>
+        <div class="card">
+          <span class="mini">Prototype</span>
+          <h3>PCA and DEA diagnostics</h3>
+          <p>Review pattern-detection and technical-efficiency checks with explicit sample-size and interpretation
+            cautions for thesis-facing future work.</p>
           <a class="card-link" href="./bioregional-diagnostics.html">Open diagnostics</a>
         </div>
         <div class="card">
-          <span class="mini">Exploratory</span>
-          <h3>PCA + HCPC view</h3>
-          <p>Inspect the earlier PCA scatter and cluster assignments as an exploratory diagnostic view.</p>
-          <a class="card-link" href="./cluster.html">Open PCA view</a>
+          <span class="mini">Weather</span>
+          <h3>Weather context</h3>
+          <p>Organise candidate climate indicators for discussion: seasonal temperature, precipitation and heat
+            exposure.</p>
+          <a class="card-link" href="./bioregional-context.html#weather">Open context</a>
+        </div>
+        <div class="card">
+          <span class="mini">Pest proxy</span>
+          <h3>Pest-pressure signals</h3>
+          <p>Review treatment-based signals that may support discussion of pest, disease and weed pressure, without
+            treating applications as direct biological measurements.</p>
+          <a class="card-link" href="./bioregional-pest-proxy.html">Open pest proxy</a>
+        </div>
+        <div class="card">
+          <span class="mini">Economic</span>
+          <h3>Economic profiling</h3>
+          <p>Compare farmer-year paddy-rice revenue with reconstructed fertiliser and crop-protection costs, using low,
+            central and high price scenarios.</p>
+          <a class="card-link" href="./economic-profile-disclaimer.html">Open economic profile</a>
         </div>
       </div>
     </section>
 
-    <section class="section" data-reveal>
-      <div class="section-header">
-        <div>
-          <h2>Contextual Pressures</h2>
-          <p>Place the environmental baseline beside weather and pest-pressure context without making causal claims.</p>
-        </div>
-      </div>
-      <div class="card-grid">
-        <div class="card">
-          <span class="mini">Context</span>
-          <h3>Weather and pest proxy</h3>
-          <p>Organise candidate context indicators for discussion: seasonal temperature, precipitation, heat exposure, and pest-treatment signals.</p>
-          <a class="card-link" href="./bioregional-context.html">Open context</a>
-        </div>
-        <div class="card">
-          <span class="mini">Factors</span>
-          <h3>Impact factors</h3>
-          <p>Reference library for single score and characterisation factors used in the calculations.</p>
-          <a class="card-link" href="./impact-factors.html">View factors</a>
-        </div>
-      </div>
-    </section>
   </div>
   <script src="./i18n.js"></script>
   <script src="./app.js"></script>

@@ -1,0 +1,30 @@
+input,single_score_file,impact_category,impact_unit,factor_per_unit,factor_unit
+water,singlescore_18.json,Total,Pt,48558.4,1 m3 water
+water,singlescore_18.json,Climate change,Pt,0,1 m3 water
+water,singlescore_18.json,Ozone depletion,Pt,0,1 m3 water
+water,singlescore_18.json,Ionising radiation,Pt,0,1 m3 water
+water,singlescore_18.json,Photochemical ozone formation,Pt,0,1 m3 water
+water,singlescore_18.json,Particulate matter,Pt,0,1 m3 water
+water,singlescore_18.json,"Human toxicity, non-cancer",Pt,0,1 m3 water
+water,singlescore_18.json,"Human toxicity, cancer",Pt,0,1 m3 water
+water,singlescore_18.json,Acidification,Pt,0,1 m3 water
+water,singlescore_18.json,"Eutrophication, freshwater",Pt,0,1 m3 water
+water,singlescore_18.json,"Eutrophication, marine",Pt,0,1 m3 water
+water,singlescore_18.json,"Eutrophication, terrestrial",Pt,0,1 m3 water
+water,singlescore_18.json,"Ecotoxicity, freshwater",Pt,0,1 m3 water
+water,singlescore_18.json,Land use,Pt,0,1 m3 water
+water,singlescore_18.json,Water use,Pt,48558.4,1 m3 water
+water,singlescore_18.json,"Resource use, fossils",Pt,0,1 m3 water
+water,singlescore_18.json,"Resource use, minerals and metals",Pt,0,1 m3 water
+water,singlescore_18.json,Climate change - Fossil,Pt,0,1 m3 water
+water,singlescore_18.json,Climate change - Biogenic,Pt,0,1 m3 water
+water,singlescore_18.json,Climate change - Land use and LU change,Pt,0,1 m3 water
+water,singlescore_18.json,"Human toxicity, non-cancer - organics",Pt,0,1 m3 water
+water,singlescore_18.json,"Human toxicity, non-cancer - inorganics",Pt,0,1 m3 water
+water,singlescore_18.json,"Human toxicity, non-cancer - metals",Pt,0,1 m3 water
+water,singlescore_18.json,"Human toxicity, cancer - organics",Pt,0,1 m3 water
+water,singlescore_18.json,"Human toxicity, cancer - inorganics",Pt,0,1 m3 water
+water,singlescore_18.json,"Human toxicity, cancer - metals",Pt,0,1 m3 water
+water,singlescore_18.json,"Ecotoxicity, freshwater - organics",Pt,0,1 m3 water
+water,singlescore_18.json,"Ecotoxicity, freshwater - inorganics",Pt,0,1 m3 water
+water,singlescore_18.json,"Ecotoxicity, freshwater - metals",Pt,0,1 m3 water

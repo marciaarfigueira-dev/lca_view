@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Environmental Tool | Input Contribution Methods</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Outfit:wght@300;400;500;600;700&display=swap"
+    rel="stylesheet"
+  />
+  <link rel="stylesheet" href="./pivot.css" />
+</head>
+
+<body class="contribution-methods-page">
+  <div class="page">
+    <header class="top-bar">
+      <div>
+        <p class="eyebrow">Environmental Tool | Bioregional Analysis</p>
+        <h1>Input-contribution methods</h1>
+        <p class="lede">
+          Explanation of how input-group contribution graphs are calculated and how to interpret dominant drivers.
+        </p>
+      </div>
+      <div class="pill">
+        <span class="dot"></span>
+        <span>Methods note</span>
+      </div>
+    </header>
+
+    <main class="layout diagnostics-methods-layout">
+      <section class="panel filters">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Boundary</p>
+            <h2>What this view shows</h2>
+          </div>
+          <div class="panel-actions">
+            <a class="ghost overview-link" href="./choose-lens.html">Back to overview</a>
+            <a class="ghost" href="./interactive-graphs.html">Back to input graphs</a>
+          </div>
+        </div>
+        <p class="panel-note">
+          Input-contribution graphs split characterised midpoint impacts by modelled source: sowing and seeds,
+          fertiliser production, crop-protection production and field application, machinery operations, methane field
+          emissions and nitrogen-related field emissions.
+        </p>
+      </section>
+
+      <section class="panel stats">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Calculation</p>
+            <h2>Contribution shares</h2>
+          </div>
+        </div>
+        <p class="panel-note">
+          For each farmer-year, impact category and functional basis, the contribution of each input group is divided by
+          the total modelled impact for that category. Stacked bars show mean shares because means preserve additivity
+          in the visual display.
+        </p>
+      </section>
+
+      <section class="panel pivot">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Input Groups</p>
+            <h2>What the groups mean</h2>
+          </div>
+        </div>
+        <div class="table-shell">
+          <table>
+            <thead>
+              <tr>
+                <th>Input group</th>
+                <th>Contains</th>
+                <th>Main limitation</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Sowing and seeds</td>
+                <td>Seed input and seed-production background burdens.</td>
+                <td>On-farm seed handling and establishment success are not modelled.</td>
+              </tr>
+              <tr>
+                <td>Fertilisation</td>
+                <td>Upstream N, P2O5 and K2O fertiliser production.</td>
+                <td>Applied nutrients are not direct evidence of crop uptake or agronomic adequacy.</td>
+              </tr>
+              <tr>
+                <td>Crop protection</td>
+                <td>Product-supply and generic field-emission processes scaled by active ingredient.</td>
+                <td>Product-specific fate, exposure and treatment effectiveness are not represented.</td>
+              </tr>
+              <tr>
+                <td>Machinery</td>
+                <td>Generic operation processes scaled by operated area.</td>
+                <td>Measured fuel use, power, load, speed and field efficiency are unavailable.</td>
+              </tr>
+              <tr>
+                <td>Methane field emissions</td>
+                <td>CH4 from flooded rice cultivation.</td>
+                <td>Common per-hectare parameterisation because farm-specific water regime was unavailable.</td>
+              </tr>
+              <tr>
+                <td>Nitrogen-related field emissions</td>
+                <td>Direct and indirect N2O and urea CO2 foreground flows.</td>
+                <td>Generic emission factors, not measured field-specific losses.</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="panel detail">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Cautions</p>
+            <h2>Dominant-driver interpretation</h2>
+          </div>
+        </div>
+        <p class="panel-note">
+          A dominant input group is interpreted cautiously where the leading source is close to the runner-up. Mean and
+          median shares may differ for heterogeneous categories, especially freshwater ecotoxicity. Water-use
+          contributions refer to background-process water use embedded in retained inputs, not measured on-farm
+          irrigation.
+        </p>
+      </section>
+    </main>
+  </div>
+  <script src="./i18n.js"></script>
+</body>
+
+</html>

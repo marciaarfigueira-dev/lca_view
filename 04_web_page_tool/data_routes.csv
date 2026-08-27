@@ -4,11 +4,12 @@ pivot_fertilisation,docs/data/pivot_tables/operations_mastersheet - FERTILISATIO
 pivot_machines,docs/data/pivot_tables/operations_mastersheet - Machines_No_Inputs.csv,01_input_data/01_farm_operation_data/pivot_tables/operations_mastersheet - Machines_No_Inputs.csv,keep_raw_input_view,Raw input explorer can still use original pivot table.
 pivot_sowing,docs/data/pivot_tables/operations_mastersheet - SOWING.csv,01_input_data/01_farm_operation_data/pivot_tables/operations_mastersheet - SOWING.csv,keep_raw_input_view,Raw input explorer can still use original pivot table.
 pivot_water,docs/data/pivot_tables/operations_mastersheet - Water.csv,01_input_data/01_farm_operation_data/pivot_tables/operations_mastersheet - Water.csv,keep_raw_input_view,Raw input explorer can still use original pivot table.
-lca_fertilisation,docs/data/old_or_page_calculation,03_outputs/fertilisation,replace_with_clean_output,Use generated DMU-level ha and tonne outputs.
-lca_crop_protection,docs/data/old_or_page_calculation,03_outputs/crop_protection,replace_with_clean_output,Use generated DMU-level ha and tonne outputs.
-lca_machines,docs/data/old_or_page_calculation,03_outputs/machines,replace_with_clean_output,Use generated DMU-level ha and tonne outputs.
-lca_sowing,docs/data/old_or_page_calculation,03_outputs/sowing,replace_with_clean_output,Use generated DMU-level ha and tonne outputs.
-lca_field_emissions,docs/data/pivot_tables/old CH4 and N2O CSVs,03_outputs/field_emissions,replace_with_clean_output,Use corrected methane/N2O/straw/urea outputs.
-lca_water,docs/data/old_or_page_calculation,03_outputs/water,replace_with_clean_output,Use generated DMU-level ha and tonne outputs.
-aggregated_characterisation,docs/data/cluster_impacts/old cluster CSVs,03_outputs/_aggregated/characterisation_by_dmu_*.csv,planned,Build after all DMU-level outputs are stable.
-aggregated_single_score,docs/data/cluster_impacts/old cluster CSVs,03_outputs/_aggregated/single_score_by_dmu_*.csv,planned,Build after all DMU-level outputs are stable.
+lca_fertilisation,docs/data/clean_lca/fertilisation,03_outputs/fertilisation/{inventory,characterisation},active,Use generated farmer-year inventory and EF 3.0 midpoint characterisation outputs.
+lca_crop_protection,docs/data/clean_lca/crop_protection,03_outputs/crop_protection/{inventory,characterisation},active,Use generated farmer-year inventory and EF 3.0 midpoint characterisation outputs.
+lca_machines,docs/data/clean_lca/machines,03_outputs/machines/{inventory,characterisation},active,Use generated farmer-year inventory and EF 3.0 midpoint characterisation outputs.
+lca_sowing,docs/data/clean_lca/sowing,03_outputs/sowing/{inventory,characterisation},active,Use generated farmer-year inventory and EF 3.0 midpoint characterisation outputs.
+lca_field_emissions,docs/data/clean_lca/field_emissions,03_outputs/field_emissions/{inventory,characterisation},active,Use corrected methane/N2O/residue/urea foreground outputs and EF 3.0 midpoint characterisation.
+lca_water,not exported to active clean_lca data,03_outputs/water,excluded,Irrigation records remain available as notebook evidence but foreground irrigation-water LCA is excluded from interpreted web views.
+single_score_outputs,docs/data/clean_lca/*/single_score and docs/data/single_score_factors,03_outputs/*/single_score and 01_input_data/02_environmental_impact_input_data/02_single_scores,active_exploratory,Displayed only in explicitly labelled exploratory and reference views; not used for manuscript interpretation or farm ranking.
+exploratory_dea,docs/data/diagnostics/dea,99_archive_do_not_use/removed_from_revised_article_2026-08-05/03_outputs/dea,exploratory,Optional thesis/web diagnostics only; not used as core manuscript evidence or sustainability ranking.
+exploratory_pca_hcpc,docs/data/diagnostics/pca_hcpc,99_archive_do_not_use/removed_from_revised_article_2026-08-05/03_outputs/pca_hcpc,exploratory,Optional thesis/web diagnostics only; pattern-detection prototype for larger future datasets.

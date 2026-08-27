@@ -443,15 +443,28 @@ button.card-link {
 }
 
 .back-link {
+  display: inline-flex;
+  width: fit-content;
+  align-items: center;
+  margin-bottom: 12px;
+  padding: 8px 12px;
+  border: 1px solid rgba(29, 124, 114, 0.32);
+  border-radius: 999px;
+  background: rgba(29, 124, 114, 0.12);
   text-decoration: none;
-  color: var(--muted);
-  font-size: 0.9rem;
-  letter-spacing: 0.04em;
+  color: var(--ink);
+  font-size: 0.82rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
   text-transform: uppercase;
+  box-shadow: 0 8px 18px rgba(19, 29, 34, 0.1);
+  transition: background 0.18s ease, border-color 0.18s ease, transform 0.18s ease;
 }
 
 .back-link:hover {
-  color: var(--ink);
+  border-color: var(--accent-2);
+  background: rgba(29, 124, 114, 0.2);
+  transform: translateY(-1px);
 }
 
 .form-field {
@@ -490,6 +503,292 @@ button.card-link {
   margin-top: 14px;
 }
 
+.lca-boundary-shell {
+  background: rgba(255, 255, 255, 0.86);
+}
+
+.lca-boundary-map {
+  display: grid;
+  grid-template-columns: minmax(0, 3fr) minmax(190px, 0.75fr);
+  gap: 18px;
+  align-items: stretch;
+}
+
+.lca-system-boundary-box {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 14px;
+  border: 2px dashed rgba(21, 34, 41, 0.45);
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.62);
+}
+
+.lca-boundary-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(150px, 1fr));
+  gap: 14px;
+  align-items: stretch;
+}
+
+.lca-boundary-stage {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  min-height: 100%;
+  padding: 14px;
+  border: 1px solid rgba(21, 34, 41, 0.14);
+  border-radius: 14px;
+  background: #ffffff;
+}
+
+.lca-boundary-stage.inside-boundary {
+  box-shadow: inset 0 0 0 1px rgba(29, 124, 114, 0.12);
+}
+
+.lca-boundary-stage.outside-boundary {
+  background: rgba(21, 34, 41, 0.045);
+  border-style: dashed;
+}
+
+.farm-output-stage {
+  justify-content: center;
+}
+
+.system-boundary-label {
+  align-self: center;
+  padding: 0 14px;
+  color: var(--ink);
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+}
+
+.lca-boundary-stage h3 {
+  margin: 0;
+  font-size: 1rem;
+}
+
+.lca-boundary-stage p {
+  margin: -4px 0 4px;
+  color: var(--muted);
+  font-size: 0.82rem;
+}
+
+.cultivation-stage ul {
+  margin: 0;
+  padding-left: 18px;
+  color: var(--muted);
+  font-size: 0.86rem;
+  line-height: 1.45;
+}
+
+.lca-node {
+  width: 100%;
+  border: 1px solid rgba(21, 34, 41, 0.18);
+  border-radius: 10px;
+  padding: 10px 11px;
+  background: rgba(247, 242, 235, 0.65);
+  color: var(--ink);
+  font-family: inherit;
+  font-weight: 700;
+  text-align: left;
+  cursor: pointer;
+  transition: transform 0.16s ease, border-color 0.16s ease, background 0.16s ease;
+}
+
+.lca-node:hover,
+.lca-node.active {
+  transform: translateY(-1px);
+  border-color: rgba(217, 112, 62, 0.7);
+  background: rgba(217, 112, 62, 0.16);
+}
+
+.lca-node.muted {
+  background: rgba(21, 34, 41, 0.055);
+  color: rgba(21, 34, 41, 0.72);
+}
+
+.lca-node.compact {
+  padding: 8px 9px;
+  font-size: 0.8rem;
+}
+
+.emission-strip {
+  display: grid;
+  gap: 8px;
+  margin-top: auto;
+  padding-top: 12px;
+  border-top: 1px dashed rgba(21, 34, 41, 0.22);
+}
+
+.boundary-detail-panel {
+  display: grid;
+  grid-template-columns: minmax(240px, 0.35fr) minmax(0, 1fr);
+  gap: 20px;
+  align-items: start;
+  padding: 22px;
+  border: 1px solid rgba(21, 34, 41, 0.1);
+  border-radius: 18px;
+  background: #ffffff;
+  box-shadow: var(--shadow);
+}
+
+.boundary-detail-panel h2 {
+  margin: 2px 0 8px;
+}
+
+.boundary-detail-content {
+  min-width: 0;
+}
+
+.boundary-summary-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+  gap: 10px;
+  margin-bottom: 14px;
+}
+
+.boundary-summary-grid div {
+  padding: 11px 12px;
+  border: 1px solid rgba(21, 34, 41, 0.1);
+  border-radius: 12px;
+  background: rgba(247, 242, 235, 0.55);
+}
+
+.boundary-summary-grid small,
+.boundary-summary-grid strong {
+  display: block;
+}
+
+.boundary-summary-grid small {
+  color: var(--muted);
+  font-size: 0.76rem;
+}
+
+.boundary-summary-grid strong {
+  margin-top: 4px;
+  font-size: 1.1rem;
+}
+
+.boundary-table-shell {
+  overflow-x: auto;
+  border: 1px solid rgba(21, 34, 41, 0.1);
+  border-radius: 14px;
+}
+
+.boundary-table-shell table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 640px;
+  font-size: 0.86rem;
+}
+
+.boundary-table-shell th,
+.boundary-table-shell td {
+  padding: 9px 10px;
+  border-bottom: 1px solid rgba(21, 34, 41, 0.08);
+  text-align: left;
+  vertical-align: top;
+}
+
+.boundary-table-shell th {
+  background: rgba(21, 34, 41, 0.06);
+  font-size: 0.76rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.mlsets-grid {
+  display: grid;
+  grid-template-columns: minmax(230px, 0.75fr) minmax(0, 1.35fr);
+  gap: 18px;
+  align-items: stretch;
+}
+
+.mlsets-pipeline,
+.mlsets-framework {
+  display: grid;
+  gap: 12px;
+  padding: 16px;
+  border: 1px solid rgba(21, 34, 41, 0.1);
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.86);
+}
+
+.mlsets-pipeline {
+  align-content: start;
+}
+
+.mlsets-step,
+.mlsets-layer {
+  width: 100%;
+  border: 1px solid rgba(21, 34, 41, 0.16);
+  border-radius: 12px;
+  padding: 12px 14px;
+  color: var(--ink);
+  font-family: inherit;
+  font-weight: 800;
+  line-height: 1.25;
+  text-align: left;
+  cursor: pointer;
+  background: rgba(247, 242, 235, 0.68);
+  transition: transform 0.16s ease, border-color 0.16s ease, background 0.16s ease;
+}
+
+.mlsets-step:hover,
+.mlsets-step.active,
+.mlsets-layer:hover,
+.mlsets-layer.active {
+  transform: translateY(-1px);
+  border-color: rgba(217, 112, 62, 0.72);
+  background: rgba(217, 112, 62, 0.16);
+}
+
+.mlsets-step.final {
+  background: rgba(115, 106, 217, 0.13);
+}
+
+.mlsets-layer-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.mlsets-layer-grid.focal-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.mlsets-layer.landscape {
+  background: rgba(125, 170, 230, 0.26);
+}
+
+.mlsets-layer.regime {
+  background: rgba(125, 170, 230, 0.16);
+}
+
+.mlsets-layer.intervention {
+  background: rgba(230, 168, 91, 0.28);
+}
+
+.mlsets-layer.focal {
+  background: rgba(109, 213, 149, 0.2);
+}
+
+.mlsets-layer.evidence {
+  background: rgba(217, 112, 112, 0.24);
+}
+
+.mlsets-layer.lca {
+  background: rgba(244, 206, 88, 0.28);
+}
+
+.empty-state {
+  margin: 0;
+  color: var(--muted);
+}
+
 [data-reveal] {
   opacity: 0;
   transform: translateY(16px);
@@ -525,6 +824,14 @@ button.card-link {
 
   .section {
     padding: 20px;
+  }
+
+  .lca-boundary-map,
+  .lca-boundary-grid,
+  .mlsets-grid,
+  .mlsets-layer-grid,
+  .boundary-detail-panel {
+    grid-template-columns: 1fr;
   }
 }
 

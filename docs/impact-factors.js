@@ -1,7 +1,22 @@
+import { loadCsv, toNumber } from "./pivot-data.js";
+
+const FACTOR_SET_LABELS = {
+  chara: "Characterisation",
+  single_score: "Single score",
+};
+
+const SINGLE_SCORE_FACTOR_FILES = [
+  { domain: "crop_protection", label: "Crop protection", path: "./data/single_score_factors/crop_protection_single_score_factors.csv" },
+  { domain: "fertilisation", label: "Fertilisation", path: "./data/single_score_factors/fertilisation_single_score_factors.csv" },
+  { domain: "machines", label: "Machinery", path: "./data/single_score_factors/machines_single_score_factors.csv" },
+  { domain: "sowing", label: "Sowing", path: "./data/single_score_factors/sowing_single_score_factors.csv" },
+  { domain: "water", label: "Water", path: "./data/single_score_factors/water_single_score_factors.csv" },
+];
+
 const state = {
-  datasets: { single: [], chara: [] },
+  datasets: { chara: [], single_score: [] },
   filters: {
-    type: "single",
+    type: "chara",
     product: "all",
     category: "all",
     search: "",
@@ -28,17 +43,17 @@ init();
 async function init() {
   const params = new URLSearchParams(window.location.search);
   const type = params.get("type");
-  if (type === "single" || type === "chara") {
+  if (Object.prototype.hasOwnProperty.call(state.datasets, type)) {
     state.filters.type = type;
   }
   elements.type.value = state.filters.type;
 
-  const [single, chara] = await Promise.all([
-    loadJson("./data/singlescore.json"),
+  const [chara, singleScore] = await Promise.all([
     loadJson("./data/characterisation.json"),
+    loadSingleScoreFactors(),
   ]);
-  state.datasets.single = flatten(single, "single");
   state.datasets.chara = flatten(chara, "chara");
+  state.datasets.single_score = singleScore;
 
   hydrateFilters();
   attachEvents();
@@ -47,6 +62,16 @@ async function init() {
   if (window.location.hash === "#units") {
     document.getElementById("units")?.scrollIntoView({ behavior: "smooth" });
   }
+}
+
+async function loadSingleScoreFactors() {
+  const groups = await Promise.all(
+    SINGLE_SCORE_FACTOR_FILES.map(async (file) => {
+      const rows = await loadCsv(file.path);
+      return rows.map((row) => normaliseSingleScoreRow(row, file));
+    })
+  );
+  return groups.flat();
 }
 
 async function loadJson(path) {
@@ -68,6 +93,38 @@ function flatten(records, type) {
       total: Number(cat.total) || 0,
     }));
   });
+}
+
+function normaliseSingleScoreRow(row, file) {
+  const productId = singleScoreProductId(row, file.domain);
+  const productLabel = singleScoreProductLabel(row, file.label, productId);
+  return {
+    type: "single_score",
+    product_id: productId,
+    product_name: productLabel,
+    functional_unit: row.factor_unit || "—",
+    impact_category: row.impact_category || "—",
+    unit_label: row.impact_unit || "Pt",
+    total: toNumber(row.factor_per_unit ?? row.factor_per_ha_worked) || 0,
+  };
+}
+
+function singleScoreProductId(row, domain) {
+  const value = row.operation_label || row.nutrient || row.equipment || row.input || row.factor_group || "input";
+  return `${domain}:${value}`;
+}
+
+function singleScoreProductLabel(row, domainLabel, productId) {
+  const value = row.operation_label || row.nutrient || row.equipment || row.input || row.factor_group || productId;
+  return `${domainLabel} - ${titleCase(value)}`;
+}
+
+function titleCase(value) {
+  return String(value || "")
+    .replace(/[_-]+/g, " ")
+    .replace(/\s+/g, " ")
+    .trim()
+    .replace(/\b\w/g, (letter) => letter.toUpperCase());
 }
 
 function hydrateFilters() {
@@ -159,13 +216,17 @@ function applyFilters() {
 
 function renderActive(count) {
   const parts = [];
-  const { type, product, category, search } = state.filters;
-  parts.push(type === "single" ? "Single score" : "Characterisation");
+  const { product, category, search } = state.filters;
+  parts.push(factorSetLabel());
   if (product !== "all") parts.push(`Product ${product}`);
   if (category !== "all") parts.push(category);
   if (search) parts.push(`Search: “${search}”`);
   const label = parts.length ? parts.join(" • ") : "No filters applied";
   elements.active.textContent = `${label} — ${count} factors`;
+}
+
+function factorSetLabel() {
+  return FACTOR_SET_LABELS[state.filters.type] || state.filters.type;
 }
 
 function renderStats(rows) {
@@ -195,7 +256,7 @@ function renderPivot(rows) {
   }
   const grouped = groupByProduct(rows);
   elements.pivotCount.textContent = `${grouped.length} products`;
-  const showUnit = state.filters.type === "single";
+  const showUnit = false;
   const table = `
     <table>
       <thead>
@@ -235,7 +296,7 @@ function renderDetail(rows) {
     elements.detailTable.innerHTML = `<p class="empty">Nothing to show. Adjust filters to see factors.</p>`;
     return;
   }
-  const showUnit = state.filters.type === "single";
+  const showUnit = false;
   const selectedProduct = state.filters.product !== "all" ? rows[0] : null;
   const productSummary = selectedProduct
     ? `

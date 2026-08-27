@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Environmental Tool | Economic Profiling Methods</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Outfit:wght@300;400;500;600;700&display=swap"
+    rel="stylesheet"
+  />
+  <link rel="stylesheet" href="./pivot.css" />
+</head>
+
+<body class="economic-methods-page">
+  <div class="page">
+    <header class="top-bar">
+      <div>
+        <p class="eyebrow">Environmental Tool | Exploratory Method Development</p>
+        <h1>Economic profiling methods</h1>
+        <p class="lede">
+          Documentation of the paddy-rice revenue scenarios, selected input-cost scenarios and calculation boundary
+          used in the exploratory farmer-year economic profile.
+        </p>
+      </div>
+      <div class="pill">
+        <span class="dot"></span>
+        <span>Methods note</span>
+      </div>
+    </header>
+
+    <main class="layout diagnostics-methods-layout">
+      <section class="panel filters">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Boundary</p>
+            <h2>What the economic profile represents</h2>
+          </div>
+          <div class="panel-actions">
+            <a class="ghost overview-link" href="./choose-lens.html">Back to overview</a>
+            <a class="ghost" href="./economic-profile.html">Back to economic profile</a>
+          </div>
+        </div>
+        <p class="panel-note">
+          The economic profile compares farmer-year paddy-rice revenue with reconstructed fertiliser and
+          crop-protection product costs. It estimates a partial gross margin over selected priced inputs only. It is not
+          audited profitability, not a farm-accounting statement and not evidence of actual transaction prices paid by
+          individual farms.
+        </p>
+      </section>
+
+      <section class="panel stats">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Scenario Logic</p>
+            <h2>Low, central and high prices</h2>
+          </div>
+        </div>
+        <p class="panel-note">
+          Prices are interpreted as coherent low, central and high 2024 screening scenarios. They are not independently
+          sampled product prices. This keeps the uncertainty structure simple and avoids implausible combinations where
+          some products are priced at the high end of the market while others are priced at the low end. The default
+          comparison uses constant 2024 prices for all production years, so differences among years reflect recorded
+          quantities and yields rather than annual price inflation.
+        </p>
+      </section>
+
+      <section class="panel pivot">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Calculation</p>
+            <h2>Estimated input expenditure</h2>
+          </div>
+        </div>
+        <p class="panel-note">
+          For each fertiliser operation, applied product quantity is calculated as dose per hectare multiplied by the
+          covered area. For crop-protection products, the LCA inventory stores active-substance or product-equivalent
+          quantities. These records are converted to commercial product units using the product-specific multipliers in
+          the price table before applying EUR/L or EUR/kg prices. Farmer-year expenditure is then calculated as the sum
+          of priced product quantities multiplied by the selected scenario price.
+        </p>
+        <div class="table-shell">
+          <table>
+            <thead>
+              <tr>
+                <th>Step</th>
+                <th>Expression</th>
+                <th>Interpretation</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Fertiliser quantity</td>
+                <td>Q<sub>ij</sub> = dose<sub>ij</sub> × covered area<sub>ij</sub></td>
+                <td>Commercial fertiliser product applied in operation j of farmer-year i.</td>
+              </tr>
+              <tr>
+                <td>Crop-protection quantity</td>
+                <td>Q<sub>ij</sub> = R<sub>ij</sub> × m<sub>p</sub></td>
+                <td>Recorded crop-protection quantity R is converted to commercial product units using product multiplier m.</td>
+              </tr>
+              <tr>
+                <td>Scenario expenditure</td>
+                <td>C<sub>i,s</sub> = Σ Q<sub>ij</sub> × P<sub>product,s</sub></td>
+                <td>Estimated fertiliser expenditure under price scenario s.</td>
+              </tr>
+              <tr>
+                <td>Per hectare</td>
+                <td>C<sub>i,s,ha</sub> = C<sub>i,s</sub> / A<sub>i</sub></td>
+                <td>Estimated expenditure relative to cultivated rice area.</td>
+              </tr>
+              <tr>
+                <td>Per tonne</td>
+                <td>C<sub>i,s,t</sub> = C<sub>i,s</sub> / P<sub>i</sub></td>
+                <td>Estimated expenditure relative to harvested paddy rice production.</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="panel pivot">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Output Value</p>
+            <h2>Paddy-rice revenue</h2>
+          </div>
+        </div>
+        <p class="panel-note">
+          Rice sales are treated differently from input purchases. Input prices are held constant at 2024 scenario
+          values to compare input quantities under a shared price vector. Paddy-rice revenue uses production-year
+          producer-price scenarios for the corresponding marketing campaign, because the purpose is to approximate the
+          economic revenue opportunity available in that year.
+        </p>
+        <div class="table-shell">
+          <table>
+            <thead>
+              <tr>
+                <th>Step</th>
+                <th>Expression</th>
+                <th>Interpretation</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Variety production</td>
+                <td>P<sub>iv</sub> = A<sub>iv</sub> × y<sub>iv</sub></td>
+                <td>Production of variety v in farmer-year i, calculated from sowing area and recorded yield.</td>
+              </tr>
+              <tr>
+                <td>Variety revenue</td>
+                <td>R<sub>iv,s</sub> = P<sub>iv</sub> × p<sub>g,y,s</sub></td>
+                <td>Production is valued using the paddy price for price group g, production year y and scenario s.</td>
+              </tr>
+              <tr>
+                <td>Farmer-year revenue</td>
+                <td>R<sub>i,s</sub> = Σ R<sub>iv,s</sub></td>
+                <td>Revenue is summed across rice varieties within each farmer-year.</td>
+              </tr>
+              <tr>
+                <td>Selected-input margin</td>
+                <td>M<sub>i,s</sub> = R<sub>i,s</sub> - C<sub>i,s</sub></td>
+                <td>Gross margin over the selected priced input domains only; it is not full farm profitability.</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="panel detail">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Assumptions</p>
+            <h2>Price-scenario boundary</h2>
+          </div>
+        </div>
+        <div class="table-shell">
+          <table>
+            <thead>
+              <tr>
+                <th>Assumption</th>
+                <th>Implication</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>2024 price scenarios</td>
+                <td>All years are valued using the same 2024 price assumptions to compare quantities rather than annual price inflation.</td>
+              </tr>
+              <tr>
+                <td>Market-anchor approach</td>
+                <td>Generic NPK products are modelled from N, P₂O₅ and K₂O value anchors, then widened for formulation, distribution and margin uncertainty.</td>
+              </tr>
+              <tr>
+                <td>Crop-protection anchors</td>
+                <td>Crop-protection ranges use 2021 Portuguese rice product prices as anchors, widened into 2024 screening ranges rather than treated as exact 2024 transactions.</td>
+              </tr>
+              <tr>
+                <td>Product-unit conversion</td>
+                <td>Crop-protection records are converted from the recorded LCA quantity to commercial product units using product-specific multipliers. These multipliers are provisional and should be verified before using the layer for accounting or advisory decisions.</td>
+              </tr>
+              <tr>
+                <td>Inflation and annual prices</td>
+                <td>Generic consumer inflation is not applied in the default calculation. A nominal annual-price mode would require product-group agricultural input price indices for fertilisers and crop-protection products.</td>
+              </tr>
+              <tr>
+                <td>VAT basis</td>
+                <td>Crop-protection anchors were reported with VAT. For internal consistency, all displayed prices are treated as VAT-inclusive screening scenarios unless a future net-price table is supplied.</td>
+              </tr>
+              <tr>
+                <td>Paddy-rice prices</td>
+                <td>Rice revenue uses campaign-specific paddy producer-price scenarios by production year. These should be replaced by SIMA weekly campaign means, minima and maxima when the full export is available.</td>
+              </tr>
+              <tr>
+                <td>Rice variety price groups</td>
+                <td>Varieties classified as Carolino or Agulha use the corresponding paddy price group. Specialty, medium, round or unresolved varieties are explicitly marked as proxy cases and currently valued with the closest available Carolino or Agulha category.</td>
+              </tr>
+              <tr>
+                <td>Branded products</td>
+                <td>Wider ranges are used for branded or stabilised N and N+S fertilisers because formulation premiums are not directly observed.</td>
+              </tr>
+              <tr>
+                <td>Urea 46%</td>
+                <td>Urea has the strongest price anchor and is still represented with a deliberately broad downstream purchasing range.</td>
+              </tr>
+              <tr>
+                <td>Unresolved labels</td>
+                <td>Products without a confirmed price, currently 40-20-00, are excluded from priced totals and reported as unpriced coverage gaps.</td>
+              </tr>
+              <tr>
+                <td>Excluded costs</td>
+                <td>Seeds, machinery, irrigation, labour, land rent, depreciation, financing, subsidies and post-harvest costs are outside this first layer.</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+  </div>
+  <script src="./i18n.js"></script>
+</body>
+
+</html>

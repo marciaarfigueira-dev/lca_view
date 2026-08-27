@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Environmental Tool | Farmers Environmental Analysis</title>
+  <title>Environmental Tool | Farm-Record Backstage</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link
@@ -18,53 +18,52 @@
     <header class="site-header" data-reveal>
       <div>
         <a class="back-link" href="./choose-lens.html">Back to overview</a>
-        <p class="eyebrow">Farmers Environmental Analysis</p>
-        <h1>Farmer-year results without clustering.</h1>
+        <p class="eyebrow">Farm-Record Backstage</p>
+        <h1>Record and model infrastructure</h1>
         <p class="lede">
-          Explore the cleaned input tables and environmental calculations for all farmer-year observations. Clustering
-          is not used in this view.
+          Inspect the cleaned farmer-year records, LCA model boundary, reference datasets and calculation methods that
+          sit behind the benchmark and impact views.
         </p>
       </div>
-      <div class="status-pill">DMU-level analysis</div>
     </header>
 
     <section class="section" data-reveal>
       <div class="section-header">
         <div>
-          <h2>Input Tables</h2>
-          <p>Inspect the updated farm-operation inputs used by the cleaned calculations.</p>
+          <h2>Cleaned Record Categories</h2>
+          <p>Open each harmonised farm-record table and its graph workspace.</p>
         </div>
       </div>
       <div class="card-grid">
         <div class="card">
-          <span class="mini">Inputs</span>
-          <h3>Crop protection</h3>
+          <span class="mini">Records</span>
+          <h3>Crop Protection Records</h3>
           <p>Herbicide, fungicide, and insecticide applications by farmer-year, crop stage, target, and dose.</p>
-          <a class="card-link" href="./crop-protection.html?from=farmers">Open input table</a>
+          <a class="card-link" href="./crop-protection.html?from=farmers">Open records</a>
         </div>
         <div class="card">
-          <span class="mini">Inputs</span>
-          <h3>Sowing</h3>
-          <p>Seed rates, varieties, sowing operations, equipment, and covered area by farmer-year.</p>
-          <a class="card-link" href="./sowing.html?from=farmers">Open input table</a>
-        </div>
-        <div class="card">
-          <span class="mini">Inputs</span>
-          <h3>Fertilisation</h3>
+          <span class="mini">Records</span>
+          <h3>Fertilisation Records</h3>
           <p>N, P, and K rates by fertilisation operation, product, and farmer-year.</p>
-          <a class="card-link" href="./fertilisation.html?from=farmers">Open input table</a>
+          <a class="card-link" href="./fertilisation.html?from=farmers">Open records</a>
         </div>
         <div class="card">
-          <span class="mini">Operations</span>
-          <h3>Machinery</h3>
+          <span class="mini">Records</span>
+          <h3>Sowing Records</h3>
+          <p>Seed rates, varieties, sowing operations, equipment, and covered area by farmer-year.</p>
+          <a class="card-link" href="./sowing.html?from=farmers">Open records</a>
+        </div>
+        <div class="card">
+          <span class="mini">Records</span>
+          <h3>Machinery Records</h3>
           <p>Machine operations, equipment type, repetitions, and total area worked.</p>
-          <a class="card-link" href="./machines.html?from=farmers">Open input table</a>
+          <a class="card-link" href="./machines.html?from=farmers">Open records</a>
         </div>
         <div class="card">
-          <span class="mini">Resources</span>
-          <h3>Water</h3>
-          <p>Water use by farmer-year in m3 per hectare and m3 per tonne.</p>
-          <a class="card-link" href="./water.html?from=farmers">Open input table</a>
+          <span class="mini">Records</span>
+          <h3>Field Emissions</h3>
+          <p>Methane, nitrous oxide, straw, volatilisation, leaching, and urea CO2 records by farmer-year.</p>
+          <a class="card-link" href="./lca-field-emissions.html?from=farmers">Open records</a>
         </div>
       </div>
     </section>
@@ -72,107 +71,32 @@
     <section class="section" data-reveal>
       <div class="section-header">
         <div>
-          <h2>Environmental Results</h2>
-          <p>Open the DMU-level LCA outputs by input type, with hectare and tonne bases kept separate.</p>
+          <h2>Model and Interpretation Infrastructure</h2>
+          <p>Inspect the LCA boundary, reference factors and calculation notes used by the record and impact views.</p>
         </div>
       </div>
       <div class="card-grid">
-        <div class="card">
-          <span class="mini">LCA</span>
-          <h3>Crop protection</h3>
-          <p>Environmental impacts from herbicide, fungicide, and insecticide active ingredients.</p>
-          <a class="card-link" href="./lca.html?from=farmers">Open results</a>
+        <div class="card emphasis">
+          <span class="mini">Boundary</span>
+          <h3>LCA system boundary</h3>
+          <p>Click each input type to see the products, operations or foreground flows reconstructed from the records.</p>
+          <a class="card-link" href="./lca-system-boundary.html">Open boundary map</a>
         </div>
-        <div class="card">
-          <span class="mini">LCA</span>
-          <h3>Sowing</h3>
-          <p>Seed impacts from sowing rates, calculated per hectare and per tonne.</p>
-          <a class="card-link" href="./lca-sowing.html?from=farmers">Open results</a>
-        </div>
-        <div class="card">
-          <span class="mini">LCA</span>
-          <h3>Fertilisation</h3>
-          <p>N, P, and K input impacts calculated from the original fertilisation table.</p>
-          <a class="card-link" href="./lca-fertilisation.html?from=farmers">Open results</a>
-        </div>
-        <div class="card">
-          <span class="mini">LCA</span>
-          <h3>Machinery</h3>
-          <p>Equipment-specific operation impacts based on worked area.</p>
-          <a class="card-link" href="./lca-machines.html?from=farmers">Open results</a>
-        </div>
-        <div class="card">
-          <span class="mini">LCA</span>
-          <h3>Water</h3>
-          <p>Water-use impacts from the corrected water factors and input table.</p>
-          <a class="card-link" href="./lca-water.html?from=farmers">Open results</a>
-        </div>
-        <div class="card">
-          <span class="mini">LCA</span>
-          <h3>Field emissions</h3>
-          <p>Methane, nitrous oxide, straw, volatilisation, leaching, and urea CO2 impacts.</p>
-          <a class="card-link" href="./lca-field-emissions.html?from=farmers">Open results</a>
-        </div>
-      </div>
-    </section>
-
-    <section class="section" data-reveal>
-      <div class="section-header">
-        <div>
-          <h2>Interactive Graphs</h2>
-          <p>Compare all input-source contributions across impact categories in one stacked view.</p>
-        </div>
-      </div>
-      <div class="card-grid">
-        <div class="card">
-          <span class="mini">Graphs</span>
-          <h3>Stacked impact categories</h3>
-          <p>View crop protection, sowing, fertilisation, machinery, water, and field emissions together.</p>
-          <a class="card-link" href="./interactive-graphs.html?from=farmers">Open graphs</a>
-        </div>
-        <details class="card note-card">
-          <summary>
-            <span class="mini">How to read</span>
-            <span class="note-title">Graph interpretation</span>
-            <span class="note-preview">Open the short guide before using the stacked graph.</span>
-          </summary>
-          <div class="note-card-body">
-            <p>
-              The x-axis shows impact categories and each stacked colour shows the contribution from one input source.
-              Use hectare basis to compare pressure on the field, and tonne basis to compare production efficiency.
-            </p>
-            <p>
-              Aggregation can be equal-weighted, area-weighted, production-weighted, or total burden. For one selected
-              farmer-year, weighted means collapse to that farmer-year value; total burden scales the intensity by area
-              or production.
-            </p>
-          </div>
-        </details>
-      </div>
-    </section>
-
-    <section class="section" data-reveal>
-      <div class="section-header">
-        <div>
-          <h2>Methodology</h2>
-          <p>Review the environmental factors, units, and calculation assumptions behind the results.</p>
-        </div>
-      </div>
-      <div class="card-grid">
         <div class="card">
           <span class="mini">Factors</span>
-          <h3>Impact factor raw data</h3>
-          <p>Single score and characterisation factors used to convert input quantities into impacts.</p>
-          <a class="card-link" href="./impact-factors.html?from=farmers">Open factors</a>
+          <h3>Impact factors</h3>
+          <p>Reference library for the midpoint characterisation factors used in the calculations.</p>
+          <a class="card-link" href="./impact-factors.html">View factors</a>
         </div>
         <div class="card">
-          <span class="mini">Method</span>
+          <span class="mini">Methods</span>
           <h3>Calculation notes</h3>
-          <p>Methane, N2O, straw, urea CO2, hectare basis, tonne basis, and output structure.</p>
-          <a class="card-link" href="./methodology.html?from=farmers">Open methodology</a>
+          <p>Review the functional units, field-emission assumptions, and cautions used by the web views.</p>
+          <a class="card-link" href="./methodology.html">Open methods</a>
         </div>
       </div>
     </section>
+
   </div>
   <script src="./i18n.js"></script>
   <script src="./app.js"></script>

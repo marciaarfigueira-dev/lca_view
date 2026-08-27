@@ -19,8 +19,7 @@
     "crop_protection": "02_scripts/02_lca_calculations/calculate_crop_protection_lca.py",
     "machines": "02_scripts/02_lca_calculations/calculate_machines_lca.py",
     "sowing": "02_scripts/02_lca_calculations/calculate_sowing_lca.py",
-    "field_emissions": "02_scripts/02_lca_calculations/calculate_field_emissions_lca.py",
-    "water": "02_scripts/02_lca_calculations/calculate_water_lca.py"
+    "field_emissions": "02_scripts/02_lca_calculations/calculate_field_emissions_lca.py"
   },
   "clean_output_groups": {
     "fertilisation": "03_outputs/fertilisation",
@@ -28,13 +27,23 @@
     "machines": "03_outputs/machines",
     "sowing": "03_outputs/sowing",
     "field_emissions": "03_outputs/field_emissions",
-    "water": "03_outputs/water"
+    "environmental_baseline": "03_outputs/environmental_baseline",
+    "farmer_year_environmental_benchmarking": "03_outputs/farmer_year_environmental_benchmarking",
+    "interannual_management_yield": "03_outputs/interannual_management_yield"
   },
-  "planned_aggregated_outputs": {
-    "characterisation_by_dmu_ha": "03_outputs/_aggregated/characterisation_by_dmu_ha.csv",
-    "characterisation_by_dmu_tonne": "03_outputs/_aggregated/characterisation_by_dmu_tonne.csv",
-    "single_score_by_dmu_ha": "03_outputs/_aggregated/single_score_by_dmu_ha.csv",
-    "single_score_by_dmu_tonne": "03_outputs/_aggregated/single_score_by_dmu_tonne.csv"
+  "active_public_lca_export_types": [
+    "inventory",
+    "characterisation",
+    "single_score"
+  ],
+  "excluded_from_active_public_lca_exports": [
+    "water foreground LCA outputs"
+  ],
+  "exploratory_diagnostics": {
+    "source": "99_archive_do_not_use/removed_from_revised_article_2026-08-05/03_outputs",
+    "public_export": "docs/data/diagnostics",
+    "scope": "Optional thesis-facing web module for PCA/HCPC pattern detection and DEA technical-efficiency sensitivity.",
+    "interpretation": "Exploratory diagnostics only; not core manuscript evidence, causal inference, compliance assessment or sustainability ranking."
   },
   "website_export_targets": {
     "old_data_root": "/Users/marcia/Desktop/ml_sets_report/docs/data",
@@ -47,8 +56,10 @@
     "Use cleaned 03_outputs files as the website source of truth for LCA values.",
     "Do not use old methane and N2O exported CSV inputs; use field_emissions outputs generated from methane_n20_calculations.xlsx.",
     "Keep ha and tonne bases separate.",
-    "Keep characterisation and single_score outputs separate.",
-    "Aggregate only after DMU-level calculations are complete.",
+    "Use EF 3.0 midpoint characterisation in manuscript-facing web views.",
+    "Label single-score outputs explicitly and keep them separate from EF 3.0 midpoint interpretations and farm rankings.",
+    "Retain irrigation records for observability, but do not export foreground irrigation-water LCA outputs to active clean_lca website data.",
+    "Label DEA and PCA/HCPC views as exploratory diagnostics when used in the thesis-facing online tool.",
     "Do not overwrite the GitHub Pages repo until its current uncommitted edits are reviewed."
   ]
 }

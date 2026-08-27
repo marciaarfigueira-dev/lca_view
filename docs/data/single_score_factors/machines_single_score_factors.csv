@@ -1,0 +1,204 @@
+equipment,single_score_file,impact_category,impact_unit,factor_per_ha_worked,factor_unit,source_factor_unit,m2_to_ha_multiplier
+disk_harrow,disk_harrow_singlescore_11.json,Total,Pt,16844590.994255494,1 ha worked,1 m2 worked,10000
+disk_harrow,disk_harrow_singlescore_11.json,Climate change,Pt,36196.5,1 ha worked,1 m2 worked,10000
+disk_harrow,disk_harrow_singlescore_11.json,Ozone depletion,Pt,6.1716e-09,1 ha worked,1 m2 worked,10000
+disk_harrow,disk_harrow_singlescore_11.json,Ionising radiation,Pt,267.96999999999997,1 ha worked,1 m2 worked,10000
+disk_harrow,disk_harrow_singlescore_11.json,Photochemical ozone formation,Pt,0.48305999999999993,1 ha worked,1 m2 worked,10000
+disk_harrow,disk_harrow_singlescore_11.json,Particulate matter,Pt,4.00589e-11,1 ha worked,1 m2 worked,10000
+disk_harrow,disk_harrow_singlescore_11.json,"Human toxicity, non-cancer",Pt,7.796079999999999e-12,1 ha worked,1 m2 worked,10000
+disk_harrow,disk_harrow_singlescore_11.json,"Human toxicity, cancer",Pt,9.265999999999999e-15,1 ha worked,1 m2 worked,10000
+disk_harrow,disk_harrow_singlescore_11.json,Acidification,Pt,0.6948799999999999,1 ha worked,1 m2 worked,10000
+disk_harrow,disk_harrow_singlescore_11.json,"Eutrophication, freshwater",Pt,3.0076e-05,1 ha worked,1 m2 worked,10000
+disk_harrow,disk_harrow_singlescore_11.json,"Eutrophication, marine",Pt,0.0708948,1 ha worked,1 m2 worked,10000
+disk_harrow,disk_harrow_singlescore_11.json,"Eutrophication, terrestrial",Pt,6.09039,1 ha worked,1 m2 worked,10000
+disk_harrow,disk_harrow_singlescore_11.json,"Ecotoxicity, freshwater",Pt,53553.84,1 ha worked,1 m2 worked,10000
+disk_harrow,disk_harrow_singlescore_11.json,Land use,Pt,15266940.0,1 ha worked,1 m2 worked,10000
+disk_harrow,disk_harrow_singlescore_11.json,Water use,Pt,837.045,1 ha worked,1 m2 worked,10000
+disk_harrow,disk_harrow_singlescore_11.json,"Resource use, fossils",Pt,1486788.3,1 ha worked,1 m2 worked,10000
+disk_harrow,disk_harrow_singlescore_11.json,"Resource use, minerals and metals",Pt,6.095999999999998e-07,1 ha worked,1 m2 worked,10000
+disk_harrow,disk_harrow_singlescore_11.json,Climate change - Fossil,Pt,0.0,1 ha worked,1 m2 worked,10000
+disk_harrow,disk_harrow_singlescore_11.json,Climate change - Biogenic,Pt,0.0,1 ha worked,1 m2 worked,10000
+disk_harrow,disk_harrow_singlescore_11.json,Climate change - Land use and LU change,Pt,0.0,1 ha worked,1 m2 worked,10000
+disk_harrow,disk_harrow_singlescore_11.json,"Human toxicity, non-cancer - organics",Pt,0.0,1 ha worked,1 m2 worked,10000
+disk_harrow,disk_harrow_singlescore_11.json,"Human toxicity, non-cancer - inorganics",Pt,0.0,1 ha worked,1 m2 worked,10000
+disk_harrow,disk_harrow_singlescore_11.json,"Human toxicity, non-cancer - metals",Pt,0.0,1 ha worked,1 m2 worked,10000
+disk_harrow,disk_harrow_singlescore_11.json,"Human toxicity, cancer - organics",Pt,0.0,1 ha worked,1 m2 worked,10000
+disk_harrow,disk_harrow_singlescore_11.json,"Human toxicity, cancer - inorganics",Pt,0.0,1 ha worked,1 m2 worked,10000
+disk_harrow,disk_harrow_singlescore_11.json,"Human toxicity, cancer - metals",Pt,0.0,1 ha worked,1 m2 worked,10000
+disk_harrow,disk_harrow_singlescore_11.json,"Ecotoxicity, freshwater - organics",Pt,0.0,1 ha worked,1 m2 worked,10000
+disk_harrow,disk_harrow_singlescore_11.json,"Ecotoxicity, freshwater - inorganics",Pt,0.0,1 ha worked,1 m2 worked,10000
+disk_harrow,disk_harrow_singlescore_11.json,"Ecotoxicity, freshwater - metals",Pt,0.0,1 ha worked,1 m2 worked,10000
+laser_leveler,laser_leveler_singlescore_12.json,Total,Pt,80616648.64674218,1 ha worked,1 m2 worked,10000
+laser_leveler,laser_leveler_singlescore_12.json,Climate change,Pt,219798.59999999998,1 ha worked,1 m2 worked,10000
+laser_leveler,laser_leveler_singlescore_12.json,Ozone depletion,Pt,3.1524e-08,1 ha worked,1 m2 worked,10000
+laser_leveler,laser_leveler_singlescore_12.json,Ionising radiation,Pt,1664.79,1 ha worked,1 m2 worked,10000
+laser_leveler,laser_leveler_singlescore_12.json,Photochemical ozone formation,Pt,2.5802,1 ha worked,1 m2 worked,10000
+laser_leveler,laser_leveler_singlescore_12.json,Particulate matter,Pt,2.3533799999999997e-10,1 ha worked,1 m2 worked,10000
+laser_leveler,laser_leveler_singlescore_12.json,"Human toxicity, non-cancer",Pt,1.748e-11,1 ha worked,1 m2 worked,10000
+laser_leveler,laser_leveler_singlescore_12.json,"Human toxicity, cancer",Pt,8.446e-14,1 ha worked,1 m2 worked,10000
+laser_leveler,laser_leveler_singlescore_12.json,Acidification,Pt,3.784,1 ha worked,1 m2 worked,10000
+laser_leveler,laser_leveler_singlescore_12.json,"Eutrophication, freshwater",Pt,0.00026574,1 ha worked,1 m2 worked,10000
+laser_leveler,laser_leveler_singlescore_12.json,"Eutrophication, marine",Pt,0.37207199999999996,1 ha worked,1 m2 worked,10000
+laser_leveler,laser_leveler_singlescore_12.json,"Eutrophication, terrestrial",Pt,31.9302,1 ha worked,1 m2 worked,10000
+laser_leveler,laser_leveler_singlescore_12.json,"Ecotoxicity, freshwater",Pt,360473.73,1 ha worked,1 m2 worked,10000
+laser_leveler,laser_leveler_singlescore_12.json,Land use,Pt,71172090.0,1 ha worked,1 m2 worked,10000
+laser_leveler,laser_leveler_singlescore_12.json,Water use,Pt,7773.259999999999,1 ha worked,1 m2 worked,10000
+laser_leveler,laser_leveler_singlescore_12.json,"Resource use, fossils",Pt,8854809.6,1 ha worked,1 m2 worked,10000
+laser_leveler,laser_leveler_singlescore_12.json,"Resource use, minerals and metals",Pt,4.4015999999999995e-06,1 ha worked,1 m2 worked,10000
+laser_leveler,laser_leveler_singlescore_12.json,Climate change - Fossil,Pt,0.0,1 ha worked,1 m2 worked,10000
+laser_leveler,laser_leveler_singlescore_12.json,Climate change - Biogenic,Pt,0.0,1 ha worked,1 m2 worked,10000
+laser_leveler,laser_leveler_singlescore_12.json,Climate change - Land use and LU change,Pt,0.0,1 ha worked,1 m2 worked,10000
+laser_leveler,laser_leveler_singlescore_12.json,"Human toxicity, non-cancer - organics",Pt,0.0,1 ha worked,1 m2 worked,10000
+laser_leveler,laser_leveler_singlescore_12.json,"Human toxicity, non-cancer - inorganics",Pt,0.0,1 ha worked,1 m2 worked,10000
+laser_leveler,laser_leveler_singlescore_12.json,"Human toxicity, non-cancer - metals",Pt,0.0,1 ha worked,1 m2 worked,10000
+laser_leveler,laser_leveler_singlescore_12.json,"Human toxicity, cancer - organics",Pt,0.0,1 ha worked,1 m2 worked,10000
+laser_leveler,laser_leveler_singlescore_12.json,"Human toxicity, cancer - inorganics",Pt,0.0,1 ha worked,1 m2 worked,10000
+laser_leveler,laser_leveler_singlescore_12.json,"Human toxicity, cancer - metals",Pt,0.0,1 ha worked,1 m2 worked,10000
+laser_leveler,laser_leveler_singlescore_12.json,"Ecotoxicity, freshwater - organics",Pt,0.0,1 ha worked,1 m2 worked,10000
+laser_leveler,laser_leveler_singlescore_12.json,"Ecotoxicity, freshwater - inorganics",Pt,0.0,1 ha worked,1 m2 worked,10000
+laser_leveler,laser_leveler_singlescore_12.json,"Ecotoxicity, freshwater - metals",Pt,0.0,1 ha worked,1 m2 worked,10000
+centrifugal_spreader,centrifugal_spreader_singlescore_13.json,Total,Pt,18203540.602892786,1 ha worked,1 m2 worked,10000
+centrifugal_spreader,centrifugal_spreader_singlescore_13.json,Climate change,Pt,47577.59999999999,1 ha worked,1 m2 worked,10000
+centrifugal_spreader,centrifugal_spreader_singlescore_13.json,Ozone depletion,Pt,7.3408e-09,1 ha worked,1 m2 worked,10000
+centrifugal_spreader,centrifugal_spreader_singlescore_13.json,Ionising radiation,Pt,362.9200000000001,1 ha worked,1 m2 worked,10000
+centrifugal_spreader,centrifugal_spreader_singlescore_13.json,Photochemical ozone formation,Pt,0.5917,1 ha worked,1 m2 worked,10000
+centrifugal_spreader,centrifugal_spreader_singlescore_13.json,Particulate matter,Pt,5.4204899999999996e-11,1 ha worked,1 m2 worked,10000
+centrifugal_spreader,centrifugal_spreader_singlescore_13.json,"Human toxicity, non-cancer",Pt,5.2352599999999984e-12,1 ha worked,1 m2 worked,10000
+centrifugal_spreader,centrifugal_spreader_singlescore_13.json,"Human toxicity, cancer",Pt,1.6072e-14,1 ha worked,1 m2 worked,10000
+centrifugal_spreader,centrifugal_spreader_singlescore_13.json,Acidification,Pt,0.8703199999999999,1 ha worked,1 m2 worked,10000
+centrifugal_spreader,centrifugal_spreader_singlescore_13.json,"Eutrophication, freshwater",Pt,7.1276e-05,1 ha worked,1 m2 worked,10000
+centrifugal_spreader,centrifugal_spreader_singlescore_13.json,"Eutrophication, marine",Pt,0.08380000000000001,1 ha worked,1 m2 worked,10000
+centrifugal_spreader,centrifugal_spreader_singlescore_13.json,"Eutrophication, terrestrial",Pt,7.227,1 ha worked,1 m2 worked,10000
+centrifugal_spreader,centrifugal_spreader_singlescore_13.json,"Ecotoxicity, freshwater",Pt,92856.62000000001,1 ha worked,1 m2 worked,10000
+centrifugal_spreader,centrifugal_spreader_singlescore_13.json,Land use,Pt,16120529.999999998,1 ha worked,1 m2 worked,10000
+centrifugal_spreader,centrifugal_spreader_singlescore_13.json,Water use,Pt,2065.69,1 ha worked,1 m2 worked,10000
+centrifugal_spreader,centrifugal_spreader_singlescore_13.json,"Resource use, fossils",Pt,1940138.9999999998,1 ha worked,1 m2 worked,10000
+centrifugal_spreader,centrifugal_spreader_singlescore_13.json,"Resource use, minerals and metals",Pt,1.5072e-06,1 ha worked,1 m2 worked,10000
+centrifugal_spreader,centrifugal_spreader_singlescore_13.json,Climate change - Fossil,Pt,0.0,1 ha worked,1 m2 worked,10000
+centrifugal_spreader,centrifugal_spreader_singlescore_13.json,Climate change - Biogenic,Pt,0.0,1 ha worked,1 m2 worked,10000
+centrifugal_spreader,centrifugal_spreader_singlescore_13.json,Climate change - Land use and LU change,Pt,0.0,1 ha worked,1 m2 worked,10000
+centrifugal_spreader,centrifugal_spreader_singlescore_13.json,"Human toxicity, non-cancer - organics",Pt,0.0,1 ha worked,1 m2 worked,10000
+centrifugal_spreader,centrifugal_spreader_singlescore_13.json,"Human toxicity, non-cancer - inorganics",Pt,0.0,1 ha worked,1 m2 worked,10000
+centrifugal_spreader,centrifugal_spreader_singlescore_13.json,"Human toxicity, non-cancer - metals",Pt,0.0,1 ha worked,1 m2 worked,10000
+centrifugal_spreader,centrifugal_spreader_singlescore_13.json,"Human toxicity, cancer - organics",Pt,0.0,1 ha worked,1 m2 worked,10000
+centrifugal_spreader,centrifugal_spreader_singlescore_13.json,"Human toxicity, cancer - inorganics",Pt,0.0,1 ha worked,1 m2 worked,10000
+centrifugal_spreader,centrifugal_spreader_singlescore_13.json,"Human toxicity, cancer - metals",Pt,0.0,1 ha worked,1 m2 worked,10000
+centrifugal_spreader,centrifugal_spreader_singlescore_13.json,"Ecotoxicity, freshwater - organics",Pt,0.0,1 ha worked,1 m2 worked,10000
+centrifugal_spreader,centrifugal_spreader_singlescore_13.json,"Ecotoxicity, freshwater - inorganics",Pt,0.0,1 ha worked,1 m2 worked,10000
+centrifugal_spreader,centrifugal_spreader_singlescore_13.json,"Ecotoxicity, freshwater - metals",Pt,0.0,1 ha worked,1 m2 worked,10000
+rotary_tiller,rotary_tiller_singlescore_14.json,Total,Pt,51483431.65711595,1 ha worked,1 m2 worked,10000
+rotary_tiller,rotary_tiller_singlescore_14.json,Climate change,Pt,123280.5,1 ha worked,1 m2 worked,10000
+rotary_tiller,rotary_tiller_singlescore_14.json,Ozone depletion,Pt,1.47556e-08,1 ha worked,1 m2 worked,10000
+rotary_tiller,rotary_tiller_singlescore_14.json,Ionising radiation,Pt,911.52,1 ha worked,1 m2 worked,10000
+rotary_tiller,rotary_tiller_singlescore_14.json,Photochemical ozone formation,Pt,1.2998,1 ha worked,1 m2 worked,10000
+rotary_tiller,rotary_tiller_singlescore_14.json,Particulate matter,Pt,1.7875400000000004e-10,1 ha worked,1 m2 worked,10000
+rotary_tiller,rotary_tiller_singlescore_14.json,"Human toxicity, non-cancer",Pt,1.1973799999999998e-11,1 ha worked,1 m2 worked,10000
+rotary_tiller,rotary_tiller_singlescore_14.json,"Human toxicity, cancer",Pt,9.348e-14,1 ha worked,1 m2 worked,10000
+rotary_tiller,rotary_tiller_singlescore_14.json,Acidification,Pt,1.95048,1 ha worked,1 m2 worked,10000
+rotary_tiller,rotary_tiller_singlescore_14.json,"Eutrophication, freshwater",Pt,0.00023895999999999998,1 ha worked,1 m2 worked,10000
+rotary_tiller,rotary_tiller_singlescore_14.json,"Eutrophication, marine",Pt,0.17849399999999999,1 ha worked,1 m2 worked,10000
+rotary_tiller,rotary_tiller_singlescore_14.json,"Eutrophication, terrestrial",Pt,15.308100000000001,1 ha worked,1 m2 worked,10000
+rotary_tiller,rotary_tiller_singlescore_14.json,"Ecotoxicity, freshwater",Pt,257538.30999999997,1 ha worked,1 m2 worked,10000
+rotary_tiller,rotary_tiller_singlescore_14.json,Land use,Pt,46409100.0,1 ha worked,1 m2 worked,10000
+rotary_tiller,rotary_tiller_singlescore_14.json,Water use,Pt,6275.389999999999,1 ha worked,1 m2 worked,10000
+rotary_tiller,rotary_tiller_singlescore_14.json,"Resource use, fossils",Pt,4686307.2,1 ha worked,1 m2 worked,10000
+rotary_tiller,rotary_tiller_singlescore_14.json,"Resource use, minerals and metals",Pt,2.976e-06,1 ha worked,1 m2 worked,10000
+rotary_tiller,rotary_tiller_singlescore_14.json,Climate change - Fossil,Pt,0.0,1 ha worked,1 m2 worked,10000
+rotary_tiller,rotary_tiller_singlescore_14.json,Climate change - Biogenic,Pt,0.0,1 ha worked,1 m2 worked,10000
+rotary_tiller,rotary_tiller_singlescore_14.json,Climate change - Land use and LU change,Pt,0.0,1 ha worked,1 m2 worked,10000
+rotary_tiller,rotary_tiller_singlescore_14.json,"Human toxicity, non-cancer - organics",Pt,0.0,1 ha worked,1 m2 worked,10000
+rotary_tiller,rotary_tiller_singlescore_14.json,"Human toxicity, non-cancer - inorganics",Pt,0.0,1 ha worked,1 m2 worked,10000
+rotary_tiller,rotary_tiller_singlescore_14.json,"Human toxicity, non-cancer - metals",Pt,0.0,1 ha worked,1 m2 worked,10000
+rotary_tiller,rotary_tiller_singlescore_14.json,"Human toxicity, cancer - organics",Pt,0.0,1 ha worked,1 m2 worked,10000
+rotary_tiller,rotary_tiller_singlescore_14.json,"Human toxicity, cancer - inorganics",Pt,0.0,1 ha worked,1 m2 worked,10000
+rotary_tiller,rotary_tiller_singlescore_14.json,"Human toxicity, cancer - metals",Pt,0.0,1 ha worked,1 m2 worked,10000
+rotary_tiller,rotary_tiller_singlescore_14.json,"Ecotoxicity, freshwater - organics",Pt,0.0,1 ha worked,1 m2 worked,10000
+rotary_tiller,rotary_tiller_singlescore_14.json,"Ecotoxicity, freshwater - inorganics",Pt,0.0,1 ha worked,1 m2 worked,10000
+rotary_tiller,rotary_tiller_singlescore_14.json,"Ecotoxicity, freshwater - metals",Pt,0.0,1 ha worked,1 m2 worked,10000
+sprayer,sprayer_singlescore_15.json,Total,Pt,11253191.91303122,1 ha worked,1 m2 worked,10000
+sprayer,sprayer_singlescore_15.json,Climate change,Pt,3416.1000000000004,1 ha worked,1 m2 worked,10000
+sprayer,sprayer_singlescore_15.json,Ozone depletion,Pt,4.765600000000001e-10,1 ha worked,1 m2 worked,10000
+sprayer,sprayer_singlescore_15.json,Ionising radiation,Pt,24.264999999999997,1 ha worked,1 m2 worked,10000
+sprayer,sprayer_singlescore_15.json,Photochemical ozone formation,Pt,0.037635999999999996,1 ha worked,1 m2 worked,10000
+sprayer,sprayer_singlescore_15.json,Particulate matter,Pt,7.844600000000002e-12,1 ha worked,1 m2 worked,10000
+sprayer,sprayer_singlescore_15.json,"Human toxicity, non-cancer",Pt,1.1099799999999999e-12,1 ha worked,1 m2 worked,10000
+sprayer,sprayer_singlescore_15.json,"Human toxicity, cancer",Pt,1.5661999999999999e-15,1 ha worked,1 m2 worked,10000
+sprayer,sprayer_singlescore_15.json,Acidification,Pt,0.057448000000000006,1 ha worked,1 m2 worked,10000
+sprayer,sprayer_singlescore_15.json,"Eutrophication, freshwater",Pt,5.6032e-06,1 ha worked,1 m2 worked,10000
+sprayer,sprayer_singlescore_15.json,"Eutrophication, marine",Pt,0.005413480000000001,1 ha worked,1 m2 worked,10000
+sprayer,sprayer_singlescore_15.json,"Eutrophication, terrestrial",Pt,0.46252800000000005,1 ha worked,1 m2 worked,10000
+sprayer,sprayer_singlescore_15.json,"Ecotoxicity, freshwater",Pt,7323.02,1 ha worked,1 m2 worked,10000
+sprayer,sprayer_singlescore_15.json,Land use,Pt,11114430.0,1 ha worked,1 m2 worked,10000
+sprayer,sprayer_singlescore_15.json,Water use,Pt,230.065,1 ha worked,1 m2 worked,10000
+sprayer,sprayer_singlescore_15.json,"Resource use, fossils",Pt,127767.9,1 ha worked,1 m2 worked,10000
+sprayer,sprayer_singlescore_15.json,"Resource use, minerals and metals",Pt,1.3968e-07,1 ha worked,1 m2 worked,10000
+sprayer,sprayer_singlescore_15.json,Climate change - Fossil,Pt,0.0,1 ha worked,1 m2 worked,10000
+sprayer,sprayer_singlescore_15.json,Climate change - Biogenic,Pt,0.0,1 ha worked,1 m2 worked,10000
+sprayer,sprayer_singlescore_15.json,Climate change - Land use and LU change,Pt,0.0,1 ha worked,1 m2 worked,10000
+sprayer,sprayer_singlescore_15.json,"Human toxicity, non-cancer - organics",Pt,0.0,1 ha worked,1 m2 worked,10000
+sprayer,sprayer_singlescore_15.json,"Human toxicity, non-cancer - inorganics",Pt,0.0,1 ha worked,1 m2 worked,10000
+sprayer,sprayer_singlescore_15.json,"Human toxicity, non-cancer - metals",Pt,0.0,1 ha worked,1 m2 worked,10000
+sprayer,sprayer_singlescore_15.json,"Human toxicity, cancer - organics",Pt,0.0,1 ha worked,1 m2 worked,10000
+sprayer,sprayer_singlescore_15.json,"Human toxicity, cancer - inorganics",Pt,0.0,1 ha worked,1 m2 worked,10000
+sprayer,sprayer_singlescore_15.json,"Human toxicity, cancer - metals",Pt,0.0,1 ha worked,1 m2 worked,10000
+sprayer,sprayer_singlescore_15.json,"Ecotoxicity, freshwater - organics",Pt,0.0,1 ha worked,1 m2 worked,10000
+sprayer,sprayer_singlescore_15.json,"Ecotoxicity, freshwater - inorganics",Pt,0.0,1 ha worked,1 m2 worked,10000
+sprayer,sprayer_singlescore_15.json,"Ecotoxicity, freshwater - metals",Pt,0.0,1 ha worked,1 m2 worked,10000
+combine_harvester,combine_harvester_singlescore_16.json,Total,Pt,101551998.37990059,1 ha worked,1 m2 worked,10000
+combine_harvester,combine_harvester_singlescore_16.json,Climate change,Pt,293625.3,1 ha worked,1 m2 worked,10000
+combine_harvester,combine_harvester_singlescore_16.json,Ozone depletion,Pt,4.4843999999999994e-08,1 ha worked,1 m2 worked,10000
+combine_harvester,combine_harvester_singlescore_16.json,Ionising radiation,Pt,2213.39,1 ha worked,1 m2 worked,10000
+combine_harvester,combine_harvester_singlescore_16.json,Photochemical ozone formation,Pt,4.268,1 ha worked,1 m2 worked,10000
+combine_harvester,combine_harvester_singlescore_16.json,Particulate matter,Pt,3.4657700000000003e-10,1 ha worked,1 m2 worked,10000
+combine_harvester,combine_harvester_singlescore_16.json,"Human toxicity, non-cancer",Pt,3.0240399999999995e-11,1 ha worked,1 m2 worked,10000
+combine_harvester,combine_harvester_singlescore_16.json,"Human toxicity, cancer",Pt,1.0988000000000001e-13,1 ha worked,1 m2 worked,10000
+combine_harvester,combine_harvester_singlescore_16.json,Acidification,Pt,6.1575999999999995,1 ha worked,1 m2 worked,10000
+combine_harvester,combine_harvester_singlescore_16.json,"Eutrophication, freshwater",Pt,0.00048615999999999997,1 ha worked,1 m2 worked,10000
+combine_harvester,combine_harvester_singlescore_16.json,"Eutrophication, marine",Pt,0.610902,1 ha worked,1 m2 worked,10000
+combine_harvester,combine_harvester_singlescore_16.json,"Eutrophication, terrestrial",Pt,52.3629,1 ha worked,1 m2 worked,10000
+combine_harvester,combine_harvester_singlescore_16.json,"Ecotoxicity, freshwater",Pt,619566.99,1 ha worked,1 m2 worked,10000
+combine_harvester,combine_harvester_singlescore_16.json,Land use,Pt,88815540.0,1 ha worked,1 m2 worked,10000
+combine_harvester,combine_harvester_singlescore_16.json,Water use,Pt,12531.2,1 ha worked,1 m2 worked,10000
+combine_harvester,combine_harvester_singlescore_16.json,"Resource use, fossils",Pt,11808458.1,1 ha worked,1 m2 worked,10000
+combine_harvester,combine_harvester_singlescore_16.json,"Resource use, minerals and metals",Pt,1.2384e-05,1 ha worked,1 m2 worked,10000
+combine_harvester,combine_harvester_singlescore_16.json,Climate change - Fossil,Pt,0.0,1 ha worked,1 m2 worked,10000
+combine_harvester,combine_harvester_singlescore_16.json,Climate change - Biogenic,Pt,0.0,1 ha worked,1 m2 worked,10000
+combine_harvester,combine_harvester_singlescore_16.json,Climate change - Land use and LU change,Pt,0.0,1 ha worked,1 m2 worked,10000
+combine_harvester,combine_harvester_singlescore_16.json,"Human toxicity, non-cancer - organics",Pt,0.0,1 ha worked,1 m2 worked,10000
+combine_harvester,combine_harvester_singlescore_16.json,"Human toxicity, non-cancer - inorganics",Pt,0.0,1 ha worked,1 m2 worked,10000
+combine_harvester,combine_harvester_singlescore_16.json,"Human toxicity, non-cancer - metals",Pt,0.0,1 ha worked,1 m2 worked,10000
+combine_harvester,combine_harvester_singlescore_16.json,"Human toxicity, cancer - organics",Pt,0.0,1 ha worked,1 m2 worked,10000
+combine_harvester,combine_harvester_singlescore_16.json,"Human toxicity, cancer - inorganics",Pt,0.0,1 ha worked,1 m2 worked,10000
+combine_harvester,combine_harvester_singlescore_16.json,"Human toxicity, cancer - metals",Pt,0.0,1 ha worked,1 m2 worked,10000
+combine_harvester,combine_harvester_singlescore_16.json,"Ecotoxicity, freshwater - organics",Pt,0.0,1 ha worked,1 m2 worked,10000
+combine_harvester,combine_harvester_singlescore_16.json,"Ecotoxicity, freshwater - inorganics",Pt,0.0,1 ha worked,1 m2 worked,10000
+combine_harvester,combine_harvester_singlescore_16.json,"Ecotoxicity, freshwater - metals",Pt,0.0,1 ha worked,1 m2 worked,10000
+seeder,seeder_singlescore_17.json,Total,Pt,20774237.986285694,1 ha worked,1 m2 worked,10000
+seeder,seeder_singlescore_17.json,Climate change,Pt,50037.9,1 ha worked,1 m2 worked,10000
+seeder,seeder_singlescore_17.json,Ozone depletion,Pt,5.209600000000001e-09,1 ha worked,1 m2 worked,10000
+seeder,seeder_singlescore_17.json,Ionising radiation,Pt,369.25,1 ha worked,1 m2 worked,10000
+seeder,seeder_singlescore_17.json,Photochemical ozone formation,Pt,0.20757999999999996,1 ha worked,1 m2 worked,10000
+seeder,seeder_singlescore_17.json,Particulate matter,Pt,9.130600000000001e-11,1 ha worked,1 m2 worked,10000
+seeder,seeder_singlescore_17.json,"Human toxicity, non-cancer",Pt,9.351799999999999e-12,1 ha worked,1 m2 worked,10000
+seeder,seeder_singlescore_17.json,"Human toxicity, cancer",Pt,4.5428e-14,1 ha worked,1 m2 worked,10000
+seeder,seeder_singlescore_17.json,Acidification,Pt,0.39904,1 ha worked,1 m2 worked,10000
+seeder,seeder_singlescore_17.json,"Eutrophication, freshwater",Pt,0.00014111,1 ha worked,1 m2 worked,10000
+seeder,seeder_singlescore_17.json,"Eutrophication, marine",Pt,0.017262800000000002,1 ha worked,1 m2 worked,10000
+seeder,seeder_singlescore_17.json,"Eutrophication, terrestrial",Pt,1.43226,1 ha worked,1 m2 worked,10000
+seeder,seeder_singlescore_17.json,"Ecotoxicity, freshwater",Pt,133625.82,1 ha worked,1 m2 worked,10000
+seeder,seeder_singlescore_17.json,Land use,Pt,18753450.0,1 ha worked,1 m2 worked,10000
+seeder,seeder_singlescore_17.json,Water use,Pt,3367.76,1 ha worked,1 m2 worked,10000
+seeder,seeder_singlescore_17.json,"Resource use, fossils",Pt,1833385.2000000002,1 ha worked,1 m2 worked,10000
+seeder,seeder_singlescore_17.json,"Resource use, minerals and metals",Pt,1.7759999999999998e-06,1 ha worked,1 m2 worked,10000
+seeder,seeder_singlescore_17.json,Climate change - Fossil,Pt,0.0,1 ha worked,1 m2 worked,10000
+seeder,seeder_singlescore_17.json,Climate change - Biogenic,Pt,0.0,1 ha worked,1 m2 worked,10000
+seeder,seeder_singlescore_17.json,Climate change - Land use and LU change,Pt,0.0,1 ha worked,1 m2 worked,10000
+seeder,seeder_singlescore_17.json,"Human toxicity, non-cancer - organics",Pt,0.0,1 ha worked,1 m2 worked,10000
+seeder,seeder_singlescore_17.json,"Human toxicity, non-cancer - inorganics",Pt,0.0,1 ha worked,1 m2 worked,10000
+seeder,seeder_singlescore_17.json,"Human toxicity, non-cancer - metals",Pt,0.0,1 ha worked,1 m2 worked,10000
+seeder,seeder_singlescore_17.json,"Human toxicity, cancer - organics",Pt,0.0,1 ha worked,1 m2 worked,10000
+seeder,seeder_singlescore_17.json,"Human toxicity, cancer - inorganics",Pt,0.0,1 ha worked,1 m2 worked,10000
+seeder,seeder_singlescore_17.json,"Human toxicity, cancer - metals",Pt,0.0,1 ha worked,1 m2 worked,10000
+seeder,seeder_singlescore_17.json,"Ecotoxicity, freshwater - organics",Pt,0.0,1 ha worked,1 m2 worked,10000
+seeder,seeder_singlescore_17.json,"Ecotoxicity, freshwater - inorganics",Pt,0.0,1 ha worked,1 m2 worked,10000
+seeder,seeder_singlescore_17.json,"Ecotoxicity, freshwater - metals",Pt,0.0,1 ha worked,1 m2 worked,10000

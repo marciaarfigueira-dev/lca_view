@@ -1,7 +1,8 @@
 # Web Page Tool Settings
 
 This folder records how the cleaned LCA workflow connects to the GitHub Pages
-tool.
+tool. The website is a separate publication layer: it reads exported copies of
+the cleaned outputs, but it is not the source of the LCA calculations.
 
 Live page:
 
@@ -9,7 +10,7 @@ Live page:
 https://marciaarfigueira-dev.github.io/lca_view/
 ```
 
-Current old local GitHub Pages source:
+Previous local GitHub Pages source:
 
 ```text
 /Users/marcia/Desktop/ml_sets_report/docs
@@ -39,8 +40,8 @@ Clean LCA project root:
 /Users/marcia/Desktop/lca_python_organised
 ```
 
-Important rule: the website should not calculate LCA values from old copied
-files anymore. The cleaned route is:
+Important rule: the website should not calculate or preserve LCA values from
+old copied files. The cleaned route is:
 
 ```text
 original input files -> 02_scripts/02_lca_calculations -> 03_outputs -> website data exports
@@ -57,13 +58,15 @@ This updates:
 ```text
 docs/data/pivot_tables
 docs/data/clean_lca
+docs/data/context
+docs/data/diagnostics
 docs/data/site_data_manifest.json
 ```
 
 GitHub Pages cannot read files outside `docs/` when published from `/docs`,
 so `docs/data` is the generated website-facing copy of the clean sources.
 
-Current cleaned LCA output groups:
+Current cleaned LCA output groups used by the revised article:
 
 ```text
 03_outputs/fertilisation
@@ -71,21 +74,27 @@ Current cleaned LCA output groups:
 03_outputs/machines
 03_outputs/sowing
 03_outputs/field_emissions
-03_outputs/water
+03_outputs/environmental_baseline
+03_outputs/farmer_year_environmental_benchmarking
+03_outputs/interannual_management_yield
 ```
 
-The next step before updating the website is to create one aggregation layer:
+Irrigation records are retained for observability, but irrigation-water impacts
+are not part of the interpreted revised LCA outputs.
 
-```text
-03_outputs/_aggregated/
-  characterisation_by_dmu_ha.csv
-  characterisation_by_dmu_tonne.csv
-  single_score_by_dmu_ha.csv
-  single_score_by_dmu_tonne.csv
-```
+The public web export is intentionally narrower than the full calculation
+archive. It exports inventory, EF 3.0 midpoint characterisation and explicitly
+labelled single-score CSVs for fertilisation, crop protection, machinery,
+sowing and field emissions. Single-score results are available only in the
+dedicated exploratory and reference views; they are not used in the manuscript
+interpretation or as farm rankings. Foreground irrigation-water LCA outputs are
+not exported to the active `docs/data/clean_lca` folder.
 
-After that, the website can read one tidy route for all LCA views instead of
-mixing old scripts, clusters, and raw pivot tables.
+The optional exploratory-analysis page uses archived DEA and PCA/HCPC outputs
+under `docs/data/diagnostics`. These diagnostics are included for thesis-facing
+method development only. They should be described as prototype pattern-detection
+and technical-efficiency checks, not as causal evidence, compliance assessment
+or sustainability ranking.
 
 Migration note:
 

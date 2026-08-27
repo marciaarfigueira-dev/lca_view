@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Environmental Tool | ML-SETS Framework</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Outfit:wght@300;400;500;600;700&display=swap"
+    rel="stylesheet" />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+
+<body class="bioregional mlsets-page">
+  <div class="page">
+    <header class="site-header" data-reveal>
+      <div>
+        <a class="back-link" id="mlsets-back-link" href="./choose-lens.html">Back to overview</a>
+        <p class="eyebrow">Tool architecture | ML-SETS framework</p>
+        <h1>Core interpretation map.</h1>
+        <p class="lede">
+          Click a pipeline step or system layer to inspect how the record backstage, farm-system benchmarking and
+          exploratory extensions are positioned within a multi-level social-ecological-technical systems framing.
+        </p>
+      </div>
+    </header>
+
+    <section class="section" data-reveal>
+      <div class="section-header">
+        <div>
+          <h2>Analytical pipeline and ML-SETS framing</h2>
+          <p>
+            The left side shows the operating pipeline used to construct bioregional performance profiles. The right
+            side shows the wider systems context used to interpret those profiles.
+          </p>
+        </div>
+      </div>
+
+      <div class="mlsets-grid">
+        <div class="mlsets-pipeline">
+          <button class="mlsets-step" data-mlsets-key="regime-diagnosis">1. Regime diagnosis</button>
+          <button class="mlsets-step" data-mlsets-key="data-foundation">2. Data foundation and harmonisation</button>
+          <button class="mlsets-step" data-mlsets-key="practice-archetypes">3. Practice archetypes</button>
+          <button class="mlsets-step" data-mlsets-key="relative-efficiency">4. Relative input-use performance</button>
+          <button class="mlsets-step" data-mlsets-key="environmental-burdens">5. Environmental burden profiles</button>
+          <button class="mlsets-step final" data-mlsets-key="guidance">6. Interpretation and guidance</button>
+        </div>
+
+        <div class="mlsets-framework">
+          <button class="mlsets-layer landscape" data-mlsets-key="landscape">Landscape pressures</button>
+          <div class="mlsets-layer-grid regime-grid">
+            <button class="mlsets-layer regime" data-mlsets-key="technical-regime">Technical-infrastructure regime</button>
+            <button class="mlsets-layer regime" data-mlsets-key="policy-regime">Policy and regulatory regimes</button>
+          </div>
+          <button class="mlsets-layer intervention" data-mlsets-key="sustainability-intervention">Sustainability criteria and reporting intervention</button>
+          <div class="mlsets-layer-grid focal-grid">
+            <button class="mlsets-layer focal" data-mlsets-key="resource-system">Resource systems and units</button>
+            <button class="mlsets-layer focal" data-mlsets-key="governance-system">Governance system</button>
+            <button class="mlsets-layer focal" data-mlsets-key="actors">Actors</button>
+          </div>
+          <button class="mlsets-layer evidence" data-mlsets-key="empirical-evidence">Interactions and outcomes</button>
+          <button class="mlsets-layer lca" data-mlsets-key="related-ecosystems">Related ecosystems and LCA signals</button>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" data-reveal>
+      <div class="boundary-detail-panel">
+        <div>
+          <p class="eyebrow" id="mlsets-detail-eyebrow">Selected layer</p>
+          <h2 id="mlsets-detail-title">Click a step or layer</h2>
+          <p id="mlsets-detail-note">
+            The detail panel will explain how the selected component is used to interpret farm-record reuse.
+          </p>
+        </div>
+        <div id="mlsets-detail-content" class="boundary-detail-content"></div>
+      </div>
+    </section>
+  </div>
+  <script src="./i18n.js"></script>
+  <script src="./app.js"></script>
+  <script type="module" src="./ml-sets-framework.js?v=20260816c"></script>
+</body>
+
+</html>

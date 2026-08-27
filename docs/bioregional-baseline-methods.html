@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Environmental Tool | Baseline Methods</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Outfit:wght@300;400;500;600;700&display=swap"
+    rel="stylesheet"
+  />
+  <link rel="stylesheet" href="./pivot.css" />
+</head>
+
+<body class="baseline-methods-page">
+  <div class="page">
+    <header class="top-bar">
+      <div>
+        <p class="eyebrow">Environmental Tool | Bioregional Analysis</p>
+        <h1>Environmental baseline methods</h1>
+        <p class="lede">
+          Explanation of the farmer-year LCA baseline view and how to interpret per-hectare and per-tonne results.
+        </p>
+      </div>
+      <div class="pill">
+        <span class="dot"></span>
+        <span>Methods note</span>
+      </div>
+    </header>
+
+    <main class="layout diagnostics-methods-layout">
+      <section class="panel filters">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Boundary</p>
+            <h2>What this view shows</h2>
+          </div>
+          <div class="panel-actions">
+            <a class="ghost overview-link" href="./choose-lens.html">Back to overview</a>
+            <a class="ghost" href="./bioregional-baseline.html">Back to baseline</a>
+          </div>
+        </div>
+        <p class="panel-note">
+          The baseline view summarises characterised EF 3.0 midpoint impacts for the 34 farmer-year observations. It is
+          designed for comparative interpretation within the observed Sado rice sample, not for product certification,
+          public farm ranking or formal sustainability classification.
+        </p>
+      </section>
+
+      <section class="panel stats">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Functional Units</p>
+            <h2>Per hectare and per tonne</h2>
+          </div>
+        </div>
+        <p class="panel-note">
+          Per-hectare impacts describe modelled land-based pressure associated with recorded management. Per-tonne
+          impacts express those same burdens relative to harvested paddy-rice output, so they combine land-based
+          pressure with realised yield.
+        </p>
+      </section>
+
+      <section class="panel pivot">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Panels</p>
+            <h2>How to read the baseline page</h2>
+          </div>
+        </div>
+        <div class="table-shell">
+          <table>
+            <thead>
+              <tr>
+                <th>Panel</th>
+                <th>Meaning</th>
+                <th>Interpretation</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Impact basis by year</td>
+                <td>Annual distributions of farmer-year impacts for the selected basis and midpoint category scope.</td>
+                <td>Shows how the sample distribution changes by year, without attributing causes.</td>
+              </tr>
+              <tr>
+                <td>Sankey diagram</td>
+                <td>Selected input source and component contributions for one impact category, year and functional basis.</td>
+                <td>Shows where modelled burdens arise inside the selected LCA profile.</td>
+              </tr>
+              <tr>
+                <td>Mean source contribution</td>
+                <td>Average contribution shares by input source within a selected impact category.</td>
+                <td>Useful for dominant-driver interpretation, with caution where sources have close shares.</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="panel detail">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Cautions</p>
+            <h2>Model and data limits</h2>
+          </div>
+        </div>
+        <p class="panel-note">
+          Results depend on farm-record completeness, product reconstruction, background-process proxies and foreground
+          emission assumptions. Methane uses a common per-hectare flooded-rice parameterisation, while nitrogen-related
+          emissions vary with reconstructed N inputs. Water-use results represent background-process water use embedded
+          in retained inventories, not measured on-farm irrigation demand.
+        </p>
+      </section>
+    </main>
+  </div>
+  <script src="./i18n.js"></script>
+</body>
+
+</html>

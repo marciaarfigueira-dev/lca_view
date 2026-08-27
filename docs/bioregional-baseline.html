@@ -38,6 +38,8 @@
             <h2>Baseline scope</h2>
           </div>
           <div class="panel-actions">
+            <a class="ghost overview-link" href="./choose-lens.html">Back to overview</a>
+            <a class="ghost method-link" href="./bioregional-baseline-methods.html">Methods</a>
             <a class="ghost" href="./bioregional.html">Back</a>
             <button class="ghost" id="reset-filters">Reset</button>
           </div>
@@ -58,7 +60,6 @@
             <span>Impact type</span>
             <select id="score-filter">
               <option value="chara">Characterisation</option>
-              <option value="single">Single score</option>
             </select>
           </label>
           <label class="field">
@@ -68,6 +69,14 @@
               <option value="20">Top 20</option>
               <option value="all">All</option>
             </select>
+          </label>
+          <label class="field">
+            <span>Highlight farmer</span>
+            <select id="farmer-filter"></select>
+          </label>
+          <label class="field wide">
+            <span>Focused impact category</span>
+            <select id="radar-category-filter"></select>
           </label>
         </div>
         <div class="chip" id="active-filters"></div>
@@ -88,11 +97,42 @@
           <div>
             <p class="eyebrow">Year Comparison</p>
             <h2>Impact basis by year</h2>
-            <p class="panel-note">Hover bars to view median, Q1-Q3, mean, minimum, and maximum values.</p>
+            <p class="panel-note">
+              Hover bars to view median, Q1-Q3, mean, minimum, and maximum values. Select a farmer to overlay its
+              position within each annual distribution.
+            </p>
           </div>
           <div class="chip muted" id="year-count"></div>
         </div>
         <div id="year-chart" class="year-chart"></div>
+      </section>
+
+      <section class="panel sankey-panel">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Flow View</p>
+            <h2>Sankey diagram for the selected impact category</h2>
+            <p class="sankey-category-title" id="sankey-category-title">Select an impact category</p>
+            <p class="panel-note">
+              Detailed input source -> component -> farmer-year contribution for the selected impact category.
+            </p>
+          </div>
+          <div class="chip muted" id="sankey-count"></div>
+        </div>
+        <div class="filter-grid compact">
+          <label class="field">
+            <span>Sankey year</span>
+            <select id="sankey-year-filter"></select>
+          </label>
+          <p class="field-note">
+            Uses the focused impact category above and the selected impact basis/type from the page filters.
+          </p>
+        </div>
+        <div id="sankey-chart" class="sankey-chart"></div>
+        <p class="sankey-caption">
+          Farmer-year percentages show each selected farmer-year's share of the summed values for that impact category,
+          year, and basis. Zero and negative flows are hidden.
+        </p>
       </section>
 
       <section class="panel detail" id="drivers">
@@ -102,6 +142,19 @@
             <h2>Mean source contribution</h2>
           </div>
           <div class="chip muted" id="driver-count"></div>
+        </div>
+        <div class="radar-section">
+          <div class="radar-header">
+            <div>
+              <h3>Source-share radar</h3>
+              <p>
+                One radar is shown for the selected impact category. Axes are input sources and lines are years; values
+                are percentage shares within that impact category.
+              </p>
+            </div>
+            <div class="chip muted" id="radar-count"></div>
+          </div>
+          <div id="radar-chart" class="radar-chart"></div>
         </div>
         <div id="driver-table" class="table-shell"></div>
       </section>

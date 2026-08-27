@@ -1,0 +1,7 @@
+year,campaign,price_group,low_eur_t,central_eur_t,high_eur_t,source_basis,notes
+2022,2022/23,carolino,650,650,650,"producer paddy price anchor","Carolino producer-price anchor from the 2022 high-price campaign; replace with SIMA weekly campaign mean/min/max when exported."
+2022,2022/23,agulha,470,485,500,"producer paddy price range","Approximate Agulha campaign range; replace with SIMA weekly campaign mean/min/max when exported."
+2023,2023/24,carolino,500,575,650,"producer paddy price range","Approximate Carolino campaign range spanning late-2023 to early-2024 quotations; replace with SIMA weekly campaign mean/min/max when exported."
+2023,2023/24,agulha,500,500,500,"producer paddy price anchor","Approximate Agulha campaign anchor; replace with SIMA weekly campaign mean/min/max when exported."
+2024,2024/25,carolino,330,340,350,"producer paddy price range","Approximate Carolino campaign range observed around the 2024/25 marketing campaign; replace with SIMA weekly campaign mean/min/max when exported."
+2024,2024/25,agulha,400,405,410,"producer paddy price range","Approximate Agulha campaign range observed around the 2024/25 marketing campaign; replace with SIMA weekly campaign mean/min/max when exported."
