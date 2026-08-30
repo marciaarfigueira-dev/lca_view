@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Environmental Tool | Irrigation Records</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Outfit:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./pivot.css" />
+  </head>
+  <body>
+    <div class="page">
+      <header class="top-bar">
+        <div>
+          <p class="eyebrow">Farm-Record Backstage | Irrigation</p>
+          <h1>Irrigation Records</h1>
+          <p class="lede">
+            Inspect the farmer-year water-allocation input retained from the reporting workflow. These values describe
+            planned or common allocation, not measured delivery or crop water consumption.
+          </p>
+        </div>
+        <div class="pill">
+          <span class="dot"></span>
+          <span>Reported input</span>
+        </div>
+      </header>
+
+      <main class="layout">
+        <section class="panel filters">
+          <div class="panel-header">
+            <div>
+              <p class="eyebrow">Filters</p>
+              <h2>Focus the view</h2>
+            </div>
+            <div class="panel-actions">
+              <a class="ghost overview-link" href="./choose-lens.html">Back to overview</a>
+              <a class="ghost" href="./bioregional.html">Back</a>
+              <button class="ghost" id="reset-filters">Reset</button>
+            </div>
+          </div>
+          <div class="filter-grid">
+            <label class="field">
+              <span>Year</span>
+              <select id="season-filter"></select>
+            </label>
+            <label class="field">
+              <span>Farmer</span>
+              <select id="farmer-filter"></select>
+            </label>
+            <label class="field wide">
+              <span>Search</span>
+              <input id="search-filter" type="search" placeholder="Farmer or year" />
+            </label>
+          </div>
+          <div class="chip" id="active-filters"></div>
+        </section>
+
+        <section class="panel">
+          <div class="panel-header">
+            <div>
+              <p class="eyebrow">Interpretation boundary</p>
+              <h2>Allocation is not measured water use</h2>
+            </div>
+          </div>
+          <p>
+            The input table assigns the same reported or planned allocation per hectare across farmer-years. It does
+            not establish actual water delivered to each field, effective crop consumption, flooding duration,
+            irrigation efficiency, drainage, seepage, percolation or runoff. The derived value per tonne changes only
+            because realised yield changes. These records are retained as reporting evidence and were excluded as a
+            foreground irrigation flow from the interpreted LCA.
+          </p>
+        </section>
+
+        <section class="panel stats">
+          <div class="panel-header">
+            <div>
+              <p class="eyebrow">Coverage</p>
+              <h2>Reported input snapshot</h2>
+            </div>
+          </div>
+          <div class="stat-grid" id="stat-grid"></div>
+        </section>
+
+        <section class="panel detail">
+          <div class="panel-header">
+            <div>
+              <p class="eyebrow">Input data</p>
+              <h2>Farmer-year irrigation rows</h2>
+            </div>
+            <div class="chip muted" id="detail-count"></div>
+          </div>
+          <div id="detail-table" class="table-shell"></div>
+        </section>
+      </main>
+    </div>
+    <script src="./i18n.js"></script>
+    <script src="./context-back.js"></script>
+    <script type="module" src="./irrigation-records.js"></script>
+  </body>
+</html>
