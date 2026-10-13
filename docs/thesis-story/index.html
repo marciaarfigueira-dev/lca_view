@@ -1,0 +1,443 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="An interactive journey through five analytical lenses on Portuguese rice systems and the evidence pathway that leads to ANTAIA.">
+  <meta name="theme-color" content="#f3f5ef">
+  <title>ANTAIA | From Rice Records to Situated Intelligence</title>
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to the story</a>
+
+  <header class="chapter-rail" aria-label="Thesis chapters">
+    <a class="rail-brand" href="#prologue" aria-label="Return to the beginning">
+      <span class="brand-mark" aria-hidden="true">A</span>
+      <span>ANTAIA</span>
+    </a>
+    <nav class="rail-nav" aria-label="Story navigation">
+      <a href="#setting" data-nav="setting"><span>00</span> Setting</a>
+      <a href="#criteria" data-nav="criteria"><span>01</span> Criteria</a>
+      <a href="#climate" data-nav="climate"><span>02</span> Climate</a>
+      <a href="#records" data-nav="records"><span>03</span> Records</a>
+      <a href="#prototype" data-nav="prototype"><span>04</span> Interface</a>
+      <a href="#governance" data-nav="governance"><span>05</span> Governance</a>
+      <a href="#antaia" data-nav="antaia"><span>+</span> ANTAIA</a>
+    </nav>
+    <div class="rail-counter" aria-live="polite"><span id="chapter-current">00</span><span>/06</span></div>
+    <div class="reading-progress" aria-hidden="true"><span id="reading-progress-bar"></span></div>
+  </header>
+
+  <a id="journey-next" class="journey-next" href="#setting" aria-label="Continue to the rice setting">
+    <span class="journey-next-copy">
+      <small id="journey-next-kicker">Begin</small>
+      <strong id="journey-next-label">Rice setting</strong>
+    </span>
+    <span id="journey-next-arrow" class="journey-next-arrow" aria-hidden="true">↓</span>
+  </a>
+
+  <main id="main">
+    <section id="prologue" class="hero chapter-anchor journey-anchor" data-chapter="00" data-next-target="setting" data-next-kicker="Begin" data-next-label="Rice setting" aria-labelledby="hero-title">
+      <div class="hero-image" role="img" aria-label="Flooded rice fields in the Sorraia river delta, photographed by the author"></div>
+      <div class="hero-scrim" aria-hidden="true"></div>
+      <div class="hero-content">
+        <p class="eyebrow">A thesis in five analytical lenses</p>
+        <h1 id="hero-title">Portuguese rice systems</h1>
+        <p class="hero-deck">Climate, environmental burdens, farm records and digital governance are not separate stories. They are different views of the same system.</p>
+        <a class="hero-entry" href="#setting" aria-label="Continue to the rice-system setting">
+          <span>Begin with the field</span><span aria-hidden="true">↓</span>
+        </a>
+      </div>
+      <p class="hero-credit">Sorraia river delta, May 2025 · Photograph by the author</p>
+    </section>
+
+    <section id="setting" class="setting chapter-anchor journey-anchor" data-chapter="00" data-next-target="focal-question" data-next-kicker="Continue" data-next-label="Focal question" aria-labelledby="setting-title">
+      <nav class="journey-map" aria-label="Thesis journey">
+        <div class="journey-map-intro">
+          <p>Thesis journey</p>
+          <strong>One question through seven views</strong>
+        </div>
+        <ol>
+          <li><a href="#setting" data-route="setting"><span>00</span><strong>Rice setting</strong></a></li>
+          <li><a href="#criteria" data-route="criteria"><span>01</span><strong>Criteria</strong></a></li>
+          <li><a href="#climate" data-route="climate"><span>02</span><strong>Climate</strong></a></li>
+          <li><a href="#records" data-route="records"><span>03</span><strong>Farm records</strong></a></li>
+          <li><a href="#prototype" data-route="prototype"><span>04</span><strong>Interface</strong></a></li>
+          <li><a href="#governance" data-route="governance"><span>05</span><strong>Governance</strong></a></li>
+          <li><a href="#antaia" data-route="antaia"><span>+</span><strong>ANTAIA</strong></a></li>
+        </ol>
+      </nav>
+
+      <div class="section-intro wide-intro">
+        <p class="chapter-kicker">00 · The setting</p>
+        <h2 id="setting-title">A shared crop does not create a uniform system.</h2>
+        <p>Rice is concentrated in Portugal's low-lying Mondego, Tejo/Sorraia and Sado basins. Flooding, salinity, infrastructure, market organisation and management choices connect each field to conditions beyond the farm boundary.</p>
+      </div>
+
+      <div class="setting-grid">
+        <figure class="map-figure evidence-figure">
+          <img src="assets/image11.png" alt="Map of Portugal's rice-growing basins with regional climate and yield context" loading="lazy">
+          <figcaption>Spatial context, regional production shares, climate normals and national yield dynamics.</figcaption>
+          <button class="figure-open" type="button" data-image="assets/image11.png" data-alt="Full thesis figure showing Portuguese rice-growing basins, climate diagrams and long-term yield dynamics">Inspect figure</button>
+        </figure>
+        <div class="setting-copy">
+          <article>
+            <span class="index-number">01</span>
+            <h3>Three deltas</h3>
+            <p>The same crop is exposed to different climatic regimes, water systems, soils and salinity conditions. National averages compress those differences.</p>
+          </article>
+          <article>
+            <span class="index-number">02</span>
+            <h3>One empirical window</h3>
+            <p>The farm-record study follows 12 irrigated rice farms from one Sado cooperative across 2022–2024: a shared institutional setting, not a representative sample of Portuguese rice.</p>
+          </article>
+          <article>
+            <span class="index-number">03</span>
+            <h3>Many relations</h3>
+            <p>Yield, environmental burdens and adaptive options emerge through relations among farms, water, infrastructure, climate, markets, advisory systems and public policy.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="focal-question" class="thesis-question journey-anchor" data-next-target="criteria" data-next-kicker="First lens" data-next-label="Situated criteria" aria-labelledby="question-title">
+      <div class="question-image" role="img" aria-label="Flooded rice landscape with waterbirds"></div>
+      <div class="question-copy">
+        <p class="eyebrow">The focal point</p>
+        <h2 id="question-title">How can sustainability evidence remain comparable while retaining the context needed for interpretation and learning?</h2>
+        <p>Each chapter reduces the system differently. The question is not whether to simplify, but what each simplification preserves, what it leaves outside the frame and what action it makes reasonable.</p>
+      </div>
+    </section>
+
+    <section id="criteria" class="story-chapter chapter-anchor journey-anchor" data-chapter="01" data-next-target="climate" data-next-kicker="Next lens" data-next-label="Climate exposure" aria-labelledby="criteria-title">
+      <div class="chapter-heading">
+        <p class="chapter-kicker">01 · Situated criteria</p>
+        <h2 id="criteria-title">A threshold locates a result. It does not diagnose the system that produced it.</h2>
+      </div>
+
+      <div class="scroll-layout">
+        <div class="visual-stage" data-stage="criteria">
+          <div class="visual-panel is-active" data-panel="criteria-system">
+            <img class="framework-image" src="assets/image9.png" alt="Conceptual architecture of the Multi-Level Social-Ecological-Technical Systems framework" loading="lazy">
+            <button class="figure-open inverse" type="button" data-image="assets/image9.png" data-alt="Full ML-SETS conceptual architecture">Inspect framework</button>
+          </div>
+          <div class="visual-panel" data-panel="criteria-numbers">
+            <div class="metric-field dark-field">
+              <p>Proposed nitrogen criteria applied to the Sado sample</p>
+              <div class="metric-row"><strong>−19.0</strong><span>to</span><strong>135.1</strong><small>kg N ha⁻¹ partial mineral-N surplus</small></div>
+              <div class="metric-row"><strong>9.6%</strong><span>to</span><strong>124.0%</strong><small>nitrogen-use efficiency</small></div>
+              <div class="metric-split"><div><strong>11/34</strong><span>farmer-years met both thresholds</span></div><div><strong>2/12</strong><span>farms met both on a multi-year basis</span></div></div>
+            </div>
+          </div>
+          <div class="visual-panel" data-panel="criteria-capacity">
+            <div class="capacity-map" aria-label="Distributed capacity to respond">
+              <div class="capacity-centre">Criterion result</div>
+              <div class="capacity-node farmer">Farmer<br><small>timing · rate</small></div>
+              <div class="capacity-node adviser">Adviser<br><small>diagnosis · options</small></div>
+              <div class="capacity-node cooperative">Cooperative<br><small>coordination · access</small></div>
+              <div class="capacity-node infrastructure">Infrastructure<br><small>water · drainage</small></div>
+              <div class="capacity-node policy">Policy<br><small>rules · investment</small></div>
+              <span class="capacity-line line-1"></span><span class="capacity-line line-2"></span><span class="capacity-line line-3"></span><span class="capacity-line line-4"></span><span class="capacity-line line-5"></span>
+            </div>
+          </div>
+        </div>
+
+        <div class="story-steps">
+          <article class="story-step is-active" data-stage-target="criteria" data-panel-target="criteria-system">
+            <p class="step-label">The analytical move</p>
+            <h3>From classification to diagnosis</h3>
+            <p>ML-SETS connects the resource, actor and governance relations of a situated farming system with wider technological, institutional and market dynamics.</p>
+            <button class="evidence-note" type="button" data-title="What ML-SETS changes" data-body="The framework does not weaken a common environmental objective. It asks where the capacity to respond resides: within farm management, advisory support, collective infrastructure, market organisation or public policy.">Evidence note</button>
+          </article>
+          <article class="story-step" data-stage-target="criteria" data-panel-target="criteria-numbers">
+            <p class="step-label">The empirical test</p>
+            <h3>The same indicator moves with both input and output.</h3>
+            <p>Nitrogen surplus and nitrogen-use efficiency changed sharply across farmer-years. Because harvested output enters both calculations, apparent improvement could arise through greater yield even without a proportional reduction in fertiliser input.</p>
+          </article>
+          <article class="story-step" data-stage-target="criteria" data-panel-target="criteria-capacity">
+            <p class="step-label">The finding</p>
+            <h3>Distance from a threshold does not identify the correct intervention.</h3>
+            <p>A weak value may reflect fertiliser management, but also water availability, salinity, crop establishment, pest pressure or shared infrastructure. The relevant lever may sit at several levels at once.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="climate" class="story-chapter climate-chapter chapter-anchor journey-anchor" data-chapter="02" data-next-target="records" data-next-kicker="Next lens" data-next-label="Farm-record evidence" aria-labelledby="climate-title">
+      <div class="chapter-heading">
+        <p class="chapter-kicker">02 · Climate exposure</p>
+        <h2 id="climate-title">A signal becomes visible only at the resolution where crop exposure acquires meaning.</h2>
+      </div>
+
+      <div class="scroll-layout reverse-layout">
+        <div class="visual-stage" data-stage="climate">
+          <div class="visual-panel is-active" data-panel="climate-aggregate">
+            <div class="resolution-stack">
+              <div class="resolution-row muted"><span>Annual</span><div class="blocks one"><i></i></div><b>Too broad</b></div>
+              <div class="resolution-row muted"><span>Seasonal</span><div class="blocks two"><i></i><i></i></div><b>Weak signal</b></div>
+              <div class="resolution-row active"><span>Monthly</span><div class="blocks six"><i></i><i></i><i></i><i></i><i></i><i></i></div><b>Late summer emerges</b></div>
+              <div class="resolution-row active"><span>Phenology</span><div class="phenology-line"><i>est.</i><i>veg.</i><i>head.</i><i>grain</i></div><b>Exposure gains meaning</b></div>
+              <div class="resolution-row active"><span>Territory</span><div class="basin-dots"><i>M</i><i>T</i><i>S</i></div><b>Responses diverge</b></div>
+            </div>
+          </div>
+          <div class="visual-panel" data-panel="climate-window">
+            <img class="data-figure" src="assets/image17.png" alt="Monthly North Atlantic Oscillation and rice-yield relationships at national and regional scales" loading="lazy">
+            <button class="figure-open" type="button" data-image="assets/image17.png" data-alt="Monthly NAO and rice-yield relationships at national and regional scales">Inspect analysis</button>
+          </div>
+          <div class="visual-panel" data-panel="climate-response">
+            <div class="response-chain">
+              <div><span>Observed</span><strong>Late-summer atmospheric signal</strong></div>
+              <i aria-hidden="true">→</i>
+              <div><span>Crop relation</span><strong>Heading and grain filling</strong></div>
+              <i aria-hidden="true">→</i>
+              <div class="outlined"><span>Still required</span><strong>Feasible adaptation capacity</strong></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="story-steps">
+          <article class="story-step is-active" data-stage-target="climate" data-panel-target="climate-aggregate">
+            <p class="step-label">1961–2024</p>
+            <h3>Aggregation changed what could be seen.</h3>
+            <p>Seasonal North Atlantic Oscillation relationships were generally weak. More temporally resolved analyses revealed concentrated late-summer associations that broad summaries obscured.</p>
+          </article>
+          <article class="story-step" data-stage-target="climate" data-panel-target="climate-window">
+            <p class="step-label">A qualified result</p>
+            <h3>Signals varied by month, intensity and basin.</h3>
+            <p>The evidence did not support a single national climate rule. Basin-scale climate–yield correlations were mostly weak or non-significant, reinforcing the need to retain uncertainty and spatial heterogeneity.</p>
+            <button class="evidence-note" type="button" data-title="Interpretation boundary" data-body="The climate chapter identifies historical associations, not a causal forecast for an individual farm-year. Field-level phenology, irrigation, salinity, soils and management were not resolved consistently enough to make that claim.">Evidence note</button>
+          </article>
+          <article class="story-step" data-stage-target="climate" data-panel-target="climate-response">
+            <p class="step-label">The finding</p>
+            <h3>Precision is useful only when a response is possible.</h3>
+            <p>Moving sowing dates or cultivars may shift sensitive stages away from stress, but only where water systems, machinery, coordination and varietal choices leave room to act. Exposure resolution must be matched by response resolution.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="records" class="story-chapter records-chapter chapter-anchor journey-anchor" data-chapter="03" data-next-target="prototype" data-next-kicker="Next lens" data-next-label="Interpretive interface" aria-labelledby="records-title">
+      <div class="chapter-heading">
+        <p class="chapter-kicker">03 · Farm-record evidence</p>
+        <h2 id="records-title">Mandatory records can support environmental assessment, but they do not observe the whole field.</h2>
+      </div>
+
+      <div class="sample-strip" aria-label="Study sample">
+        <div><strong>12</strong><span>farms</span></div>
+        <div><strong>34</strong><span>farmer-years</span></div>
+        <div><strong>3</strong><span>production seasons</span></div>
+        <div><strong>1</strong><span>producer cooperative</span></div>
+      </div>
+
+      <div class="scroll-layout">
+        <div class="visual-stage" data-stage="records">
+          <div class="visual-panel is-active" data-panel="records-form">
+            <img class="notebook-image" src="assets/image23.png" alt="Translated crop-protection and fertilisation pages from the farm notebook" loading="lazy">
+            <button class="figure-open" type="button" data-image="assets/image23.png" data-alt="Translated farm-notebook crop-protection and fertilisation templates">Inspect notebook</button>
+          </div>
+          <div class="visual-panel" data-panel="records-ledger">
+            <div class="evidence-ledger">
+              <div class="ledger-row"><span class="status direct">Recorded</span><strong>Dates · products · areas · operations</strong><small>Management activity</small></div>
+              <div class="ledger-row"><span class="status reconstructed">Reconstructed</span><strong>Active ingredients · N · P₂O₅ · K₂O</strong><small>Technical linkage</small></div>
+              <div class="ledger-row"><span class="status proxy">Proxy</span><strong>Treatment targets · operation timing</strong><small>Context, not biological pressure</small></div>
+              <div class="ledger-row"><span class="status unresolved">Unresolved</span><strong>Water delivery · pest abundance · field losses</strong><small>No farmer-year indicator</small></div>
+            </div>
+          </div>
+          <div class="visual-panel" data-panel="records-units">
+            <div class="functional-units">
+              <div class="unit-block land"><span>Land basis</span><strong>per hectare</strong><p>Pressure associated with the cultivated area.</p></div>
+              <div class="unit-divider"><span>same inventory</span><b>÷ yield</b></div>
+              <div class="unit-block output"><span>Output basis</span><strong>per tonne</strong><p>Burden relative to realised rice production.</p></div>
+            </div>
+          </div>
+          <div class="visual-panel" data-panel="records-profile">
+            <img class="data-figure" src="assets/image26.png" alt="Farmer-year midpoint life-cycle impacts per tonne of paddy rice" loading="lazy">
+            <button class="figure-open" type="button" data-image="assets/image26.png" data-alt="Farmer-year midpoint LCA impacts per tonne of paddy rice">Inspect impact profiles</button>
+          </div>
+        </div>
+
+        <div class="story-steps">
+          <article class="story-step is-active" data-stage-target="records" data-panel-target="records-form">
+            <p class="step-label">Reuse before new reporting</p>
+            <h3>The notebooks already contain an operational history.</h3>
+            <p>Crop protection, fertilisation, sowing, machinery operations and cultivated area could be reorganised into farmer-year inventories. Yield had to be linked from cooperative records because notebook harvest fields were inconsistently completed.</p>
+          </article>
+          <article class="story-step" data-stage-target="records" data-panel-target="records-ledger">
+            <p class="step-label">Evidence status</p>
+            <h3>Available data and environmental meaning were not the same thing.</h3>
+            <p>Applications document intervention intensity. They do not establish pest abundance, treatment necessity or effectiveness. Fertiliser inputs do not establish crop uptake, surplus or measured field losses.</p>
+            <button class="evidence-note" type="button" data-title="Why 'cannot determine' matters" data-body="An absent observation is not evidence of environmental failure or compliance. Treating unresolved conditions as known would convert a reporting gap into a misleading conclusion.">Evidence note</button>
+          </article>
+          <article class="story-step" data-stage-target="records" data-panel-target="records-units">
+            <p class="step-label">The functional-unit contrast</p>
+            <h3>Yield changed; measured input intensities did not show clear year effects.</h3>
+            <p>Median yield rose from 4.20 t ha⁻¹ in 2022 to 6.61 t ha⁻¹ in 2024. Climate-change impact was nearly unchanged per hectare, yet fell by 26.5% per tonne in 2023 and 26.8% in 2024 relative to 2022.</p>
+          </article>
+          <article class="story-step" data-stage-target="records" data-panel-target="records-profile">
+            <p class="step-label">The finding</p>
+            <h3>Environmental performance was a profile, not a ranking.</h3>
+            <p>Methane, fertilisation, machinery, crop protection and seed production dominated different impact categories. A farmer-year positioned favourably in one domain did not necessarily do so in another.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="prototype" class="story-chapter prototype-chapter chapter-anchor journey-anchor" data-chapter="04" data-next-target="governance" data-next-kicker="Next lens" data-next-label="Digital governance" aria-labelledby="prototype-title">
+      <div class="chapter-heading">
+        <p class="chapter-kicker">04 · Interface for interpretation</p>
+        <h2 id="prototype-title">The distinctions became part of the interface.</h2>
+        <p>The prototype connects source records, reconstructed inventories, LCA results, benchmarks and contextual layers without collapsing them into a composite score.</p>
+      </div>
+
+      <div class="prototype-layout">
+        <figure class="prototype-map evidence-figure">
+          <img src="assets/image31.png" alt="Navigation structure of the thesis web-tool prototype" loading="lazy">
+          <figcaption>The prototype separates architecture, farm-record backstage and comparative interpretation.</figcaption>
+          <button class="figure-open" type="button" data-image="assets/image31.png" data-alt="Full English navigation structure of the web-tool prototype">Inspect structure</button>
+        </figure>
+        <div class="prototype-principles">
+          <article><span>01</span><h3>Trace backwards</h3><p>Move from an impact or benchmark to the contributing input, mapped process and original record domain.</p></article>
+          <article><span>02</span><h3>Change the basis</h3><p>Compare per-hectare and per-tonne results without mistaking productivity-mediated change for lower land pressure.</p></article>
+          <article><span>03</span><h3>Keep methods reachable</h3><p>Assumptions and interpretation boundaries remain adjacent to the analytical output.</p></article>
+          <article><span>04</span><h3>Expose missing evidence</h3><p>The interface identifies what additional information would be required for a stronger interpretation.</p></article>
+          <a class="prototype-link" href="https://marciaarfigueira-dev.github.io/lca_view/docs/choose-lens.html" target="_blank" rel="noreferrer">Open the research prototype <span aria-hidden="true">↗</span></a>
+        </div>
+      </div>
+    </section>
+
+    <section id="governance" class="governance-chapter chapter-anchor journey-anchor" data-chapter="05" data-next-target="antaia" data-next-kicker="Converging pathway" data-next-label="ANTAIA" aria-labelledby="governance-title">
+      <div class="chapter-heading light-heading">
+        <p class="chapter-kicker">05 · Digital governance</p>
+        <h2 id="governance-title">What happens when a partial representation acquires authority?</h2>
+        <p>More data can make agriculture more visible while hiding the interpretive work on which that visibility depends.</p>
+      </div>
+
+      <div class="governance-sequence">
+        <article>
+          <p class="concept-number">I</p>
+          <h3>Digital mētis</h3>
+          <p>The capacity to read digital signals through field experience and to question, recalibrate or reject a recommendation when data and material conditions diverge.</p>
+        </article>
+        <article>
+          <p class="concept-number">II</p>
+          <h3>The digital interval</h3>
+          <p>A protected institutional space between representation and consequential decision, where evidence remains open to review, explanation and contestation.</p>
+        </article>
+        <article>
+          <p class="concept-number">III</p>
+          <h3>Sovereign digital commons</h3>
+          <p>Collective arrangements through which farmers and territorial actors govern access, aggregation, interpretation, reuse and the value generated from agricultural data.</p>
+        </article>
+      </div>
+
+      <blockquote>
+        <p>Digitalisation should create room for contextual interpretation, deliberation and collective learning—not remove it.</p>
+      </blockquote>
+    </section>
+
+    <section id="antaia" class="antaia-chapter chapter-anchor journey-anchor" data-chapter="06" data-next-target="thesis-proposition" data-next-kicker="Conclude" data-next-label="Thesis proposition" aria-labelledby="antaia-title">
+      <div class="antaia-masthead">
+        <p class="chapter-kicker">The converging pathway</p>
+        <h2 id="antaia-title">ANTAIA</h2>
+        <p>From farm records to integrated intelligence for sustainable agricultural competitiveness.</p>
+      </div>
+
+      <div class="antaia-chain" aria-label="ANTAIA evidence pathway">
+        <div class="chain-node"><span>01</span><strong>Existing records</strong><small>Operations · accounts · production</small></div>
+        <i aria-hidden="true">→</i>
+        <div class="chain-node"><span>02</span><strong>Evidence ledger</strong><small>Recorded · reconstructed · proxy · unresolved</small></div>
+        <i aria-hidden="true">→</i>
+        <div class="chain-node"><span>03</span><strong>Integrated analysis</strong><small>Environmental · economic · efficiency · resilience</small></div>
+        <i aria-hidden="true">→</i>
+        <div class="chain-node"><span>04</span><strong>Shared interpretation</strong><small>Farm · organisation · bioregion · policy</small></div>
+      </div>
+
+      <div class="scale-explorer">
+        <div class="scale-copy">
+          <p class="eyebrow">One infrastructure · different questions</p>
+          <h3 id="scale-title">What becomes visible at each scale?</h3>
+          <div class="segmented-control" role="tablist" aria-label="ANTAIA analytical scale">
+            <button type="button" role="tab" aria-selected="true" data-scale="farm">Farm</button>
+            <button type="button" role="tab" aria-selected="false" data-scale="collective">Producer organisation</button>
+            <button type="button" role="tab" aria-selected="false" data-scale="bioregion">Bioregion</button>
+          </div>
+          <div id="scale-content" class="scale-content" aria-live="polite"></div>
+        </div>
+        <div class="scale-visual" aria-hidden="true">
+          <div class="scale-ring ring-farm"><span>Farm</span></div>
+          <div class="scale-ring ring-collective"><span>Collective</span></div>
+          <div class="scale-ring ring-bioregion"><span>Bioregion</span></div>
+          <div class="scale-signal signal-a"></div><div class="scale-signal signal-b"></div><div class="scale-signal signal-c"></div>
+        </div>
+      </div>
+
+      <div class="proxy-lab" aria-labelledby="proxy-title">
+        <div class="proxy-heading">
+          <p class="eyebrow">Future capability · evidence before inference</p>
+          <h3 id="proxy-title">From crop-protection logs to a validated pest-pressure layer</h3>
+          <p>Treatment records alone reveal intervention patterns. Additional biological and environmental evidence is required before those patterns can represent pest or disease pressure.</p>
+        </div>
+        <div class="proxy-toggle" role="tablist" aria-label="Pest-pressure evidence state">
+          <button type="button" role="tab" aria-selected="true" data-proxy="records">Records alone</button>
+          <button type="button" role="tab" aria-selected="false" data-proxy="linked">Linked and validated</button>
+        </div>
+        <div class="proxy-canvas" data-proxy-state="records">
+          <div class="proxy-source records-source">
+            <span>Farm notebook</span>
+            <strong>Date · target · product · treated area</strong>
+          </div>
+          <div class="proxy-plus weather-source"><span>Weather</span></div>
+          <div class="proxy-plus phenology-source"><span>Phenology</span></div>
+          <div class="proxy-plus monitoring-source"><span>Scouting &amp; traps</span></div>
+          <div class="proxy-plus earth-source"><span>Earth observation</span></div>
+          <div class="proxy-output">
+            <span id="proxy-status">Directly supportable</span>
+            <strong id="proxy-output-title">Intervention intensity</strong>
+            <p id="proxy-output-copy">Comparable treatment activity, not observed biological pressure.</p>
+          </div>
+          <div class="proxy-path path-one"></div><div class="proxy-path path-two"></div><div class="proxy-path path-three"></div><div class="proxy-path path-four"></div>
+        </div>
+      </div>
+
+      <div class="future-band">
+        <p class="eyebrow">The next research programme</p>
+        <div class="future-columns">
+          <article><h3>Validate</h3><p>Longer panels, direct field monitoring, organic and conventional systems, and contrasting European regions.</p></article>
+          <article><h3>Interoperate</h3><p>CAP records, farm-management systems, accounting, climate, spatial and value-chain information with traceable provenance.</p></article>
+          <article><h3>Govern</h3><p>Farmer-controlled access, collective interpretation, contestability and negotiated rules for aggregation and reuse.</p></article>
+          <article><h3>Return value</h3><p>Confidential farm feedback, collective diagnostics, bioregional monitoring and policy learning before categorical use.</p></article>
+        </div>
+      </div>
+    </section>
+
+    <section id="thesis-proposition" class="closing journey-anchor" data-next-target="prologue" data-next-kicker="Return" data-next-label="Beginning" data-next-direction="up" aria-labelledby="closing-title">
+      <img src="assets/image32.png" alt="Synthesis of the thesis through five analytical lenses" loading="lazy">
+      <div class="closing-copy">
+        <p class="eyebrow">The thesis-wide proposition</p>
+        <h2 id="closing-title">Use sustainability evidence diagnostically before using it categorically.</h2>
+        <p>Comparison can open inquiry. It should not close interpretation before the relevant relations, uncertainties and capacities to respond have been examined.</p>
+        <button class="figure-open inverse" type="button" data-image="assets/image32.png" data-alt="Full synthesis of the thesis through the Kaleidoscopic Approach">Inspect synthesis</button>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Doctoral research by Márcia Figueira · Instituto Superior de Agronomia, Universidade de Lisboa</p>
+    <p>Figures and field photographs by the author unless otherwise indicated in the thesis.</p>
+  </footer>
+
+  <dialog id="evidence-dialog" class="modal">
+    <button class="modal-close" type="button" aria-label="Close">×</button>
+    <p class="eyebrow">Interpretation boundary</p>
+    <h2 id="evidence-dialog-title"></h2>
+    <p id="evidence-dialog-body"></p>
+  </dialog>
+
+  <dialog id="figure-dialog" class="figure-modal">
+    <button class="modal-close" type="button" aria-label="Close">×</button>
+    <img id="figure-dialog-image" alt="">
+  </dialog>
+</body>
+</html>
